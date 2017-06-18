@@ -1,0 +1,19 @@
+@import 'global.module';
+
+.container {
+  padding: 4em 0;
+}
+
+.logo {
+  margin: 0 auto;
+  text-align: center;
+
+  @include from(4) {
+    width: 200px;
+  }
+
+  svg {
+    width: 100%;
+    height: 100%;
+  }
+}

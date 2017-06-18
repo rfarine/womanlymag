@@ -1,22 +1,22 @@
-import ReactDOM from 'react-dom/server'
-import React from 'react'
-import Typography from 'typography'
-import { GoogleFont } from 'react-typography'
-import CodePlugin from 'typography-plugin-code'
+import ReactDOMServer from 'react-dom/server';
+import React from 'react';
+import Typography from 'typography';
+import { GoogleFont } from 'react-typography';
+import CodePlugin from 'typography-plugin-code';
 
 const options = {
   googleFonts: [
     {
-      name: 'Roboto',
+      name: 'Lato',
       styles: [
         '400',
-        '400i',        
-        '700'
+        '400i',
+        '700',
       ]
     }
   ],
-  headerFontFamily: ['Roboto', 'sans-serif'],
-  bodyFontFamily: ['Roboto', 'sans-serif'],
+  headerFontFamily: ['Lato', 'sans-serif'],
+  bodyFontFamily: ['Lato', 'sans-serif'],
   baseFontSize: '18px',
   baseLineHeight: 1.65,
   scale: 2.25,
@@ -25,18 +25,20 @@ const options = {
   ],
 }
 
-const typography = new Typography(options)
+const typography = new Typography(options);
 
 // Hot reload typography in development.
 if (process.env.NODE_ENV !== 'production') {
-  typography.injectStyles()
+  typography.injectStyles();
+
   if (typeof document !== 'undefined') {
-    const googleFonts = ReactDOM.renderToStaticMarkup(
-      React.createFactory(GoogleFont)({ typography })
-    )
-    const head = document.getElementsByTagName('head')[0]
-    head.insertAdjacentHTML('beforeend', googleFonts)
+    const googleFonts = ReactDOMServer.renderToStaticMarkup(
+      <GoogleFont typography={typography} />
+    );
+    const head = document.getElementsByTagName('head')[0];
+
+    head.insertAdjacentHTML('beforeend', googleFonts);
   }
 }
 
-export default typography
+export default typography;
