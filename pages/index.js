@@ -21,13 +21,15 @@ const Index = () => {
             'content': 'women, woman, health, art, global, non-binary, magazine',
           },
         ]}
-      />
+      >
+        <script src="https://use.fontawesome.com/ee09daa2a2.js"></script>
+      </Helmet>
       <div className={style.container}>
         <div className={style.logo}>
           <SVG src="images/logo.svg" />
         </div>
         <div className={style.intro}>
-          <p>Art & Health on the Global Woman and Non-Binary</p>
+          <p><strong>Art & Health on the Global Woman and Non-Binary</strong></p>
           <p>Issue No.1 Out Fall 2017</p>
         </div>
         <form
@@ -61,6 +63,29 @@ const Index = () => {
             id='mc-embedded-subscribe'
           />
         </form>
+
+        <ul className={style.social}>
+          <li>
+            <a href='https://www.facebook.com/womanlymag' target='_blank'>
+              <i className="fa fa-facebook icon" aria-hidden="true"></i>
+            </a>
+          </li>
+          <li>
+            <a href='https://twitter.com/womanlymag' target='_blank'>
+              <i className="fa fa-twitter icon" aria-hidden="true"></i>
+            </a>
+          </li>
+          <li>
+            <a href='https://www.instagram.com/womanlymag/' target='_blank'>
+              <i className="fa fa-instagram icon" aria-hidden="true"></i>
+            </a>
+          </li>
+          <li>
+            <a href='mailto:womanlymag@gmail.com' target='_blank'>
+              <i className="fa fa-envelope-o icon" aria-hidden="true"></i>
+            </a>
+          </li>
+        </ul>
       </div>
     </div>
   );
