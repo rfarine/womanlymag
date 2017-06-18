@@ -26,6 +26,41 @@ const Index = () => {
         <div className={style.logo}>
           <SVG src="images/logo.svg" />
         </div>
+        <div className={style.intro}>
+          <p>Art & Health on the Global Woman and Non-Binary</p>
+          <p>Issue No.1 Out Fall 2017</p>
+        </div>
+        <form
+          action='//twitter.us15.list-manage.com/subscribe/post?u=8f848089b50e1ba3b7a3c400f&amp;id=3fe0717806'
+          method='post'
+          id='mc-embedded-subscribe-form'
+          name='mc-embedded-subscribe-form'
+          target='_blank'
+        >
+          <input
+            id='mce-EMAIL'
+            type='text'
+            name='EMAIL'
+            placeholder='Email Address'
+            required
+          />
+          <div
+            style={{ position: 'absolute', left: '-5000px' }}
+            aria-hidden='true'
+          >
+            <input
+              type='text'
+              name='b_8f848089b50e1ba3b7a3c400f_3fe0717806'
+              tabIndex='-1'
+              value=''
+            />
+          </div>
+          <input
+            type='submit'
+            name='subscribe'
+            id='mc-embedded-subscribe'
+          />
+        </form>
       </div>
     </div>
   );
