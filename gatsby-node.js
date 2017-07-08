@@ -2,15 +2,7 @@ const Promise = require('bluebird');
 const path = require('path');
 const webpackLodashPlugin = require('lodash-webpack-plugin');
 
-const {
-  componentsPath,
-  imagesPath,
-  nodeModulePath,
-  pagesPath,
-  stylesPath,
-  templatesPath,
-  utilsPath,
-} = require('./config/paths');
+const { templatesPath } = require('./config/paths');
 
 require('dotenv-safe').load();
 
@@ -89,32 +81,6 @@ exports.modifyWebpackConfig = ({ config, stage }) => {
   switch (stage) {
     case `build-javascript`:
       config.plugin(`Lodash`, webpackLodashPlugin, null);
-
-      config.loader('svg',
-        {
-          test: /\.(svg)(\?v=[0-9]\.[0-9]\.[0-9])?$/,
-          loader: 'file-loader',
-        }
-      );
-
-      config.resolve({
-        modules: [
-          'node_modules',
-          componentsPath,
-          imagesPath,
-          pagesPath,
-          stylesPath,
-          utilsPath,
-        ],
-
-        alias: {
-          components: componentsPath,
-          images: imagesPath,
-          pages: pagesPath,
-          styles: stylesPath,
-          utils: utilsPath,
-        },
-      });
 
       break
   }

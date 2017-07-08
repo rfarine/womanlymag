@@ -1,8 +1,8 @@
 import React, { PropTypes } from 'react';
 import { Container } from 'react-responsive-grid';
-import { rhythm } from 'utils/typography';
+import { rhythm } from '../utils/typography';
 
-const Template = () => {
+const Template = ({ children }) => {
   return (
     <div>
       <Container
@@ -12,7 +12,7 @@ const Template = () => {
           paddingTop: 0,
         }}
       >
-        {this.props.children()}
+        {children()}
       </Container>
     </div>
   )

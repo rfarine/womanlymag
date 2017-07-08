@@ -1,9 +1,8 @@
 import React from 'react';
 import Helmet from 'react-helmet';
-import { config } from 'config';
 
 // Components
-import Thumbnail from 'components/thumbnail/thumbnail';
+import Thumbnail from '../../components/thumbnail/thumbnail';
 
 // Style
 import style from './issue.module.scss';
@@ -14,7 +13,7 @@ const Issue = ({ data }) => {
   return (
     <div>
       <Helmet
-        title={`${issue.title} | ${config.siteTitle}`}
+        title={`${issue.title} | Womanly Mag | Art & Health on the Global Woman and Non-Binary`}
       />
 
       <h1>Issue #{issue.number} {issue.title}</h1>

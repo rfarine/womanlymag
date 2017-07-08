@@ -1,16 +1,13 @@
 import React from 'react';
-import { Link } from 'react-router';
-import { prefixLink } from 'gatsby-helpers';
 import Helmet from 'react-helmet';
 import SVG from 'react-inlinesvg';
-import { config } from 'config';
-import style from 'css/index.module.scss';
+import style from '../css/index.module.scss';
 
 const Index = () => {
   return (
     <div>
       <Helmet
-        title={config.siteTitle}
+        title="Womanly Mag | Art & Health on the Global Woman and Non-Binary"
         meta={[
           {
             'name': 'description',
@@ -26,7 +23,7 @@ const Index = () => {
       </Helmet>
       <div className={style.container}>
         <div className={style.logo}>
-          <SVG src="images/logo.svg" />
+          <SVG src="logo.svg" />
         </div>
         <div className={style.intro}>
           <p><strong>Art & Health on the Global Woman and Non-Binary</strong></p>
