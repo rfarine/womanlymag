@@ -1,15 +1,31 @@
 const { resolve, join } = require('path');
 
-export const cwd = process.cwd();
+const cwd = process.cwd();
 
-export const configPath = resolve(join(cwd, 'config'));
+const componentsPath = resolve(join(cwd, 'components'));
 
-export const imagesPath = resolve(join(cwd, 'images'));
+const configPath = resolve(join(cwd, 'config'));
 
-export const nodeModulesDir = resolve(join(cwd, 'node_modules'));
+const imagesPath = resolve(join(cwd, 'images'));
 
-export const pagesPath = resolve(join(cwd, 'pages'));
+const nodeModulesDir = resolve(join(cwd, 'node_modules'));
 
-export const stylesPath = resolve(join(cwd, 'styles'));
+const pagesPath = resolve(join(cwd, 'pages'));
 
-export const utilsPath = resolve(join(cwd, 'utils'));
+const stylesPath = resolve(join(cwd, 'styles'));
+
+const templatesPath = resolve(join(cwd, 'templates'));
+
+const utilsPath = resolve(join(cwd, 'utils'));
+
+module.exports = {
+  cwd,
+  componentsPath,
+  configPath,
+  imagesPath,
+  nodeModulesDir,
+  pagesPath,
+  stylesPath,
+  templatesPath,
+  utilsPath,
+};
