@@ -5,7 +5,7 @@ module.exports = (dato, root, i18n) => {
       publishedDir.createPost(
         `${issue.number}.md`, 'yaml', {
           frontmatter: {
-            path: `issues/${issue.number}.jsx`,
+            path: `issues/${issue.number}`,
             number: issue.number,
             title: issue.title,
             featured: issue.featured,
