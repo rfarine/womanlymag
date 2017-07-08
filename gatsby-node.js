@@ -20,45 +20,43 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
   return new Promise((resolve, reject) => {
     const issueTemplate = resolve(join(templatesPath, 'issue/issue.jsx'));
 
-    graphql(
-      `
-      {
-        allMarkdownRemark {
-          edges {
-            node {
-              frontmatter {
-                number
-                title
-                featured
+    // Query for markdown nodes to use in creating pages.
+    resolve(
+      graphql(
+        `
+          {
+            allMarkdownRemark(limit: 1000) {
+              edges {
+                node {
+                  frontmatter {
+                    path
+                  }
+                }
               }
             }
           }
+        `
+      ).then(result => {
+        if (result.errors) {
+          reject(result.errors)
         }
-      }
-    `
-    ).then(result => {
-      if (result.errors) {
-        console.log(result.errors)
-      }
 
-      // Create issue pages
-      result.data.allMarkdownRemark.edges.forEach(edge => {
-
-        console.log('edge is:', edge)
-        console.log('edge.node is:', edge.node)
-        createPage({
-          path: edge.node.frontmatter.number, // required
-          component: issueTemplate,
-          context: {
-            number: edge.node.frontMatter.number,
-            title: edge.node.frontMatter.title,
-            featured: edge.node.frontMatter.featured,
-          },
-        });
-      });
-
-      resolve();
-    });
+        // Create pages for each markdown file.
+        result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+          console.log('node......', node)
+          console.log('node.frontmatter.path', node.frontmatter.path)
+          createPage({
+            path: node.frontmatter.path,
+            component: issueTemplate,
+            // In your issue template's graphql query, you can use path
+            // as a GraphQL variable to query for data from the markdown file.
+            context: {
+              path: node.frontmatter.path,
+            }
+          })
+        })
+      })
+    )
   });
 }
 
