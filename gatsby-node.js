@@ -1,5 +1,5 @@
 const Promise = require('bluebird');
-const { resolve, join } = require('path');
+const path = require('path');
 const webpackLodashPlugin = require('lodash-webpack-plugin');
 
 const {
@@ -18,7 +18,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
   const { createPage } = boundActionCreators;
 
   return new Promise((resolve, reject) => {
-    const issueTemplate = resolve(join(templatesPath, 'issue/issue.jsx'));
+    const issueTemplate = path.resolve(path.join(templatesPath, 'issue/issue.jsx'));
 
     // Query for markdown nodes to use in creating pages.
     resolve(
@@ -30,6 +30,9 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
                 node {
                   frontmatter {
                     path
+                    number
+                    title
+                    featured
                   }
                 }
               }
@@ -43,8 +46,6 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
 
         // Create pages for each markdown file.
         result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-          console.log('node......', node)
-          console.log('node.frontmatter.path', node.frontmatter.path)
           createPage({
             path: node.frontmatter.path,
             component: issueTemplate,
@@ -52,6 +53,10 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
             // as a GraphQL variable to query for data from the markdown file.
             context: {
               path: node.frontmatter.path,
+              number: node.frontmatter.number,
+              title: node.frontmatter.title,
+              featured: node.frontmatter.featured,
+              articles: node.frontmatter.articles,
             }
           })
         })
@@ -60,54 +65,59 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
   });
 }
 
-// // Add custom url pathname for issues
-// exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
-//   const { createNodeField } = boundActionCreators;
+// Add custom url pathname for issues
+exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
+  const { createNodeField } = boundActionCreators;
+  let slug;
+  if (node.internal.type === `MarkdownRemark`) {
+    const fileNode = getNode(node.parent)
+    const parsedFilePath = path.parse(fileNode.relativePath)
+    if (parsedFilePath.name !== `index` && parsedFilePath.dir !== ``) {
+      slug = `/${parsedFilePath.dir}/${parsedFilePath.name}/`
+    } else if (parsedFilePath.dir === ``) {
+      slug = `/${parsedFilePath.name}/`
+    } else {
+      slug = `/${parsedFilePath.dir}/`
+    }
 
-//   if (node.internal.type === `File`) {
-//     const parsedFilePath = path.parse(node.absolutePath);
-//     const slug = `/${parsedFilePath.dir.split(`---`)[1]}/`;
-
-//     createNodeField({ node, name: `slug`, value: slug });
-//   } else if (
-//     node.internal.type === `MarkdownRemark` &&
-//     typeof node.slug === `undefined`
-//   ) {
-//     const fileNode = getNode(node.parent);
-
-//     createNodeField({
-//       node,
-//       name: `slug`,
-//       value: fileNode.fields.slug,
-//     });
-//   }
-// }
+    // Add slug as a field on the node.
+    createNodeField({ node, name: `slug`, value: slug })
+  }
+}
 
 exports.modifyWebpackConfig = ({ config, stage }) => {
   switch (stage) {
     case `build-javascript`:
-      config.plugin(`Lodash`, webpackLodashPlugin, null)
+      config.plugin(`Lodash`, webpackLodashPlugin, null);
+
+      config.loader('svg',
+        {
+          test: /\.(svg)(\?v=[0-9]\.[0-9]\.[0-9])?$/,
+          loader: 'file-loader',
+        }
+      );
+
+      config.resolve({
+        modules: [
+          'node_modules',
+          componentsPath,
+          imagesPath,
+          pagesPath,
+          stylesPath,
+          utilsPath,
+        ],
+
+        alias: {
+          components: componentsPath,
+          images: imagesPath,
+          pages: pagesPath,
+          styles: stylesPath,
+          utils: utilsPath,
+        },
+      });
 
       break
   }
-
-  config.loader('svg',
-    {
-      test: /\.(svg)(\?v=[0-9]\.[0-9]\.[0-9])?$/,
-      loader: 'file-loader',
-    }
-  );
-
-  config.merge({
-    resolve: [
-      componentsPath,
-      imagesPath,
-      nodeModulePath,
-      pagesPath,
-      stylesPath,
-      utilsPath,
-    ],
-  });
 
   return config;
 }

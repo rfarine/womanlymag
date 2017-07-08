@@ -43,13 +43,16 @@ const Issue = ({ data }) => {
 export default Issue;
 
 export const pageQuery = graphql`
-  query IssueByNumber($number: String!) {
-    markdownRemark(fields: { number: { eq: $number } }) {
+  query IssueByNumber($number: Int!) {
+    markdownRemark(frontmatter: { number: { eq: $number } }) {
       frontmatter {
         number
         title
         featured
-        articles
+        articles {
+          id
+          text
+        }
       }
     }
   }
