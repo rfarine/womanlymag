@@ -6,6 +6,8 @@ const {
   utilsPath,
 } = require('config/paths');
 
+require('dotenv-safe').load();
+
 exports.modifyWebpackConfig = function(config, stage) {
   config.loader('svg',
     {
