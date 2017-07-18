@@ -2,7 +2,7 @@ const Promise = require('bluebird');
 const path = require('path');
 const webpackLodashPlugin = require('lodash-webpack-plugin');
 const pageCreator = require('./config/pageCreator');
-
+const pages = require('./config/pages');
 
 require('dotenv-safe').load();
 
@@ -10,25 +10,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
   return pageCreator(
     graphql,
     boundActionCreators,
-    {
-      query: `
-        {
-          allMarkdownRemark(limit: 1000) {
-            edges {
-              node {
-                frontmatter {
-                  path
-                  number
-                  title
-                  featured
-                }
-              }
-            }
-          }
-        }
-      `,
-      type: 'issue',
-    }
+    pages
   );
 }
 
