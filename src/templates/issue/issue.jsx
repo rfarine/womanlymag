@@ -1,5 +1,6 @@
 import React from 'react';
 import Helmet from 'react-helmet';
+import config from '../../../gatsby-config.js';
 
 // Components
 import Thumbnail from '../../components/thumbnail/thumbnail';
@@ -13,7 +14,7 @@ const Issue = ({ data }) => {
   return (
     <div>
       <Helmet
-        title={`${issue.title} | Womanly Mag | Art & Health on the Global Woman and Non-Binary`}
+        title={`${issue.title} | ${config.siteMetadata.title}`}
       />
 
       <h1>Issue #{issue.number} {issue.title}</h1>
@@ -56,4 +57,3 @@ export const pageQuery = graphql`
     }
   }
 `
-
