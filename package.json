@@ -56,7 +56,7 @@
     "build": "yarn dato:dump && gatsby build",
     "dato:dump": "./node_modules/.bin/dato dump --config ./config/dato.js",
     "deploy": "yarn build && netlify deploy public",
-    "develop": "gatsby develop",
+    "develop": "yarn dato:dump && gatsby develop",
     "test": "echo \"Error: no test specified\" && exit 1"
   }
 }

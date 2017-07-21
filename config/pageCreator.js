@@ -15,11 +15,13 @@ module.exports = (graphql, boundActionCreators, pages) => {
 
           // Create pages for each markdown file.
           result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-            createPage({
-              path: node.frontmatter.path,
-              component: path.resolve(path.join(templatesPath, `${page.type}/${page.type}.jsx`)),
-              context: node.frontmatter,
-            })
+            if (node.frontmatter.type === page.type) {
+              createPage({
+                path: node.frontmatter.path,
+                component: path.resolve(path.join(templatesPath, `${page.type}/${page.type}.jsx`)),
+                context: node.frontmatter,
+              });
+            }
           })
         })
       )

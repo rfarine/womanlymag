@@ -1,4 +1,4 @@
-import React from 'react';
+ import React from 'react';
 import Helmet from 'react-helmet';
 import config from '../../../gatsby-config.js';
 
@@ -43,9 +43,10 @@ const Issue = ({ data }) => {
 export default Issue;
 
 export const pageQuery = graphql`
-  query IssueByNumber($number: Int!) {
-    markdownRemark(frontmatter: { number: { eq: $number } }) {
+  query IssueByNumber($type: String!) {
+    markdownRemark(frontmatter: { type: { eq: $type } }) {
       frontmatter {
+        type
         number
         title
         featured

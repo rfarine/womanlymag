@@ -1,0 +1,108 @@
+---
+type: article
+path: articles/i-am-an-example-article
+slug: i-am-an-example-article
+title: I am an example article
+featured: false
+tags:
+  - id: '79592'
+    itemType: tag
+    updatedAt: '2017-07-08T16:26:34.138Z'
+    seoMetaTags:
+      - tagName: title
+        content: film
+      - tagName: meta
+        attributes:
+          property: 'og:title'
+          content: film
+      - tagName: meta
+        attributes:
+          name: 'twitter:title'
+          content: film
+      - tagName: meta
+        attributes:
+          name: 'twitter:card'
+          content: summary
+      - tagName: meta
+        attributes:
+          property: 'article:modified_time'
+          content: '2017-07-08T16:26:34Z'
+      - tagName: meta
+        attributes:
+          property: 'og:locale'
+          content: en_EN
+      - tagName: meta
+        attributes:
+          property: 'og:type'
+          content: article
+    title: film
+  - id: '79593'
+    itemType: tag
+    updatedAt: '2017-07-08T16:26:39.462Z'
+    seoMetaTags:
+      - tagName: title
+        content: photography
+      - tagName: meta
+        attributes:
+          property: 'og:title'
+          content: photography
+      - tagName: meta
+        attributes:
+          name: 'twitter:title'
+          content: photography
+      - tagName: meta
+        attributes:
+          name: 'twitter:card'
+          content: summary
+      - tagName: meta
+        attributes:
+          property: 'article:modified_time'
+          content: '2017-07-08T16:26:39Z'
+      - tagName: meta
+        attributes:
+          property: 'og:locale'
+          content: en_EN
+      - tagName: meta
+        attributes:
+          property: 'og:type'
+          content: article
+    title: photography
+  - id: '79594'
+    itemType: tag
+    updatedAt: '2017-07-08T16:26:43.522Z'
+    seoMetaTags:
+      - tagName: title
+        content: audio
+      - tagName: meta
+        attributes:
+          property: 'og:title'
+          content: audio
+      - tagName: meta
+        attributes:
+          name: 'twitter:title'
+          content: audio
+      - tagName: meta
+        attributes:
+          name: 'twitter:card'
+          content: summary
+      - tagName: meta
+        attributes:
+          property: 'article:modified_time'
+          content: '2017-07-08T16:26:43Z'
+      - tagName: meta
+        attributes:
+          property: 'og:locale'
+          content: en_EN
+      - tagName: meta
+        attributes:
+          property: 'og:type'
+          content: article
+    title: audio
+thumbnail: 'https://www.datocms-assets.com/2593/1499531236-350x350.png?'
+images: []
+video: null
+audio: null
+text: I am a test article.. we shall see.
+resources: []
+---
+
