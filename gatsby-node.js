@@ -1,6 +1,5 @@
 const Promise = require('bluebird');
 const path = require('path');
-const webpackLodashPlugin = require('lodash-webpack-plugin');
 const pageCreator = require('./config/pageCreator');
 const pages = require('./config/pages');
 
@@ -34,13 +33,3 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
   }
 }
 
-exports.modifyWebpackConfig = ({ config, stage }) => {
-  switch (stage) {
-    case `build-javascript`:
-      config.plugin(`Lodash`, webpackLodashPlugin, null);
-
-      break
-  }
-
-  return config;
-}

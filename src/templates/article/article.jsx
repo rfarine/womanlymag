@@ -1,9 +1,23 @@
 import React from 'react';
 import Helmet from 'react-helmet';
+import _ from 'lodash';
 import config from '../../../gatsby-config.js';
 
 // Style
 // import style from './article.module.scss';
+
+function getTags(tags) {
+  const seoTags = _.flatMap(tags, (tag) => {
+    return tag.seoMetaTags;
+  });
+
+  const titleTags = _.map(
+    _.filter(seoTags, { tagName: 'title' }),
+    'content'
+  );
+
+  return `${titleTags.join(', ')}`;
+};
 
 const Article = ({ data }) => {
   const article = data.markdownRemark.frontmatter;
@@ -16,6 +30,7 @@ const Article = ({ data }) => {
 
       <h1>{article.title}</h1>
       <h2>{article.slug}</h2>
+      <p>{getTags(article.tags)}</p>
     </div>
   )
 };
@@ -32,6 +47,10 @@ export const pageQuery = graphql`
         featured
         tags {
           id
+          seoMetaTags {
+            tagName
+            content
+          }
         }
       }
     }

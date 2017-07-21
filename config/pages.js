@@ -42,6 +42,9 @@ const article = {
               featured
               tags {
                 id
+                seoMetaTags {
+                  content
+                }
               }
             }
           }
