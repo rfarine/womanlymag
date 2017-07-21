@@ -29,7 +29,7 @@ module.exports = (dato, root, i18n) => {
             thumbnail: article.thumbnail.url(),
             images: article.images.toMap(),
             video: article.video,
-            audio: article.audio,
+            audio: article.audio.url(),
             text: article.text,
             resources: article.resources.toMap(),
           },

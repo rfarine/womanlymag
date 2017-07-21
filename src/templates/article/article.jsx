@@ -52,6 +52,26 @@ export const pageQuery = graphql`
             content
           }
         }
+        thumbnail
+        images {
+          id
+          image {
+            url
+          }
+          caption
+          title
+        }
+        video {
+          url
+          thumbnailUrl
+        }
+        audio
+        text
+        resources {
+          title
+          url
+          description
+        }
       }
     }
   }

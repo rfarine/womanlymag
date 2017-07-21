@@ -46,6 +46,12 @@ const article = {
                   content
                 }
               }
+              thumbnail
+              resources {
+                title
+                url
+                description
+              }
             }
           }
         }
