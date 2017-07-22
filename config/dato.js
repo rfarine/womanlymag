@@ -44,10 +44,10 @@ module.exports = (dato, root, i18n) => {
 
     if (dato.pageAbout) {
       publishedDir.createPost(
-        'pages/about.md', 'yaml', {
+        'about.md', 'yaml', {
           frontmatter: {
             type: 'about',
-            path: `pages/${dato.pageAbout.slug}`,
+            path: `${dato.pageAbout.slug}`,
             title: dato.pageAbout.title,
             contributors: dato.pageAbout.contributors.toMap(),
           },
@@ -57,10 +57,10 @@ module.exports = (dato, root, i18n) => {
 
     if (dato.pageGlossary) {
       publishedDir.createPost(
-        'pages/glossary.md', 'yaml', {
+        'glossary.md', 'yaml', {
           frontmatter: {
             type: 'glossary',
-            path: `pages/${dato.pageGlossary.slug}`,
+            path: `${dato.pageGlossary.slug}`,
             title: dato.pageGlossary.title,
             definitions: dato.pageGlossary.definitions.toMap(),
           },
@@ -70,10 +70,10 @@ module.exports = (dato, root, i18n) => {
 
     if (dato.moduleFooter) {
       publishedDir.createPost(
-        'pages/components/footer.md', 'yaml', {
+        'components/footer.md', 'yaml', {
           frontmatter: {
             type: 'footer',
-            path: 'pages/components/footer',
+            path: 'components/footer',
             links: dato.moduleFooter.links.toMap(),
             socialMediaLinks: dato.moduleFooter.socialMediaLinks.toMap(),
             contactForm: dato.moduleFooter.contactForm.toMap(),
@@ -84,10 +84,10 @@ module.exports = (dato, root, i18n) => {
 
     if (dato.moduleNavigation) {
       publishedDir.createPost(
-        'pages/components/navigation.md', 'yaml', {
+        'components/navigation.md', 'yaml', {
           frontmatter: {
             type: 'navigation',
-            path: 'pages/components/navigation',
+            path: 'components/navigation',
             links: dato.moduleNavigation.links.toMap(),
           },
         }
@@ -96,10 +96,10 @@ module.exports = (dato, root, i18n) => {
 
     if (dato.pageIssueList) {
       publishedDir.createPost(
-        'pages/issues.md', 'yaml', {
+        'issues.md', 'yaml', {
           frontmatter: {
             type: 'issues',
-            path: `pages/${dato.pageIssueList.slug}`,
+            path: `${dato.pageIssueList.slug}`,
             title: dato.pageIssueList.title,
             issues: dato.pageIssueList.issues.map(issue => {
               return {
@@ -116,10 +116,10 @@ module.exports = (dato, root, i18n) => {
 
     if (dato.pageResourceList) {
       publishedDir.createPost(
-        'pages/resources.md', 'yaml', {
+        'resources.md', 'yaml', {
           frontmatter: {
             type: 'resources',
-            path: `pages/${dato.pageResourceList.slug}`,
+            path: `${dato.pageResourceList.slug}`,
             title: dato.pageResourceList.title,
             resource: dato.pageResourceList.resources.toMap(),
           },

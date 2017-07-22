@@ -1,6 +1,6 @@
 ---
 type: navigation
-path: pages/components/navigation
+path: components/navigation
 links:
   - id: '82360'
     itemType: submodule_navigation_link

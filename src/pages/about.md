@@ -1,6 +1,6 @@
 ---
 type: about
-path: pages/about
+path: about
 title: About
 contributors:
   - id: '82012'

@@ -1,6 +1,6 @@
 ---
 type: glossary
-path: pages/glossary
+path: glossary
 title: Glossary
 definitions:
   - id: '82356'

@@ -1,6 +1,6 @@
 ---
 type: footer
-path: pages/components/footer
+path: components/footer
 links:
   - id: '82360'
     itemType: submodule_navigation_link

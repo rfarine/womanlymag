@@ -1,22 +1,44 @@
-const issue = {
+const about = {
   query: `
     {
       allMarkdownRemark(limit: 1000) {
         edges {
           node {
             frontmatter {
-              type
-              number
               path
               title
-              featured
+              contributors {
+                position
+                name
+                email
+                bio
+                seoMetaTags {
+                  tagName
+                  content
+                }
+                socialMediaLinks {
+                  position
+                  url
+                  service
+                  seoMetaTags {
+                    tagName
+                    attributes {
+                      name
+                      content
+                    }
+                  }
+                }
+                image {
+                  url
+                }
+              }
             }
           }
         }
       }
     }
   `,
-  type: 'issue',
+  type: 'about',
 };
 
 const article = {
@@ -67,7 +89,29 @@ const article = {
   type: 'article',
 };
 
+const issue = {
+  query: `
+    {
+      allMarkdownRemark(limit: 1000) {
+        edges {
+          node {
+            frontmatter {
+              type
+              number
+              path
+              title
+              featured
+            }
+          }
+        }
+      }
+    }
+  `,
+  type: 'issue',
+};
+
 module.exports = [
-  issue,
+  about,
   article,
+  issue,
 ];

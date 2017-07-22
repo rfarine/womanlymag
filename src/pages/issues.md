@@ -1,6 +1,6 @@
 ---
 type: issues
-path: pages/issues
+path: issues
 title: Issues
 issues:
   - number: 0

@@ -1,6 +1,6 @@
 ---
 type: resources
-path: pages/resources
+path: resources
 title: Resources
 resource:
   - id: '82009'
