@@ -8,8 +8,6 @@ import style from './about.module.scss';
 const About = ({ data }) => {
   const aboutPage = data.markdownRemark.frontmatter;
 
-  console.log('abutPage', aboutPage)
-
   return (
     <div>
       <Helmet
