@@ -19,15 +19,6 @@ const issue = {
   type: 'issue',
 };
 
-
-// TODO for article:
-// thumbnail
-// images
-// video
-// audio
-// text
-// resources
-
 const article = {
   query: `
     {
@@ -35,18 +26,33 @@ const article = {
         edges {
           node {
             frontmatter {
+              path
               type
               slug
-              path
               title
               featured
               tags {
                 id
                 seoMetaTags {
+                  tagName
                   content
                 }
               }
               thumbnail
+              images {
+                id
+                image {
+                  url
+                }
+                caption
+                title
+              }
+              video {
+                url
+                thumbnailUrl
+              }
+              audio
+              text
               resources {
                 title
                 url
