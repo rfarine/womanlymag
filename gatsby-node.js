@@ -1,4 +1,3 @@
-const Promise = require('bluebird');
 const path = require('path');
 const pageCreator = require('./config/pageCreator');
 const pages = require('./config/pages');
