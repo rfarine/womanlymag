@@ -194,7 +194,7 @@ socialMediaLinks:
 contactForm:
   id: '82368'
   itemType: module_form
-  updatedAt: '2017-07-22T19:14:09.396Z'
+  updatedAt: '2017-07-23T23:22:01.085Z'
   seoMetaTags:
     - tagName: title
       content: Contact Us
@@ -213,7 +213,7 @@ contactForm:
     - tagName: meta
       attributes:
         property: 'article:modified_time'
-        content: '2017-07-22T19:14:09Z'
+        content: '2017-07-23T23:22:01Z'
     - tagName: meta
       attributes:
         property: 'og:locale'
@@ -223,6 +223,7 @@ contactForm:
         property: 'og:type'
         content: article
   position: 1
+  to: rfarine1027@gmail.com
   button:
     id: '82367'
     itemType: submodule_button
