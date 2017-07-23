@@ -1,14 +1,11 @@
 const path = require('path');
 const pageCreator = require('./config/pageCreator');
-const pages = require('./config/pages');
-
 require('dotenv-safe').load();
 
 exports.createPages = ({ graphql, boundActionCreators }) => {
   return pageCreator(
     graphql,
-    boundActionCreators,
-    pages
+    boundActionCreators
   );
 }
 
