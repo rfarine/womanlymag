@@ -1,8 +1,6 @@
 import React, { PropTypes } from 'react';
 import { Container } from 'react-responsive-grid';
-import { Link } from 'react-router';
-import { prefixLink } from 'gatsby-helpers';
-import { rhythm } from 'utils/typography';
+import { rhythm } from '../utils/typography';
 
 const Template = ({ children }) => {
   return (
@@ -14,7 +12,7 @@ const Template = ({ children }) => {
           paddingTop: 0,
         }}
       >
-        {children}
+        {children()}
       </Container>
     </div>
   )

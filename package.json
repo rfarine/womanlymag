@@ -1,14 +1,31 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "Womanly-Mag",
+  "description": "Art & Health on the Global Woman and Non-Binary",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Rae Farine <rfarine1027@gmail.com>",
   "dependencies": {
+    "babel-plugin-lodash": "^3.2.11",
+    "bluebird": "^3.5.0",
+    "dotenv-safe": "^4.0.4",
     "front-matter": "^2.0.7",
-    "gatsby": "^0.12.6",
+    "gatsby": "latest",
+    "gatsby-link": "latest",
+    "gatsby-plugin-catch-links": "latest",
+    "gatsby-plugin-sass": "^1.0.1",
+    "gatsby-plugin-sharp": "latest",
+    "gatsby-remark-autolink-headers": "latest",
+    "gatsby-remark-copy-linked-files": "latest",
+    "gatsby-remark-images": "latest",
+    "gatsby-remark-prismjs": "latest",
+    "gatsby-remark-smartypants": "latest",
+    "gatsby-source-filesystem": "latest",
+    "gatsby-transformer-remark": "latest",
+    "gatsby-transformer-sharp": "latest",
+    "gatsby-transformer-yaml": "latest",
     "highlight.js": "^9.6.0",
     "history": "^2.0.2",
     "js-yaml": "^3.6.0",
+    "lodash": "^4.17.4",
     "markdown-it": "^7.0.1",
     "markdown-it-abbr": "^1.0.3",
     "markdown-it-attrs": "^0.6.3",
@@ -27,6 +44,7 @@
   "devDependencies": {
     "breakpoint-sass": "^2.7.1",
     "breakpoint-slicer": "^2.0.0",
+    "datocms-client": "^0.3.25",
     "file-loader": "^0.11.2",
     "image-webpack-loader": "^3.3.1"
   },
@@ -36,9 +54,10 @@
   "license": "MIT",
   "main": "n/a",
   "scripts": {
-    "build": "gatsby build",
+    "build": "yarn dato:dump && gatsby build",
+    "dato:dump": "./node_modules/.bin/dato dump --config ./config/dato.js",
     "deploy": "yarn build && netlify deploy public",
-    "develop": "gatsby develop",
+    "develop": "yarn dato:dump && gatsby develop",
     "test": "echo \"Error: no test specified\" && exit 1"
   }
 }

@@ -13,9 +13,13 @@ yarn develop
 
 Want to see what the public directory looks like? Build it.
 
+
 ```
 yarn build
 ```
+
+This runs `yarn dato:dump` to dump all content from Dato into src/pages and then runs `gatsby build` to generate pages for production.
+
 
 ### Deploy
 

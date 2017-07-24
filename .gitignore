@@ -28,3 +28,8 @@ node_modules
 .gatsby-context.js
 .sass-cache/
 public
+
+# Environment variables
+.env
+
+.cache/*
