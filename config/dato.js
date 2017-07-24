@@ -31,11 +31,11 @@ module.exports = (dato, root, i18n) => {
               featured: article.featured,
               tags: article.tags.toMap(),
               thumbnail: article.thumbnail.url(),
-              images: article.images.toMap(),
+              images: article.images && article.images.toMap(),
               video: article.video,
-              audio: article.audio.url(),
+              audio: article.audio && article.audio.url(),
               text: article.text,
-              resources: article.resources.toMap(),
+              resources: article.resources && article.resources.toMap(),
             },
           }
         );
