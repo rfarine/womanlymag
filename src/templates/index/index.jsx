@@ -1,23 +1,15 @@
 import React from 'react';
 
-// Components
-import Header from '../../components/header/header';
-import Footer from '../../components/footer/footer';
-
 const Index = ({ data }) => {
   const index = data.markdownRemark.frontmatter;
   console.log('index', index)
 
   return (
     <div>
-      <Header />
-
       <div>
         <h1>hey guys</h1>
         hey hey
       </div>
-
-      <Footer />
     </div>
   )
 };

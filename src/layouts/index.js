@@ -3,6 +3,12 @@ import Helmet from 'react-helmet';
 import { Container } from 'react-responsive-grid';
 import { rhythm } from '../utils/typography';
 import config from '../../gatsby-config.js';
+
+// Components
+import Header from '../components/header/header';
+import Footer from '../components/footer/footer';
+
+// Styles
 import '../css/index.module.scss';
 
 const Template = ({ children }) => {
@@ -11,6 +17,8 @@ const Template = ({ children }) => {
       <Helmet title={config.siteMetadata.title}>
         <link href="https://fonts.googleapis.com/css?family=Yantramanav:100,400,700,900" rel="stylesheet" />
       </Helmet>
+
+      <Header />
 
       <Container
         style={{

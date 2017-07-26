@@ -1,0 +1,21 @@
+@import '../../css/variables';
+
+.title {
+  height: 30px;
+  border-bottom: 10px solid $pink;
+  text-align: center;
+}
+
+.navigationContainer {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  text-align: center;
+  font-size: $navigation-size;
+  text-transform: uppercase;
+}
