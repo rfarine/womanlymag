@@ -43,7 +43,7 @@ const Issue = ({ data }) => {
 export default Issue;
 
 export const pageQuery = graphql`
-  query IssueByNumber($type: String!) {
+  query IssueByType($type: String!) {
     markdownRemark(frontmatter: { type: { eq: $type } }) {
       frontmatter {
         type

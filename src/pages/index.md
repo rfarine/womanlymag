@@ -1,0 +1,276 @@
+---
+type: index
+path: /
+heroImage: 'https://www.datocms-assets.com/2593/1500939023-shutterstock_134707556.jpg?'
+issue:
+  id: '79596'
+  itemType: issue
+  updatedAt: '2017-07-08T16:27:35.048Z'
+  seoMetaTags:
+    - tagName: title
+      content: Test Issue
+    - tagName: meta
+      attributes:
+        property: 'og:title'
+        content: Test Issue
+    - tagName: meta
+      attributes:
+        name: 'twitter:title'
+        content: Test Issue
+    - tagName: meta
+      attributes:
+        name: 'twitter:card'
+        content: summary
+    - tagName: meta
+      attributes:
+        property: 'article:modified_time'
+        content: '2017-07-08T16:27:35Z'
+    - tagName: meta
+      attributes:
+        property: 'og:locale'
+        content: en_EN
+    - tagName: meta
+      attributes:
+        property: 'og:type'
+        content: article
+  position: 1
+  articles:
+    - id: '79595'
+      itemType: article
+      updatedAt: '2017-07-21T02:34:05.065Z'
+      seoMetaTags:
+        - tagName: title
+          content: I am an example article
+        - tagName: meta
+          attributes:
+            property: 'og:title'
+            content: I am an example article
+        - tagName: meta
+          attributes:
+            name: 'twitter:title'
+            content: I am an example article
+        - tagName: meta
+          attributes:
+            name: 'twitter:card'
+            content: summary
+        - tagName: meta
+          attributes:
+            property: 'article:modified_time'
+            content: '2017-07-21T02:34:05Z'
+        - tagName: meta
+          attributes:
+            property: 'og:locale'
+            content: en_EN
+        - tagName: meta
+          attributes:
+            property: 'og:type'
+            content: article
+        - tagName: meta
+          attributes:
+            property: 'og:image'
+            content: 'https://www.datocms-assets.com/2593/1499531236-350x350.png?'
+        - tagName: meta
+          attributes:
+            name: 'twitter:image'
+            content: 'https://www.datocms-assets.com/2593/1499531236-350x350.png?'
+      position: 1
+      resources:
+        - id: '82009'
+          itemType: resource
+          updatedAt: '2017-07-21T02:29:14.664Z'
+          seoMetaTags:
+            - tagName: title
+              content: Example Resource
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Example Resource
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Example Resource
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-07-21T02:29:14Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+          position: 1
+          description: I am the googles.
+          url: 'http://google.com'
+          title: Example Resource
+      text: I am a test article.. we shall see.
+      audio:
+        format: mp3
+        size: 366464
+        url: 'https://www.datocms-assets.com/2593/1500604433-bachgavotteshort.mp3'
+      video:
+        url: 'https://vimeo.com/199623840'
+        title: American Paradise
+        width: 640
+        height: 268
+        provider: vimeo
+        providerUid: '199623840'
+        thumbnailUrl: 'https://i.vimeocdn.com/video/645715625_640.jpg'
+      images:
+        - id: '82010'
+          itemType: image
+          updatedAt: '2017-07-21T02:32:39.676Z'
+          seoMetaTags:
+            - tagName: title
+              content: Example Image
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Example Image
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Example Image
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-07-21T02:32:39Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+          position: 1
+          image:
+            format: png
+            size: 12316
+            width: 100
+            height: 100
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1500604356-troll.png?'
+          caption: I have a caption.
+          title: Example Image
+      thumbnail:
+        format: png
+        size: 935
+        width: 350
+        height: 350
+        title: null
+        alt: null
+        url: 'https://www.datocms-assets.com/2593/1499531236-350x350.png?'
+      tags:
+        - id: '79592'
+          itemType: tag
+          updatedAt: '2017-07-08T16:26:34.138Z'
+          seoMetaTags:
+            - tagName: title
+              content: film
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: film
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: film
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-07-08T16:26:34Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+          title: film
+        - id: '79593'
+          itemType: tag
+          updatedAt: '2017-07-08T16:26:39.462Z'
+          seoMetaTags:
+            - tagName: title
+              content: photography
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: photography
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: photography
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-07-08T16:26:39Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+          title: photography
+        - id: '79594'
+          itemType: tag
+          updatedAt: '2017-07-08T16:26:43.522Z'
+          seoMetaTags:
+            - tagName: title
+              content: audio
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: audio
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: audio
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-07-08T16:26:43Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+          title: audio
+      featured: false
+      slug: i-am-an-example-article
+      title: I am an example article
+  featured: true
+  title: Test Issue
+  number: 0
+---
+

@@ -2,6 +2,19 @@ module.exports = (dato, root, i18n) => {
   // Issues
   root.directory('src/pages/', (publishedDir) => {
 
+    if (dato.pageHome) {
+      publishedDir.createPost(
+        'index.md', 'yaml', {
+          frontmatter: {
+            type: 'index',
+            path: '/',
+            heroImage: dato.pageHome.heroImage.url(),
+            issue: dato.pageHome.issue.toMap(),
+          },
+        }
+      );
+    }
+
     if (dato.issues) {
       dato.issues.forEach((issue) => {
         publishedDir.createPost(
