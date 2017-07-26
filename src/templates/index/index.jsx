@@ -1,6 +1,8 @@
 import React from 'react';
-import Helmet from 'react-helmet';
-import config from '../../../gatsby-config.js';
+
+// Components
+import Header from '../../components/header/header';
+import Footer from '../../components/footer/footer';
 
 const Index = ({ data }) => {
   const index = data.markdownRemark.frontmatter;
@@ -8,11 +10,14 @@ const Index = ({ data }) => {
 
   return (
     <div>
-      <Helmet
-        title={config.siteMetadata.title}
-      />
+      <Header />
 
-      hey guys.
+      <div>
+        <h1>hey guys</h1>
+        hey hey
+      </div>
+
+      <Footer />
     </div>
   )
 };
