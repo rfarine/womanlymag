@@ -1,4 +1,5 @@
 import React from 'react';
+import style from './index.module.scss';
 
 const Index = ({ data }) => {
   const index = data.markdownRemark.frontmatter;
@@ -7,8 +8,10 @@ const Index = ({ data }) => {
   return (
     <div>
       <div>
-        <h1>hey guys</h1>
-        hey hey
+        <div
+          className={style.hero}
+          style={{ backgroundImage: `url(${index.heroImage})` }}
+        />
       </div>
     </div>
   )
