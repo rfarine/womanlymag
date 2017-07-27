@@ -1,9 +1,15 @@
 import React from 'react';
+import ImageGrid from '../../components/imageGrid/imageGrid';
 import style from './index.module.scss';
 
 const Index = ({ data }) => {
   const index = data.markdownRemark.frontmatter;
-  console.log('index', index)
+  const imageGridItems = index.issue.articles.map((article) => {
+    return {
+      ...article,
+      url: `articles/${article.slug}`,
+    };
+  });
 
   return (
     <div>
@@ -12,6 +18,8 @@ const Index = ({ data }) => {
           className={style.hero}
           style={{ backgroundImage: `url(${index.heroImage})` }}
         />
+
+        <ImageGrid items={imageGridItems} />
       </div>
     </div>
   )
