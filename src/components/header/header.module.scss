@@ -16,6 +16,11 @@
   justify-content: space-around;
   list-style-type: none;
   text-align: center;
-  font-size: $navigation-size;
   text-transform: uppercase;
+  padding: 1em 0;
+
+  li > a {
+    font-weight: bold;
+    color: $black;
+  }
 }
