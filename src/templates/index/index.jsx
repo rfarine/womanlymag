@@ -1,12 +1,22 @@
 import React from 'react';
+import _ from 'lodash';
 import ImageGrid from '../../components/imageGrid/imageGrid';
 import style from './index.module.scss';
 
 const Index = ({ data }) => {
   const index = data.markdownRemark.frontmatter;
   const imageGridItems = index.issue.articles.map((article) => {
+    const description = _.truncate(article.text, {
+      length: 80,
+      omission: '...',
+    });
+
     return {
       ...article,
+      hoverText: {
+        title: article.title,
+        description,
+      },
       url: `articles/${article.slug}`,
     };
   });

@@ -10,7 +10,10 @@ const renderGrid = (items) => {
     return (
       <li key={item.slug} className={style.item}>
         <Link to={item.url}>
-          <Thumbnail backgroundImageUrl={item.thumbnail.url} />
+          <Thumbnail
+            backgroundImageUrl={item.thumbnail.url}
+            hoverText={item.hoverText}
+          />
         </Link>
       </li>
     );
