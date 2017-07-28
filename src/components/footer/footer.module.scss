@@ -1,0 +1,53 @@
+@import '../../css/variables';
+
+.container {
+  border-top: $pink-border-width solid $pink;
+  padding: 3em 0;
+}
+
+.contentContainer {
+  display: flex;
+}
+
+.logo {
+  background: url('../../assets/images/logo.png') no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 60px;
+  height: 60px;
+  flex: 1;
+}
+
+.content {
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+  border-left: 1px solid $black;
+  padding-left: 1em;
+  flex: 8;
+}
+
+.link {
+  text-transform: uppercase;
+}
+
+.socialLink {
+  font-size: 20px;
+  margin-right: 1em;
+}
+
+.link, .socialLink {
+  color: $black;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.social {
+  display: flex;
+
+  > li {
+    margin-bottom: 0;
+  }
+}

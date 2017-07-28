@@ -1,6 +1,10 @@
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 3em 0;
+}
+
 .item {
-  display: inline-block;
-  background-size: cover;
-  height: 300px;
-  width: 300px;
+  margin-bottom: 3em;
 }

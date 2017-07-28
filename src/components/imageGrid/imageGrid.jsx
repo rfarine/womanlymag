@@ -1,18 +1,16 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import Link from 'gatsby-link';
+import Thumbnail from '../thumbnail/thumbnail';
 
 import style from './imageGrid.module.scss';
 
 const renderGrid = (items) => {
   return items.map((item) => {
     return (
-      <li key={item.slug}>
+      <li key={item.slug} className={style.item}>
         <Link to={item.url}>
-          <span
-            className={style.item}
-            style={{ backgroundImage: `url(${item.thumbnail.url})` }}
-          />
+          <Thumbnail backgroundImageUrl={item.thumbnail.url} />
         </Link>
       </li>
     );
@@ -21,7 +19,7 @@ const renderGrid = (items) => {
 
 const ImageGrid = ({ items }) => {
   return (
-    <ul>
+    <ul className={style.grid}>
       {renderGrid(items)}
     </ul>
   )

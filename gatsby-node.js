@@ -29,3 +29,39 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
   }
 }
 
+exports.modifyWebpackConfig = ({ config, stage }) => {
+  // switch (stage) {
+    // case 'develop':
+    //   config.loader('css', {
+    //     include: /flexboxgrid/,
+    //   });
+
+    //   break;
+
+    // Prod css builds
+    // case 'build-css':
+    //   config.loader('css', {
+    //     include: /flexboxgrid/,
+    //   });
+
+    //   break;
+
+    // Prod HTML pages
+    // case 'build-html':
+    //   config.loader('css', {
+    //     include: /flexboxgrid/,
+    //   });
+
+    //   break;
+
+    // Prod js builds
+    // case 'build-javascript':
+    //   config.loader('css', {
+    //     include: /flexboxgrid/,
+    //   });
+
+    //   break;
+  // }
+
+  return config;
+};
