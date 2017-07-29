@@ -35,6 +35,8 @@ const Input = ({
       {
         button &&
         <Button
+          id={button.id}
+          name={button.name}
           onClick={button.onClick}
           text={button.text}
         />
@@ -51,6 +53,8 @@ Input.defaultProps = {
 
 Input.propTypes = {
   button: PropTypes.shape({
+    id: PropTypes.string,
+    name: PropTypes.string,
     onClick: PropTypes.func,
     text: PropTypes.string,
   }),

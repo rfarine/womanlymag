@@ -48,16 +48,37 @@ const Footer = () => {
               </li>
             </ul>
           </div>
-          <Input
-            button={{
-              onClick: () => alert(1),
-              text: 'Subscribe',
-            }}
-            label="Subscribe to our newsletter!"
-            name="subscribe"
-            placeholder="youremail@email.com"
-            required
-          />
+          <form
+            action='//twitter.us15.list-manage.com/subscribe/post?u=8f848089b50e1ba3b7a3c400f&amp;id=3fe0717806'
+            method='post'
+            id='mc-embedded-subscribe-form'
+            name='mc-embedded-subscribe-form'
+            target='_blank'
+          >
+            <Input
+              button={{
+                id: 'mc-embedded-subscribe',
+                name: 'subscribe',
+                text: 'Subscribe',
+              }}
+              id='mce-EMAIL'
+              label="Subscribe to our newsletter!"
+              name="EMAIL"
+              placeholder="youremail@email.com"
+              required
+            />
+            <div
+              style={{ position: 'absolute', left: '-5000px' }}
+              aria-hidden='true'
+            >
+              <input
+                type='text'
+                name='b_8f848089b50e1ba3b7a3c400f_3fe0717806'
+                tabIndex='-1'
+                value=''
+              />
+            </div>
+          </form>
         </div>
       </Container>
     </div>
