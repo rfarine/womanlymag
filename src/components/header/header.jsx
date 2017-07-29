@@ -1,6 +1,7 @@
 import React from 'react';
 import { Container } from 'react-responsive-grid';
 import Link from 'gatsby-link';
+import Input from '../input/input';
 import style from './header.module.scss';
 
 const Header = () => {
@@ -31,7 +32,14 @@ const Header = () => {
                 Resources
               </Link>
             </li>
-            <li>Search bar goes here</li>
+            <li>
+              <Input
+                label="Search"
+                name="search"
+                placeholder="Search"
+                hiddenLabel
+              />
+            </li>
           </ul>
         </Container>
       </div>

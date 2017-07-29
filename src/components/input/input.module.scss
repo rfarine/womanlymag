@@ -1,0 +1,29 @@
+@import '../../css/variables';
+
+.hiddenLabel {
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+
+.label {}
+
+.input {
+  padding: 0.5em 0.75em;
+  border: 1px solid rgba($black, 0.25);
+  text-transform: uppercase;
+
+  &:-ms-input-placeholder,
+  &::-moz-placeholder,
+  &::-webkit-input-placeholder {
+    font-size: 1px;
+  }
+
+  &:focus {
+    outline: 0;
+    border: 1px solid rgba($black, 0.5);
+  }
+}
