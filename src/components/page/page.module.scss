@@ -6,4 +6,8 @@
   @include between(1, 4) {
     margin: 0 5%;
   }
+
+  @include from(2) {
+    height: 100vh;
+  }
 }
