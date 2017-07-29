@@ -15,30 +15,47 @@
   overflow: hidden;
 
   &:hover {
-    > .hover {
+    .caption::before,
+    .caption > p {
       opacity: 1;
-      transform: translateY(-200px);
-      transition: all 0.5s ease-in;
+      transform: translate3d(0,0,0);
     }
   }
 }
 
-.hover {
-  display: inline-block;
-  position: absolute;
-  height: 150px;
-  top: 300px;
-  left: 0;
-  right: 0;
-  background: rgba($pink, 0.75);
-  color: $black;
-  padding: 2em;
-  opacity: 0;
-  transition: 0.5s ease-in;
+.caption {
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom, rgba($black,0) 0%, rgba($pink,0.8) 85%);
+    opacity: 0;
+    transform: translate3d(0,50%,0);
+  }
 
-  strong, .desc {
-    display: inline-block;
-    height: 0;
+  &::before, p {
+    transition: opacity 0.35s, transform 0.35s;
+  }
+
+  strong {
+    display: block;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 0.5em;
+  }
+
+  p {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 2em;
+    width: 100%;
+    opacity: 0;
+    transform: translate3d(0,10px,0);
+    color: $black;
   }
 }
 

@@ -18,13 +18,14 @@
   text-align: center;
   text-transform: uppercase;
   padding: 2em 0;
+}
 
-  li {
-    margin: 0;
+.link {
+  position: relative;
+  font-weight: bold;
+  color: $black;
 
-    > a {
-      font-weight: bold;
-      color: $black;
-    }
+  &:hover {
+    border-bottom: 2px solid $blue;
   }
 }

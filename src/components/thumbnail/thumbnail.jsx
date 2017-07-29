@@ -8,17 +8,17 @@ const Thumbnail = ({
 }) => {
   return (
     <span className={style.component}>
-      <span
+      <figure
         className={style.image}
         style={{ backgroundImage: `url(${backgroundImageUrl})` }}
       >
-        <span className={style.hover}>
-          <strong>{hoverText.title}</strong>
-          <span className={style.desc}>
+        <figcaption className={style.caption}>
+          <p className={style.desc}>
+            <strong>{hoverText.title}</strong>
             {hoverText.description}
-          </span>
-        </span>
-      </span>
+          </p>
+        </figcaption>
+      </figure>
     </span>
   );
 };

@@ -12,22 +12,22 @@ const Header = () => {
         <Container style={{ maxWidth: 960 }}>
           <ul className={style.navigation}>
             <li>
-              <Link to='/'>
+              <Link to='/' className={style.link}>
                 Home
               </Link>
             </li>
             <li>
-              <Link to='/about'>
+              <Link to='/about' className={style.link}>
                 About
               </Link>
             </li>
             <li>
-              <Link to='/issues/0'>
+              <Link to='/issues/0' className={style.link}>
                 Issue
               </Link>
             </li>
             <li>
-              <Link to='/resources'>
+              <Link to='/resources' className={style.link}>
                 Resources
               </Link>
             </li>
