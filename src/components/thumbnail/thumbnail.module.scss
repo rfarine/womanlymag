@@ -10,8 +10,8 @@
   display: inline-block;
   background-size: cover;
   background-repeat: no-repeat;
-  width: 250px;
-  height: 250px;
+  width: 300px;
+  height: 300px;
   overflow: hidden;
 
   &:hover {
@@ -20,6 +20,11 @@
       opacity: 1;
       transform: translate3d(0,0,0);
     }
+  }
+
+  @include from(4) {
+    width: 250px;
+    height: 250px;
   }
 }
 

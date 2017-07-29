@@ -12,6 +12,11 @@
 .label {
   display: block;
   margin-bottom: 0.5em;
+  text-align: center;
+
+  @include from(3) {
+    text-align: left;
+  }
 }
 
 .input {
@@ -31,5 +36,7 @@
 }
 
 .withButton {
-  border-right: 0;
+  @include from(2) {
+    border-right: 0;
+  }
 }

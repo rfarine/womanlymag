@@ -1,6 +1,8 @@
 @import '../../css/variables';
 
 .button {
+  display: block;
+  margin: 1em auto;
   border: 1px solid $black;
   background: $black;
   padding: 0.5em 1em;
@@ -11,5 +13,10 @@
     cursor: pointer;
     background: $pink;
     border: 1px solid $pink;
+  }
+
+  @include from(2) {
+    display: inline-block;
+    margin: 0;
   }
 }

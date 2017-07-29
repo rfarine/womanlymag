@@ -1,6 +1,16 @@
+@import '../../css/variables';
+
 .hero {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  height: 400px;
+  height: 200px;
+
+  @include between(2,5) {
+    height: 300px;
+  }
+
+  @include from(5) {
+    height: 400px;
+  }
 }
