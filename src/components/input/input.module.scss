@@ -9,7 +9,10 @@
   width: 1px;
 }
 
-.label {}
+.label {
+  display: block;
+  margin-bottom: 0.5em;
+}
 
 .input {
   padding: 0.5em 0.75em;

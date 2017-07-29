@@ -7,7 +7,7 @@ const Index = ({ data }) => {
   const index = data.markdownRemark.frontmatter;
   const imageGridItems = index.issue.articles.map((article) => {
     const description = _.truncate(article.text, {
-      length: 80,
+      length: 100,
       omission: '...',
     });
 

@@ -1,6 +1,8 @@
 import React from 'react';
 import { Container } from 'react-responsive-grid';
 import Link from 'gatsby-link';
+import Input from '../input/input';
+
 import style from './footer.module.scss';
 
 const Footer = () => {
@@ -46,6 +48,16 @@ const Footer = () => {
               </li>
             </ul>
           </div>
+          <Input
+            button={{
+              onClick: () => alert(1),
+              text: 'Subscribe',
+            }}
+            label="Subscribe to our newsletter!"
+            name="subscribe"
+            placeholder="youremail@email.com"
+            required
+          />
         </div>
       </Container>
     </div>
