@@ -1,0 +1,15 @@
+@import '../../css/variables';
+
+.button {
+  border: 1px solid $black;
+  background: $black;
+  padding: 0.5em 1em;
+  text-transform: uppercase;
+  color: white;
+
+  &:hover {
+    cursor: pointer;
+    background: $pink;
+    border: 1px solid $pink;
+  }
+}

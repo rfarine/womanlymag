@@ -34,9 +34,13 @@ const Header = () => {
             </li>
             <li>
               <Input
+                button={{
+                  onClick: () => alert(1),
+                  text: 'Search',
+                }}
                 label="Search"
                 name="search"
-                placeholder="Search"
+                placeholder="Search Articles"
                 hiddenLabel
               />
             </li>
