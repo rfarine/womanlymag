@@ -15,6 +15,7 @@ module.exports = (graphql, boundActionCreators) => {
                 frontmatter {
                   type
                   path
+                  slug
                 }
               }
             }

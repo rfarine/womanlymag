@@ -38,8 +38,8 @@ const Article = ({ data }) => {
 export default Article;
 
 export const pageQuery = graphql`
-  query ArticleByType($type: String!) {
-    markdownRemark(frontmatter: { type: { eq: $type } }) {
+  query ArticleBySlug($slug: String!) {
+    markdownRemark(frontmatter: { slug: { eq: $slug } }) {
       frontmatter {
         type
         slug
