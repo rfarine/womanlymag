@@ -38,5 +38,9 @@
 .withButton {
   @include from(2) {
     border-right: 0;
+
+    &:focus {
+      border-right: 0;
+    }
   }
 }
