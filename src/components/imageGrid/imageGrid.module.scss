@@ -1,0 +1,16 @@
+@import '../../css/variables';
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 3em 0;
+
+  @include from(3) {
+    justify-content: space-between;
+  }
+}
+
+.item {
+  margin-bottom: 3em;
+}

@@ -7,17 +7,20 @@ import CodePlugin from 'typography-plugin-code';
 const options = {
   googleFonts: [
     {
-      name: 'Lato',
+      name: 'Yantramanav',
       styles: [
+        '100',
+        '300',
         '400',
-        '400i',
+        '500',
         '700',
+        '900',
       ]
     }
   ],
   headerFontFamily: ['Lato', 'sans-serif'],
-  bodyFontFamily: ['Lato', 'sans-serif'],
-  baseFontSize: '18px',
+  bodyFontFamily: ['Yantramanav', 'sans-serif'],
+  baseFontSize: '16px',
   baseLineHeight: 1.65,
   scale: 2.25,
   plugins: [

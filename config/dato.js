@@ -2,6 +2,19 @@ module.exports = (dato, root, i18n) => {
   // Issues
   root.directory('src/pages/', (publishedDir) => {
 
+    if (dato.pageHome) {
+      publishedDir.createPost(
+        'index.md', 'yaml', {
+          frontmatter: {
+            type: 'index',
+            path: '/',
+            heroImage: dato.pageHome.heroImage.url(),
+            issue: dato.pageHome.issue.toMap(),
+          },
+        }
+      );
+    }
+
     if (dato.issues) {
       dato.issues.forEach((issue) => {
         publishedDir.createPost(
@@ -31,11 +44,11 @@ module.exports = (dato, root, i18n) => {
               featured: article.featured,
               tags: article.tags.toMap(),
               thumbnail: article.thumbnail.url(),
-              images: article.images.toMap(),
+              images: article.images && article.images.toMap(),
               video: article.video,
-              audio: article.audio.url(),
+              audio: article.audio && article.audio.url(),
               text: article.text,
-              resources: article.resources.toMap(),
+              resources: article.resources && article.resources.toMap(),
             },
           }
         );
@@ -63,52 +76,6 @@ module.exports = (dato, root, i18n) => {
             path: `${dato.pageGlossary.slug}`,
             title: dato.pageGlossary.title,
             definitions: dato.pageGlossary.definitions.toMap(),
-          },
-        }
-      );
-    }
-
-    if (dato.moduleFooter) {
-      publishedDir.createPost(
-        'components/footer.md', 'yaml', {
-          frontmatter: {
-            type: 'footer',
-            path: 'components/footer',
-            links: dato.moduleFooter.links.toMap(),
-            socialMediaLinks: dato.moduleFooter.socialMediaLinks.toMap(),
-            contactForm: dato.moduleFooter.contactForm.toMap(),
-          },
-        }
-      );
-    }
-
-    if (dato.moduleNavigation) {
-      publishedDir.createPost(
-        'components/navigation.md', 'yaml', {
-          frontmatter: {
-            type: 'navigation',
-            path: 'components/navigation',
-            links: dato.moduleNavigation.links.toMap(),
-          },
-        }
-      );
-    }
-
-    if (dato.pageIssueList) {
-      publishedDir.createPost(
-        'issues.md', 'yaml', {
-          frontmatter: {
-            type: 'issues',
-            path: `${dato.pageIssueList.slug}`,
-            title: dato.pageIssueList.title,
-            issues: dato.pageIssueList.issues.map(issue => {
-              return {
-                number: issue.number,
-                position: issue.position,
-                featured: issue.featured,
-                title: issue.title,
-              };
-            }),
           },
         }
       );
