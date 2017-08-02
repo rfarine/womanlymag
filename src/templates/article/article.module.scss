@@ -1,0 +1,22 @@
+@import '../../css/variables';
+
+.container {
+  display: flex;
+  justify-content: space-between;
+
+  > div {
+    flex: 1;
+  }
+}
+
+.content {
+  flex: 1;
+}
+
+.issue {
+  display: inline-block;
+  background: $pink;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 0.25em 0.5em;
+}

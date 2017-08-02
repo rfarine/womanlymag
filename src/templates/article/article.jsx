@@ -2,9 +2,7 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import _ from 'lodash';
 import config from '../../../gatsby-config.js';
-
-// Style
-// import style from './article.module.scss';
+import style from './article.module.scss';
 
 function getTags(tags) {
   const seoTags = _.flatMap(tags, (tag) => {
@@ -19,6 +17,38 @@ function getTags(tags) {
   return `${titleTags.join(', ')}`;
 };
 
+function renderContent(data) {
+  let content = [];
+
+  if (data.images) {
+    console.log('images?', data.images)
+    _.map(data.images, (image) => {
+      console.log('image', image)
+      content.push(<img src={image.image.url} />);
+    });
+  }
+
+  if (data.video) {}
+
+  if (data.audio) {}
+
+    console.log('content', content)
+
+  return (
+    <div className={style.content}>
+      {
+        _.map(content, (item) => {
+          return (
+            <div>
+              {item}
+            </div>
+          );
+        })
+      }
+    </div>
+  );
+}
+
 const Article = ({ data }) => {
   const article = data.markdownRemark.frontmatter;
 
@@ -28,9 +58,23 @@ const Article = ({ data }) => {
         title={`${article.title} | ${config.siteMetadata.title}`}
       />
 
-      <h1>{article.title}</h1>
-      <h2>{article.slug}</h2>
-      <p>{getTags(article.tags)}</p>
+      <div className={style.container}>
+        {renderContent(article)}
+
+        <div className={style.text}>
+          <div className={style.issue}>
+            { /* Note to self: For now, hardcoding this: */ }
+            Issue 1: Sex Ed
+          </div>
+          <h1>{article.title}</h1>
+          <h2>{article.author.name}</h2>
+          {
+            article.text &&
+            <p>{article.text}</p>
+          }
+          <p>{getTags(article.tags)}</p>
+        </div>
+      </div>
     </div>
   )
 };
@@ -45,6 +89,9 @@ export const pageQuery = graphql`
         slug
         title
         featured
+        author {
+          name
+        }
         tags {
           id
           seoMetaTags {

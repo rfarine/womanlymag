@@ -39,6 +39,7 @@ module.exports = (dato, root, i18n) => {
             frontmatter: {
               type: 'article',
               path: `articles/${article.slug}`,
+              author: article.author.toMap(),
               slug: article.slug,
               title: article.title,
               featured: article.featured,

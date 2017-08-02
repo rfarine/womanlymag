@@ -37,7 +37,7 @@ issue:
   articles:
     - id: '79595'
       itemType: article
-      updatedAt: '2017-07-28T00:15:51.157Z'
+      updatedAt: '2017-08-02T01:52:19.526Z'
       seoMetaTags:
         - tagName: title
           content: I am an example article
@@ -56,7 +56,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-07-28T00:15:51Z'
+            content: '2017-08-02T01:52:19Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -267,11 +267,64 @@ issue:
                 content: article
           title: audio
       featured: false
+      author:
+        id: '82012'
+        itemType: contributor
+        updatedAt: '2017-07-21T02:42:46.877Z'
+        seoMetaTags:
+          - tagName: title
+            content: Rae Farine
+          - tagName: meta
+            attributes:
+              property: 'og:title'
+              content: Rae Farine
+          - tagName: meta
+            attributes:
+              name: 'twitter:title'
+              content: Rae Farine
+          - tagName: meta
+            attributes:
+              name: 'twitter:card'
+              content: summary
+          - tagName: meta
+            attributes:
+              property: 'article:modified_time'
+              content: '2017-07-21T02:42:46Z'
+          - tagName: meta
+            attributes:
+              property: 'og:locale'
+              content: en_EN
+          - tagName: meta
+            attributes:
+              property: 'og:type'
+              content: article
+          - tagName: meta
+            attributes:
+              property: 'og:image'
+              content: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
+          - tagName: meta
+            attributes:
+              name: 'twitter:image'
+              content: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
+        position: 1
+        email: rfarine1027@gmail.com
+        socialMediaLinks:
+          - '82011'
+        bio: Rae Farine blah blah blah
+        image:
+          format: jpg
+          size: 339022
+          width: 1080
+          height: 1079
+          title: null
+          alt: null
+          url: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
+        name: Rae Farine
       slug: i-am-an-example-article
       title: I am an example article
     - id: '82764'
       itemType: article
-      updatedAt: '2017-07-31T17:39:49.949Z'
+      updatedAt: '2017-08-02T01:52:24.683Z'
       seoMetaTags:
         - tagName: title
           content: Another example article
@@ -290,7 +343,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-07-31T17:39:49Z'
+            content: '2017-08-02T01:52:24Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -346,11 +399,64 @@ issue:
                 content: article
           title: audio
       featured: false
+      author:
+        id: '82012'
+        itemType: contributor
+        updatedAt: '2017-07-21T02:42:46.877Z'
+        seoMetaTags:
+          - tagName: title
+            content: Rae Farine
+          - tagName: meta
+            attributes:
+              property: 'og:title'
+              content: Rae Farine
+          - tagName: meta
+            attributes:
+              name: 'twitter:title'
+              content: Rae Farine
+          - tagName: meta
+            attributes:
+              name: 'twitter:card'
+              content: summary
+          - tagName: meta
+            attributes:
+              property: 'article:modified_time'
+              content: '2017-07-21T02:42:46Z'
+          - tagName: meta
+            attributes:
+              property: 'og:locale'
+              content: en_EN
+          - tagName: meta
+            attributes:
+              property: 'og:type'
+              content: article
+          - tagName: meta
+            attributes:
+              property: 'og:image'
+              content: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
+          - tagName: meta
+            attributes:
+              name: 'twitter:image'
+              content: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
+        position: 1
+        email: rfarine1027@gmail.com
+        socialMediaLinks:
+          - '82011'
+        bio: Rae Farine blah blah blah
+        image:
+          format: jpg
+          size: 339022
+          width: 1080
+          height: 1079
+          title: null
+          alt: null
+          url: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
+        name: Rae Farine
       slug: another-example-article
       title: Another example article
     - id: '83495'
       itemType: article
-      updatedAt: '2017-07-27T22:29:23.871Z'
+      updatedAt: '2017-08-02T01:52:29.394Z'
       seoMetaTags:
         - tagName: title
           content: Again I need an article
@@ -369,7 +475,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-07-27T22:29:23Z'
+            content: '2017-08-02T01:52:29Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -425,11 +531,64 @@ issue:
                 content: article
           title: photography
       featured: false
+      author:
+        id: '82012'
+        itemType: contributor
+        updatedAt: '2017-07-21T02:42:46.877Z'
+        seoMetaTags:
+          - tagName: title
+            content: Rae Farine
+          - tagName: meta
+            attributes:
+              property: 'og:title'
+              content: Rae Farine
+          - tagName: meta
+            attributes:
+              name: 'twitter:title'
+              content: Rae Farine
+          - tagName: meta
+            attributes:
+              name: 'twitter:card'
+              content: summary
+          - tagName: meta
+            attributes:
+              property: 'article:modified_time'
+              content: '2017-07-21T02:42:46Z'
+          - tagName: meta
+            attributes:
+              property: 'og:locale'
+              content: en_EN
+          - tagName: meta
+            attributes:
+              property: 'og:type'
+              content: article
+          - tagName: meta
+            attributes:
+              property: 'og:image'
+              content: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
+          - tagName: meta
+            attributes:
+              name: 'twitter:image'
+              content: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
+        position: 1
+        email: rfarine1027@gmail.com
+        socialMediaLinks:
+          - '82011'
+        bio: Rae Farine blah blah blah
+        image:
+          format: jpg
+          size: 339022
+          width: 1080
+          height: 1079
+          title: null
+          alt: null
+          url: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
+        name: Rae Farine
       slug: again-i-need-an-article
       title: Again I need an article
     - id: '83496'
       itemType: article
-      updatedAt: '2017-07-27T22:29:59.373Z'
+      updatedAt: '2017-08-02T01:52:35.561Z'
       seoMetaTags:
         - tagName: title
           content: Omg Would You Believe I'm An Article?
@@ -448,7 +607,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-07-27T22:29:59Z'
+            content: '2017-08-02T01:52:35Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -512,11 +671,64 @@ issue:
                 content: article
           title: audio
       featured: false
+      author:
+        id: '82012'
+        itemType: contributor
+        updatedAt: '2017-07-21T02:42:46.877Z'
+        seoMetaTags:
+          - tagName: title
+            content: Rae Farine
+          - tagName: meta
+            attributes:
+              property: 'og:title'
+              content: Rae Farine
+          - tagName: meta
+            attributes:
+              name: 'twitter:title'
+              content: Rae Farine
+          - tagName: meta
+            attributes:
+              name: 'twitter:card'
+              content: summary
+          - tagName: meta
+            attributes:
+              property: 'article:modified_time'
+              content: '2017-07-21T02:42:46Z'
+          - tagName: meta
+            attributes:
+              property: 'og:locale'
+              content: en_EN
+          - tagName: meta
+            attributes:
+              property: 'og:type'
+              content: article
+          - tagName: meta
+            attributes:
+              property: 'og:image'
+              content: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
+          - tagName: meta
+            attributes:
+              name: 'twitter:image'
+              content: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
+        position: 1
+        email: rfarine1027@gmail.com
+        socialMediaLinks:
+          - '82011'
+        bio: Rae Farine blah blah blah
+        image:
+          format: jpg
+          size: 339022
+          width: 1080
+          height: 1079
+          title: null
+          alt: null
+          url: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
+        name: Rae Farine
       slug: omg-would-you-believe-i-m-an-article
       title: Omg Would You Believe I'm An Article?
     - id: '83940'
       itemType: article
-      updatedAt: '2017-07-29T19:58:23.935Z'
+      updatedAt: '2017-08-02T01:52:40.397Z'
       seoMetaTags:
         - tagName: title
           content: Another one
@@ -535,7 +747,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-07-29T19:58:23Z'
+            content: '2017-08-02T01:52:40Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -630,11 +842,64 @@ issue:
                 content: article
           title: film
       featured: false
+      author:
+        id: '82012'
+        itemType: contributor
+        updatedAt: '2017-07-21T02:42:46.877Z'
+        seoMetaTags:
+          - tagName: title
+            content: Rae Farine
+          - tagName: meta
+            attributes:
+              property: 'og:title'
+              content: Rae Farine
+          - tagName: meta
+            attributes:
+              name: 'twitter:title'
+              content: Rae Farine
+          - tagName: meta
+            attributes:
+              name: 'twitter:card'
+              content: summary
+          - tagName: meta
+            attributes:
+              property: 'article:modified_time'
+              content: '2017-07-21T02:42:46Z'
+          - tagName: meta
+            attributes:
+              property: 'og:locale'
+              content: en_EN
+          - tagName: meta
+            attributes:
+              property: 'og:type'
+              content: article
+          - tagName: meta
+            attributes:
+              property: 'og:image'
+              content: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
+          - tagName: meta
+            attributes:
+              name: 'twitter:image'
+              content: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
+        position: 1
+        email: rfarine1027@gmail.com
+        socialMediaLinks:
+          - '82011'
+        bio: Rae Farine blah blah blah
+        image:
+          format: jpg
+          size: 339022
+          width: 1080
+          height: 1079
+          title: null
+          alt: null
+          url: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
+        name: Rae Farine
       slug: another-one
       title: Another one
     - id: '83941'
       itemType: article
-      updatedAt: '2017-07-29T19:58:49.400Z'
+      updatedAt: '2017-08-02T01:52:45.126Z'
       seoMetaTags:
         - tagName: title
           content: Some more articles
@@ -653,7 +918,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-07-29T19:58:49Z'
+            content: '2017-08-02T01:52:45Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -717,6 +982,59 @@ issue:
                 content: article
           title: film
       featured: false
+      author:
+        id: '82012'
+        itemType: contributor
+        updatedAt: '2017-07-21T02:42:46.877Z'
+        seoMetaTags:
+          - tagName: title
+            content: Rae Farine
+          - tagName: meta
+            attributes:
+              property: 'og:title'
+              content: Rae Farine
+          - tagName: meta
+            attributes:
+              name: 'twitter:title'
+              content: Rae Farine
+          - tagName: meta
+            attributes:
+              name: 'twitter:card'
+              content: summary
+          - tagName: meta
+            attributes:
+              property: 'article:modified_time'
+              content: '2017-07-21T02:42:46Z'
+          - tagName: meta
+            attributes:
+              property: 'og:locale'
+              content: en_EN
+          - tagName: meta
+            attributes:
+              property: 'og:type'
+              content: article
+          - tagName: meta
+            attributes:
+              property: 'og:image'
+              content: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
+          - tagName: meta
+            attributes:
+              name: 'twitter:image'
+              content: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
+        position: 1
+        email: rfarine1027@gmail.com
+        socialMediaLinks:
+          - '82011'
+        bio: Rae Farine blah blah blah
+        image:
+          format: jpg
+          size: 339022
+          width: 1080
+          height: 1079
+          title: null
+          alt: null
+          url: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
+        name: Rae Farine
       slug: some-more-articles
       title: Some more articles
   featured: true
