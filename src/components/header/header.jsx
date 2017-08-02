@@ -3,11 +3,13 @@ import { Container } from 'react-responsive-grid';
 import Link from 'gatsby-link';
 import Input from '../input/input';
 import style from './header.module.scss';
+import logo from '../../assets/images/logo-fulltext.png';
 
 const Header = () => {
   return (
     <div>
-      <div className={style.title}>Womanly</div>
+      <img className={style.logo} src={logo} alt="Womanly" />
+      <div className={style.headerLine} />
 
       <div className={style.navigationContainer}>
         <Container style={{ maxWidth: 960 }}>

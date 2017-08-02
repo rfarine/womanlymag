@@ -1,11 +1,27 @@
 @import '../../css/variables';
 
-.title {
-  height: 30px;
+.headerLine {
   text-align: center;
 
   @include from(3) {
     border-bottom: $pink-border-width solid $pink;
+    padding-top: 6em;
+  }
+}
+
+.logo {
+  display: block;
+  margin: 0 auto;
+  padding: 2em 4em;
+
+  @include from(3) {
+    position: absolute;
+    max-width: 400px;
+    left: 0;
+    right: 0;
+    top: 28px;
+    margin: 0 auto;
+    padding: 0;
   }
 }
 
