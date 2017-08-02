@@ -10,7 +10,7 @@ import Header from '../components/header/header';
 import Footer from '../components/footer/footer';
 
 // Styles
-import '../css/index.module.scss';
+import '../css/index.scss';
 
 const Template = ({ children }) => {
   return (

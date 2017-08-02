@@ -36,7 +36,7 @@ tags:
           property: 'og:type'
           content: article
     title: audio
-thumbnail: 'https://www.datocms-assets.com/2593/1500926193-vulfpeck-women-s-premium-long-sleeve-t-shirt.jpg?'
+thumbnail: 'https://www.datocms-assets.com/2593/1501522784-barb.png?'
 images: []
 video: null
 audio: null

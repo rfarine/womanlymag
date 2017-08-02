@@ -271,7 +271,7 @@ issue:
       title: I am an example article
     - id: '82764'
       itemType: article
-      updatedAt: '2017-07-24T19:56:41.288Z'
+      updatedAt: '2017-07-31T17:39:49.949Z'
       seoMetaTags:
         - tagName: title
           content: Another example article
@@ -290,7 +290,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-07-24T19:56:41Z'
+            content: '2017-07-31T17:39:49Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -306,13 +306,13 @@ issue:
       video: null
       images: []
       thumbnail:
-        format: jpg
-        size: 8245
-        width: 100
-        height: 100
+        format: png
+        size: 23638
+        width: 127
+        height: 128
         title: null
         alt: null
-        url: 'https://www.datocms-assets.com/2593/1500926193-vulfpeck-women-s-premium-long-sleeve-t-shirt.jpg?'
+        url: 'https://www.datocms-assets.com/2593/1501522784-barb.png?'
       tags:
         - id: '79594'
           itemType: tag
