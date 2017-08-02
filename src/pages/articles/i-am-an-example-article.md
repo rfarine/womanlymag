@@ -173,22 +173,22 @@ tags:
           property: 'og:type'
           content: article
     title: audio
-thumbnail: 'https://www.datocms-assets.com/2593/1499531236-350x350.png?'
+thumbnail: 'https://www.datocms-assets.com/2593/1501644052-ewcxmdsmsqsfsthm3dhd.jpg?'
 images:
-  - id: '82010'
+  - id: '84589'
     itemType: image
-    updatedAt: '2017-07-21T02:32:39.676Z'
+    updatedAt: '2017-08-02T03:21:17.527Z'
     seoMetaTags:
       - tagName: title
-        content: Example Image
+        content: Sailor Moonnnnnnn
       - tagName: meta
         attributes:
           property: 'og:title'
-          content: Example Image
+          content: Sailor Moonnnnnnn
       - tagName: meta
         attributes:
           name: 'twitter:title'
-          content: Example Image
+          content: Sailor Moonnnnnnn
       - tagName: meta
         attributes:
           name: 'twitter:card'
@@ -196,7 +196,7 @@ images:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-07-21T02:32:39Z'
+          content: '2017-08-02T03:21:17Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -205,17 +205,74 @@ images:
         attributes:
           property: 'og:type'
           content: article
-    position: 1
+      - tagName: meta
+        attributes:
+          property: 'og:image'
+          content: 'https://www.datocms-assets.com/2593/1501644071-ewcxmdsmsqsfsthm3dhd.jpg?'
+      - tagName: meta
+        attributes:
+          name: 'twitter:image'
+          content: 'https://www.datocms-assets.com/2593/1501644071-ewcxmdsmsqsfsthm3dhd.jpg?'
+    position: 2
     image:
-      format: png
-      size: 12316
-      width: 100
-      height: 100
+      format: jpg
+      size: 372755
+      width: 1920
+      height: 1080
       title: null
       alt: null
-      url: 'https://www.datocms-assets.com/2593/1500604356-troll.png?'
-    caption: I have a caption.
-    title: Example Image
+      url: 'https://www.datocms-assets.com/2593/1501644071-ewcxmdsmsqsfsthm3dhd.jpg?'
+    caption: asdasdasda
+    title: Sailor Moonnnnnnn
+  - id: '84591'
+    itemType: image
+    updatedAt: '2017-08-02T03:21:41.146Z'
+    seoMetaTags:
+      - tagName: title
+        content: Another Image
+      - tagName: meta
+        attributes:
+          property: 'og:title'
+          content: Another Image
+      - tagName: meta
+        attributes:
+          name: 'twitter:title'
+          content: Another Image
+      - tagName: meta
+        attributes:
+          name: 'twitter:card'
+          content: summary
+      - tagName: meta
+        attributes:
+          property: 'article:modified_time'
+          content: '2017-08-02T03:21:41Z'
+      - tagName: meta
+        attributes:
+          property: 'og:locale'
+          content: en_EN
+      - tagName: meta
+        attributes:
+          property: 'og:type'
+          content: article
+      - tagName: meta
+        attributes:
+          property: 'og:image'
+          content: 'https://www.datocms-assets.com/2593/1501644093-55382_archer.jpg?'
+      - tagName: meta
+        attributes:
+          name: 'twitter:image'
+          content: 'https://www.datocms-assets.com/2593/1501644093-55382_archer.jpg?'
+    position: 3
+    image:
+      format: jpg
+      size: 541183
+      width: 3299
+      height: 2058
+      title: null
+      alt: null
+      url: 'https://www.datocms-assets.com/2593/1501644093-55382_archer.jpg?'
+    caption: sdfsdfsdf
+    title: Another Image
 video:
   url: 'https://vimeo.com/199623840'
   title: American Paradise

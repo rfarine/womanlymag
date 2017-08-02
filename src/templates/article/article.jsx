@@ -21,9 +21,7 @@ function renderContent(data) {
   let content = [];
 
   if (data.images) {
-    console.log('images?', data.images)
     _.map(data.images, (image) => {
-      console.log('image', image)
       content.push(<img src={image.image.url} />);
     });
   }
@@ -66,7 +64,7 @@ const Article = ({ data }) => {
             { /* Note to self: For now, hardcoding this: */ }
             Issue 1: Sex Ed
           </div>
-          <h1>{article.title}</h1>
+          <h1 className={style.title}>{article.title}</h1>
           <h2>{article.author.name}</h2>
           {
             article.text &&
