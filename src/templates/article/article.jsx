@@ -1,7 +1,8 @@
 import React from 'react';
 import Helmet from 'react-helmet';
 import _ from 'lodash';
-import ReactPlayer from 'react-player'
+import ReactPlayer from 'react-player';
+import ReactAudioPlayer from 'react-audio-player';
 import config from '../../../gatsby-config.js';
 import style from './article.module.scss';
 
@@ -23,20 +24,34 @@ function renderContent(data) {
 
   if (data.images) {
     _.map(data.images, (image) => {
-      content.push(<img src={image.image.url} />);
+      content.push(
+        <img
+          src={image.image.url}
+          alt={image.image.title}
+        />
+      );
     });
   }
 
   if (data.video) {
     content.push(
       <ReactPlayer
+        className={style.video}
         url={data.video.url}
         width={550}
       />
     );
   }
 
-  if (data.audio) {}
+  if (data.audio) {
+    content.push(
+      <ReactAudioPlayer
+        className={style.audio}
+        src={data.audio}
+        controls
+      />
+    );
+  }
 
   return (
     <div className={style.content}>
