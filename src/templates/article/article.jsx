@@ -1,6 +1,7 @@
 import React from 'react';
 import Helmet from 'react-helmet';
 import _ from 'lodash';
+import ReactPlayer from 'react-player'
 import config from '../../../gatsby-config.js';
 import style from './article.module.scss';
 
@@ -26,11 +27,16 @@ function renderContent(data) {
     });
   }
 
-  if (data.video) {}
+  if (data.video) {
+    content.push(
+      <ReactPlayer
+        url={data.video.url}
+        width={550}
+      />
+    );
+  }
 
   if (data.audio) {}
-
-    console.log('content', content)
 
   return (
     <div className={style.content}>
