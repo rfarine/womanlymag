@@ -3,7 +3,7 @@
 .container {
   display: block;
 
-  @include from(2) {
+  @include from(4) {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -43,8 +43,8 @@
 
 .video {
   > div {
-    width: 315px;
-    height: 177px !important;
+    width: 280px;
+    height: 158px !important;
     margin: 0 auto;
 
     @include between(2,3) {
