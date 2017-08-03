@@ -115,7 +115,10 @@ thumbnail: 'https://www.datocms-assets.com/2593/1501522784-barb.png?'
 images: []
 video: null
 audio: null
-text: null
+text: |-
+  Here is some text... Can I make it look pretty?
+
+  **I do not know.**
 resources: []
 ---
 

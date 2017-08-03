@@ -1,10 +1,15 @@
 import React from 'react';
 import Helmet from 'react-helmet';
 import _ from 'lodash';
+import Remarkable from 'remarkable';
+import RemarkableReactRenderer from 'remarkable-react';
 import ReactPlayer from 'react-player';
 import ReactAudioPlayer from 'react-audio-player';
 import config from '../../../gatsby-config.js';
 import style from './article.module.scss';
+
+const md = new Remarkable();
+md.renderer = new RemarkableReactRenderer();
 
 function getTags(tags) {
   const seoTags = _.flatMap(tags, (tag) => {
@@ -89,10 +94,9 @@ const Article = ({ data }) => {
           </div>
           <h1 className={style.title}>{article.title}</h1>
           <h2>{article.author.name}</h2>
-          {
-            article.text &&
-            <p>{article.text}</p>
-          }
+          <p>
+            {md.render(article.text)}
+          </p>
           <p>
             <strong>Tags: </strong>
             {getTags(article.tags)}

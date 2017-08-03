@@ -381,7 +381,7 @@ issue:
       title: I am an example article
     - id: '82764'
       itemType: article
-      updatedAt: '2017-08-02T01:52:24.683Z'
+      updatedAt: '2017-08-03T00:22:56.969Z'
       seoMetaTags:
         - tagName: title
           content: Another example article
@@ -400,7 +400,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-08-02T01:52:24Z'
+            content: '2017-08-03T00:22:56Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -411,7 +411,10 @@ issue:
             content: article
       position: 2
       resources: []
-      text: null
+      text: |-
+        Here is some text... Can I make it look pretty?
+
+        **I do not know.**
       audio: null
       video: null
       images: []
@@ -956,7 +959,7 @@ issue:
       title: Another one
     - id: '83941'
       itemType: article
-      updatedAt: '2017-08-02T01:52:45.126Z'
+      updatedAt: '2017-08-03T01:33:18.398Z'
       seoMetaTags:
         - tagName: title
           content: Some more articles
@@ -975,7 +978,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-08-02T01:52:45Z'
+            content: '2017-08-03T01:33:18Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -994,7 +997,12 @@ issue:
             content: 'https://www.datocms-assets.com/2593/1501358321-bougainvillea-temple-fire.jpg?'
       position: 6
       resources: []
-      text: ''
+      text: |-
+        Here is some text. It uses markdown.
+
+        *I don't know.*
+
+        Here is a fucking [link](http://google.com) to google.
       audio: null
       video: null
       images: []

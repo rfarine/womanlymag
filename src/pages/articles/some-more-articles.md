@@ -115,7 +115,12 @@ thumbnail: 'https://www.datocms-assets.com/2593/1501358321-bougainvillea-temple-
 images: []
 video: null
 audio: null
-text: ''
+text: |-
+  Here is some text. It uses markdown.
+
+  *I don't know.*
+
+  Here is a fucking [link](http://google.com) to google.
 resources: []
 ---
 

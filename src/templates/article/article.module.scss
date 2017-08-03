@@ -12,6 +12,15 @@
       flex: 1;
     }
   }
+
+  > a, a:link {
+    color: $blue;
+    text-decoration: underline;
+
+    &:hover {
+      color: $black;
+    }
+  }
 }
 
 .issue {
