@@ -2,6 +2,7 @@
 
 .container {
   height: 100%;
+  margin-bottom: 5em;
 
   @include between(1, 4) {
     margin: 0 5%;
