@@ -1,5 +1,4 @@
 module.exports = (dato, root, i18n) => {
-  // Issues
   root.directory('src/pages/', (publishedDir) => {
 
     if (dato.pageHome) {

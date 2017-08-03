@@ -7,7 +7,7 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/src`,
+        path: `${__dirname}/src/pages`,
         name: `pages`,
       },
     },
@@ -34,7 +34,6 @@ module.exports = {
       },
     },
     `gatsby-transformer-yaml`,
-    `gatsby-plugin-sharp`,
     `gatsby-plugin-catch-links`,
     `gatsby-plugin-sass`,
   ],

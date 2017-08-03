@@ -111,7 +111,7 @@ tags:
           property: 'og:type'
           content: article
     title: film
-thumbnail: 'https://www.datocms-assets.com/2593/1501358321-bougainvillea-temple-fire.jpg?'
+thumbnail: 'https://www.datocms-assets.com/2593/1501725775-laura-mvula.png?'
 images: []
 video: null
 audio: null

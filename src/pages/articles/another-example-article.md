@@ -111,8 +111,57 @@ tags:
           property: 'og:type'
           content: article
     title: audio
-thumbnail: 'https://www.datocms-assets.com/2593/1501522784-barb.png?'
-images: []
+thumbnail: 'https://www.datocms-assets.com/2593/1501725570-broad-city-s3-ep03-header-graphic.jpg?'
+images:
+  - id: '84803'
+    itemType: image
+    updatedAt: '2017-08-03T01:45:23.222Z'
+    seoMetaTags:
+      - tagName: title
+        content: asdasd
+      - tagName: meta
+        attributes:
+          property: 'og:title'
+          content: asdasd
+      - tagName: meta
+        attributes:
+          name: 'twitter:title'
+          content: asdasd
+      - tagName: meta
+        attributes:
+          name: 'twitter:card'
+          content: summary
+      - tagName: meta
+        attributes:
+          property: 'article:modified_time'
+          content: '2017-08-03T01:45:23Z'
+      - tagName: meta
+        attributes:
+          property: 'og:locale'
+          content: en_EN
+      - tagName: meta
+        attributes:
+          property: 'og:type'
+          content: article
+      - tagName: meta
+        attributes:
+          property: 'og:image'
+          content: 'https://www.datocms-assets.com/2593/1501724717-bem-react-fox.jpg?'
+      - tagName: meta
+        attributes:
+          name: 'twitter:image'
+          content: 'https://www.datocms-assets.com/2593/1501724717-bem-react-fox.jpg?'
+    position: 6
+    image:
+      format: jpg
+      size: 713268
+      width: 2500
+      height: 2500
+      title: null
+      alt: null
+      url: 'https://www.datocms-assets.com/2593/1501724717-bem-react-fox.jpg?'
+    caption: asdasdasd
+    title: asdasd
 video: null
 audio: null
 text: |-

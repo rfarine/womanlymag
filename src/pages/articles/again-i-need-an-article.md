@@ -111,8 +111,57 @@ tags:
           property: 'og:type'
           content: article
     title: photography
-thumbnail: 'https://www.datocms-assets.com/2593/1501194553-giphy-10.gif?'
-images: []
+thumbnail: 'https://www.datocms-assets.com/2593/1501724675-gu3ie8oaamc4vq9nfjyr.jpg?'
+images:
+  - id: '84802'
+    itemType: image
+    updatedAt: '2017-08-03T01:44:51.172Z'
+    seoMetaTags:
+      - tagName: title
+        content: Dany
+      - tagName: meta
+        attributes:
+          property: 'og:title'
+          content: Dany
+      - tagName: meta
+        attributes:
+          name: 'twitter:title'
+          content: Dany
+      - tagName: meta
+        attributes:
+          name: 'twitter:card'
+          content: summary
+      - tagName: meta
+        attributes:
+          property: 'article:modified_time'
+          content: '2017-08-03T01:44:51Z'
+      - tagName: meta
+        attributes:
+          property: 'og:locale'
+          content: en_EN
+      - tagName: meta
+        attributes:
+          property: 'og:type'
+          content: article
+      - tagName: meta
+        attributes:
+          property: 'og:image'
+          content: 'https://www.datocms-assets.com/2593/1501724687-gu3ie8oaamc4vq9nfjyr.jpg?'
+      - tagName: meta
+        attributes:
+          name: 'twitter:image'
+          content: 'https://www.datocms-assets.com/2593/1501724687-gu3ie8oaamc4vq9nfjyr.jpg?'
+    position: 5
+    image:
+      format: jpg
+      size: 29586
+      width: 620
+      height: 470
+      title: null
+      alt: null
+      url: 'https://www.datocms-assets.com/2593/1501724687-gu3ie8oaamc4vq9nfjyr.jpg?'
+    caption: asdads
+    title: Dany
 video: null
 audio: null
 text: rdssdfsdfsdfsdfsdfsdferserfsdfv

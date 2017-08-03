@@ -13,7 +13,6 @@
     "gatsby-link": "^1.3.2",
     "gatsby-plugin-catch-links": "latest",
     "gatsby-plugin-sass": "^1.0.1",
-    "gatsby-plugin-sharp": "latest",
     "gatsby-remark-autolink-headers": "latest",
     "gatsby-remark-copy-linked-files": "latest",
     "gatsby-remark-images": "latest",

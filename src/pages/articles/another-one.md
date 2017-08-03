@@ -142,7 +142,7 @@ tags:
           property: 'og:type'
           content: article
     title: film
-thumbnail: 'https://www.datocms-assets.com/2593/1501358288-coco-003-1.jpg?'
+thumbnail: 'https://www.datocms-assets.com/2593/1501725726-sophias1promo2_crop.jpg?'
 images: []
 video: null
 audio: null

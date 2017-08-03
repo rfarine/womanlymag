@@ -173,7 +173,7 @@ tags:
           property: 'og:type'
           content: article
     title: audio
-thumbnail: 'https://www.datocms-assets.com/2593/1501644052-ewcxmdsmsqsfsthm3dhd.jpg?'
+thumbnail: 'https://www.datocms-assets.com/2593/1501725614-1499124598-arya.jpg?'
 images:
   - id: '84589'
     itemType: image
@@ -224,20 +224,20 @@ images:
       url: 'https://www.datocms-assets.com/2593/1501644071-ewcxmdsmsqsfsthm3dhd.jpg?'
     caption: asdasdasda
     title: Sailor Moonnnnnnn
-  - id: '84591'
+  - id: '84801'
     itemType: image
-    updatedAt: '2017-08-02T03:21:41.146Z'
+    updatedAt: '2017-08-03T01:43:46.935Z'
     seoMetaTags:
       - tagName: title
-        content: Another Image
+        content: Arya is so cool
       - tagName: meta
         attributes:
           property: 'og:title'
-          content: Another Image
+          content: Arya is so cool
       - tagName: meta
         attributes:
           name: 'twitter:title'
-          content: Another Image
+          content: Arya is so cool
       - tagName: meta
         attributes:
           name: 'twitter:card'
@@ -245,7 +245,7 @@ images:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-08-02T03:21:41Z'
+          content: '2017-08-03T01:43:46Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -257,22 +257,22 @@ images:
       - tagName: meta
         attributes:
           property: 'og:image'
-          content: 'https://www.datocms-assets.com/2593/1501644093-55382_archer.jpg?'
+          content: 'https://www.datocms-assets.com/2593/1501724620-1499124598-arya.jpg?'
       - tagName: meta
         attributes:
           name: 'twitter:image'
-          content: 'https://www.datocms-assets.com/2593/1501644093-55382_archer.jpg?'
-    position: 3
+          content: 'https://www.datocms-assets.com/2593/1501724620-1499124598-arya.jpg?'
+    position: 4
     image:
       format: jpg
-      size: 541183
-      width: 3299
-      height: 2058
+      size: 272304
+      width: 1296
+      height: 648
       title: null
       alt: null
-      url: 'https://www.datocms-assets.com/2593/1501644093-55382_archer.jpg?'
-    caption: sdfsdfsdf
-    title: Another Image
+      url: 'https://www.datocms-assets.com/2593/1501724620-1499124598-arya.jpg?'
+    caption: ''
+    title: Arya is so cool
 video:
   url: 'https://vimeo.com/199623840'
   title: American Paradise

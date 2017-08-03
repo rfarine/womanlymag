@@ -1,7 +1,7 @@
 ---
 type: index
 path: /
-heroImage: 'https://www.datocms-assets.com/2593/1500939023-shutterstock_134707556.jpg?'
+heroImage: 'https://www.datocms-assets.com/2593/1501725298-6357202219347611681797455327_feminismss-post-imgopt1000x70.jpg?'
 issue:
   id: '79596'
   itemType: issue
@@ -37,7 +37,7 @@ issue:
   articles:
     - id: '79595'
       itemType: article
-      updatedAt: '2017-08-02T03:21:44.496Z'
+      updatedAt: '2017-08-03T02:00:20.658Z'
       seoMetaTags:
         - tagName: title
           content: I am an example article
@@ -56,7 +56,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-08-02T03:21:44Z'
+            content: '2017-08-03T02:00:20Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -68,11 +68,11 @@ issue:
         - tagName: meta
           attributes:
             property: 'og:image'
-            content: 'https://www.datocms-assets.com/2593/1501644052-ewcxmdsmsqsfsthm3dhd.jpg?'
+            content: 'https://www.datocms-assets.com/2593/1501725614-1499124598-arya.jpg?'
         - tagName: meta
           attributes:
             name: 'twitter:image'
-            content: 'https://www.datocms-assets.com/2593/1501644052-ewcxmdsmsqsfsthm3dhd.jpg?'
+            content: 'https://www.datocms-assets.com/2593/1501725614-1499124598-arya.jpg?'
       position: 1
       resources:
         - id: '82009'
@@ -172,20 +172,20 @@ issue:
             url: 'https://www.datocms-assets.com/2593/1501644071-ewcxmdsmsqsfsthm3dhd.jpg?'
           caption: asdasdasda
           title: Sailor Moonnnnnnn
-        - id: '84591'
+        - id: '84801'
           itemType: image
-          updatedAt: '2017-08-02T03:21:41.146Z'
+          updatedAt: '2017-08-03T01:43:46.935Z'
           seoMetaTags:
             - tagName: title
-              content: Another Image
+              content: Arya is so cool
             - tagName: meta
               attributes:
                 property: 'og:title'
-                content: Another Image
+                content: Arya is so cool
             - tagName: meta
               attributes:
                 name: 'twitter:title'
-                content: Another Image
+                content: Arya is so cool
             - tagName: meta
               attributes:
                 name: 'twitter:card'
@@ -193,7 +193,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-08-02T03:21:41Z'
+                content: '2017-08-03T01:43:46Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -205,30 +205,30 @@ issue:
             - tagName: meta
               attributes:
                 property: 'og:image'
-                content: 'https://www.datocms-assets.com/2593/1501644093-55382_archer.jpg?'
+                content: 'https://www.datocms-assets.com/2593/1501724620-1499124598-arya.jpg?'
             - tagName: meta
               attributes:
                 name: 'twitter:image'
-                content: 'https://www.datocms-assets.com/2593/1501644093-55382_archer.jpg?'
-          position: 3
+                content: 'https://www.datocms-assets.com/2593/1501724620-1499124598-arya.jpg?'
+          position: 4
           image:
             format: jpg
-            size: 541183
-            width: 3299
-            height: 2058
+            size: 272304
+            width: 1296
+            height: 648
             title: null
             alt: null
-            url: 'https://www.datocms-assets.com/2593/1501644093-55382_archer.jpg?'
-          caption: sdfsdfsdf
-          title: Another Image
+            url: 'https://www.datocms-assets.com/2593/1501724620-1499124598-arya.jpg?'
+          caption: ''
+          title: Arya is so cool
       thumbnail:
         format: jpg
-        size: 372755
-        width: 1920
-        height: 1080
+        size: 272304
+        width: 1296
+        height: 648
         title: null
         alt: null
-        url: 'https://www.datocms-assets.com/2593/1501644052-ewcxmdsmsqsfsthm3dhd.jpg?'
+        url: 'https://www.datocms-assets.com/2593/1501725614-1499124598-arya.jpg?'
       tags:
         - id: '79592'
           itemType: tag
@@ -381,7 +381,7 @@ issue:
       title: I am an example article
     - id: '82764'
       itemType: article
-      updatedAt: '2017-08-03T00:22:56.969Z'
+      updatedAt: '2017-08-03T01:59:35.356Z'
       seoMetaTags:
         - tagName: title
           content: Another example article
@@ -400,7 +400,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-08-03T00:22:56Z'
+            content: '2017-08-03T01:59:35Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -409,6 +409,14 @@ issue:
           attributes:
             property: 'og:type'
             content: article
+        - tagName: meta
+          attributes:
+            property: 'og:image'
+            content: 'https://www.datocms-assets.com/2593/1501725570-broad-city-s3-ep03-header-graphic.jpg?'
+        - tagName: meta
+          attributes:
+            name: 'twitter:image'
+            content: 'https://www.datocms-assets.com/2593/1501725570-broad-city-s3-ep03-header-graphic.jpg?'
       position: 2
       resources: []
       text: |-
@@ -417,15 +425,64 @@ issue:
         **I do not know.**
       audio: null
       video: null
-      images: []
+      images:
+        - id: '84803'
+          itemType: image
+          updatedAt: '2017-08-03T01:45:23.222Z'
+          seoMetaTags:
+            - tagName: title
+              content: asdasd
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: asdasd
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: asdasd
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-08-03T01:45:23Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1501724717-bem-react-fox.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1501724717-bem-react-fox.jpg?'
+          position: 6
+          image:
+            format: jpg
+            size: 713268
+            width: 2500
+            height: 2500
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1501724717-bem-react-fox.jpg?'
+          caption: asdasdasd
+          title: asdasd
       thumbnail:
-        format: png
-        size: 23638
-        width: 127
-        height: 128
+        format: jpg
+        size: 27152
+        width: 696
+        height: 450
         title: null
         alt: null
-        url: 'https://www.datocms-assets.com/2593/1501522784-barb.png?'
+        url: 'https://www.datocms-assets.com/2593/1501725570-broad-city-s3-ep03-header-graphic.jpg?'
       tags:
         - id: '79594'
           itemType: tag
@@ -516,7 +573,7 @@ issue:
       title: Another example article
     - id: '83495'
       itemType: article
-      updatedAt: '2017-08-02T01:52:29.394Z'
+      updatedAt: '2017-08-03T01:44:55.471Z'
       seoMetaTags:
         - tagName: title
           content: Again I need an article
@@ -535,7 +592,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-08-02T01:52:29Z'
+            content: '2017-08-03T01:44:55Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -544,20 +601,77 @@ issue:
           attributes:
             property: 'og:type'
             content: article
-      position: 3
+        - tagName: meta
+          attributes:
+            property: 'og:image'
+            content: 'https://www.datocms-assets.com/2593/1501724675-gu3ie8oaamc4vq9nfjyr.jpg?'
+        - tagName: meta
+          attributes:
+            name: 'twitter:image'
+            content: 'https://www.datocms-assets.com/2593/1501724675-gu3ie8oaamc4vq9nfjyr.jpg?'
+      position: 5
       resources: []
       text: rdssdfsdfsdfsdfsdfsdferserfsdfv
       audio: null
       video: null
-      images: []
+      images:
+        - id: '84802'
+          itemType: image
+          updatedAt: '2017-08-03T01:44:51.172Z'
+          seoMetaTags:
+            - tagName: title
+              content: Dany
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Dany
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Dany
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-08-03T01:44:51Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1501724687-gu3ie8oaamc4vq9nfjyr.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1501724687-gu3ie8oaamc4vq9nfjyr.jpg?'
+          position: 5
+          image:
+            format: jpg
+            size: 29586
+            width: 620
+            height: 470
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1501724687-gu3ie8oaamc4vq9nfjyr.jpg?'
+          caption: asdads
+          title: Dany
       thumbnail:
-        format: gif
-        size: 282482
-        width: 320
-        height: 180
+        format: jpg
+        size: 29586
+        width: 620
+        height: 470
         title: null
         alt: null
-        url: 'https://www.datocms-assets.com/2593/1501194553-giphy-10.gif?'
+        url: 'https://www.datocms-assets.com/2593/1501724675-gu3ie8oaamc4vq9nfjyr.jpg?'
       tags:
         - id: '79593'
           itemType: tag
@@ -648,7 +762,7 @@ issue:
       title: Again I need an article
     - id: '83496'
       itemType: article
-      updatedAt: '2017-08-02T01:52:35.561Z'
+      updatedAt: '2017-08-03T02:02:26.041Z'
       seoMetaTags:
         - tagName: title
           content: Omg Would You Believe I'm An Article?
@@ -667,7 +781,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-08-02T01:52:35Z'
+            content: '2017-08-03T02:02:26Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -679,25 +793,74 @@ issue:
         - tagName: meta
           attributes:
             property: 'og:image'
-            content: 'https://www.datocms-assets.com/2593/1501194590-3_all_pink_outfits-800x800.jpg?'
+            content: 'https://www.datocms-assets.com/2593/1501725434-archer-cheryl-tunt4.jpg?'
         - tagName: meta
           attributes:
             name: 'twitter:image'
-            content: 'https://www.datocms-assets.com/2593/1501194590-3_all_pink_outfits-800x800.jpg?'
-      position: 4
+            content: 'https://www.datocms-assets.com/2593/1501725434-archer-cheryl-tunt4.jpg?'
+      position: 3
       resources: []
       text: We are sooooooo fucking hip.
       audio: null
       video: null
-      images: []
+      images:
+        - id: '84804'
+          itemType: image
+          updatedAt: '2017-08-03T01:57:36.454Z'
+          seoMetaTags:
+            - tagName: title
+              content: Carol Cheryl Shirlene
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Carol Cheryl Shirlene
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Carol Cheryl Shirlene
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-08-03T01:57:36Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1501725452-archer-cheryl-tunt4.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1501725452-archer-cheryl-tunt4.jpg?'
+          position: 7
+          image:
+            format: jpg
+            size: 107451
+            width: 650
+            height: 360
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1501725452-archer-cheryl-tunt4.jpg?'
+          caption: asdasdas
+          title: Carol Cheryl Shirlene
       thumbnail:
         format: jpg
-        size: 142946
-        width: 800
-        height: 800
+        size: 107451
+        width: 650
+        height: 360
         title: null
         alt: null
-        url: 'https://www.datocms-assets.com/2593/1501194590-3_all_pink_outfits-800x800.jpg?'
+        url: 'https://www.datocms-assets.com/2593/1501725434-archer-cheryl-tunt4.jpg?'
       tags:
         - id: '79594'
           itemType: tag
@@ -788,7 +951,7 @@ issue:
       title: Omg Would You Believe I'm An Article?
     - id: '83940'
       itemType: article
-      updatedAt: '2017-08-02T01:52:40.397Z'
+      updatedAt: '2017-08-03T02:02:22.434Z'
       seoMetaTags:
         - tagName: title
           content: Another one
@@ -807,7 +970,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-08-02T01:52:40Z'
+            content: '2017-08-03T02:02:22Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -819,12 +982,12 @@ issue:
         - tagName: meta
           attributes:
             property: 'og:image'
-            content: 'https://www.datocms-assets.com/2593/1501358288-coco-003-1.jpg?'
+            content: 'https://www.datocms-assets.com/2593/1501725726-sophias1promo2_crop.jpg?'
         - tagName: meta
           attributes:
             name: 'twitter:image'
-            content: 'https://www.datocms-assets.com/2593/1501358288-coco-003-1.jpg?'
-      position: 5
+            content: 'https://www.datocms-assets.com/2593/1501725726-sophias1promo2_crop.jpg?'
+      position: 6
       resources: []
       text: hi hi hi doggo
       audio: null
@@ -832,12 +995,12 @@ issue:
       images: []
       thumbnail:
         format: jpg
-        size: 373343
-        width: 878
-        height: 1170
+        size: 210757
+        width: 550
+        height: 450
         title: null
         alt: null
-        url: 'https://www.datocms-assets.com/2593/1501358288-coco-003-1.jpg?'
+        url: 'https://www.datocms-assets.com/2593/1501725726-sophias1promo2_crop.jpg?'
       tags:
         - id: '79593'
           itemType: tag
@@ -959,7 +1122,7 @@ issue:
       title: Another one
     - id: '83941'
       itemType: article
-      updatedAt: '2017-08-03T01:33:18.398Z'
+      updatedAt: '2017-08-03T02:03:06.414Z'
       seoMetaTags:
         - tagName: title
           content: Some more articles
@@ -978,7 +1141,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-08-03T01:33:18Z'
+            content: '2017-08-03T02:03:06Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -990,12 +1153,12 @@ issue:
         - tagName: meta
           attributes:
             property: 'og:image'
-            content: 'https://www.datocms-assets.com/2593/1501358321-bougainvillea-temple-fire.jpg?'
+            content: 'https://www.datocms-assets.com/2593/1501725775-laura-mvula.png?'
         - tagName: meta
           attributes:
             name: 'twitter:image'
-            content: 'https://www.datocms-assets.com/2593/1501358321-bougainvillea-temple-fire.jpg?'
-      position: 6
+            content: 'https://www.datocms-assets.com/2593/1501725775-laura-mvula.png?'
+      position: 4
       resources: []
       text: |-
         Here is some text. It uses markdown.
@@ -1007,13 +1170,13 @@ issue:
       video: null
       images: []
       thumbnail:
-        format: jpg
-        size: 349200
-        width: 1440
-        height: 1440
+        format: png
+        size: 228727
+        width: 650
+        height: 440
         title: null
         alt: null
-        url: 'https://www.datocms-assets.com/2593/1501358321-bougainvillea-temple-fire.jpg?'
+        url: 'https://www.datocms-assets.com/2593/1501725775-laura-mvula.png?'
       tags:
         - id: '79592'
           itemType: tag
