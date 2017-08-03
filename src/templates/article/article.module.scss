@@ -1,16 +1,17 @@
 @import '../../css/variables';
 
 .container {
-  display: flex;
-  justify-content: space-between;
+  display: block;
 
-  > div {
-    flex: 1;
+  @include from(2) {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    > div {
+      flex: 1;
+    }
   }
-}
-
-.content {
-  flex: 1;
 }
 
 .issue {
@@ -19,18 +20,43 @@
   font-weight: 600;
   text-transform: uppercase;
   padding: 0.25em 0.5em;
+  margin-bottom: 1em;
 }
 
 .text {
-  margin-left: 1em;
+  > p {
+    padding: 1em 0;
+  }
+
+  @include from(2) {
+    margin-left: 1em;
+  }
 }
 
-.title {
-  margin: 0;
+.image {
+  width: 100%;
 }
 
 .video, .audio {
-  margin-bottom: 1.65rem;
+  margin: 0 auto 1.65rem auto;
+}
+
+.video {
+  > div {
+    width: 315px;
+    height: 177px !important;
+    margin: 0 auto;
+
+    @include between(2,3) {
+      width: 400px;
+      height: 225px !important;
+    }
+
+    @include from(3) {
+      width: 550px;
+      height: 309px !important;
+    }
+  }
 }
 
 .audio {

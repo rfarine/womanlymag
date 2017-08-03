@@ -26,6 +26,7 @@ function renderContent(data) {
     _.map(data.images, (image) => {
       content.push(
         <img
+          className={style.image}
           src={image.image.url}
           alt={image.image.title}
         />
@@ -38,7 +39,8 @@ function renderContent(data) {
       <ReactPlayer
         className={style.video}
         url={data.video.url}
-        width={550}
+        width="100%"
+        height="auto"
       />
     );
   }
@@ -91,7 +93,10 @@ const Article = ({ data }) => {
             article.text &&
             <p>{article.text}</p>
           }
-          <p>{getTags(article.tags)}</p>
+          <p>
+            <strong>Tags: </strong>
+            {getTags(article.tags)}
+          </p>
         </div>
       </div>
     </div>
