@@ -43,7 +43,11 @@
 }
 
 .largeText {
-  font-size: 20px;
+  font-size: 26px;
+
+  @include from(2) {
+    font-size: 20px;
+  }
 }
 
 .image {
