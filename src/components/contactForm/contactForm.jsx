@@ -5,6 +5,12 @@ import Button from '../button/button';
 
 import style from './contactForm.module.scss';
 
+const encode = (data) => {
+  return Object.keys(data)
+    .map(key => encodeURIComponent(key) + "=" + encodeURIComponent(data[key]))
+    .join("&");
+}
+
 class ContactForm extends Component {
   state = {
     name: '',
@@ -14,19 +20,17 @@ class ContactForm extends Component {
   }
 
   handleSubmit = (event) => {
-    const body = {
-      'form-name': 'contact',
-      name: this.state.name,
-      email: this.state.email,
-      comments: this.state.comments,
-    };
-
     fetch('/', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/x-www-form-urlencoded',
       },
-      body: JSON.stringify(body)
+      body: encode({
+          'form-name': 'contact',
+          name: this.state.name,
+          email: this.state.email,
+          comments: this.state.comments,
+        })
       })
       .then(() => {
         this.setState({
