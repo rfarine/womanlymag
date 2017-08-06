@@ -3,6 +3,8 @@ import Input from '../input/input';
 import TextArea from '../textArea/textArea';
 import Button from '../button/button';
 
+import style from './contactForm.module.scss';
+
 class ContactForm extends Component {
   state = {
     submitted: false,
@@ -17,9 +19,9 @@ class ContactForm extends Component {
   render() {
     if (this.state.submitted) {
       return (
-        <div>
-          <h3>Thank you!</h3>
-          <p>We will be in touch.</p>
+        <div className={style.thanks}>
+          <h3>Thanks for reaching out!</h3>
+          <p>We will be in touch with you shortly.</p>
         </div>
       );
     }
