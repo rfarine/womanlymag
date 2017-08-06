@@ -4,7 +4,16 @@
   height: 100%;
   margin-bottom: 5em;
 
+  a, a:link {
+    color: $black;
+    text-decoration: underline;
+
+    &:hover {
+      color: $blue;
+    }
+  }
+
   @include between(1, 4) {
-    margin: 0 5%;
+    margin: 0 5% 5% 5%;
   }
 }

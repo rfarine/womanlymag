@@ -62,25 +62,28 @@ module.exports = (dato, root, i18n) => {
           frontmatter: {
             type: 'about',
             path: `${dato.pageAbout.slug}`,
+            slug: dato.pageAbout.slug,
             title: dato.pageAbout.title,
+            text: dato.pageAbout.text,
             contributors: dato.pageAbout.contributors.toMap(),
           },
         }
       );
     }
 
-    if (dato.pageGlossary) {
-      publishedDir.createPost(
-        'glossary.md', 'yaml', {
-          frontmatter: {
-            type: 'glossary',
-            path: `${dato.pageGlossary.slug}`,
-            title: dato.pageGlossary.title,
-            definitions: dato.pageGlossary.definitions.toMap(),
-          },
-        }
-      );
-    }
+    // No glossary for now.
+    // if (dato.pageGlossary) {
+    //   publishedDir.createPost(
+    //     'glossary.md', 'yaml', {
+    //       frontmatter: {
+    //         type: 'glossary',
+    //         path: `${dato.pageGlossary.slug}`,
+    //         title: dato.pageGlossary.title,
+    //         definitions: dato.pageGlossary.definitions.toMap(),
+    //       },
+    //     }
+    //   );
+    // }
 
     if (dato.pageResourceList) {
       publishedDir.createPost(

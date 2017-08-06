@@ -4,7 +4,7 @@ path: articles/another-one
 author:
   id: '82012'
   itemType: contributor
-  updatedAt: '2017-07-21T02:42:46.877Z'
+  updatedAt: '2017-08-06T17:09:39.553Z'
   seoMetaTags:
     - tagName: title
       content: Rae Farine
@@ -23,7 +23,7 @@ author:
     - tagName: meta
       attributes:
         property: 'article:modified_time'
-        content: '2017-07-21T02:42:46Z'
+        content: '2017-08-06T17:09:39Z'
     - tagName: meta
       attributes:
         property: 'og:locale'
@@ -41,7 +41,6 @@ author:
         name: 'twitter:image'
         content: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
   position: 1
-  email: rfarine1027@gmail.com
   socialMediaLinks:
     - id: '82011'
       itemType: social_media_link
@@ -67,6 +66,7 @@ author:
       url: 'http://instagram.com/raelikestarwars'
       service: Instagram
   bio: Rae Farine blah blah blah
+  title: Software Engineer
   image:
     format: jpg
     size: 339022
@@ -146,8 +146,8 @@ thumbnail: 'https://www.datocms-assets.com/2593/1501725726-sophias1promo2_crop.j
 images: []
 video: null
 audio: null
-text: hi hi hi doggo
+text: I am so cool.
 resources: []
-textOnLeft: null
+textOnLeft: false
 ---
 

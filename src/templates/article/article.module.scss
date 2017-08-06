@@ -3,15 +3,6 @@
 .container {
   display: block;
 
-  > a, a:link {
-    color: $blue;
-    text-decoration: underline;
-
-    &:hover {
-      color: $black;
-    }
-  }
-
   @include from(4) {
     display: flex;
     flex-wrap: wrap;
