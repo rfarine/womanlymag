@@ -1,0 +1,66 @@
+@import '../../css/variables';
+
+.component {
+  @include from(3) {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2em;
+  }
+}
+
+.image {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 200px;
+  width: 200px;
+
+  @include from(3) {
+    height: 125px;
+    width: 125px;
+  }
+}
+
+.text {
+  display: block;
+  text-align: center;
+
+  @include from(3) {
+    text-align: left;
+    margin-left: 3em;
+  }
+}
+
+.name {
+  display: block;
+  text-align: center;
+
+  @include from(3) {
+    text-align: left;
+    font-size: 20px;
+    font-weight: 700;
+    margin-right: 0.5em;
+  }
+}
+
+.bio {
+  font-weight: 200;
+
+  @include from(3) {
+    margin-top: 1em;
+  }
+}
+
+.links {
+  > li {
+    display: inline-block;
+    margin-right: 1em;
+
+    &:last-of-type {
+      margin-right: 0;
+    }
+  }
+}

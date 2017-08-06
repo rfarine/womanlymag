@@ -7,18 +7,23 @@ import style from './input.module.scss';
 
 const Input = ({
   button,
+  fullWidth,
   hiddenLabel,
   label,
   name,
   placeholder,
   required,
 }) => {
+  const componentClasses = cn(style.component, {
+    [style.fullWidth]: fullWidth,
+  });
+
   const inputClasses = cn(style.input, {
     [style.withButton]: button,
   });
 
   return (
-    <span>
+    <span className={componentClasses}>
       <label
         className={hiddenLabel ? style.hiddenLabel : style.label}
         htmlFor={name}
@@ -47,6 +52,7 @@ const Input = ({
 
 Input.defaultProps = {
   button: null,
+  fullWidth: false,
   hiddenLabel: false,
   required: false,
 };
@@ -58,6 +64,7 @@ Input.propTypes = {
     onClick: PropTypes.func,
     text: PropTypes.string,
   }),
+  fullWidth: PropTypes.bool,
   hiddenLabel: PropTypes.bool,
   label: PropTypes.string.isRequired,
   name: PropTypes.string.isRequired,

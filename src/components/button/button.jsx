@@ -24,10 +24,7 @@ const Button = ({
 };
 
 Button.defaultProps = {
-  button: null,
-  hiddenLabel: false,
   onClick: null,
-  required: false,
   type: 'submit',
 };
 

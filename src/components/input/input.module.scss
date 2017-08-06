@@ -1,5 +1,16 @@
 @import '../../css/variables';
 
+.component {
+  display: block;
+}
+
+.fullWidth {
+  > input,
+  > textarea {
+    width: 100%;
+  }
+}
+
 .hiddenLabel {
   height: 1px;
   margin: -1px;

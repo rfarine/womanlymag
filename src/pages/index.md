@@ -328,7 +328,7 @@ issue:
       author:
         id: '82012'
         itemType: contributor
-        updatedAt: '2017-07-21T02:42:46.877Z'
+        updatedAt: '2017-08-06T17:09:39.553Z'
         seoMetaTags:
           - tagName: title
             content: Rae Farine
@@ -347,7 +347,7 @@ issue:
           - tagName: meta
             attributes:
               property: 'article:modified_time'
-              content: '2017-07-21T02:42:46Z'
+              content: '2017-08-06T17:09:39Z'
           - tagName: meta
             attributes:
               property: 'og:locale'
@@ -365,10 +365,10 @@ issue:
               name: 'twitter:image'
               content: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
         position: 1
-        email: rfarine1027@gmail.com
         socialMediaLinks:
           - '82011'
         bio: Rae Farine blah blah blah
+        title: Software Engineer
         image:
           format: jpg
           size: 339022
@@ -521,7 +521,7 @@ issue:
       author:
         id: '82012'
         itemType: contributor
-        updatedAt: '2017-07-21T02:42:46.877Z'
+        updatedAt: '2017-08-06T17:09:39.553Z'
         seoMetaTags:
           - tagName: title
             content: Rae Farine
@@ -540,7 +540,7 @@ issue:
           - tagName: meta
             attributes:
               property: 'article:modified_time'
-              content: '2017-07-21T02:42:46Z'
+              content: '2017-08-06T17:09:39Z'
           - tagName: meta
             attributes:
               property: 'og:locale'
@@ -558,10 +558,10 @@ issue:
               name: 'twitter:image'
               content: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
         position: 1
-        email: rfarine1027@gmail.com
         socialMediaLinks:
           - '82011'
         bio: Rae Farine blah blah blah
+        title: Software Engineer
         image:
           format: jpg
           size: 339022
@@ -713,7 +713,7 @@ issue:
       author:
         id: '82012'
         itemType: contributor
-        updatedAt: '2017-07-21T02:42:46.877Z'
+        updatedAt: '2017-08-06T17:09:39.553Z'
         seoMetaTags:
           - tagName: title
             content: Rae Farine
@@ -732,7 +732,7 @@ issue:
           - tagName: meta
             attributes:
               property: 'article:modified_time'
-              content: '2017-07-21T02:42:46Z'
+              content: '2017-08-06T17:09:39Z'
           - tagName: meta
             attributes:
               property: 'og:locale'
@@ -750,10 +750,10 @@ issue:
               name: 'twitter:image'
               content: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
         position: 1
-        email: rfarine1027@gmail.com
         socialMediaLinks:
           - '82011'
         bio: Rae Farine blah blah blah
+        title: Software Engineer
         image:
           format: jpg
           size: 339022
@@ -767,7 +767,7 @@ issue:
       title: Omg Would You Believe I'm An Article?
     - id: '83940'
       itemType: article
-      updatedAt: '2017-08-03T02:02:22.434Z'
+      updatedAt: '2017-08-06T17:38:41.245Z'
       seoMetaTags:
         - tagName: title
           content: Another one
@@ -786,7 +786,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-08-03T02:02:22Z'
+            content: '2017-08-06T17:38:41Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -804,9 +804,9 @@ issue:
             name: 'twitter:image'
             content: 'https://www.datocms-assets.com/2593/1501725726-sophias1promo2_crop.jpg?'
       position: 6
-      textOnLeft: null
+      textOnLeft: false
       resources: []
-      text: hi hi hi doggo
+      text: I am so cool.
       audio: null
       video: null
       images: []
@@ -885,7 +885,7 @@ issue:
       author:
         id: '82012'
         itemType: contributor
-        updatedAt: '2017-07-21T02:42:46.877Z'
+        updatedAt: '2017-08-06T17:09:39.553Z'
         seoMetaTags:
           - tagName: title
             content: Rae Farine
@@ -904,7 +904,7 @@ issue:
           - tagName: meta
             attributes:
               property: 'article:modified_time'
-              content: '2017-07-21T02:42:46Z'
+              content: '2017-08-06T17:09:39Z'
           - tagName: meta
             attributes:
               property: 'og:locale'
@@ -922,10 +922,10 @@ issue:
               name: 'twitter:image'
               content: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
         position: 1
-        email: rfarine1027@gmail.com
         socialMediaLinks:
           - '82011'
         bio: Rae Farine blah blah blah
+        title: Software Engineer
         image:
           format: jpg
           size: 339022
@@ -1031,7 +1031,7 @@ issue:
       author:
         id: '82012'
         itemType: contributor
-        updatedAt: '2017-07-21T02:42:46.877Z'
+        updatedAt: '2017-08-06T17:09:39.553Z'
         seoMetaTags:
           - tagName: title
             content: Rae Farine
@@ -1050,7 +1050,7 @@ issue:
           - tagName: meta
             attributes:
               property: 'article:modified_time'
-              content: '2017-07-21T02:42:46Z'
+              content: '2017-08-06T17:09:39Z'
           - tagName: meta
             attributes:
               property: 'og:locale'
@@ -1068,10 +1068,10 @@ issue:
               name: 'twitter:image'
               content: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
         position: 1
-        email: rfarine1027@gmail.com
         socialMediaLinks:
           - '82011'
         bio: Rae Farine blah blah blah
+        title: Software Engineer
         image:
           format: jpg
           size: 339022
@@ -1203,7 +1203,7 @@ issue:
       author:
         id: '82012'
         itemType: contributor
-        updatedAt: '2017-07-21T02:42:46.877Z'
+        updatedAt: '2017-08-06T17:09:39.553Z'
         seoMetaTags:
           - tagName: title
             content: Rae Farine
@@ -1222,7 +1222,7 @@ issue:
           - tagName: meta
             attributes:
               property: 'article:modified_time'
-              content: '2017-07-21T02:42:46Z'
+              content: '2017-08-06T17:09:39Z'
           - tagName: meta
             attributes:
               property: 'og:locale'
@@ -1240,10 +1240,10 @@ issue:
               name: 'twitter:image'
               content: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
         position: 1
-        email: rfarine1027@gmail.com
         socialMediaLinks:
           - '82011'
         bio: Rae Farine blah blah blah
+        title: Software Engineer
         image:
           format: jpg
           size: 339022
