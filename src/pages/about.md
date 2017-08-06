@@ -3,7 +3,10 @@ type: about
 path: about
 slug: about
 title: About
-text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer id gravida sapien. Maecenas porta tristique mauris ut vehicula. Nulla imperdiet neque non est vestibulum, sit amet pretium velit interdum. Duis in hendrerit nisi, et aliquet nunc. Sed ut nibh vel justo eleifend venenatis. Nulla sed urna quam. Quisque arcu enim, semper viverra risus nec, facilisis porta risus. Mauris est nisi, luctus eget sollicitudin vitae, fermentum non purus. Duis vitae neque lectus. In interdum nec neque eu blandit.'
+text: |-
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer id gravida sapien. Maecenas porta tristique mauris ut vehicula. Nulla imperdiet neque non est vestibulum, sit amet pretium velit interdum. Duis in hendrerit nisi, et aliquet nunc. Sed ut nibh vel justo eleifend venenatis. Nulla sed urna quam. Quisque arcu enim, semper viverra risus nec, facilisis porta risus. Mauris est nisi, luctus eget sollicitudin vitae, fermentum non purus. Duis vitae neque lectus. In interdum nec neque eu blandit.
+
+  Duis in hendrerit nisi, et aliquet nunc. Sed ut nibh vel justo eleifend venenatis. Nulla sed urna quam. Quisque arcu enim, semper viverra risus nec, facilisis porta risus. Mauris est nisi, luctus eget sollicitudin vitae, fermentum non purus. Duis vitae neque lectus. In interdum nec neque eu blandit.
 contributors:
   - id: '82012'
     itemType: contributor
