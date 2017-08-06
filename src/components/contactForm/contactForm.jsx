@@ -81,6 +81,7 @@ class ContactForm extends Component {
             name="name"
             onChange={this.handleChange}
             placeholder="Name"
+            value={this.state.name}
             fullWidth
             required
           />
@@ -91,6 +92,7 @@ class ContactForm extends Component {
             name="email"
             onChange={this.handleChange}
             placeholder="example@email.com"
+            value={this.state.email}
             fullWidth
             required
           />
@@ -101,6 +103,7 @@ class ContactForm extends Component {
             name="comments"
             onChange={this.handleChange}
             placeholder="Comments"
+            value={this.state.comments}
             fullWidth
             required
           />

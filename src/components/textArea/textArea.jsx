@@ -7,8 +7,10 @@ const TextArea = ({
   fullWidth,
   label,
   name,
+  onChange,
   placeholder,
   required,
+  value,
 }) => {
   const componentClasses = cn(style.component, {
     [style.fullWidth]: fullWidth,
@@ -26,8 +28,10 @@ const TextArea = ({
         aria-label={name}
         className={style.textArea}
         name={name}
+        onChange={onChange}
         placeholder={placeholder}
         required={required}
+        value={value}
       />
     </span>
   );
@@ -42,8 +46,10 @@ TextArea.propTypes = {
   fullWidth: PropTypes.bool,
   label: PropTypes.string.isRequired,
   name: PropTypes.string.isRequired,
+  onChange: PropTypes.func,
   placeholder: PropTypes.string.isRequired,
   required: PropTypes.bool,
+  value: PropTypes.string,
 };
 
 export default TextArea;
