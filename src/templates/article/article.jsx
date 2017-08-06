@@ -15,7 +15,7 @@ md.renderer = new RemarkableReactRenderer();
 
 export class Article extends Component {
   state = {
-    hasOneContentItem: 0,
+    hasOneContentItem: false,
     images: [],
     lightboxOpen: false,
     photoIndex: 0,
@@ -144,6 +144,10 @@ export class Article extends Component {
           controls
         />
       );
+    }
+
+    if (!article.audio && !article.video && article.images.length === 0) {
+      return null;
     }
 
     return (
