@@ -7,12 +7,43 @@ import style from './contactForm.module.scss';
 
 class ContactForm extends Component {
   state = {
+    name: '',
+    email: '',
+    comments: '',
     submitted: false,
   }
 
-  onSubmit = () => {
+  handleSubmit = (event) => {
+    const body = {
+      'form-name': 'contact',
+      name: this.state.name,
+      email: this.state.email,
+      comments: this.state.comments,
+    };
+
+    fetch('/', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/x-www-form-urlencoded',
+      },
+      body: JSON.stringify(body)
+      })
+      .then(() => {
+        this.setState({
+          submitted: true,
+        });
+      })
+      .catch(error => alert(error));
+
+    event.preventDefault();
+  }
+
+  handleChange = (event) => {
+    const name = event.target.name;
+    const value = event.target.value;
+
     this.setState({
-      submitted: true,
+      [name]: value,
     });
   }
 
@@ -30,7 +61,7 @@ class ContactForm extends Component {
       <form
         name="contact"
         method="post"
-        onSubmit={this.onSubmit}
+        onSubmit={this.handleSubmit}
         data-netlify="true"
         data-netlify-honeypot="bot-field"
       >
@@ -44,6 +75,7 @@ class ContactForm extends Component {
           <Input
             label="Name"
             name="name"
+            onChange={this.handleChange}
             placeholder="Name"
             fullWidth
             required
@@ -53,6 +85,7 @@ class ContactForm extends Component {
           <Input
             label="Email"
             name="email"
+            onChange={this.handleChange}
             placeholder="example@email.com"
             fullWidth
             required
@@ -62,6 +95,7 @@ class ContactForm extends Component {
           <TextArea
             label="Comments"
             name="comments"
+            onChange={this.handleChange}
             placeholder="Comments"
             fullWidth
             required

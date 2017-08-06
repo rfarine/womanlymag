@@ -11,8 +11,10 @@ const Input = ({
   hiddenLabel,
   label,
   name,
+  onChange,
   placeholder,
   required,
+  value,
 }) => {
   const componentClasses = cn(style.component, {
     [style.fullWidth]: fullWidth,
@@ -34,8 +36,10 @@ const Input = ({
         aria-label={name}
         className={inputClasses}
         name={name}
+        onChange={onChange}
         placeholder={placeholder}
         required={required}
+        value={value}
       />
       {
         button &&
@@ -68,9 +72,10 @@ Input.propTypes = {
   hiddenLabel: PropTypes.bool,
   label: PropTypes.string.isRequired,
   name: PropTypes.string.isRequired,
-  onClickButton: PropTypes.func,
+  onChange: PropTypes.func,
   placeholder: PropTypes.string.isRequired,
   required: PropTypes.bool,
+  value: PropTypes.string,
 };
 
 export default Input;
