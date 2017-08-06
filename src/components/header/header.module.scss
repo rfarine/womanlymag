@@ -49,12 +49,6 @@
     width: 100%;
     background: $pink;
     border-bottom: 1px solid darken($pink, 10%);
-
-    &:last-of-type {
-      background: white;
-      margin-top: 2em;
-      border-bottom: 0;
-    }
   }
 
   @include from(3) {
