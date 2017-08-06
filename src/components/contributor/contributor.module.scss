@@ -44,6 +44,7 @@
   font-size: 24px;
 
   @include from(3) {
+    display: inline-block;
     text-align: left;
     font-size: 20px;
     font-weight: 700;
