@@ -3,6 +3,15 @@
 .container {
   display: block;
 
+  > a, a:link {
+    color: $blue;
+    text-decoration: underline;
+
+    &:hover {
+      color: $black;
+    }
+  }
+
   @include from(4) {
     display: flex;
     flex-wrap: wrap;
@@ -11,14 +20,14 @@
     > div {
       flex: 1;
     }
-  }
 
-  > a, a:link {
-    color: $blue;
-    text-decoration: underline;
+    &.textOnLeft {
+      flex-direction: row-reverse;
 
-    &:hover {
-      color: $black;
+      .text {
+        margin-left: 0;
+        margin-right: 1em;
+      }
     }
   }
 }

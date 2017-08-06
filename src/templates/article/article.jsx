@@ -115,6 +115,10 @@ export class Article extends Component {
   render() {
     const article = this.props.data.markdownRemark.frontmatter;
 
+    const containerClasses = cn(style.container, {
+      [style.textOnLeft]: article.textOnLeft,
+    });
+
     const paragraphClasses = cn({
       [style.largeText]: this.state.hasOneContentItem &&
         this.state.textLength <= 200
@@ -126,7 +130,7 @@ export class Article extends Component {
           title={`${article.title} | ${config.siteMetadata.title}`}
         />
 
-        <div className={style.container}>
+        <div className={containerClasses}>
           {this.renderContent()}
 
           <div className={style.text}>
@@ -190,6 +194,7 @@ export const pageQuery = graphql`
           url
           description
         }
+        textOnLeft
       }
     }
   }

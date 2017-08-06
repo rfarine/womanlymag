@@ -148,5 +148,6 @@ video: null
 audio: null
 text: asdasdasdasdasd ad asd asd asd
 resources: []
+textOnLeft: null
 ---
 

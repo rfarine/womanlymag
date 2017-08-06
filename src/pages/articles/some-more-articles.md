@@ -122,5 +122,6 @@ text: |-
 
   Here is a fucking [link](http://google.com) to google.
 resources: []
+textOnLeft: null
 ---
 

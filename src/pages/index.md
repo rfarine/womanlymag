@@ -74,6 +74,7 @@ issue:
             name: 'twitter:image'
             content: 'https://www.datocms-assets.com/2593/1501725614-1499124598-arya.jpg?'
       position: 1
+      textOnLeft: null
       resources:
         - id: '82009'
           itemType: resource
@@ -418,6 +419,7 @@ issue:
             name: 'twitter:image'
             content: 'https://www.datocms-assets.com/2593/1501725570-broad-city-s3-ep03-header-graphic.jpg?'
       position: 2
+      textOnLeft: null
       resources: []
       text: |-
         Here is some text... Can I make it look pretty?
@@ -573,7 +575,7 @@ issue:
       title: Another example article
     - id: '83496'
       itemType: article
-      updatedAt: '2017-08-03T02:02:26.041Z'
+      updatedAt: '2017-08-06T15:38:56.510Z'
       seoMetaTags:
         - tagName: title
           content: Omg Would You Believe I'm An Article?
@@ -592,7 +594,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-08-03T02:02:26Z'
+            content: '2017-08-06T15:38:56Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -610,8 +612,11 @@ issue:
             name: 'twitter:image'
             content: 'https://www.datocms-assets.com/2593/1501725434-archer-cheryl-tunt4.jpg?'
       position: 3
+      textOnLeft: true
       resources: []
-      text: We are sooooooo fucking hip.
+      text: |-
+        Cheryl: You guys, I'm kinda freaking out. Is it OK if I glue up? 
+        Malory Archer: It's your house.
       audio: null
       video: null
       images:
@@ -799,6 +804,7 @@ issue:
             name: 'twitter:image'
             content: 'https://www.datocms-assets.com/2593/1501725726-sophias1promo2_crop.jpg?'
       position: 6
+      textOnLeft: null
       resources: []
       text: hi hi hi doggo
       audio: null
@@ -970,6 +976,7 @@ issue:
             name: 'twitter:image'
             content: 'https://www.datocms-assets.com/2593/1501725775-laura-mvula.png?'
       position: 4
+      textOnLeft: null
       resources: []
       text: |-
         Here is some text. It uses markdown.
@@ -1115,6 +1122,7 @@ issue:
             name: 'twitter:image'
             content: 'https://www.datocms-assets.com/2593/1501771450-0caa4073c8f798b6430819bb451ab2f7-morghulis-valar-valar-dohaeris.jpg?'
       position: 7
+      textOnLeft: null
       resources: []
       text: asdasdasdasdasd ad asd asd asd
       audio: null

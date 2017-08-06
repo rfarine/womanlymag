@@ -318,5 +318,6 @@ resources:
     description: I am the googles.
     url: 'http://google.com'
     title: Example Resource
+textOnLeft: null
 ---
 
