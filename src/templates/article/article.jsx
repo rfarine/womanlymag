@@ -3,6 +3,7 @@ import Helmet from 'react-helmet';
 import _ from 'lodash';
 import Remarkable from 'remarkable';
 import RemarkableReactRenderer from 'remarkable-react';
+import Lightbox from 'react-image-lightbox';
 import ReactPlayer from 'react-player';
 import ReactAudioPlayer from 'react-audio-player';
 import cn from 'classnames';
@@ -15,6 +16,9 @@ md.renderer = new RemarkableReactRenderer();
 export class Article extends Component {
   state = {
     hasOneContentItem: 0,
+    images: [],
+    lightboxOpen: false,
+    photoIndex: 0,
     textLength: 0,
   }
 
@@ -28,6 +32,38 @@ export class Article extends Component {
         textLength: article.text.length,
       });
     }
+
+    if (article.images) {
+      const imageUrls = _.map(article.images, (image) => {
+        return image.image.url;
+      });
+
+      this.setState({
+        images: imageUrls,
+      });
+    }
+  }
+
+  toggleLightbox = () => {
+    this.setState({
+      lightboxOpen: !this.state.lightboxOpen,
+    });
+  }
+
+  onPrevImage = () => {
+    const { images, photoIndex } = this.state;
+
+    this.setState({
+      photoIndex: (photoIndex + images.length - 1) % images.length,
+    });
+  }
+
+  onNextImage = () => {
+    const { images, photoIndex } = this.state;
+
+    this.setState({
+      photoIndex: (photoIndex + 1) % images.length,
+    })
   }
 
   hasOneContentItem = () => {
@@ -59,6 +95,16 @@ export class Article extends Component {
     return `${titleTags.join(', ')}`;
   }
 
+  onClickImage = (image) => {
+    const imageUrl = image.image.url;
+
+    this.setState({
+      photoIndex: this.state.images.indexOf(imageUrl),
+    }, () => {
+      this.toggleLightbox();
+    });
+  }
+
   renderContent = (data) => {
     const article = this.props.data.markdownRemark.frontmatter;
 
@@ -66,12 +112,15 @@ export class Article extends Component {
 
     if (article.images) {
       _.map(article.images, (image) => {
+        const onClickImage = this.onClickImage.bind(this, image);
         content.push(
-          <img
-            className={style.image}
-            src={image.image.url}
-            alt={image.image.title}
-          />
+          <div onClick={onClickImage}>
+            <img
+              className={style.image}
+              src={image.image.url}
+              alt={image.image.title}
+            />
+          </div>
         );
       });
     }
@@ -114,6 +163,7 @@ export class Article extends Component {
 
   render() {
     const article = this.props.data.markdownRemark.frontmatter;
+    const { images, photoIndex } = this.state;
 
     const containerClasses = cn(style.container, {
       [style.textOnLeft]: article.textOnLeft,
@@ -149,6 +199,18 @@ export class Article extends Component {
             </p>
           </div>
         </div>
+
+        {
+          this.state.lightboxOpen &&
+          <Lightbox
+            mainSrc={images[photoIndex]}
+            nextSrc={images[(photoIndex + 1) % images.length]}
+            prevSrc={images[(photoIndex + images.length - 1) % images.length]}
+            onCloseRequest={this.toggleLightbox}
+            onMovePrevRequest={this.onPrevImage}
+            onMoveNextRequest={this.onNextImage}
+          />
+        }
       </div>
     );
   }
