@@ -1,7 +1,6 @@
 import React from 'react';
 import { Container } from 'react-responsive-grid';
 import Link from 'gatsby-link';
-import Input from '../input/input';
 import style from './header.module.scss';
 import logo from '../../assets/images/logo-fulltext.png';
 
@@ -28,18 +27,6 @@ const Header = () => {
               <Link to='/resources' className={style.link}>
                 Resources
               </Link>
-            </li>
-            <li>
-              <Input
-                button={{
-                  onClick: () => alert(1),
-                  text: 'Search',
-                }}
-                label="Search"
-                name="search"
-                placeholder="Search Articles"
-                hiddenLabel
-              />
             </li>
           </ul>
         </Container>

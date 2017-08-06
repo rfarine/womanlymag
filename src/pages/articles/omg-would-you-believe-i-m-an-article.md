@@ -164,7 +164,10 @@ images:
     title: Carol Cheryl Shirlene
 video: null
 audio: null
-text: We are sooooooo fucking hip.
+text: |-
+  Cheryl: You guys, I'm kinda freaking out. Is it OK if I glue up? 
+  Malory Archer: It's your house.
 resources: []
+textOnLeft: true
 ---
 

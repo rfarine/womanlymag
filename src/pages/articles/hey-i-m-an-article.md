@@ -1,6 +1,6 @@
 ---
 type: article
-path: articles/again-i-need-an-article
+path: articles/hey-i-m-an-article
 author:
   id: '82012'
   itemType: contributor
@@ -76,10 +76,41 @@ author:
     alt: null
     url: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
   name: Rae Farine
-slug: again-i-need-an-article
-title: Again I need an article
+slug: hey-i-m-an-article
+title: Hey I'm an Article
 featured: false
 tags:
+  - id: '79594'
+    itemType: tag
+    updatedAt: '2017-07-08T16:26:43.522Z'
+    seoMetaTags:
+      - tagName: title
+        content: audio
+      - tagName: meta
+        attributes:
+          property: 'og:title'
+          content: audio
+      - tagName: meta
+        attributes:
+          name: 'twitter:title'
+          content: audio
+      - tagName: meta
+        attributes:
+          name: 'twitter:card'
+          content: summary
+      - tagName: meta
+        attributes:
+          property: 'article:modified_time'
+          content: '2017-07-08T16:26:43Z'
+      - tagName: meta
+        attributes:
+          property: 'og:locale'
+          content: en_EN
+      - tagName: meta
+        attributes:
+          property: 'og:type'
+          content: article
+    title: audio
   - id: '79593'
     itemType: tag
     updatedAt: '2017-07-08T16:26:39.462Z'
@@ -111,60 +142,12 @@ tags:
           property: 'og:type'
           content: article
     title: photography
-thumbnail: 'https://www.datocms-assets.com/2593/1501724675-gu3ie8oaamc4vq9nfjyr.jpg?'
-images:
-  - id: '84802'
-    itemType: image
-    updatedAt: '2017-08-03T01:44:51.172Z'
-    seoMetaTags:
-      - tagName: title
-        content: Dany
-      - tagName: meta
-        attributes:
-          property: 'og:title'
-          content: Dany
-      - tagName: meta
-        attributes:
-          name: 'twitter:title'
-          content: Dany
-      - tagName: meta
-        attributes:
-          name: 'twitter:card'
-          content: summary
-      - tagName: meta
-        attributes:
-          property: 'article:modified_time'
-          content: '2017-08-03T01:44:51Z'
-      - tagName: meta
-        attributes:
-          property: 'og:locale'
-          content: en_EN
-      - tagName: meta
-        attributes:
-          property: 'og:type'
-          content: article
-      - tagName: meta
-        attributes:
-          property: 'og:image'
-          content: 'https://www.datocms-assets.com/2593/1501724687-gu3ie8oaamc4vq9nfjyr.jpg?'
-      - tagName: meta
-        attributes:
-          name: 'twitter:image'
-          content: 'https://www.datocms-assets.com/2593/1501724687-gu3ie8oaamc4vq9nfjyr.jpg?'
-    position: 5
-    image:
-      format: jpg
-      size: 29586
-      width: 620
-      height: 470
-      title: null
-      alt: null
-      url: 'https://www.datocms-assets.com/2593/1501724687-gu3ie8oaamc4vq9nfjyr.jpg?'
-    caption: asdads
-    title: Dany
+thumbnail: 'https://www.datocms-assets.com/2593/1501771450-0caa4073c8f798b6430819bb451ab2f7-morghulis-valar-valar-dohaeris.jpg?'
+images: []
 video: null
 audio: null
-text: rdssdfsdfsdfsdfsdfsdferserfsdfv
+text: asdasdasdasdasd ad asd asd asd
 resources: []
+textOnLeft: null
 ---
 

@@ -49,6 +49,7 @@ module.exports = (dato, root, i18n) => {
               audio: article.audio && article.audio.url(),
               text: article.text,
               resources: article.resources && article.resources.toMap(),
+              textOnLeft: article.textOnLeft,
             },
           }
         );

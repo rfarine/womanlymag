@@ -169,5 +169,6 @@ text: |-
 
   **I do not know.**
 resources: []
+textOnLeft: null
 ---
 

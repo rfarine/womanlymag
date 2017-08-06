@@ -5,7 +5,7 @@ heroImage: 'https://www.datocms-assets.com/2593/1501725298-635720221934761168179
 issue:
   id: '79596'
   itemType: issue
-  updatedAt: '2017-07-29T19:59:57.300Z'
+  updatedAt: '2017-08-06T14:42:11.685Z'
   seoMetaTags:
     - tagName: title
       content: Test Issue
@@ -24,7 +24,7 @@ issue:
     - tagName: meta
       attributes:
         property: 'article:modified_time'
-        content: '2017-07-29T19:59:57Z'
+        content: '2017-08-06T14:42:11Z'
     - tagName: meta
       attributes:
         property: 'og:locale'
@@ -37,18 +37,18 @@ issue:
   articles:
     - id: '79595'
       itemType: article
-      updatedAt: '2017-08-03T02:00:20.658Z'
+      updatedAt: '2017-08-03T14:13:00.777Z'
       seoMetaTags:
         - tagName: title
-          content: I am an example article
+          content: I am an example article!
         - tagName: meta
           attributes:
             property: 'og:title'
-            content: I am an example article
+            content: I am an example article!
         - tagName: meta
           attributes:
             name: 'twitter:title'
-            content: I am an example article
+            content: I am an example article!
         - tagName: meta
           attributes:
             name: 'twitter:card'
@@ -56,7 +56,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-08-03T02:00:20Z'
+            content: '2017-08-03T14:13:00Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -74,6 +74,7 @@ issue:
             name: 'twitter:image'
             content: 'https://www.datocms-assets.com/2593/1501725614-1499124598-arya.jpg?'
       position: 1
+      textOnLeft: null
       resources:
         - id: '82009'
           itemType: resource
@@ -378,7 +379,7 @@ issue:
           url: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
         name: Rae Farine
       slug: i-am-an-example-article
-      title: I am an example article
+      title: I am an example article!
     - id: '82764'
       itemType: article
       updatedAt: '2017-08-03T01:59:35.356Z'
@@ -418,6 +419,7 @@ issue:
             name: 'twitter:image'
             content: 'https://www.datocms-assets.com/2593/1501725570-broad-city-s3-ep03-header-graphic.jpg?'
       position: 2
+      textOnLeft: null
       resources: []
       text: |-
         Here is some text... Can I make it look pretty?
@@ -571,198 +573,9 @@ issue:
         name: Rae Farine
       slug: another-example-article
       title: Another example article
-    - id: '83495'
-      itemType: article
-      updatedAt: '2017-08-03T01:44:55.471Z'
-      seoMetaTags:
-        - tagName: title
-          content: Again I need an article
-        - tagName: meta
-          attributes:
-            property: 'og:title'
-            content: Again I need an article
-        - tagName: meta
-          attributes:
-            name: 'twitter:title'
-            content: Again I need an article
-        - tagName: meta
-          attributes:
-            name: 'twitter:card'
-            content: summary
-        - tagName: meta
-          attributes:
-            property: 'article:modified_time'
-            content: '2017-08-03T01:44:55Z'
-        - tagName: meta
-          attributes:
-            property: 'og:locale'
-            content: en_EN
-        - tagName: meta
-          attributes:
-            property: 'og:type'
-            content: article
-        - tagName: meta
-          attributes:
-            property: 'og:image'
-            content: 'https://www.datocms-assets.com/2593/1501724675-gu3ie8oaamc4vq9nfjyr.jpg?'
-        - tagName: meta
-          attributes:
-            name: 'twitter:image'
-            content: 'https://www.datocms-assets.com/2593/1501724675-gu3ie8oaamc4vq9nfjyr.jpg?'
-      position: 5
-      resources: []
-      text: rdssdfsdfsdfsdfsdfsdferserfsdfv
-      audio: null
-      video: null
-      images:
-        - id: '84802'
-          itemType: image
-          updatedAt: '2017-08-03T01:44:51.172Z'
-          seoMetaTags:
-            - tagName: title
-              content: Dany
-            - tagName: meta
-              attributes:
-                property: 'og:title'
-                content: Dany
-            - tagName: meta
-              attributes:
-                name: 'twitter:title'
-                content: Dany
-            - tagName: meta
-              attributes:
-                name: 'twitter:card'
-                content: summary
-            - tagName: meta
-              attributes:
-                property: 'article:modified_time'
-                content: '2017-08-03T01:44:51Z'
-            - tagName: meta
-              attributes:
-                property: 'og:locale'
-                content: en_EN
-            - tagName: meta
-              attributes:
-                property: 'og:type'
-                content: article
-            - tagName: meta
-              attributes:
-                property: 'og:image'
-                content: 'https://www.datocms-assets.com/2593/1501724687-gu3ie8oaamc4vq9nfjyr.jpg?'
-            - tagName: meta
-              attributes:
-                name: 'twitter:image'
-                content: 'https://www.datocms-assets.com/2593/1501724687-gu3ie8oaamc4vq9nfjyr.jpg?'
-          position: 5
-          image:
-            format: jpg
-            size: 29586
-            width: 620
-            height: 470
-            title: null
-            alt: null
-            url: 'https://www.datocms-assets.com/2593/1501724687-gu3ie8oaamc4vq9nfjyr.jpg?'
-          caption: asdads
-          title: Dany
-      thumbnail:
-        format: jpg
-        size: 29586
-        width: 620
-        height: 470
-        title: null
-        alt: null
-        url: 'https://www.datocms-assets.com/2593/1501724675-gu3ie8oaamc4vq9nfjyr.jpg?'
-      tags:
-        - id: '79593'
-          itemType: tag
-          updatedAt: '2017-07-08T16:26:39.462Z'
-          seoMetaTags:
-            - tagName: title
-              content: photography
-            - tagName: meta
-              attributes:
-                property: 'og:title'
-                content: photography
-            - tagName: meta
-              attributes:
-                name: 'twitter:title'
-                content: photography
-            - tagName: meta
-              attributes:
-                name: 'twitter:card'
-                content: summary
-            - tagName: meta
-              attributes:
-                property: 'article:modified_time'
-                content: '2017-07-08T16:26:39Z'
-            - tagName: meta
-              attributes:
-                property: 'og:locale'
-                content: en_EN
-            - tagName: meta
-              attributes:
-                property: 'og:type'
-                content: article
-          title: photography
-      featured: false
-      author:
-        id: '82012'
-        itemType: contributor
-        updatedAt: '2017-07-21T02:42:46.877Z'
-        seoMetaTags:
-          - tagName: title
-            content: Rae Farine
-          - tagName: meta
-            attributes:
-              property: 'og:title'
-              content: Rae Farine
-          - tagName: meta
-            attributes:
-              name: 'twitter:title'
-              content: Rae Farine
-          - tagName: meta
-            attributes:
-              name: 'twitter:card'
-              content: summary
-          - tagName: meta
-            attributes:
-              property: 'article:modified_time'
-              content: '2017-07-21T02:42:46Z'
-          - tagName: meta
-            attributes:
-              property: 'og:locale'
-              content: en_EN
-          - tagName: meta
-            attributes:
-              property: 'og:type'
-              content: article
-          - tagName: meta
-            attributes:
-              property: 'og:image'
-              content: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
-          - tagName: meta
-            attributes:
-              name: 'twitter:image'
-              content: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
-        position: 1
-        email: rfarine1027@gmail.com
-        socialMediaLinks:
-          - '82011'
-        bio: Rae Farine blah blah blah
-        image:
-          format: jpg
-          size: 339022
-          width: 1080
-          height: 1079
-          title: null
-          alt: null
-          url: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
-        name: Rae Farine
-      slug: again-i-need-an-article
-      title: Again I need an article
     - id: '83496'
       itemType: article
-      updatedAt: '2017-08-03T02:02:26.041Z'
+      updatedAt: '2017-08-06T15:38:56.510Z'
       seoMetaTags:
         - tagName: title
           content: Omg Would You Believe I'm An Article?
@@ -781,7 +594,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-08-03T02:02:26Z'
+            content: '2017-08-06T15:38:56Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -799,8 +612,11 @@ issue:
             name: 'twitter:image'
             content: 'https://www.datocms-assets.com/2593/1501725434-archer-cheryl-tunt4.jpg?'
       position: 3
+      textOnLeft: true
       resources: []
-      text: We are sooooooo fucking hip.
+      text: |-
+        Cheryl: You guys, I'm kinda freaking out. Is it OK if I glue up? 
+        Malory Archer: It's your house.
       audio: null
       video: null
       images:
@@ -988,6 +804,7 @@ issue:
             name: 'twitter:image'
             content: 'https://www.datocms-assets.com/2593/1501725726-sophias1promo2_crop.jpg?'
       position: 6
+      textOnLeft: null
       resources: []
       text: hi hi hi doggo
       audio: null
@@ -1159,6 +976,7 @@ issue:
             name: 'twitter:image'
             content: 'https://www.datocms-assets.com/2593/1501725775-laura-mvula.png?'
       position: 4
+      textOnLeft: null
       resources: []
       text: |-
         Here is some text. It uses markdown.
@@ -1265,6 +1083,178 @@ issue:
         name: Rae Farine
       slug: some-more-articles
       title: Some more articles
+    - id: '84919'
+      itemType: article
+      updatedAt: '2017-08-06T14:30:11.581Z'
+      seoMetaTags:
+        - tagName: title
+          content: Hey I'm an Article
+        - tagName: meta
+          attributes:
+            property: 'og:title'
+            content: Hey I'm an Article
+        - tagName: meta
+          attributes:
+            name: 'twitter:title'
+            content: Hey I'm an Article
+        - tagName: meta
+          attributes:
+            name: 'twitter:card'
+            content: summary
+        - tagName: meta
+          attributes:
+            property: 'article:modified_time'
+            content: '2017-08-06T14:30:11Z'
+        - tagName: meta
+          attributes:
+            property: 'og:locale'
+            content: en_EN
+        - tagName: meta
+          attributes:
+            property: 'og:type'
+            content: article
+        - tagName: meta
+          attributes:
+            property: 'og:image'
+            content: 'https://www.datocms-assets.com/2593/1501771450-0caa4073c8f798b6430819bb451ab2f7-morghulis-valar-valar-dohaeris.jpg?'
+        - tagName: meta
+          attributes:
+            name: 'twitter:image'
+            content: 'https://www.datocms-assets.com/2593/1501771450-0caa4073c8f798b6430819bb451ab2f7-morghulis-valar-valar-dohaeris.jpg?'
+      position: 7
+      textOnLeft: null
+      resources: []
+      text: asdasdasdasdasd ad asd asd asd
+      audio: null
+      video: null
+      images: []
+      thumbnail:
+        format: jpg
+        size: 68803
+        width: 550
+        height: 550
+        title: null
+        alt: null
+        url: 'https://www.datocms-assets.com/2593/1501771450-0caa4073c8f798b6430819bb451ab2f7-morghulis-valar-valar-dohaeris.jpg?'
+      tags:
+        - id: '79594'
+          itemType: tag
+          updatedAt: '2017-07-08T16:26:43.522Z'
+          seoMetaTags:
+            - tagName: title
+              content: audio
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: audio
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: audio
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-07-08T16:26:43Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+          title: audio
+        - id: '79593'
+          itemType: tag
+          updatedAt: '2017-07-08T16:26:39.462Z'
+          seoMetaTags:
+            - tagName: title
+              content: photography
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: photography
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: photography
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-07-08T16:26:39Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+          title: photography
+      featured: false
+      author:
+        id: '82012'
+        itemType: contributor
+        updatedAt: '2017-07-21T02:42:46.877Z'
+        seoMetaTags:
+          - tagName: title
+            content: Rae Farine
+          - tagName: meta
+            attributes:
+              property: 'og:title'
+              content: Rae Farine
+          - tagName: meta
+            attributes:
+              name: 'twitter:title'
+              content: Rae Farine
+          - tagName: meta
+            attributes:
+              name: 'twitter:card'
+              content: summary
+          - tagName: meta
+            attributes:
+              property: 'article:modified_time'
+              content: '2017-07-21T02:42:46Z'
+          - tagName: meta
+            attributes:
+              property: 'og:locale'
+              content: en_EN
+          - tagName: meta
+            attributes:
+              property: 'og:type'
+              content: article
+          - tagName: meta
+            attributes:
+              property: 'og:image'
+              content: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
+          - tagName: meta
+            attributes:
+              name: 'twitter:image'
+              content: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
+        position: 1
+        email: rfarine1027@gmail.com
+        socialMediaLinks:
+          - '82011'
+        bio: Rae Farine blah blah blah
+        image:
+          format: jpg
+          size: 339022
+          width: 1080
+          height: 1079
+          title: null
+          alt: null
+          url: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
+        name: Rae Farine
+      slug: hey-i-m-an-article
+      title: Hey I'm an Article
   featured: true
   title: Test Issue
   number: 0

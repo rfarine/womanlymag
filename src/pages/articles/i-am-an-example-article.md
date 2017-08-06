@@ -77,7 +77,7 @@ author:
     url: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
   name: Rae Farine
 slug: i-am-an-example-article
-title: I am an example article
+title: I am an example article!
 featured: false
 tags:
   - id: '79592'
@@ -318,5 +318,6 @@ resources:
     description: I am the googles.
     url: 'http://google.com'
     title: Example Resource
+textOnLeft: null
 ---
 
