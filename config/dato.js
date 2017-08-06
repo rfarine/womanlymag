@@ -92,7 +92,7 @@ module.exports = (dato, root, i18n) => {
             type: 'resources',
             path: `${dato.pageResourceList.slug}`,
             title: dato.pageResourceList.title,
-            resource: dato.pageResourceList.resources.toMap(),
+            resources: dato.pageResourceList.resources.toMap(),
           },
         }
       );
