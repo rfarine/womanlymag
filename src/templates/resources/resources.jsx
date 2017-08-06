@@ -1,12 +1,30 @@
 import React from 'react';
+import _ from 'lodash';
+import style from './resources.module.scss';
 
 const Resources = ({ data }) => {
-  const footer = data.markdownRemark.frontmatter;
+  const resourcesPage = data.markdownRemark.frontmatter;
+
+  const resources = _.map(resourcesPage.resources, (resource) => {
+    return (
+      <li>
+        <a
+          href={resource.url}
+          title={resource.title}
+        >
+          {resource.title}
+        </a>
+        <span>
+          {` - ${resource.description}`}
+        </span>
+      </li>
+    );
+  });
 
   return (
-    <div>
-      Resources here.
-    </div>
+    <ul className={style.list}>
+      {resources}
+    </ul>
   )
 };
 
@@ -17,8 +35,7 @@ export const pageQuery = graphql`
     markdownRemark(frontmatter: { type: { eq: $type } }) {
       frontmatter {
         title
-        resource {
-          position
+        resources {
           description
           url
           title
