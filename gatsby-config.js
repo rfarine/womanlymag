@@ -33,6 +33,12 @@ module.exports = {
         ],
       },
     },
+    {
+    resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: 'UA-105571821-1',
+      },
+    },
     `gatsby-transformer-yaml`,
     `gatsby-plugin-catch-links`,
     `gatsby-plugin-sass`,
