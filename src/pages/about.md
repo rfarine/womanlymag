@@ -10,7 +10,7 @@ text: |-
 contributors:
   - id: '82012'
     itemType: contributor
-    updatedAt: '2017-08-06T17:09:39.553Z'
+    updatedAt: '2017-08-29T22:38:19.115Z'
     seoMetaTags:
       - tagName: title
         content: Rae Farine
@@ -29,7 +29,7 @@ contributors:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-08-06T17:09:39Z'
+          content: '2017-08-29T22:38:19Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -71,8 +71,8 @@ contributors:
         position: 1
         url: 'http://instagram.com/raelikestarwars'
         service: Instagram
-    bio: Rae Farine blah blah blah
-    title: Software Engineer
+    bio: Bio
+    title: Principal Software Engineer
     image:
       format: jpg
       size: 339022
@@ -133,171 +133,5 @@ contributors:
       alt: null
       url: 'https://www.datocms-assets.com/2593/1502034727-12778712_1146871268659213_3069258825841510694_o.jpg?'
     name: Aisha Khan
-  - id: '85161'
-    itemType: contributor
-    updatedAt: '2017-08-06T17:33:00.809Z'
-    seoMetaTags:
-      - tagName: title
-        content: Someone Else
-      - tagName: meta
-        attributes:
-          property: 'og:title'
-          content: Someone Else
-      - tagName: meta
-        attributes:
-          name: 'twitter:title'
-          content: Someone Else
-      - tagName: meta
-        attributes:
-          name: 'twitter:card'
-          content: summary
-      - tagName: meta
-        attributes:
-          property: 'article:modified_time'
-          content: '2017-08-06T17:33:00Z'
-      - tagName: meta
-        attributes:
-          property: 'og:locale'
-          content: en_EN
-      - tagName: meta
-        attributes:
-          property: 'og:type'
-          content: article
-      - tagName: meta
-        attributes:
-          property: 'og:image'
-          content: 'https://www.datocms-assets.com/2593/1502040230-broad-city-s3-ep03-header-graphic.jpg?'
-      - tagName: meta
-        attributes:
-          name: 'twitter:image'
-          content: 'https://www.datocms-assets.com/2593/1502040230-broad-city-s3-ep03-header-graphic.jpg?'
-    position: 3
-    socialMediaLinks:
-      - id: '85157'
-        itemType: social_media_link
-        updatedAt: '2017-08-06T17:24:49.107Z'
-        seoMetaTags:
-          - tagName: meta
-            attributes:
-              name: 'twitter:card'
-              content: summary
-          - tagName: meta
-            attributes:
-              property: 'article:modified_time'
-              content: '2017-08-06T17:24:49Z'
-          - tagName: meta
-            attributes:
-              property: 'og:locale'
-              content: en_EN
-          - tagName: meta
-            attributes:
-              property: 'og:type'
-              content: article
-        position: 2
-        url: 'http://facebook.com/asdasdasd'
-        service: Facebook
-      - id: '85158'
-        itemType: social_media_link
-        updatedAt: '2017-08-06T17:24:58.530Z'
-        seoMetaTags:
-          - tagName: meta
-            attributes:
-              name: 'twitter:card'
-              content: summary
-          - tagName: meta
-            attributes:
-              property: 'article:modified_time'
-              content: '2017-08-06T17:24:58Z'
-          - tagName: meta
-            attributes:
-              property: 'og:locale'
-              content: en_EN
-          - tagName: meta
-            attributes:
-              property: 'og:type'
-              content: article
-        position: 3
-        url: 'http://instagram.com/asdasdas'
-        service: Instagram
-      - id: '85159'
-        itemType: social_media_link
-        updatedAt: '2017-08-06T17:25:07.098Z'
-        seoMetaTags:
-          - tagName: meta
-            attributes:
-              name: 'twitter:card'
-              content: summary
-          - tagName: meta
-            attributes:
-              property: 'article:modified_time'
-              content: '2017-08-06T17:25:07Z'
-          - tagName: meta
-            attributes:
-              property: 'og:locale'
-              content: en_EN
-          - tagName: meta
-            attributes:
-              property: 'og:type'
-              content: article
-        position: 4
-        url: 'http://twitter.com/asdasd'
-        service: Twitter
-      - id: '85160'
-        itemType: social_media_link
-        updatedAt: '2017-08-06T17:25:15.471Z'
-        seoMetaTags:
-          - tagName: meta
-            attributes:
-              name: 'twitter:card'
-              content: summary
-          - tagName: meta
-            attributes:
-              property: 'article:modified_time'
-              content: '2017-08-06T17:25:15Z'
-          - tagName: meta
-            attributes:
-              property: 'og:locale'
-              content: en_EN
-          - tagName: meta
-            attributes:
-              property: 'og:type'
-              content: article
-        position: 5
-        url: 'http://tumblr.com/asdasdas'
-        service: Tumblr
-      - id: '85162'
-        itemType: social_media_link
-        updatedAt: '2017-08-06T17:32:58.184Z'
-        seoMetaTags:
-          - tagName: meta
-            attributes:
-              name: 'twitter:card'
-              content: summary
-          - tagName: meta
-            attributes:
-              property: 'article:modified_time'
-              content: '2017-08-06T17:32:58Z'
-          - tagName: meta
-            attributes:
-              property: 'og:locale'
-              content: en_EN
-          - tagName: meta
-            attributes:
-              property: 'og:type'
-              content: article
-        position: 6
-        url: 'http://website.com'
-        service: Website
-    bio: 'Vegan venmo raw denim, twee deep v prism succulents enamel pin brunch fingerstache aesthetic shabby chic. Hella chambray hammock kitsch prism pok pok. Cold-pressed pork belly lyft, YOLO snackwave semiotics listicle vaporware hot chicken chartreuse flexitarian hammock.'
-    title: That Other Person
-    image:
-      format: jpg
-      size: 27152
-      width: 696
-      height: 450
-      title: null
-      alt: null
-      url: 'https://www.datocms-assets.com/2593/1502040230-broad-city-s3-ep03-header-graphic.jpg?'
-    name: Someone Else
 ---
 
