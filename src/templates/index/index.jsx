@@ -17,7 +17,7 @@ const Index = ({ data }) => {
         title: article.title,
         description,
       },
-      url: `articles/${article.slug}`,
+      url: `/articles/${article.slug}`,
     };
   });
 
