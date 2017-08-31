@@ -249,11 +249,7 @@ export const pageQuery = graphql`
           caption
           title
         }
-        video {
-          url
-          thumbnailUrl
-        }
-        audio
+
         text
         resources {
           title

@@ -5,7 +5,7 @@ heroImage: 'https://www.datocms-assets.com/2593/1504033488-cover01_05_thegoat.jp
 issue:
   id: '79596'
   itemType: issue
-  updatedAt: '2017-08-29T19:45:56.224Z'
+  updatedAt: '2017-08-31T01:01:56.954Z'
   seoMetaTags:
     - tagName: title
       content: Issue No. 1 Staging
@@ -24,7 +24,7 @@ issue:
     - tagName: meta
       attributes:
         property: 'article:modified_time'
-        content: '2017-08-29T19:45:56Z'
+        content: '2017-08-31T01:01:56Z'
     - tagName: meta
       attributes:
         property: 'og:locale'
@@ -228,6 +228,196 @@ issue:
         name: Emily Carris
       slug: birth-announcement
       title: Birth Announcement For Those Who Will And Will Never Be
+    - id: '93082'
+      itemType: article
+      updatedAt: '2017-08-31T01:01:45.694Z'
+      seoMetaTags:
+        - tagName: title
+          content: Testing
+        - tagName: meta
+          attributes:
+            property: 'og:title'
+            content: Testing
+        - tagName: meta
+          attributes:
+            name: 'twitter:title'
+            content: Testing
+        - tagName: meta
+          attributes:
+            name: 'twitter:card'
+            content: summary
+        - tagName: meta
+          attributes:
+            property: 'article:modified_time'
+            content: '2017-08-31T01:01:45Z'
+        - tagName: meta
+          attributes:
+            property: 'og:locale'
+            content: en_EN
+        - tagName: meta
+          attributes:
+            property: 'og:type'
+            content: article
+        - tagName: meta
+          attributes:
+            property: 'og:image'
+            content: 'https://www.datocms-assets.com/2593/1504141282-0caa4073c8f798b6430819bb451ab2f7-morghulis-valar-valar-dohaeris.jpg?'
+        - tagName: meta
+          attributes:
+            name: 'twitter:image'
+            content: 'https://www.datocms-assets.com/2593/1504141282-0caa4073c8f798b6430819bb451ab2f7-morghulis-valar-valar-dohaeris.jpg?'
+      position: 9
+      textOnLeft: false
+      resources: []
+      text: asdasdds asd asd asd asd asd asda sdasd asd
+      audio: null
+      video: null
+      images:
+        - id: '93081'
+          itemType: image
+          updatedAt: '2017-08-31T01:01:38.969Z'
+          seoMetaTags:
+            - tagName: title
+              content: asdasd
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: asdasd
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: asdasd
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-08-31T01:01:38Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504141292-0caa4073c8f798b6430819bb451ab2f7-morghulis-valar-valar-dohaeris.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504141292-0caa4073c8f798b6430819bb451ab2f7-morghulis-valar-valar-dohaeris.jpg?'
+          position: 1
+          image:
+            format: jpg
+            size: 68803
+            width: 550
+            height: 550
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504141292-0caa4073c8f798b6430819bb451ab2f7-morghulis-valar-valar-dohaeris.jpg?'
+          caption: asdasdasd
+          title: asdasd
+      thumbnail:
+        format: jpg
+        size: 68803
+        width: 550
+        height: 550
+        title: null
+        alt: null
+        url: 'https://www.datocms-assets.com/2593/1504141282-0caa4073c8f798b6430819bb451ab2f7-morghulis-valar-valar-dohaeris.jpg?'
+      tags:
+        - id: '92784'
+          itemType: tag
+          updatedAt: '2017-08-29T19:24:28.662Z'
+          seoMetaTags:
+            - tagName: title
+              content: art
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: art
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: art
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-08-29T19:24:28Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+          title: art
+      featured: true
+      author:
+        id: '82012'
+        itemType: contributor
+        updatedAt: '2017-08-29T22:38:19.115Z'
+        seoMetaTags:
+          - tagName: title
+            content: Rae Farine
+          - tagName: meta
+            attributes:
+              property: 'og:title'
+              content: Rae Farine
+          - tagName: meta
+            attributes:
+              name: 'twitter:title'
+              content: Rae Farine
+          - tagName: meta
+            attributes:
+              name: 'twitter:card'
+              content: summary
+          - tagName: meta
+            attributes:
+              property: 'article:modified_time'
+              content: '2017-08-29T22:38:19Z'
+          - tagName: meta
+            attributes:
+              property: 'og:locale'
+              content: en_EN
+          - tagName: meta
+            attributes:
+              property: 'og:type'
+              content: article
+          - tagName: meta
+            attributes:
+              property: 'og:image'
+              content: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
+          - tagName: meta
+            attributes:
+              name: 'twitter:image'
+              content: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
+        position: 1
+        socialMediaLinks:
+          - '82011'
+        bio: Bio
+        title: Principal Software Engineer
+        image:
+          format: jpg
+          size: 339022
+          width: 1080
+          height: 1079
+          title: null
+          alt: null
+          url: 'https://www.datocms-assets.com/2593/1500604931-19264645_10154451439071090_7695748603118577573_o.jpg?'
+        name: Rae Farine
+      slug: testing
+      title: Testing
   featured: true
   title: Issue No. 1 Staging
   number: 1
