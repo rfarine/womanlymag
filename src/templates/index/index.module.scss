@@ -2,9 +2,13 @@
 
 .hero {
   background-size: cover;
-  background-position: center;
+  background-position: left;
   background-repeat: no-repeat;
   height: 200px;
+
+  @include from(4) {
+    background-position: center;
+  }
 
   @include between(2,5) {
     height: 300px;
