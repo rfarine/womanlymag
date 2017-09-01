@@ -1,0 +1,15 @@
+.component {
+  composes: component from '../input/input.module.scss';
+}
+
+.fullWidth {
+  composes: fullWidth from '../input/input.module.scss';
+}
+
+.label {
+  composes: label from '../input/input.module.scss';
+}
+
+.textArea {
+  composes: input from '../input/input.module.scss';
+}

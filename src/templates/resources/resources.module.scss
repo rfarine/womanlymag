@@ -1,0 +1,12 @@
+.list {
+  font-size: 22px;
+
+  > li {
+    display: block;
+    margin-bottom: 1em;
+
+    > span {
+      font-weight: 200;
+    }
+  }
+}
