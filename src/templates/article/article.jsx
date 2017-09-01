@@ -223,6 +223,8 @@ export class Article extends Component {
 
 export default Article;
 
+
+// TODO: Add back 'audio'
 export const pageQuery = graphql`
   query ArticleBySlug($slug: String!) {
     markdownRemark(frontmatter: { slug: { eq: $slug } }) {
@@ -254,7 +256,6 @@ export const pageQuery = graphql`
           url
           thumbnailUrl
         }
-        audio
         text
         resources {
           title
