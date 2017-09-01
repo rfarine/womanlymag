@@ -2,60 +2,9 @@
 type: article
 path: articles/feelin-yourself
 author:
-  - id: '93378'
-    itemType: contributor
-    updatedAt: '2017-09-01T02:22:21.663Z'
-    seoMetaTags:
-      - tagName: title
-        content: Khadija Ariana
-      - tagName: meta
-        attributes:
-          property: 'og:title'
-          content: Khadija Ariana
-      - tagName: meta
-        attributes:
-          name: 'twitter:title'
-          content: Khadija Ariana
-      - tagName: meta
-        attributes:
-          name: 'twitter:card'
-          content: summary
-      - tagName: meta
-        attributes:
-          property: 'article:modified_time'
-          content: '2017-09-01T02:22:21Z'
-      - tagName: meta
-        attributes:
-          property: 'og:locale'
-          content: en_EN
-      - tagName: meta
-        attributes:
-          property: 'og:type'
-          content: article
-      - tagName: meta
-        attributes:
-          property: 'og:image'
-          content: 'https://www.datocms-assets.com/2593/1504229480-khadija-ariana.jpg?'
-      - tagName: meta
-        attributes:
-          name: 'twitter:image'
-          content: 'https://www.datocms-assets.com/2593/1504229480-khadija-ariana.jpg?'
-    position: 19
-    socialMediaLinks: []
-    bio: Khadija Horton is an illustration major studying at Pratt Institute in Brooklyn.
-    title: Resident Artist
-    image:
-      format: jpg
-      size: 65348
-      width: 632
-      height: 356
-      title: null
-      alt: null
-      url: 'https://www.datocms-assets.com/2593/1504229480-khadija-ariana.jpg?'
-    name: Khadija Ariana
   - id: '85154'
     itemType: contributor
-    updatedAt: '2017-09-01T03:16:52.043Z'
+    updatedAt: '2017-09-01T04:05:59.306Z'
     seoMetaTags:
       - tagName: title
         content: Aisha Khan
@@ -74,7 +23,7 @@ author:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T03:16:52Z'
+          content: '2017-09-01T04:05:59Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -139,7 +88,7 @@ author:
         position: 3
         url: 'https://www.instagram.com/aish.aish.bb/'
         service: Instagram
-    bio: 'Aisha is a Pakistani-Latvian-American from Northern California, currently based in NYC. She has a passion for languages and a commitment to creating accessible medias and technologies. '
+    bio: 'Aisha is a Pakistani-Latvian-American from Northern California, currently based in NYC. She has a passion for languages and a commitment to creating accessible medias and technologies. Voted Best Comedy Show Audience Member.'
     title: Digital Product Director
     image:
       format: jpg
@@ -150,6 +99,57 @@ author:
       alt: null
       url: 'https://www.datocms-assets.com/2593/1504227010-aisha-khan-2.jpg?'
     name: Aisha Khan
+  - id: '93378'
+    itemType: contributor
+    updatedAt: '2017-09-01T02:22:21.663Z'
+    seoMetaTags:
+      - tagName: title
+        content: Khadija Ariana
+      - tagName: meta
+        attributes:
+          property: 'og:title'
+          content: Khadija Ariana
+      - tagName: meta
+        attributes:
+          name: 'twitter:title'
+          content: Khadija Ariana
+      - tagName: meta
+        attributes:
+          name: 'twitter:card'
+          content: summary
+      - tagName: meta
+        attributes:
+          property: 'article:modified_time'
+          content: '2017-09-01T02:22:21Z'
+      - tagName: meta
+        attributes:
+          property: 'og:locale'
+          content: en_EN
+      - tagName: meta
+        attributes:
+          property: 'og:type'
+          content: article
+      - tagName: meta
+        attributes:
+          property: 'og:image'
+          content: 'https://www.datocms-assets.com/2593/1504229480-khadija-ariana.jpg?'
+      - tagName: meta
+        attributes:
+          name: 'twitter:image'
+          content: 'https://www.datocms-assets.com/2593/1504229480-khadija-ariana.jpg?'
+    position: 19
+    socialMediaLinks: []
+    bio: Khadija Horton is an illustration major studying at Pratt Institute in Brooklyn.
+    title: Resident Artist
+    image:
+      format: jpg
+      size: 65348
+      width: 632
+      height: 356
+      title: null
+      alt: null
+      url: 'https://www.datocms-assets.com/2593/1504229480-khadija-ariana.jpg?'
+    name: Khadija Ariana
 slug: feelin-yourself
 title: 'Feelin'' Yourself? '
 featured: false
@@ -238,7 +238,9 @@ images:
     title: 'Feelin'' Yourself? '
 video: null
 audio: null
-text: ~~
+text: |-
+  **Survey and Writing by: Aisha Khan**
+  **Atwork by: Khadija Ariana**
 resources: []
 textOnLeft: false
 ---

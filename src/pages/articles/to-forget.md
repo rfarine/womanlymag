@@ -119,57 +119,8 @@ tags:
           property: 'og:type'
           content: article
     title: photography
-thumbnail: 'https://www.datocms-assets.com/2593/1504233469-to-forget-1_thumbail.JPG?'
+thumbnail: 'https://www.datocms-assets.com/2593/1504286999-nightstand-6.JPG?'
 images:
-  - id: '93430'
-    itemType: image
-    updatedAt: '2017-09-01T02:32:36.694Z'
-    seoMetaTags:
-      - tagName: title
-        content: To Forget
-      - tagName: meta
-        attributes:
-          property: 'og:title'
-          content: To Forget
-      - tagName: meta
-        attributes:
-          name: 'twitter:title'
-          content: To Forget
-      - tagName: meta
-        attributes:
-          name: 'twitter:card'
-          content: summary
-      - tagName: meta
-        attributes:
-          property: 'article:modified_time'
-          content: '2017-09-01T02:32:36Z'
-      - tagName: meta
-        attributes:
-          property: 'og:locale'
-          content: en_EN
-      - tagName: meta
-        attributes:
-          property: 'og:type'
-          content: article
-      - tagName: meta
-        attributes:
-          property: 'og:image'
-          content: 'https://www.datocms-assets.com/2593/1504233147-to-forget-1_thumbail.JPG?'
-      - tagName: meta
-        attributes:
-          name: 'twitter:image'
-          content: 'https://www.datocms-assets.com/2593/1504233147-to-forget-1_thumbail.JPG?'
-    position: 21
-    image:
-      format: jpg
-      size: 2829988
-      width: 3872
-      height: 2592
-      title: null
-      alt: null
-      url: 'https://www.datocms-assets.com/2593/1504233147-to-forget-1_thumbail.JPG?'
-    caption: "\t\t"
-    title: To Forget
   - id: '93431'
     itemType: image
     updatedAt: '2017-09-01T02:32:54.990Z'
@@ -317,55 +268,6 @@ images:
       url: 'https://www.datocms-assets.com/2593/1504233195-to-forget-4.jpg?'
     caption: null
     title: To Forget 4
-  - id: '93434'
-    itemType: image
-    updatedAt: '2017-09-01T02:33:50.776Z'
-    seoMetaTags:
-      - tagName: title
-        content: Get Stuffed
-      - tagName: meta
-        attributes:
-          property: 'og:title'
-          content: Get Stuffed
-      - tagName: meta
-        attributes:
-          name: 'twitter:title'
-          content: Get Stuffed
-      - tagName: meta
-        attributes:
-          name: 'twitter:card'
-          content: summary
-      - tagName: meta
-        attributes:
-          property: 'article:modified_time'
-          content: '2017-09-01T02:33:50Z'
-      - tagName: meta
-        attributes:
-          property: 'og:locale'
-          content: en_EN
-      - tagName: meta
-        attributes:
-          property: 'og:type'
-          content: article
-      - tagName: meta
-        attributes:
-          property: 'og:image'
-          content: 'https://www.datocms-assets.com/2593/1504233212-get-stuffed-2.JPG?'
-      - tagName: meta
-        attributes:
-          name: 'twitter:image'
-          content: 'https://www.datocms-assets.com/2593/1504233212-get-stuffed-2.JPG?'
-    position: 25
-    image:
-      format: jpg
-      size: 2655237
-      width: 3872
-      height: 2592
-      title: null
-      alt: null
-      url: 'https://www.datocms-assets.com/2593/1504233212-get-stuffed-2.JPG?'
-    caption: null
-    title: Get Stuffed
   - id: '93435'
     itemType: image
     updatedAt: '2017-09-01T02:34:32.295Z'
@@ -513,55 +415,6 @@ images:
       url: 'https://www.datocms-assets.com/2593/1504233344-nightstand-6.JPG?'
     caption: null
     title: Nightstand 2
-  - id: '93438'
-    itemType: image
-    updatedAt: '2017-09-01T02:36:14.348Z'
-    seoMetaTags:
-      - tagName: title
-        content: Nightstand 3
-      - tagName: meta
-        attributes:
-          property: 'og:title'
-          content: Nightstand 3
-      - tagName: meta
-        attributes:
-          name: 'twitter:title'
-          content: Nightstand 3
-      - tagName: meta
-        attributes:
-          name: 'twitter:card'
-          content: summary
-      - tagName: meta
-        attributes:
-          property: 'article:modified_time'
-          content: '2017-09-01T02:36:14Z'
-      - tagName: meta
-        attributes:
-          property: 'og:locale'
-          content: en_EN
-      - tagName: meta
-        attributes:
-          property: 'og:type'
-          content: article
-      - tagName: meta
-        attributes:
-          property: 'og:image'
-          content: 'https://www.datocms-assets.com/2593/1504233359-nightstand-7.JPG?'
-      - tagName: meta
-        attributes:
-          name: 'twitter:image'
-          content: 'https://www.datocms-assets.com/2593/1504233359-nightstand-7.JPG?'
-    position: 29
-    image:
-      format: jpg
-      size: 2840201
-      width: 3872
-      height: 2592
-      title: null
-      alt: null
-      url: 'https://www.datocms-assets.com/2593/1504233359-nightstand-7.JPG?'
-    caption: null
-    title: Nightstand 3
   - id: '93439'
     itemType: image
     updatedAt: '2017-09-01T02:36:33.959Z'
@@ -613,15 +466,13 @@ images:
     title: Nightstand 4
 video: null
 audio: null
-text: |
-  Taryn O’Reilly
-  http://tarynoreillyfiber.wixsite.com/tarynoreilly
+text: |-
+  [http://tarynoreillyfiber.wixsite.com/tarynoreilly](http://tarynoreillyfiber.wixsite.com/tarynoreilly)
 
-  Biography
+  **Biography**
   Taryn O’Reilly is a fiber installation artist living and working in the Philadelphia area. She received her B.F.A in Sculpture from Arcadia University in 2015. In the Fall of 2018, she will be attending Goldsmiths College in London, England to receive her M.F.A. in Sculpture. Taryn’s work has been exhibited locally at galleries in the Philadelphia area including the Spillway Collective. Her work has also been published in a book entitled Bound, for the Women’s Caucus for Art in New York City.Currently, Taryn is an exhibitions coordinator for the Icebox Project Space located in Philadelphia. She also works as a studio assistant where her skills in metalworking, woodworking and casting have been exhibited. During her time working at these studio spaces, Taryn has had the opportunity to work on projects for the Democratic National Convention, Republican National Convention, 2016 Olympics and various events around the city of Philadelphia.
 
-
-  Artist Statement
+  **Artist Statement**
   Through sewing and embroidery, a technique that has traditionally been a “feminine craft”, I attempt to marry my foundation in still lifes and figure studies with conceptual framework to question ideologies of femininity, sexuality, intimacy and identity.
 resources: []
 textOnLeft: false

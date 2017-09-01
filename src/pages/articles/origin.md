@@ -1,10 +1,61 @@
 ---
 type: article
 path: articles/origin
-author: []
+author:
+  - id: '93380'
+    itemType: contributor
+    updatedAt: '2017-09-01T01:42:21.345Z'
+    seoMetaTags:
+      - tagName: title
+        content: Singha Hon
+      - tagName: meta
+        attributes:
+          property: 'og:title'
+          content: Singha Hon
+      - tagName: meta
+        attributes:
+          name: 'twitter:title'
+          content: Singha Hon
+      - tagName: meta
+        attributes:
+          name: 'twitter:card'
+          content: summary
+      - tagName: meta
+        attributes:
+          property: 'article:modified_time'
+          content: '2017-09-01T01:42:21Z'
+      - tagName: meta
+        attributes:
+          property: 'og:locale'
+          content: en_EN
+      - tagName: meta
+        attributes:
+          property: 'og:type'
+          content: article
+      - tagName: meta
+        attributes:
+          property: 'og:image'
+          content: 'https://www.datocms-assets.com/2593/1504229569-singha-e-hon.jpg?'
+      - tagName: meta
+        attributes:
+          name: 'twitter:image'
+          content: 'https://www.datocms-assets.com/2593/1504229569-singha-e-hon.jpg?'
+    position: 8
+    socialMediaLinks: []
+    bio: 'Singha Hon is an artist and illustrator from New York City. Her work revolves around depicting women undergoing private metaphysical transformations, using techniques of classic figurative painting, and elements of magical realism to describe inner emotional states.'
+    title: Resident Artist
+    image:
+      format: jpg
+      size: 632076
+      width: 1000
+      height: 667
+      title: null
+      alt: null
+      url: 'https://www.datocms-assets.com/2593/1504229569-singha-e-hon.jpg?'
+    name: Singha Hon
 slug: origin
 title: Origin
-featured: true
+featured: false
 tags:
   - id: '92784'
     itemType: tag
@@ -90,7 +141,9 @@ images:
     title: Origin
 video: null
 audio: null
-text: ~~
+text: |-
+  **Artist's Statement: **
+  There is something magical about the female form that is constantly inspiring to me. As an artist, I love to paint women because they are a source of power, myth, and creation. This piece was inspired in part by Courbet's L'Origine du monde (1866), a standard of art history, that portrays a naked woman from the waist down. While the subject is very exposed, her identity, personality, and emotions remain concealed. I wanted to create my own origin piece-- but rather than create an image for the pleasure of the viewer, focus instead someone enraptured in an examination of their own body. I hope that this piece inspires others to celebrate self discovery, to learn about our bodies, which carry the story of our world.
 resources: []
 textOnLeft: false
 ---

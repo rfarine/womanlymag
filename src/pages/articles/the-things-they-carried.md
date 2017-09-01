@@ -106,7 +106,7 @@ author:
     name: Attia Taylor
   - id: '85154'
     itemType: contributor
-    updatedAt: '2017-09-01T03:16:52.043Z'
+    updatedAt: '2017-09-01T04:05:59.306Z'
     seoMetaTags:
       - tagName: title
         content: Aisha Khan
@@ -125,7 +125,7 @@ author:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T03:16:52Z'
+          content: '2017-09-01T04:05:59Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -190,7 +190,7 @@ author:
         position: 3
         url: 'https://www.instagram.com/aish.aish.bb/'
         service: Instagram
-    bio: 'Aisha is a Pakistani-Latvian-American from Northern California, currently based in NYC. She has a passion for languages and a commitment to creating accessible medias and technologies. '
+    bio: 'Aisha is a Pakistani-Latvian-American from Northern California, currently based in NYC. She has a passion for languages and a commitment to creating accessible medias and technologies. Voted Best Comedy Show Audience Member.'
     title: Digital Product Director
     image:
       format: jpg
@@ -289,7 +289,7 @@ images:
     title: The Things They Carried
 video: null
 audio: null
-text: ~~
+text: 'Artwork by: Singha Hon'
 resources: []
 textOnLeft: false
 ---

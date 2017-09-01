@@ -157,6 +157,8 @@ text: |-
   It's a Friday, so we don't do much class work in history. We mostly watch movies and take notes. I'm leaving the locker room, heading to lunch when the craziest idea enters my mind. After lunch I go into the bathroom, take out my tampon, and don't replace it. I feel so naked, and feel unusually wet in my panties. I walk the long halls to history class quietly, and not feeling like socializing. I take my seat on the left of Christina, as I always do, and bleed all over the seat next to her. 
    
   After the movie, I raise my hand and ask,” Ms. Schwartz, can I go to the nurse’s office?”  
+
+  Artwork by: Singha Hon
 resources: []
 textOnLeft: false
 ---

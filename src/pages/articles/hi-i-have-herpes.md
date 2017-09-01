@@ -53,6 +53,57 @@ author:
       alt: null
       url: 'https://www.datocms-assets.com/2593/1504229598-womanly-social-assets_circle_blk_crop2.jpg?'
     name: Priscilla Hsu
+  - id: '93358'
+    itemType: contributor
+    updatedAt: '2017-09-01T01:01:07.606Z'
+    seoMetaTags:
+      - tagName: title
+        content: Ailyn Robles
+      - tagName: meta
+        attributes:
+          property: 'og:title'
+          content: Ailyn Robles
+      - tagName: meta
+        attributes:
+          name: 'twitter:title'
+          content: Ailyn Robles
+      - tagName: meta
+        attributes:
+          name: 'twitter:card'
+          content: summary
+      - tagName: meta
+        attributes:
+          property: 'article:modified_time'
+          content: '2017-09-01T01:01:07Z'
+      - tagName: meta
+        attributes:
+          property: 'og:locale'
+          content: en_EN
+      - tagName: meta
+        attributes:
+          property: 'og:type'
+          content: article
+      - tagName: meta
+        attributes:
+          property: 'og:image'
+          content: 'https://www.datocms-assets.com/2593/1504227585-ailyn-robles.jpg?'
+      - tagName: meta
+        attributes:
+          name: 'twitter:image'
+          content: 'https://www.datocms-assets.com/2593/1504227585-ailyn-robles.jpg?'
+    position: 2
+    socialMediaLinks: []
+    bio: 'Ailyn is a Colombian writer and photographer based out of Brooklyn, who fuses her passion for the empowerment of women with everything she does. She works with young people during the day, and writes short stories at night.'
+    title: Co-Founder
+    image:
+      format: jpg
+      size: 9913731
+      width: 5398
+      height: 3599
+      title: null
+      alt: null
+      url: 'https://www.datocms-assets.com/2593/1504227585-ailyn-robles.jpg?'
+    name: Ailyn Robles
 slug: hi-i-have-herpes
 title: 'Hi, I Have Herpes'
 featured: false
@@ -119,8 +170,57 @@ tags:
           property: 'og:type'
           content: article
     title: photography
-thumbnail: 'https://www.datocms-assets.com/2593/1504229788-womanly-social-assets_circle_blk_crop2.jpg?'
-images: []
+thumbnail: 'https://www.datocms-assets.com/2593/1504273307-herpes.jpg?'
+images:
+  - id: '93704'
+    itemType: image
+    updatedAt: '2017-09-01T16:04:11.334Z'
+    seoMetaTags:
+      - tagName: title
+        content: Herpes
+      - tagName: meta
+        attributes:
+          property: 'og:title'
+          content: Herpes
+      - tagName: meta
+        attributes:
+          name: 'twitter:title'
+          content: Herpes
+      - tagName: meta
+        attributes:
+          name: 'twitter:card'
+          content: summary
+      - tagName: meta
+        attributes:
+          property: 'article:modified_time'
+          content: '2017-09-01T16:04:11Z'
+      - tagName: meta
+        attributes:
+          property: 'og:locale'
+          content: en_EN
+      - tagName: meta
+        attributes:
+          property: 'og:type'
+          content: article
+      - tagName: meta
+        attributes:
+          property: 'og:image'
+          content: 'https://www.datocms-assets.com/2593/1504273324-herpes.jpg?'
+      - tagName: meta
+        attributes:
+          name: 'twitter:image'
+          content: 'https://www.datocms-assets.com/2593/1504273324-herpes.jpg?'
+    position: 39
+    image:
+      format: jpg
+      size: 7108911
+      width: 3744
+      height: 2496
+      title: null
+      alt: null
+      url: 'https://www.datocms-assets.com/2593/1504273324-herpes.jpg?'
+    caption: null
+    title: Herpes
 video: null
 audio: null
 text: |-
@@ -223,19 +323,22 @@ text: |-
   To this day I still struggle with herpes stigma, and how to have the conversations around it. It may seem obvious that the partner I experienced an outbreak with is the person who transmitted it to me, but as we’ve learned about asymptomatic carriers, I could have had the virus before him. Herpes isn’t a game of tag, it isn’t directly traceable. 
 
   Since my initial outbreak five years ago, my herpes outbreaks have transitioned from genital to oral sores, with my last outbreak, a cold sore, occurring over two years ago. I usually mumble a warning to my partners to let them know that I am a virus carrier, but I truthfully don’t know how much to emphasize its severity, since it’s been years since my last outbreak. I don’t have all the answers to questions about herpes, but I’ve learned a whole lot of things that you should know too. For example:
-  - 1 in 6 people aged 14-49 have herpes
-  - Not everyone shows symptoms
-  - Condoms do not fully protect you from getting herpes (since outbreaks can occur in areas that are not covered by condoms). 
-  - Type 1 generally causes cold sores and Type 2 generally causes genital outbreaks, but the only difference between genital and oral herpes is the location of the outbreak (thanks, WebMD.)
-  - There are many, many types of herpes. Type 1 and Type 2 are talked about the most because they have a mucosal presentation, but Type 3 is a little thing called chickenpox, and - - Type 4 is known as mono. The list goes on and on. 
+  * 1 in 6 people aged 14-49 have herpes
+  * Not everyone shows symptoms
+  * Condoms do not fully protect you from getting herpes (since outbreaks can occur in areas that are not covered by condoms). 
+  * Type 1 generally causes cold sores and Type 2 generally causes genital outbreaks, but the only difference between genital and oral herpes is the location of the outbreak (thanks, WebMD.)
+  * There are many, many types of herpes. Type 1 and Type 2 are talked about the most because they have a mucosal presentation, but Type 3 is a little thing called chickenpox, and - - Type 4 is known as mono. The list goes on and on. 
 
   Want to know what the CDC says about prevention? “The only way to avoid STDs is to not have vaginal, anal, or oral sex.”
 
-  If you are a sexually active individual, you have a chance of getting herpes. Period. 
+  **If you are a sexually active individual, you have a chance of getting herpes. Period. **
 
   But we’re not going to stop having sex, so we need to start having real conversations about the things that afflict us, and our genitals. Don’t we want to have positive sexual experiences? 
 
   Stay informed. Be a courteous human being, and inform your partners of your relevant sexual history, especially if you still experience active outbreaks.
+
+  **Writing by: Priscilla Hsu**
+  **Photograph by: Ailyn Robles**
 resources: []
 textOnLeft: false
 ---

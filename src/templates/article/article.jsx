@@ -174,7 +174,7 @@ export class Article extends Component {
       [style.textOnLeft]: article.textOnLeft,
     });
 
-    const paragraphClasses = cn({
+    const paragraphClasses = cn(style.paragraphs, {
       [style.largeText]: this.state.hasOneContentItem &&
         this.state.textLength <= 200
     });
@@ -195,9 +195,9 @@ export class Article extends Component {
             </div>
             <h1 className={style.title}>{article.title}</h1>
             <h2>{authors.join(', ')}</h2>
-            <p className={paragraphClasses}>
+            <div className={paragraphClasses}>
               {md.render(article.text)}
-            </p>
+            </div>
             <p>
               <strong>Tags: </strong>
               {this.getTags()}

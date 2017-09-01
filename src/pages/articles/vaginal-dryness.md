@@ -192,8 +192,8 @@ images:
     title: Vaginal Dryness
 video: null
 audio: null
-text: ~~
+text: "**Symptoms: **\n* Pain with Sex\n* Discomfort\n* Discharge\n* Burning\n* Itching\n* Dryness\n* Bleeding\n\n**Causes: **\n* Less Estrogen Being Produced i.e. - \n\t* Menopause\n\t* Post-Partum \n\t* Surgical Removal of Ovaries\n\t* Medications\n\n**Treatments:**\n* Lubricants (Apply at the time of sex)\n* Moisturizers (Apply 3x weekly)\n* Vaginal Estrogen (Cream, Tablet, or Ring can be prescribed by a healthcare provider)\n* Sex (Continue to masturbate and have sex if it is comfortable)\n\n**Sources: **\nNorth American Menopause Society https://www.menopause.org/for-women\nObstetrics & Gynecology  http://journals.lww.com/greenjournal/pages/default.aspx\nJournal of Endocrinology and Metabolism http://www.jofem.org/index.php/jofem\n\n**Research by: Diana McDonnell**\n**Artwork by: Khadija Ariana**"
 resources: []
-textOnLeft: false
+textOnLeft: true
 ---
 
