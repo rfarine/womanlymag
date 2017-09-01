@@ -1,0 +1,89 @@
+@import '../../css/variables';
+
+.headerLine {
+  text-align: center;
+
+  @include from(3) {
+    border-bottom: $pink-border-width solid $pink;
+    padding-top: 6em;
+  }
+}
+
+.logo {
+  display: block;
+  margin: 0 auto;
+  padding: 2em 4em;
+
+  @include from(3) {
+    position: absolute;
+    max-width: 400px;
+    left: 0;
+    right: 0;
+    top: 28px;
+    margin: 0 auto;
+    padding: 0;
+  }
+}
+
+.navigationContainer {
+  margin: 0 auto;
+
+  @include from(3) {
+    max-width: 450px;
+  }
+}
+
+.navigation {
+  display: flex;
+  flex-flow: column;
+  justify-content: space-around;
+  align-items: center;
+  list-style-type: none;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 0;
+  margin-bottom: 2em;
+  font-size: 20px;
+
+  > li {
+    width: 100%;
+    background: $pink;
+    border-bottom: 1px solid darken($pink, 10%);
+  }
+
+  @include from(3) {
+    flex-flow: row;
+    padding: 3em 0;
+    font-size: 16px;
+    margin-bottom: 0;
+
+    > li {
+      width: auto;
+      background: none;
+      border: 0;
+
+      &:last-of-type {
+        background: none;
+        margin-top: 0;
+      }
+    }
+  }
+}
+
+.link {
+  display: inline-block;
+  position: relative;
+  font-weight: bold;
+  color: $black;
+  padding: 1em 0;
+  text-decoration: none;
+
+  @include from(3) {
+    padding: 0;
+    border-bottom: 2px solid transparent;
+
+    &:hover {
+      border-bottom: 2px solid $blue;
+    }
+  }
+}

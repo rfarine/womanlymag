@@ -1,0 +1,88 @@
+@import '../../css/variables';
+
+.container {
+  font-size: 20px;
+  border-top: $pink-border-width solid $pink;
+  padding: 3em;
+
+  @include from(3) {
+    font-size: 16px;
+  }
+
+  @include from(4) {
+    padding: 3em 0;
+  }
+}
+
+.contentContainer {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+
+  @include from(3) {
+    flex-flow: row;
+    align-items: inherit;
+    margin: auto;
+    max-width: inherit;
+  }
+}
+
+.logo {
+  background: url('../../assets/images/logo.png') no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 60px;
+  height: 60px;
+  flex: 1;
+  margin-right: 1em;
+}
+
+.content {
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  flex: 5;
+
+  @include from(3) {
+    border-left: 1px solid $black;
+    padding-left: 1em;
+    padding-top: 0;
+    padding-bottom: 0;
+    flex: 8;
+  }
+}
+
+.link {
+  text-transform: uppercase;
+}
+
+.socialLink {
+  font-size: 20px;
+  margin-right: 1em;
+}
+
+.link, .socialLink {
+  color: $black;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.social {
+  display: flex;
+  padding: 1em 0;
+
+  @include from(3) {
+    padding: 0;
+  }
+
+  > li {
+    margin-bottom: 0;
+  }
+}

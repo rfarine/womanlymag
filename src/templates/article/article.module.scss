@@ -1,0 +1,85 @@
+@import '../../css/variables';
+
+.container {
+  display: block;
+
+  @include from(4) {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    > div {
+      flex: 1;
+    }
+
+    &.textOnLeft {
+      flex-direction: row-reverse;
+
+      .text {
+        margin-left: 0;
+        margin-right: 1em;
+      }
+    }
+  }
+}
+
+.issue {
+  display: inline-block;
+  background: $pink;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 0.25em 0.5em;
+  margin-bottom: 1em;
+}
+
+.text {
+  > .paragraphs {
+    padding: 1em 0;
+  }
+
+  @include from(2) {
+    margin-left: 1em;
+  }
+}
+
+.largeText {
+  font-size: 26px;
+
+  @include from(2) {
+    font-size: 20px;
+  }
+}
+
+.image {
+  width: 100%;
+
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.video, .audio {
+  margin: 0 auto 1.65rem auto;
+}
+
+.video {
+  > div {
+    width: 280px;
+    height: 158px !important;
+    margin: 0 auto;
+
+    @include between(2,3) {
+      width: 400px;
+      height: 225px !important;
+    }
+
+    @include from(3) {
+      width: 550px;
+      height: 309px !important;
+    }
+  }
+}
+
+.audio {
+  width: 100%;
+}

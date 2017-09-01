@@ -1,0 +1,71 @@
+@import '../../css/variables';
+
+.component {
+  display: block;
+  text-decoration: none;
+}
+
+.image {
+  position: relative;
+  display: inline-block;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+
+  &:hover {
+    .caption::before,
+    .caption > p {
+      opacity: 1;
+      transform: translate3d(0,0,0);
+    }
+  }
+
+  @include from(4) {
+    width: 250px;
+    height: 250px;
+  }
+}
+
+.caption {
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom, rgba($black,0) 0%, rgba($pink, 0.95) 98%);
+    opacity: 0;
+    transform: translate3d(0,50%,0);
+  }
+
+  &::before, p {
+    transition: opacity 0.35s, transform 0.35s;
+  }
+
+  strong {
+    display: block;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 0.5em;
+  }
+
+  p {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 2em;
+    width: 100%;
+    opacity: 0;
+    transform: translate3d(0,10px,0);
+    color: $black;
+  }
+}
+
+.desc {
+  font-weight: 300;
+  margin-top: 0.5em;
+}

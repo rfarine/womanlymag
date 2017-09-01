@@ -1,0 +1,12 @@
+@import '~breakpoint-sass';
+@import '~breakpoint-slicer';
+
+// Colors
+$pink: #EECFCE;
+$blue: #80B2BF;
+$black: #000;
+
+// Breakpoints
+$slicer-breakpoints: 0 400px 600px 800px 1050px;
+
+$pink-border-width: 10px;
