@@ -39,20 +39,20 @@ tags:
     title: art
 thumbnail: 'https://www.datocms-assets.com/2593/1504231817-sexedfrommygirlfriends.gif?'
 images:
-  - id: '93400'
+  - id: '93455'
     itemType: image
-    updatedAt: '2017-09-01T02:12:02.973Z'
+    updatedAt: '2017-09-01T02:59:24.138Z'
     seoMetaTags:
       - tagName: title
-        content: Sex Ed From My Girlfriends
+        content: Sex Ed
       - tagName: meta
         attributes:
           property: 'og:title'
-          content: Sex Ed From My Girlfriends
+          content: Sex Ed
       - tagName: meta
         attributes:
           name: 'twitter:title'
-          content: Sex Ed From My Girlfriends
+          content: Sex Ed
       - tagName: meta
         attributes:
           name: 'twitter:card'
@@ -60,7 +60,7 @@ images:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T02:12:02Z'
+          content: '2017-09-01T02:59:24Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -72,12 +72,12 @@ images:
       - tagName: meta
         attributes:
           property: 'og:image'
-          content: 'https://www.datocms-assets.com/2593/1504231908-sexedfrommygirlfriends.gif?'
+          content: 'https://www.datocms-assets.com/2593/1504234755-sexedfrommygirlfriends.gif?'
       - tagName: meta
         attributes:
           name: 'twitter:image'
-          content: 'https://www.datocms-assets.com/2593/1504231908-sexedfrommygirlfriends.gif?'
-    position: 16
+          content: 'https://www.datocms-assets.com/2593/1504234755-sexedfrommygirlfriends.gif?'
+    position: 38
     image:
       format: gif
       size: 348309
@@ -85,9 +85,9 @@ images:
       height: 350
       title: null
       alt: null
-      url: 'https://www.datocms-assets.com/2593/1504231908-sexedfrommygirlfriends.gif?'
-    caption: null
-    title: Sex Ed From My Girlfriends
+      url: 'https://www.datocms-assets.com/2593/1504234755-sexedfrommygirlfriends.gif?'
+    caption: ''
+    title: Sex Ed
 video: null
 audio: null
 text: ~~

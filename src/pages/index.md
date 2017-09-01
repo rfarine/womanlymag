@@ -5,7 +5,7 @@ heroImage: 'https://www.datocms-assets.com/2593/1504033488-cover01_05_thegoat.jp
 issue:
   id: '79596'
   itemType: issue
-  updatedAt: '2017-09-01T02:23:46.149Z'
+  updatedAt: '2017-09-01T03:53:05.006Z'
   seoMetaTags:
     - tagName: title
       content: Issue No. 1 Staging
@@ -24,7 +24,7 @@ issue:
     - tagName: meta
       attributes:
         property: 'article:modified_time'
-        content: '2017-09-01T02:23:46Z'
+        content: '2017-09-01T03:53:05Z'
     - tagName: meta
       attributes:
         property: 'og:locale'
@@ -37,7 +37,7 @@ issue:
   articles:
     - id: '92785'
       itemType: article
-      updatedAt: '2017-08-29T23:00:18.845Z'
+      updatedAt: '2017-09-01T02:55:15.547Z'
       seoMetaTags:
         - tagName: title
           content: Birth Announcement For Those Who Will And Will Never Be
@@ -56,7 +56,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-08-29T23:00:18Z'
+            content: '2017-09-01T02:55:15Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -132,7 +132,252 @@ issue:
         Harvard University Press, 1997
       audio: null
       video: null
-      images: []
+      images:
+        - id: '93448'
+          itemType: image
+          updatedAt: '2017-09-01T02:50:37.010Z'
+          seoMetaTags:
+            - tagName: title
+              content: 'Birth Color Guide '
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: 'Birth Color Guide '
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: 'Birth Color Guide '
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T02:50:37Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504234221-birth-color-guide.jpeg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504234221-birth-color-guide.jpeg?'
+          position: 31
+          image:
+            format: jpeg
+            size: 2930982
+            width: 3500
+            height: 2550
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504234221-birth-color-guide.jpeg?'
+          caption: null
+          title: 'Birth Color Guide '
+        - id: '93449'
+          itemType: image
+          updatedAt: '2017-09-01T02:50:56.325Z'
+          seoMetaTags:
+            - tagName: title
+              content: Full Image
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Full Image
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Full Image
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T02:50:56Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504234244-dsc_3095-clear_thumbnail.png?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504234244-dsc_3095-clear_thumbnail.png?'
+          position: 32
+          image:
+            format: png
+            size: 6376793
+            width: 4256
+            height: 2832
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504234244-dsc_3095-clear_thumbnail.png?'
+          caption: null
+          title: Full Image
+        - id: '93450'
+          itemType: image
+          updatedAt: '2017-09-01T02:51:10.359Z'
+          seoMetaTags:
+            - tagName: title
+              content: Partial 1
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Partial 1
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Partial 1
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T02:51:10Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504234262-dsc_3098.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504234262-dsc_3098.jpg?'
+          position: 33
+          image:
+            format: jpg
+            size: 1772040
+            width: 4256
+            height: 2832
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504234262-dsc_3098.jpg?'
+          caption: null
+          title: Partial 1
+        - id: '93451'
+          itemType: image
+          updatedAt: '2017-09-01T02:54:41.697Z'
+          seoMetaTags:
+            - tagName: title
+              content: Partial 2
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Partial 2
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Partial 2
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T02:54:41Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504234284-dsc_3101.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504234284-dsc_3101.jpg?'
+          position: 34
+          image:
+            format: jpg
+            size: 2755454
+            width: 4256
+            height: 2832
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504234284-dsc_3101.jpg?'
+          caption: null
+          title: Partial 2
+        - id: '93452'
+          itemType: image
+          updatedAt: '2017-09-01T02:55:08.412Z'
+          seoMetaTags:
+            - tagName: title
+              content: Blue
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Blue
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Blue
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T02:55:08Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504234493-dsc_3103.png?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504234493-dsc_3103.png?'
+          position: 35
+          image:
+            format: png
+            size: 9013027
+            width: 4256
+            height: 2832
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504234493-dsc_3103.png?'
+          caption: null
+          title: Blue
       thumbnail:
         format: jpg
         size: 307926
@@ -174,12 +419,63 @@ issue:
                 content: article
           title: art
       featured: true
-      author: []
+      author:
+        - id: '92781'
+          itemType: contributor
+          updatedAt: '2017-09-01T01:02:57.010Z'
+          seoMetaTags:
+            - tagName: title
+              content: Emily Carris
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Emily Carris
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Emily Carris
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T01:02:57Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504227754-emily-carris.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504227754-emily-carris.jpg?'
+          position: 3
+          socialMediaLinks: []
+          bio: 'Emily Carris is the Founding Director of The Art Dept, a collaborative gallery and workshop space. She has a Bachelor''s in Education and Photography from Eugene Lang College at The New School (NY). She also holds a Master''s degree in Photography from University for the Creative Arts (UK). Her work exploring the personal and cultural legacy of slavery, and the Black female body, has been exhibited nationally and internationally. Emily currently lives and works in Philadelphia.'
+          title: Business Partner
+          image:
+            format: jpg
+            size: 7191803
+            width: 4256
+            height: 2832
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504227754-emily-carris.jpg?'
+          name: Emily Carris
       slug: birth-announcement
       title: Birth Announcement For Those Who Will And Will Never Be
     - id: '93363'
       itemType: article
-      updatedAt: '2017-09-01T01:12:57.054Z'
+      updatedAt: '2017-09-01T02:56:39.300Z'
       seoMetaTags:
         - tagName: title
           content: Birth of Venus
@@ -198,7 +494,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-09-01T01:12:57Z'
+            content: '2017-09-01T02:56:39Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -234,7 +530,56 @@ issue:
         After years of carrying the burden of hating my body, I think I have overcome it. Sexual assault makes you feel like being ransacked from your home. I am gaining confidence in my body again. Learning to love yourself is like learning to trust yourself after self-loathing. Owning it and making sure that you forgive yourself for the blame, and that your shame is not yours to carry. Some people choose to heal one way. I choose to heal by figure modeling. Figure modeling forces me to be there, completely. I can't hide parts of me that have been abused. When I get on my platform, I feel powerful. I feel vulnerable. I am in the company of people who care about me. I can envision myself as a goddess being admired, I give myself permission to be visible. After each session, I am reimagined by the vision of several artists. I’ve been depicted in oil paints, pastels, and even charcoal . All the parts of me I taught myself to hate become visible  again, beautiful again. If there’s one thing I want to tell survivors, it is that they can learn to love themselves at their own pace.
       audio: null
       video: null
-      images: []
+      images:
+        - id: '93453'
+          itemType: image
+          updatedAt: '2017-09-01T02:56:31.641Z'
+          seoMetaTags:
+            - tagName: title
+              content: BOV
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: BOV
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: BOV
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T02:56:31Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504234576-bov.png?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504234576-bov.png?'
+          position: 36
+          image:
+            format: png
+            size: 3446643
+            width: 4198
+            height: 6056
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504234576-bov.png?'
+          caption: null
+          title: BOV
       thumbnail:
         format: png
         size: 3446643
@@ -276,12 +621,63 @@ issue:
                 content: article
           title: art
       featured: false
-      author: []
+      author:
+        - id: '93362'
+          itemType: contributor
+          updatedAt: '2017-09-01T01:11:51.884Z'
+          seoMetaTags:
+            - tagName: title
+              content: Naledi Atari
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Naledi Atari
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Naledi Atari
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T01:11:51Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504228300-womanly-social-assets_circle_blk_crop2.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504228300-womanly-social-assets_circle_blk_crop2.jpg?'
+          position: 13
+          socialMediaLinks: []
+          bio: ~~
+          title: Contributor
+          image:
+            format: jpg
+            size: 31093
+            width: 1009
+            height: 1009
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504228300-womanly-social-assets_circle_blk_crop2.jpg?'
+          name: Naledi Atari
       slug: birth-of-venus
       title: Birth of Venus
     - id: '93375'
       itemType: article
-      updatedAt: '2017-09-01T01:26:47.612Z'
+      updatedAt: '2017-09-01T03:48:25.691Z'
       seoMetaTags:
         - tagName: title
           content: 'Cuba Sex Ed '
@@ -300,7 +696,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-09-01T01:26:47Z'
+            content: '2017-09-01T03:48:25Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -365,12 +761,201 @@ issue:
                 content: article
           title: art
       featured: false
-      author: []
+      author:
+        - id: '93358'
+          itemType: contributor
+          updatedAt: '2017-09-01T01:01:07.606Z'
+          seoMetaTags:
+            - tagName: title
+              content: Ailyn Robles
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Ailyn Robles
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Ailyn Robles
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T01:01:07Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504227585-ailyn-robles.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504227585-ailyn-robles.jpg?'
+          position: 2
+          socialMediaLinks: []
+          bio: 'Ailyn is a Colombian writer and photographer based out of Brooklyn, who fuses her passion for the empowerment of women with everything she does. She works with young people during the day, and writes short stories at night.'
+          title: Co-Founder
+          image:
+            format: jpg
+            size: 9913731
+            width: 5398
+            height: 3599
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504227585-ailyn-robles.jpg?'
+          name: Ailyn Robles
       slug: cuba-sex-ed
       title: 'Cuba Sex Ed '
+    - id: '93399'
+      itemType: article
+      updatedAt: '2017-09-01T02:08:15.661Z'
+      seoMetaTags:
+        - tagName: title
+          content: Origin
+        - tagName: meta
+          attributes:
+            property: 'og:title'
+            content: Origin
+        - tagName: meta
+          attributes:
+            name: 'twitter:title'
+            content: Origin
+        - tagName: meta
+          attributes:
+            name: 'twitter:card'
+            content: summary
+        - tagName: meta
+          attributes:
+            property: 'article:modified_time'
+            content: '2017-09-01T02:08:15Z'
+        - tagName: meta
+          attributes:
+            property: 'og:locale'
+            content: en_EN
+        - tagName: meta
+          attributes:
+            property: 'og:type'
+            content: article
+        - tagName: meta
+          attributes:
+            property: 'og:image'
+            content: 'https://www.datocms-assets.com/2593/1504231628-womanlycover-copy-1.jpg?'
+        - tagName: meta
+          attributes:
+            name: 'twitter:image'
+            content: 'https://www.datocms-assets.com/2593/1504231628-womanlycover-copy-1.jpg?'
+      position: 16
+      textOnLeft: false
+      resources: []
+      text: ~~
+      audio: null
+      video: null
+      images:
+        - id: '93398'
+          itemType: image
+          updatedAt: '2017-09-01T02:08:11.519Z'
+          seoMetaTags:
+            - tagName: title
+              content: Origin
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Origin
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Origin
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T02:08:11Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504231678-womanlycover-copy-1.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504231678-womanlycover-copy-1.jpg?'
+          position: 15
+          image:
+            format: jpg
+            size: 7218816
+            width: 3910
+            height: 2970
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504231678-womanlycover-copy-1.jpg?'
+          caption: null
+          title: Origin
+      thumbnail:
+        format: jpg
+        size: 7218816
+        width: 3910
+        height: 2970
+        title: null
+        alt: null
+        url: 'https://www.datocms-assets.com/2593/1504231628-womanlycover-copy-1.jpg?'
+      tags:
+        - id: '92784'
+          itemType: tag
+          updatedAt: '2017-08-29T19:24:28.662Z'
+          seoMetaTags:
+            - tagName: title
+              content: art
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: art
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: art
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-08-29T19:24:28Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+          title: art
+      featured: true
+      author: []
+      slug: origin
+      title: Origin
     - id: '93379'
       itemType: article
-      updatedAt: '2017-09-01T01:31:52.332Z'
+      updatedAt: '2017-09-01T03:48:49.681Z'
       seoMetaTags:
         - tagName: title
           content: 'Feelin'' Yourself? '
@@ -389,7 +974,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-09-01T01:31:52Z'
+            content: '2017-09-01T03:48:49Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -401,26 +986,75 @@ issue:
         - tagName: meta
           attributes:
             property: 'og:image'
-            content: 'https://www.datocms-assets.com/2593/1504229504-womanly-social-assets_circle_blk_crop2.jpg?'
+            content: 'https://www.datocms-assets.com/2593/1504234670-masturbation-survey-1.png?'
         - tagName: meta
           attributes:
             name: 'twitter:image'
-            content: 'https://www.datocms-assets.com/2593/1504229504-womanly-social-assets_circle_blk_crop2.jpg?'
+            content: 'https://www.datocms-assets.com/2593/1504234670-masturbation-survey-1.png?'
       position: 12
       textOnLeft: false
       resources: []
       text: ~~
       audio: null
       video: null
-      images: []
+      images:
+        - id: '93454'
+          itemType: image
+          updatedAt: '2017-09-01T02:58:33.002Z'
+          seoMetaTags:
+            - tagName: title
+              content: 'Feelin'' Yourself? '
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: 'Feelin'' Yourself? '
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: 'Feelin'' Yourself? '
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T02:58:33Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504234705-masturbation-survey-1.png?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504234705-masturbation-survey-1.png?'
+          position: 37
+          image:
+            format: png
+            size: 725975
+            width: 962
+            height: 1282
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504234705-masturbation-survey-1.png?'
+          caption: null
+          title: 'Feelin'' Yourself? '
       thumbnail:
-        format: jpg
-        size: 31093
-        width: 1009
-        height: 1009
+        format: png
+        size: 725975
+        width: 962
+        height: 1282
         title: null
         alt: null
-        url: 'https://www.datocms-assets.com/2593/1504229504-womanly-social-assets_circle_blk_crop2.jpg?'
+        url: 'https://www.datocms-assets.com/2593/1504234670-masturbation-survey-1.png?'
       tags:
         - id: '92784'
           itemType: tag
@@ -454,12 +1088,399 @@ issue:
                 content: article
           title: art
       featured: false
-      author: []
+      author:
+        - id: '93378'
+          itemType: contributor
+          updatedAt: '2017-09-01T02:22:21.663Z'
+          seoMetaTags:
+            - tagName: title
+              content: Khadija Ariana
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Khadija Ariana
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Khadija Ariana
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T02:22:21Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504229480-khadija-ariana.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504229480-khadija-ariana.jpg?'
+          position: 19
+          socialMediaLinks: []
+          bio: Khadija Horton is an illustration major studying at Pratt Institute in Brooklyn.
+          title: Resident Artist
+          image:
+            format: jpg
+            size: 65348
+            width: 632
+            height: 356
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504229480-khadija-ariana.jpg?'
+          name: Khadija Ariana
+        - id: '85154'
+          itemType: contributor
+          updatedAt: '2017-09-01T03:16:52.043Z'
+          seoMetaTags:
+            - tagName: title
+              content: Aisha Khan
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Aisha Khan
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Aisha Khan
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T03:16:52Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504227010-aisha-khan-2.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504227010-aisha-khan-2.jpg?'
+          position: 4
+          socialMediaLinks:
+            - '93456'
+            - '93457'
+          bio: 'Aisha is a Pakistani-Latvian-American from Northern California, currently based in NYC. She has a passion for languages and a commitment to creating accessible medias and technologies. '
+          title: Digital Product Director
+          image:
+            format: jpg
+            size: 162599
+            width: 500
+            height: 333
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504227010-aisha-khan-2.jpg?'
+          name: Aisha Khan
       slug: feelin-yourself
       title: 'Feelin'' Yourself? '
+    - id: '93384'
+      itemType: article
+      updatedAt: '2017-09-01T03:49:14.322Z'
+      seoMetaTags:
+        - tagName: title
+          content: 'Hi, I Have Herpes'
+        - tagName: meta
+          attributes:
+            property: 'og:title'
+            content: 'Hi, I Have Herpes'
+        - tagName: meta
+          attributes:
+            name: 'twitter:title'
+            content: 'Hi, I Have Herpes'
+        - tagName: meta
+          attributes:
+            name: 'twitter:card'
+            content: summary
+        - tagName: meta
+          attributes:
+            property: 'article:modified_time'
+            content: '2017-09-01T03:49:14Z'
+        - tagName: meta
+          attributes:
+            property: 'og:locale'
+            content: en_EN
+        - tagName: meta
+          attributes:
+            property: 'og:type'
+            content: article
+        - tagName: meta
+          attributes:
+            property: 'og:image'
+            content: 'https://www.datocms-assets.com/2593/1504229788-womanly-social-assets_circle_blk_crop2.jpg?'
+        - tagName: meta
+          attributes:
+            name: 'twitter:image'
+            content: 'https://www.datocms-assets.com/2593/1504229788-womanly-social-assets_circle_blk_crop2.jpg?'
+      position: 13
+      textOnLeft: false
+      resources: []
+      text: |-
+        He takes another bite of his food. 
+
+        “So I...uh.. got an internship in New York.”
+
+        “Cool. Sounds a lot better than being stuck in fucking Claremont studying for the MCATs. You know what I’ll be doing all summer?”
+
+        We are 20 year-old college juniors in California, and we have been dating for a four-month semester. (I mean, we’ve been off-and-on with some study abroad time in-between, but this time it’s officially been a whole semester). 
+
+        “I guess we’re splitting for the summer, huh?” He didn’t believe in relationships before me, so I doubt he believes in long distance relationships. 
+
+        “I assumed we were staying together.”
+
+        “Really? You want to stay together over the summer?” I had already prepared for the worst.
+
+        “Yeah,” he shrugs nonchalantly. “Why wouldn’t we?”
+
+        Well, that was easy.
+
+        —
+
+        I see my boyfriend from the train window. He’s handsome and barefoot and skating towards the Metrolink station, holding a flower he definitely ripped out of the ground. It’s been 7 weeks since we’ve seen each other, an eternity in first-love time. 
+
+        We collapse in laughter, after sex. It couldn’t have lasted more than five minutes.
+
+        —
+
+        It has been two nights since we reunited, and I can’t sleep. I’ve had some terrible vaginal discomfort before, but this feels different. I’m not itchy, I’m tingly. But like so tingly, it’s itchy. Scratching my labia is futile, this itch feels like it goes three-inches deep, if that’s even possible. I can’t even exactly source the itch. It’s starting to feel like it’s spreading to my legs. This is so fucking uncomfortable. 
+
+        I squirm my way through a restless night.
+
+        —
+
+        Warning: what follows next is not cute, and more than a little graphic. 
+
+        My labia is sore, and I worry I’ve scratched too hard. I’ve had vaginal abrasions and yeast infections, and sometimes both at the same time, but this is so much more painful. I start noticing strange discharge every time I wipe. It’s clear, wet goo mingled with crusties. You know, kind of like the gunk you wipe off your eye when you have pink eye. I’m on my back with my legs open while my boyfriend inspects my vagina. He’s a future doctor. 
+
+        “Whoa, they’re like - festering scabs.” 
+
+        It hurts when I pee. It’s not the actual act of peeing that hurts, this isn’t a UTI. It hurts when urine hits any part of my labia - it stings like I’ve just poured rubbing alcohol on an open wound. I pat the area instead of wiping, because maybe they’re just cuts from rough sex. I cover the skin with petroleum jelly, because maybe I’m chafing. I wash my labia with soap and water whenever I can, because maybe it's a bacterial infection gone wrong, maybe it just needs to be cleaned. 
+
+        Let me repeat that in case you missed it. I would rather believe that I could have anything, including an out-of-control bacterial infection, before I believe that I have genital herpes. 
+
+        I start calling ex-lovers to try and track transmission of the virus, because that’s what you’re supposed to do with STDs, I guess. But the effort is futile. The patterns are too inconsistent, and not everyone who has herpes will show symptoms. My current partner shows no symptoms. 
+
+        —
+
+        In explanation, a brief run-down of my sexual education:
+
+        At 9 years-old, my mom - a registered nurse and first-defense responder - shut me in a room by myself to watch an hour-long educational VHS on reproduction.
+
+        At 10 years-old, the 5th grade teachers at my elementary school talked to us about sex and periods. We separated into major groups by gender, and they took us into classrooms to have open discussions about any remaining questions we had. I asked if a condom could ever come off and get stuck in your vagina during sex. My teacher laughed a little, then proceeded to answer the question as best as she could. 
+
+        At 11 years-old, someone crossed out the “ni” in organism in my science textbook. I asked my science teacher what an orgasm was in class. I remember that I really didn’t know at the time. She ignored my question.
+
+        At 12 or 13 years-old, I vaguely remember some sort of sex-ed. My friends remember having to watch a video of a live birth and some assembly about periods. 
+
+        At 14 years-old, I take a semester of “Health” - a class all Los Angeles Unified School District (the second largest public school district in the nation) high school students are required to take in order to graduate. I only remember having to carry around a baby doll for a week, and on occasion, stuffing it into my locker. 
+
+        At 18 years-old, my alma mater might have made us go to a sexual health assembly. 
+
+        My point? My upbringing was ripe with sexual education opportunities, yet it mostly only reinforced the mechanics of sex, childbirth, and the fact that I get periods. None of the icky, in-between stuff. Definitely not the icky, in-between stuff I was dealing with now. 
+
+        —
+
+        The Internet tells me I probably have genital herpes, so I visit an OB-GYN. She confirms the diagnosis in two seconds flat. 
+
+        I’m still in denial. I have herpes? I’ve heard what other people say about other people who have herpes. 
+
+        “Are you sure it’s herpes? How could this happen? I’ve had a stable boyfriend for 7 months.”
+
+        The gynecologist shrugs. “Maybe your boyfriend got a new girlfriend while you were away.”
+
+        I had never questioned his fidelity. How dare she make that assertion?
+
+        —
+
+        He’s at Planned Parenthood trying to get himself tested. They offer him the basic panel for chlamydia, gonorrhea, HIV, and syphilis.
+
+        “Does that include herpes?” he asks. 
+
+        “That’s a very specific test, and to be completely honest not really worth it,” they answer.
+
+        “What do you mean? I want to know if I have it.”
+
+        “Look, let’s say we test for it. You find out you have it. Then what? There’s no cure for it. So many people have it that, chances are, you probably do have it. If you want to pay for the test, go for it, but there isn’t really a point if you’re not showing any symptoms. If you’re having flare ups, then it might be worth getting tested to find the exact cause of your mucosal ulcers. Otherwise, you should be fine with a basic panel.” 
+
+        And that’s the end of the conversation.
+
+        *****
+
+        I fail to clearly communicate that I have herpes and active outbreaks to my next partner. At some point in our early relationship, I may mumble something to him about “a herpes thing” from my last relationship. I stumble through a very quick explanation of how I got tested, and found out that I have Type 1 herpes, but not to worry, that it’s the same virus for cold sores, and a bunch of people have it, so it’s not a big deal. I didn’t want him to judge me. I was scared. And next thing you know, I was having my second genital herpes outbreak, and he was having his first. 
+
+        “It’s okay,” he said to me. “I’m not a stranger to any of this. I know what it is.” He was very chill about the whole situation. But still, it’s not cool to transmit an outbreak to your partner.
+
+        *****
+
+        To this day I still struggle with herpes stigma, and how to have the conversations around it. It may seem obvious that the partner I experienced an outbreak with is the person who transmitted it to me, but as we’ve learned about asymptomatic carriers, I could have had the virus before him. Herpes isn’t a game of tag, it isn’t directly traceable. 
+
+        Since my initial outbreak five years ago, my herpes outbreaks have transitioned from genital to oral sores, with my last outbreak, a cold sore, occurring over two years ago. I usually mumble a warning to my partners to let them know that I am a virus carrier, but I truthfully don’t know how much to emphasize its severity, since it’s been years since my last outbreak. I don’t have all the answers to questions about herpes, but I’ve learned a whole lot of things that you should know too. For example:
+        - 1 in 6 people aged 14-49 have herpes
+        - Not everyone shows symptoms
+        - Condoms do not fully protect you from getting herpes (since outbreaks can occur in areas that are not covered by condoms). 
+        - Type 1 generally causes cold sores and Type 2 generally causes genital outbreaks, but the only difference between genital and oral herpes is the location of the outbreak (thanks, WebMD.)
+        - There are many, many types of herpes. Type 1 and Type 2 are talked about the most because they have a mucosal presentation, but Type 3 is a little thing called chickenpox, and - - Type 4 is known as mono. The list goes on and on. 
+
+        Want to know what the CDC says about prevention? “The only way to avoid STDs is to not have vaginal, anal, or oral sex.”
+
+        If you are a sexually active individual, you have a chance of getting herpes. Period. 
+
+        But we’re not going to stop having sex, so we need to start having real conversations about the things that afflict us, and our genitals. Don’t we want to have positive sexual experiences? 
+
+        Stay informed. Be a courteous human being, and inform your partners of your relevant sexual history, especially if you still experience active outbreaks.
+      audio: null
+      video: null
+      images: []
+      thumbnail:
+        format: jpg
+        size: 31093
+        width: 1009
+        height: 1009
+        title: null
+        alt: null
+        url: 'https://www.datocms-assets.com/2593/1504229788-womanly-social-assets_circle_blk_crop2.jpg?'
+      tags:
+        - id: '92784'
+          itemType: tag
+          updatedAt: '2017-08-29T19:24:28.662Z'
+          seoMetaTags:
+            - tagName: title
+              content: art
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: art
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: art
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-08-29T19:24:28Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+          title: art
+        - id: '79593'
+          itemType: tag
+          updatedAt: '2017-07-08T16:26:39.462Z'
+          seoMetaTags:
+            - tagName: title
+              content: photography
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: photography
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: photography
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-07-08T16:26:39Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+          title: photography
+      featured: false
+      author:
+        - id: '93381'
+          itemType: contributor
+          updatedAt: '2017-09-01T01:33:26.536Z'
+          seoMetaTags:
+            - tagName: title
+              content: Priscilla Hsu
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Priscilla Hsu
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Priscilla Hsu
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T01:33:26Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504229598-womanly-social-assets_circle_blk_crop2.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504229598-womanly-social-assets_circle_blk_crop2.jpg?'
+          position: 20
+          socialMediaLinks: []
+          bio: ~~
+          title: Contributor
+          image:
+            format: jpg
+            size: 31093
+            width: 1009
+            height: 1009
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504229598-womanly-social-assets_circle_blk_crop2.jpg?'
+          name: Priscilla Hsu
+      slug: hi-i-have-herpes
+      title: 'Hi, I Have Herpes'
     - id: '93391'
       itemType: article
-      updatedAt: '2017-09-01T01:50:06.953Z'
+      updatedAt: '2017-09-01T03:31:59.916Z'
       seoMetaTags:
         - tagName: title
           content: Sexology
@@ -478,7 +1499,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-09-01T01:50:06Z'
+            content: '2017-09-01T03:31:59Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -928,244 +1949,63 @@ issue:
                 content: article
           title: photography
       featured: false
-      author: []
+      author:
+        - id: '93358'
+          itemType: contributor
+          updatedAt: '2017-09-01T01:01:07.606Z'
+          seoMetaTags:
+            - tagName: title
+              content: Ailyn Robles
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Ailyn Robles
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Ailyn Robles
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T01:01:07Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504227585-ailyn-robles.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504227585-ailyn-robles.jpg?'
+          position: 2
+          socialMediaLinks: []
+          bio: 'Ailyn is a Colombian writer and photographer based out of Brooklyn, who fuses her passion for the empowerment of women with everything she does. She works with young people during the day, and writes short stories at night.'
+          title: Co-Founder
+          image:
+            format: jpg
+            size: 9913731
+            width: 5398
+            height: 3599
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504227585-ailyn-robles.jpg?'
+          name: Ailyn Robles
       slug: sexology
       title: Sexology
-    - id: '93384'
-      itemType: article
-      updatedAt: '2017-09-01T01:36:43.087Z'
-      seoMetaTags:
-        - tagName: title
-          content: 'Hi, I Have Herpes'
-        - tagName: meta
-          attributes:
-            property: 'og:title'
-            content: 'Hi, I Have Herpes'
-        - tagName: meta
-          attributes:
-            name: 'twitter:title'
-            content: 'Hi, I Have Herpes'
-        - tagName: meta
-          attributes:
-            name: 'twitter:card'
-            content: summary
-        - tagName: meta
-          attributes:
-            property: 'article:modified_time'
-            content: '2017-09-01T01:36:43Z'
-        - tagName: meta
-          attributes:
-            property: 'og:locale'
-            content: en_EN
-        - tagName: meta
-          attributes:
-            property: 'og:type'
-            content: article
-        - tagName: meta
-          attributes:
-            property: 'og:image'
-            content: 'https://www.datocms-assets.com/2593/1504229788-womanly-social-assets_circle_blk_crop2.jpg?'
-        - tagName: meta
-          attributes:
-            name: 'twitter:image'
-            content: 'https://www.datocms-assets.com/2593/1504229788-womanly-social-assets_circle_blk_crop2.jpg?'
-      position: 13
-      textOnLeft: false
-      resources: []
-      text: |-
-        He takes another bite of his food. 
-
-        “So I...uh.. got an internship in New York.”
-
-        “Cool. Sounds a lot better than being stuck in fucking Claremont studying for the MCATs. You know what I’ll be doing all summer?”
-
-        We are 20 year-old college juniors in California, and we have been dating for a four-month semester. (I mean, we’ve been off-and-on with some study abroad time in-between, but this time it’s officially been a whole semester). 
-
-        “I guess we’re splitting for the summer, huh?” He didn’t believe in relationships before me, so I doubt he believes in long distance relationships. 
-
-        “I assumed we were staying together.”
-
-        “Really? You want to stay together over the summer?” I had already prepared for the worst.
-
-        “Yeah,” he shrugs nonchalantly. “Why wouldn’t we?”
-
-        Well, that was easy.
-
-        —
-
-        I see my boyfriend from the train window. He’s handsome and barefoot and skating towards the Metrolink station, holding a flower he definitely ripped out of the ground. It’s been 7 weeks since we’ve seen each other, an eternity in first-love time. 
-
-        We collapse in laughter, after sex. It couldn’t have lasted more than five minutes.
-
-        —
-
-        It has been two nights since we reunited, and I can’t sleep. I’ve had some terrible vaginal discomfort before, but this feels different. I’m not itchy, I’m tingly. But like so tingly, it’s itchy. Scratching my labia is futile, this itch feels like it goes three-inches deep, if that’s even possible. I can’t even exactly source the itch. It’s starting to feel like it’s spreading to my legs. This is so fucking uncomfortable. 
-
-        I squirm my way through a restless night.
-
-        —
-
-        Warning: what follows next is not cute, and more than a little graphic. 
-
-        My labia is sore, and I worry I’ve scratched too hard. I’ve had vaginal abrasions and yeast infections, and sometimes both at the same time, but this is so much more painful. I start noticing strange discharge every time I wipe. It’s clear, wet goo mingled with crusties. You know, kind of like the gunk you wipe off your eye when you have pink eye. I’m on my back with my legs open while my boyfriend inspects my vagina. He’s a future doctor. 
-
-        “Whoa, they’re like - festering scabs.” 
-
-        It hurts when I pee. It’s not the actual act of peeing that hurts, this isn’t a UTI. It hurts when urine hits any part of my labia - it stings like I’ve just poured rubbing alcohol on an open wound. I pat the area instead of wiping, because maybe they’re just cuts from rough sex. I cover the skin with petroleum jelly, because maybe I’m chafing. I wash my labia with soap and water whenever I can, because maybe it's a bacterial infection gone wrong, maybe it just needs to be cleaned. 
-
-        Let me repeat that in case you missed it. I would rather believe that I could have anything, including an out-of-control bacterial infection, before I believe that I have genital herpes. 
-
-        I start calling ex-lovers to try and track transmission of the virus, because that’s what you’re supposed to do with STDs, I guess. But the effort is futile. The patterns are too inconsistent, and not everyone who has herpes will show symptoms. My current partner shows no symptoms. 
-
-        —
-
-        In explanation, a brief run-down of my sexual education:
-
-        At 9 years-old, my mom - a registered nurse and first-defense responder - shut me in a room by myself to watch an hour-long educational VHS on reproduction.
-
-        At 10 years-old, the 5th grade teachers at my elementary school talked to us about sex and periods. We separated into major groups by gender, and they took us into classrooms to have open discussions about any remaining questions we had. I asked if a condom could ever come off and get stuck in your vagina during sex. My teacher laughed a little, then proceeded to answer the question as best as she could. 
-
-        At 11 years-old, someone crossed out the “ni” in organism in my science textbook. I asked my science teacher what an orgasm was in class. I remember that I really didn’t know at the time. She ignored my question.
-
-        At 12 or 13 years-old, I vaguely remember some sort of sex-ed. My friends remember having to watch a video of a live birth and some assembly about periods. 
-
-        At 14 years-old, I take a semester of “Health” - a class all Los Angeles Unified School District (the second largest public school district in the nation) high school students are required to take in order to graduate. I only remember having to carry around a baby doll for a week, and on occasion, stuffing it into my locker. 
-
-        At 18 years-old, my alma mater might have made us go to a sexual health assembly. 
-
-        My point? My upbringing was ripe with sexual education opportunities, yet it mostly only reinforced the mechanics of sex, childbirth, and the fact that I get periods. None of the icky, in-between stuff. Definitely not the icky, in-between stuff I was dealing with now. 
-
-        —
-
-        The Internet tells me I probably have genital herpes, so I visit an OB-GYN. She confirms the diagnosis in two seconds flat. 
-
-        I’m still in denial. I have herpes? I’ve heard what other people say about other people who have herpes. 
-
-        “Are you sure it’s herpes? How could this happen? I’ve had a stable boyfriend for 7 months.”
-
-        The gynecologist shrugs. “Maybe your boyfriend got a new girlfriend while you were away.”
-
-        I had never questioned his fidelity. How dare she make that assertion?
-
-        —
-
-        He’s at Planned Parenthood trying to get himself tested. They offer him the basic panel for chlamydia, gonorrhea, HIV, and syphilis.
-
-        “Does that include herpes?” he asks. 
-
-        “That’s a very specific test, and to be completely honest not really worth it,” they answer.
-
-        “What do you mean? I want to know if I have it.”
-
-        “Look, let’s say we test for it. You find out you have it. Then what? There’s no cure for it. So many people have it that, chances are, you probably do have it. If you want to pay for the test, go for it, but there isn’t really a point if you’re not showing any symptoms. If you’re having flare ups, then it might be worth getting tested to find the exact cause of your mucosal ulcers. Otherwise, you should be fine with a basic panel.” 
-
-        And that’s the end of the conversation.
-
-        *****
-
-        I fail to clearly communicate that I have herpes and active outbreaks to my next partner. At some point in our early relationship, I may mumble something to him about “a herpes thing” from my last relationship. I stumble through a very quick explanation of how I got tested, and found out that I have Type 1 herpes, but not to worry, that it’s the same virus for cold sores, and a bunch of people have it, so it’s not a big deal. I didn’t want him to judge me. I was scared. And next thing you know, I was having my second genital herpes outbreak, and he was having his first. 
-
-        “It’s okay,” he said to me. “I’m not a stranger to any of this. I know what it is.” He was very chill about the whole situation. But still, it’s not cool to transmit an outbreak to your partner.
-
-        *****
-
-        To this day I still struggle with herpes stigma, and how to have the conversations around it. It may seem obvious that the partner I experienced an outbreak with is the person who transmitted it to me, but as we’ve learned about asymptomatic carriers, I could have had the virus before him. Herpes isn’t a game of tag, it isn’t directly traceable. 
-
-        Since my initial outbreak five years ago, my herpes outbreaks have transitioned from genital to oral sores, with my last outbreak, a cold sore, occurring over two years ago. I usually mumble a warning to my partners to let them know that I am a virus carrier, but I truthfully don’t know how much to emphasize its severity, since it’s been years since my last outbreak. I don’t have all the answers to questions about herpes, but I’ve learned a whole lot of things that you should know too. For example:
-        - 1 in 6 people aged 14-49 have herpes
-        - Not everyone shows symptoms
-        - Condoms do not fully protect you from getting herpes (since outbreaks can occur in areas that are not covered by condoms). 
-        - Type 1 generally causes cold sores and Type 2 generally causes genital outbreaks, but the only difference between genital and oral herpes is the location of the outbreak (thanks, WebMD.)
-        - There are many, many types of herpes. Type 1 and Type 2 are talked about the most because they have a mucosal presentation, but Type 3 is a little thing called chickenpox, and - - Type 4 is known as mono. The list goes on and on. 
-
-        Want to know what the CDC says about prevention? “The only way to avoid STDs is to not have vaginal, anal, or oral sex.”
-
-        If you are a sexually active individual, you have a chance of getting herpes. Period. 
-
-        But we’re not going to stop having sex, so we need to start having real conversations about the things that afflict us, and our genitals. Don’t we want to have positive sexual experiences? 
-
-        Stay informed. Be a courteous human being, and inform your partners of your relevant sexual history, especially if you still experience active outbreaks.
-      audio: null
-      video: null
-      images: []
-      thumbnail:
-        format: jpg
-        size: 31093
-        width: 1009
-        height: 1009
-        title: null
-        alt: null
-        url: 'https://www.datocms-assets.com/2593/1504229788-womanly-social-assets_circle_blk_crop2.jpg?'
-      tags:
-        - id: '92784'
-          itemType: tag
-          updatedAt: '2017-08-29T19:24:28.662Z'
-          seoMetaTags:
-            - tagName: title
-              content: art
-            - tagName: meta
-              attributes:
-                property: 'og:title'
-                content: art
-            - tagName: meta
-              attributes:
-                name: 'twitter:title'
-                content: art
-            - tagName: meta
-              attributes:
-                name: 'twitter:card'
-                content: summary
-            - tagName: meta
-              attributes:
-                property: 'article:modified_time'
-                content: '2017-08-29T19:24:28Z'
-            - tagName: meta
-              attributes:
-                property: 'og:locale'
-                content: en_EN
-            - tagName: meta
-              attributes:
-                property: 'og:type'
-                content: article
-          title: art
-        - id: '79593'
-          itemType: tag
-          updatedAt: '2017-07-08T16:26:39.462Z'
-          seoMetaTags:
-            - tagName: title
-              content: photography
-            - tagName: meta
-              attributes:
-                property: 'og:title'
-                content: photography
-            - tagName: meta
-              attributes:
-                name: 'twitter:title'
-                content: photography
-            - tagName: meta
-              attributes:
-                name: 'twitter:card'
-                content: summary
-            - tagName: meta
-              attributes:
-                property: 'article:modified_time'
-                content: '2017-07-08T16:26:39Z'
-            - tagName: meta
-              attributes:
-                property: 'og:locale'
-                content: en_EN
-            - tagName: meta
-              attributes:
-                property: 'og:type'
-                content: article
-          title: photography
-      featured: false
-      author: []
-      slug: hi-i-have-herpes
-      title: 'Hi, I Have Herpes'
     - id: '93397'
       itemType: article
-      updatedAt: '2017-09-01T02:16:15.373Z'
+      updatedAt: '2017-09-01T03:55:37.963Z'
       seoMetaTags:
         - tagName: title
           content: Loving at Arm's Length
@@ -1184,7 +2024,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-09-01T02:16:15Z'
+            content: '2017-09-01T03:55:37Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -1396,68 +2236,21 @@ issue:
                 content: article
           title: art
       featured: false
-      author: []
-      slug: loving-at-arm-s-lenght
-      title: Loving at Arm's Length
-    - id: '93399'
-      itemType: article
-      updatedAt: '2017-09-01T02:08:15.661Z'
-      seoMetaTags:
-        - tagName: title
-          content: Origin
-        - tagName: meta
-          attributes:
-            property: 'og:title'
-            content: Origin
-        - tagName: meta
-          attributes:
-            name: 'twitter:title'
-            content: Origin
-        - tagName: meta
-          attributes:
-            name: 'twitter:card'
-            content: summary
-        - tagName: meta
-          attributes:
-            property: 'article:modified_time'
-            content: '2017-09-01T02:08:15Z'
-        - tagName: meta
-          attributes:
-            property: 'og:locale'
-            content: en_EN
-        - tagName: meta
-          attributes:
-            property: 'og:type'
-            content: article
-        - tagName: meta
-          attributes:
-            property: 'og:image'
-            content: 'https://www.datocms-assets.com/2593/1504231628-womanlycover-copy-1.jpg?'
-        - tagName: meta
-          attributes:
-            name: 'twitter:image'
-            content: 'https://www.datocms-assets.com/2593/1504231628-womanlycover-copy-1.jpg?'
-      position: 16
-      textOnLeft: false
-      resources: []
-      text: ~~
-      audio: null
-      video: null
-      images:
-        - id: '93398'
-          itemType: image
-          updatedAt: '2017-09-01T02:08:11.519Z'
+      author:
+        - id: '93392'
+          itemType: contributor
+          updatedAt: '2017-09-01T02:01:36.769Z'
           seoMetaTags:
             - tagName: title
-              content: Origin
+              content: Jessica Milton
             - tagName: meta
               attributes:
                 property: 'og:title'
-                content: Origin
+                content: Jessica Milton
             - tagName: meta
               attributes:
                 name: 'twitter:title'
-                content: Origin
+                content: Jessica Milton
             - tagName: meta
               attributes:
                 name: 'twitter:card'
@@ -1465,7 +2258,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T02:08:11Z'
+                content: '2017-09-01T02:01:36Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -1477,69 +2270,29 @@ issue:
             - tagName: meta
               attributes:
                 property: 'og:image'
-                content: 'https://www.datocms-assets.com/2593/1504231678-womanlycover-copy-1.jpg?'
+                content: 'https://www.datocms-assets.com/2593/1504231201-womanly-social-assets_circle_blk_crop2.jpg?'
             - tagName: meta
               attributes:
                 name: 'twitter:image'
-                content: 'https://www.datocms-assets.com/2593/1504231678-womanlycover-copy-1.jpg?'
-          position: 15
+                content: 'https://www.datocms-assets.com/2593/1504231201-womanly-social-assets_circle_blk_crop2.jpg?'
+          position: 23
+          socialMediaLinks: []
+          bio: ~~
+          title: Contributor
           image:
             format: jpg
-            size: 7218816
-            width: 3910
-            height: 2970
+            size: 31093
+            width: 1009
+            height: 1009
             title: null
             alt: null
-            url: 'https://www.datocms-assets.com/2593/1504231678-womanlycover-copy-1.jpg?'
-          caption: null
-          title: Origin
-      thumbnail:
-        format: jpg
-        size: 7218816
-        width: 3910
-        height: 2970
-        title: null
-        alt: null
-        url: 'https://www.datocms-assets.com/2593/1504231628-womanlycover-copy-1.jpg?'
-      tags:
-        - id: '92784'
-          itemType: tag
-          updatedAt: '2017-08-29T19:24:28.662Z'
-          seoMetaTags:
-            - tagName: title
-              content: art
-            - tagName: meta
-              attributes:
-                property: 'og:title'
-                content: art
-            - tagName: meta
-              attributes:
-                name: 'twitter:title'
-                content: art
-            - tagName: meta
-              attributes:
-                name: 'twitter:card'
-                content: summary
-            - tagName: meta
-              attributes:
-                property: 'article:modified_time'
-                content: '2017-08-29T19:24:28Z'
-            - tagName: meta
-              attributes:
-                property: 'og:locale'
-                content: en_EN
-            - tagName: meta
-              attributes:
-                property: 'og:type'
-                content: article
-          title: art
-      featured: true
-      author: []
-      slug: origin
-      title: Origin
+            url: 'https://www.datocms-assets.com/2593/1504231201-womanly-social-assets_circle_blk_crop2.jpg?'
+          name: Jessica Milton
+      slug: loving-at-arm-s-lenght
+      title: Loving at Arm's Length
     - id: '93401'
       itemType: article
-      updatedAt: '2017-09-01T02:12:43.300Z'
+      updatedAt: '2017-09-01T02:59:33.056Z'
       seoMetaTags:
         - tagName: title
           content: Sex Ed From My Girlfriends
@@ -1558,7 +2311,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-09-01T02:12:43Z'
+            content: '2017-09-01T02:59:33Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -1582,20 +2335,20 @@ issue:
       audio: null
       video: null
       images:
-        - id: '93400'
+        - id: '93455'
           itemType: image
-          updatedAt: '2017-09-01T02:12:02.973Z'
+          updatedAt: '2017-09-01T02:59:24.138Z'
           seoMetaTags:
             - tagName: title
-              content: Sex Ed From My Girlfriends
+              content: Sex Ed
             - tagName: meta
               attributes:
                 property: 'og:title'
-                content: Sex Ed From My Girlfriends
+                content: Sex Ed
             - tagName: meta
               attributes:
                 name: 'twitter:title'
-                content: Sex Ed From My Girlfriends
+                content: Sex Ed
             - tagName: meta
               attributes:
                 name: 'twitter:card'
@@ -1603,7 +2356,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T02:12:02Z'
+                content: '2017-09-01T02:59:24Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -1615,12 +2368,12 @@ issue:
             - tagName: meta
               attributes:
                 property: 'og:image'
-                content: 'https://www.datocms-assets.com/2593/1504231908-sexedfrommygirlfriends.gif?'
+                content: 'https://www.datocms-assets.com/2593/1504234755-sexedfrommygirlfriends.gif?'
             - tagName: meta
               attributes:
                 name: 'twitter:image'
-                content: 'https://www.datocms-assets.com/2593/1504231908-sexedfrommygirlfriends.gif?'
-          position: 16
+                content: 'https://www.datocms-assets.com/2593/1504234755-sexedfrommygirlfriends.gif?'
+          position: 38
           image:
             format: gif
             size: 348309
@@ -1628,9 +2381,9 @@ issue:
             height: 350
             title: null
             alt: null
-            url: 'https://www.datocms-assets.com/2593/1504231908-sexedfrommygirlfriends.gif?'
-          caption: null
-          title: Sex Ed From My Girlfriends
+            url: 'https://www.datocms-assets.com/2593/1504234755-sexedfrommygirlfriends.gif?'
+          caption: ''
+          title: Sex Ed
       thumbnail:
         format: gif
         size: 348309
@@ -1675,210 +2428,6 @@ issue:
       author: []
       slug: sex-ed-from-my-girlfriends
       title: Sex Ed From My Girlfriends
-    - id: '93425'
-      itemType: article
-      updatedAt: '2017-09-01T02:22:56.176Z'
-      seoMetaTags:
-        - tagName: title
-          content: Tampon Diaries
-        - tagName: meta
-          attributes:
-            property: 'og:title'
-            content: Tampon Diaries
-        - tagName: meta
-          attributes:
-            name: 'twitter:title'
-            content: Tampon Diaries
-        - tagName: meta
-          attributes:
-            name: 'twitter:card'
-            content: summary
-        - tagName: meta
-          attributes:
-            property: 'article:modified_time'
-            content: '2017-09-01T02:22:56Z'
-        - tagName: meta
-          attributes:
-            property: 'og:locale'
-            content: en_EN
-        - tagName: meta
-          attributes:
-            property: 'og:type'
-            content: article
-        - tagName: meta
-          attributes:
-            property: 'og:image'
-            content: 'https://www.datocms-assets.com/2593/1504232524-tampondiariesfinal.jpg?'
-        - tagName: meta
-          attributes:
-            name: 'twitter:image'
-            content: 'https://www.datocms-assets.com/2593/1504232524-tampondiariesfinal.jpg?'
-      position: 19
-      textOnLeft: false
-      resources: []
-      text: |-
-        Christina is a heavy-set Mexican girl, who mostly communicates by smiling and nodding in agreement. Her hair is dark and greasy, but always nicely combed to the back in a tamed pony tail, with a butterfly clip put delicately above the hair tie. She is new to Parkway North High’s freshman class. As a high school with a class system according to year rank, the white suburban kids from West County make it clear that she is an outsider, and call her cruel names behind her back. Her parents just moved from Corpus Christi, Texas in the middle of the school year, and she has no friends. I understand her struggle, being surrounded by people who naturally considered themselves to be “above you.” Here I am, a freshman city kid getting bussed from the Southside, because I was one of the lucky ones chosen for the desegregation program of Saint Louis. I refuse to participate on the sports teams, because it is made clear the only reason they wanted us city kids is to boost their teams. I was never the type to be a token, even if the opportunity presented itself. 
-         
-        In my Rocawear backpack purse, I keep my tampons hidden behind my walkman in a purple plastic container. It perfectly fits two tampons at a time. The container came in the box of Tampax my Mom purchased from Shunucks, the grocery store. Being on your period is such a disgrace. For seven days, I’m bound to feel dirty, and go out of my way to conceal my scarlet letter. I swear one day I’m gonna have the courage to raise my hand, get a bathroom pass, and walk to the bathroom with my tampons in hand loud and proud. I wear a maxipad just in case I have an accident, and can’t get to the bathroom fast enough. 
-         
-        It happens in my history class, when Christina starts her period and bleeds all over the seat. It happens right after lunch, when I come into class and sit in the seat to the left of her, as I always do. She passes me a note, asking if I have a maxipad. I only have tampons and I tell her to ask the teacher for a pass to see the nurse. Poor girl was red in the face. I'm confused and wonder to myself, ‘how could she not know she was gonna start?’ My boobs always hurt right before mine starts. Isn’t every woman's period the same? Every 27 days right? After she leaves with her sweatshirt tied around her waist, I pass a note to my best friend telling her all about Christina’s mishap, and by the time the bell rings, ending history class, I have told everyone. On the way out the door, I glance at the seat to see the blood. Word gets out about Christina’s situation, and she has to continue the rest of the day like that. Some of the girls called her Bloody Mary, which isn't very original. The next few days Christina doesn't come back to school. Rumors circle around that she tried to commit suicide, but I don’t really know her like that to know whether or not it’s true. 
-         
-        In the days that follow, I have this lingering feeling of sadness that I can’t shake. I did her dirty, and I feel awful. I a,m convinced that if I never said anything, no one would’ve noticed her bloodied khaki straight leg jeans. When she returns to school, I can't look her in the face, yet she is still nice to me. I know it’s only because she has no clue that I was the one who told, and for whatever reason, she now considers me to be her friend. She keeps asking me questions about history homework, and I distance myself from her by rolling my eyes -  ignoring her. When will this day end? 
-         
-        I get home just in time to watch Total Request Live on MTV. My best friend comes over and we talk about all of the gossip from the day. This boy likes her, but she likes another boy, blah blah. My mom arrives home from work and starts dinner. Ashley and I continue gossiping. I wasn’t worried about my mom over hearing all the dirty details, because she never listens, but on this particular day she is. A fight at school between two girls is the hot topic, until Ashley brings up Christina. I do everything to avoid talking about it, I feel sick to my stomach. My mom overhears the story, gives me a look, and asks Ashley to go home. I knew then that not only did I shame Christina, I had shamed myself, my mom, and all women. My mom tells me about myself that night. She says that I was cruel and no better than the white girls that talked about my afro puff hairstyle, knock off Tommy Hilfiger bag, and full lips. I need to make it right with Christina.
-         
-        Twenty seven days pass. My period always seems to start off very unlucky, I have cramps. OMG! I wish I didn’t have to go to gym 4th period. And why do they call them that anyway? Periods. Each class being called a  period was a cruel reminder. I am very careful to pack all of my stuff in my gym bag. The teacher lets girls sit out if they were on their rag, because we're swimming. (Why do old people call it a rag? Gross, right?) I participate anyway, because my flow isn't heavy. The girls in my class say that when you’re in the swimming pool, the water stops your period from bleeding, but I think that’s a myth. I insert a fresh tampon, and tuck the string in my coochie, heaven forbid if it falls out while in a co-ed swimming class. In the shower, after gym, I don't see blood, so I leave the tampon in and continue getting dressed, since half of the school day is over.
-         
-        It's a Friday, so we don't do much class work in history. We mostly watch movies and take notes. I'm leaving the locker room, heading to lunch when the craziest idea enters my mind. After lunch I go into the bathroom, take out my tampon, and don't replace it. I feel so naked, and feel unusually wet in my panties. I walk the long halls to history class quietly, and not feeling like socializing. I take my seat on the left of Christina, as I always do, and bleed all over the seat next to her. 
-         
-        After the movie, I raise my hand and ask,” Ms. Schwartz, can I go to the nurse’s office?”  
-      audio: null
-      video: null
-      images:
-        - id: '93424'
-          itemType: image
-          updatedAt: '2017-09-01T02:22:47.274Z'
-          seoMetaTags:
-            - tagName: title
-              content: 'Tampon Diaries '
-            - tagName: meta
-              attributes:
-                property: 'og:title'
-                content: 'Tampon Diaries '
-            - tagName: meta
-              attributes:
-                name: 'twitter:title'
-                content: 'Tampon Diaries '
-            - tagName: meta
-              attributes:
-                name: 'twitter:card'
-                content: summary
-            - tagName: meta
-              attributes:
-                property: 'article:modified_time'
-                content: '2017-09-01T02:22:47Z'
-            - tagName: meta
-              attributes:
-                property: 'og:locale'
-                content: en_EN
-            - tagName: meta
-              attributes:
-                property: 'og:type'
-                content: article
-            - tagName: meta
-              attributes:
-                property: 'og:image'
-                content: 'https://www.datocms-assets.com/2593/1504232541-tampondiariesfinal.jpg?'
-            - tagName: meta
-              attributes:
-                name: 'twitter:image'
-                content: 'https://www.datocms-assets.com/2593/1504232541-tampondiariesfinal.jpg?'
-          position: 18
-          image:
-            format: jpg
-            size: 3392219
-            width: 2338
-            height: 2650
-            title: null
-            alt: null
-            url: 'https://www.datocms-assets.com/2593/1504232541-tampondiariesfinal.jpg?'
-          caption: null
-          title: 'Tampon Diaries '
-      thumbnail:
-        format: jpg
-        size: 3392219
-        width: 2338
-        height: 2650
-        title: null
-        alt: null
-        url: 'https://www.datocms-assets.com/2593/1504232524-tampondiariesfinal.jpg?'
-      tags:
-        - id: '92784'
-          itemType: tag
-          updatedAt: '2017-08-29T19:24:28.662Z'
-          seoMetaTags:
-            - tagName: title
-              content: art
-            - tagName: meta
-              attributes:
-                property: 'og:title'
-                content: art
-            - tagName: meta
-              attributes:
-                name: 'twitter:title'
-                content: art
-            - tagName: meta
-              attributes:
-                name: 'twitter:card'
-                content: summary
-            - tagName: meta
-              attributes:
-                property: 'article:modified_time'
-                content: '2017-08-29T19:24:28Z'
-            - tagName: meta
-              attributes:
-                property: 'og:locale'
-                content: en_EN
-            - tagName: meta
-              attributes:
-                property: 'og:type'
-                content: article
-          title: art
-      featured: false
-      author:
-        - id: '93382'
-          itemType: contributor
-          updatedAt: '2017-09-01T01:35:01.344Z'
-          seoMetaTags:
-            - tagName: title
-              content: Carmel Brown
-            - tagName: meta
-              attributes:
-                property: 'og:title'
-                content: Carmel Brown
-            - tagName: meta
-              attributes:
-                name: 'twitter:title'
-                content: Carmel Brown
-            - tagName: meta
-              attributes:
-                name: 'twitter:card'
-                content: summary
-            - tagName: meta
-              attributes:
-                property: 'article:modified_time'
-                content: '2017-09-01T01:35:01Z'
-            - tagName: meta
-              attributes:
-                property: 'og:locale'
-                content: en_EN
-            - tagName: meta
-              attributes:
-                property: 'og:type'
-                content: article
-            - tagName: meta
-              attributes:
-                property: 'og:image'
-                content: 'https://www.datocms-assets.com/2593/1504229678-carmel-brown.jpg?'
-            - tagName: meta
-              attributes:
-                name: 'twitter:image'
-                content: 'https://www.datocms-assets.com/2593/1504229678-carmel-brown.jpg?'
-          position: 21
-          socialMediaLinks: []
-          bio: 'Carmel Brown is a visual artist and the owner of Colored Vintage, and has been curating and collecting vintage for over a decade. She currently resides in Philadelphia, PA by way of St. Louis, MO. '
-          title: Fashion Editor
-          image:
-            format: jpg
-            size: 2289966
-            width: 3951
-            height: 2832
-            title: null
-            alt: null
-            url: 'https://www.datocms-assets.com/2593/1504229678-carmel-brown.jpg?'
-          name: Carmel Brown
-      slug: tampon-diaries
-      title: Tampon Diaries
     - id: '93422'
       itemType: article
       updatedAt: '2017-09-01T02:26:26.238Z'
@@ -2119,6 +2668,1320 @@ issue:
           name: Khadija Ariana
       slug: vaginal-dryness
       title: Vaginal Dryness
+    - id: '93425'
+      itemType: article
+      updatedAt: '2017-09-01T02:22:56.176Z'
+      seoMetaTags:
+        - tagName: title
+          content: Tampon Diaries
+        - tagName: meta
+          attributes:
+            property: 'og:title'
+            content: Tampon Diaries
+        - tagName: meta
+          attributes:
+            name: 'twitter:title'
+            content: Tampon Diaries
+        - tagName: meta
+          attributes:
+            name: 'twitter:card'
+            content: summary
+        - tagName: meta
+          attributes:
+            property: 'article:modified_time'
+            content: '2017-09-01T02:22:56Z'
+        - tagName: meta
+          attributes:
+            property: 'og:locale'
+            content: en_EN
+        - tagName: meta
+          attributes:
+            property: 'og:type'
+            content: article
+        - tagName: meta
+          attributes:
+            property: 'og:image'
+            content: 'https://www.datocms-assets.com/2593/1504232524-tampondiariesfinal.jpg?'
+        - tagName: meta
+          attributes:
+            name: 'twitter:image'
+            content: 'https://www.datocms-assets.com/2593/1504232524-tampondiariesfinal.jpg?'
+      position: 19
+      textOnLeft: false
+      resources: []
+      text: |-
+        Christina is a heavy-set Mexican girl, who mostly communicates by smiling and nodding in agreement. Her hair is dark and greasy, but always nicely combed to the back in a tamed pony tail, with a butterfly clip put delicately above the hair tie. She is new to Parkway North High’s freshman class. As a high school with a class system according to year rank, the white suburban kids from West County make it clear that she is an outsider, and call her cruel names behind her back. Her parents just moved from Corpus Christi, Texas in the middle of the school year, and she has no friends. I understand her struggle, being surrounded by people who naturally considered themselves to be “above you.” Here I am, a freshman city kid getting bussed from the Southside, because I was one of the lucky ones chosen for the desegregation program of Saint Louis. I refuse to participate on the sports teams, because it is made clear the only reason they wanted us city kids is to boost their teams. I was never the type to be a token, even if the opportunity presented itself. 
+         
+        In my Rocawear backpack purse, I keep my tampons hidden behind my walkman in a purple plastic container. It perfectly fits two tampons at a time. The container came in the box of Tampax my Mom purchased from Shunucks, the grocery store. Being on your period is such a disgrace. For seven days, I’m bound to feel dirty, and go out of my way to conceal my scarlet letter. I swear one day I’m gonna have the courage to raise my hand, get a bathroom pass, and walk to the bathroom with my tampons in hand loud and proud. I wear a maxipad just in case I have an accident, and can’t get to the bathroom fast enough. 
+         
+        It happens in my history class, when Christina starts her period and bleeds all over the seat. It happens right after lunch, when I come into class and sit in the seat to the left of her, as I always do. She passes me a note, asking if I have a maxipad. I only have tampons and I tell her to ask the teacher for a pass to see the nurse. Poor girl was red in the face. I'm confused and wonder to myself, ‘how could she not know she was gonna start?’ My boobs always hurt right before mine starts. Isn’t every woman's period the same? Every 27 days right? After she leaves with her sweatshirt tied around her waist, I pass a note to my best friend telling her all about Christina’s mishap, and by the time the bell rings, ending history class, I have told everyone. On the way out the door, I glance at the seat to see the blood. Word gets out about Christina’s situation, and she has to continue the rest of the day like that. Some of the girls called her Bloody Mary, which isn't very original. The next few days Christina doesn't come back to school. Rumors circle around that she tried to commit suicide, but I don’t really know her like that to know whether or not it’s true. 
+         
+        In the days that follow, I have this lingering feeling of sadness that I can’t shake. I did her dirty, and I feel awful. I a,m convinced that if I never said anything, no one would’ve noticed her bloodied khaki straight leg jeans. When she returns to school, I can't look her in the face, yet she is still nice to me. I know it’s only because she has no clue that I was the one who told, and for whatever reason, she now considers me to be her friend. She keeps asking me questions about history homework, and I distance myself from her by rolling my eyes -  ignoring her. When will this day end? 
+         
+        I get home just in time to watch Total Request Live on MTV. My best friend comes over and we talk about all of the gossip from the day. This boy likes her, but she likes another boy, blah blah. My mom arrives home from work and starts dinner. Ashley and I continue gossiping. I wasn’t worried about my mom over hearing all the dirty details, because she never listens, but on this particular day she is. A fight at school between two girls is the hot topic, until Ashley brings up Christina. I do everything to avoid talking about it, I feel sick to my stomach. My mom overhears the story, gives me a look, and asks Ashley to go home. I knew then that not only did I shame Christina, I had shamed myself, my mom, and all women. My mom tells me about myself that night. She says that I was cruel and no better than the white girls that talked about my afro puff hairstyle, knock off Tommy Hilfiger bag, and full lips. I need to make it right with Christina.
+         
+        Twenty seven days pass. My period always seems to start off very unlucky, I have cramps. OMG! I wish I didn’t have to go to gym 4th period. And why do they call them that anyway? Periods. Each class being called a  period was a cruel reminder. I am very careful to pack all of my stuff in my gym bag. The teacher lets girls sit out if they were on their rag, because we're swimming. (Why do old people call it a rag? Gross, right?) I participate anyway, because my flow isn't heavy. The girls in my class say that when you’re in the swimming pool, the water stops your period from bleeding, but I think that’s a myth. I insert a fresh tampon, and tuck the string in my coochie, heaven forbid if it falls out while in a co-ed swimming class. In the shower, after gym, I don't see blood, so I leave the tampon in and continue getting dressed, since half of the school day is over.
+         
+        It's a Friday, so we don't do much class work in history. We mostly watch movies and take notes. I'm leaving the locker room, heading to lunch when the craziest idea enters my mind. After lunch I go into the bathroom, take out my tampon, and don't replace it. I feel so naked, and feel unusually wet in my panties. I walk the long halls to history class quietly, and not feeling like socializing. I take my seat on the left of Christina, as I always do, and bleed all over the seat next to her. 
+         
+        After the movie, I raise my hand and ask,” Ms. Schwartz, can I go to the nurse’s office?”  
+      audio: null
+      video: null
+      images:
+        - id: '93424'
+          itemType: image
+          updatedAt: '2017-09-01T02:22:47.274Z'
+          seoMetaTags:
+            - tagName: title
+              content: 'Tampon Diaries '
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: 'Tampon Diaries '
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: 'Tampon Diaries '
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T02:22:47Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504232541-tampondiariesfinal.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504232541-tampondiariesfinal.jpg?'
+          position: 18
+          image:
+            format: jpg
+            size: 3392219
+            width: 2338
+            height: 2650
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504232541-tampondiariesfinal.jpg?'
+          caption: null
+          title: 'Tampon Diaries '
+      thumbnail:
+        format: jpg
+        size: 3392219
+        width: 2338
+        height: 2650
+        title: null
+        alt: null
+        url: 'https://www.datocms-assets.com/2593/1504232524-tampondiariesfinal.jpg?'
+      tags:
+        - id: '92784'
+          itemType: tag
+          updatedAt: '2017-08-29T19:24:28.662Z'
+          seoMetaTags:
+            - tagName: title
+              content: art
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: art
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: art
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-08-29T19:24:28Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+          title: art
+      featured: false
+      author:
+        - id: '93382'
+          itemType: contributor
+          updatedAt: '2017-09-01T01:35:01.344Z'
+          seoMetaTags:
+            - tagName: title
+              content: Carmel Brown
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Carmel Brown
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Carmel Brown
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T01:35:01Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504229678-carmel-brown.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504229678-carmel-brown.jpg?'
+          position: 21
+          socialMediaLinks: []
+          bio: 'Carmel Brown is a visual artist and the owner of Colored Vintage, and has been curating and collecting vintage for over a decade. She currently resides in Philadelphia, PA by way of St. Louis, MO. '
+          title: Fashion Editor
+          image:
+            format: jpg
+            size: 2289966
+            width: 3951
+            height: 2832
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504229678-carmel-brown.jpg?'
+          name: Carmel Brown
+      slug: tampon-diaries
+      title: Tampon Diaries
+    - id: '93428'
+      itemType: article
+      updatedAt: '2017-09-01T02:26:38.830Z'
+      seoMetaTags:
+        - tagName: title
+          content: The Things They Carried
+        - tagName: meta
+          attributes:
+            property: 'og:title'
+            content: The Things They Carried
+        - tagName: meta
+          attributes:
+            name: 'twitter:title'
+            content: The Things They Carried
+        - tagName: meta
+          attributes:
+            name: 'twitter:card'
+            content: summary
+        - tagName: meta
+          attributes:
+            property: 'article:modified_time'
+            content: '2017-09-01T02:26:38Z'
+        - tagName: meta
+          attributes:
+            property: 'og:locale'
+            content: en_EN
+        - tagName: meta
+          attributes:
+            property: 'og:type'
+            content: article
+        - tagName: meta
+          attributes:
+            property: 'og:image'
+            content: 'https://www.datocms-assets.com/2593/1504232754-thethingsthey-carried.jpg?'
+        - tagName: meta
+          attributes:
+            name: 'twitter:image'
+            content: 'https://www.datocms-assets.com/2593/1504232754-thethingsthey-carried.jpg?'
+      position: 20
+      textOnLeft: false
+      resources: []
+      text: ~~
+      audio: null
+      video: null
+      images:
+        - id: '93426'
+          itemType: image
+          updatedAt: '2017-09-01T02:26:26.602Z'
+          seoMetaTags:
+            - tagName: title
+              content: The Things They Carried
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: The Things They Carried
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: The Things They Carried
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T02:26:26Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504232761-thethingsthey-carried.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504232761-thethingsthey-carried.jpg?'
+          position: 19
+          image:
+            format: jpg
+            size: 2138263
+            width: 2648
+            height: 2360
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504232761-thethingsthey-carried.jpg?'
+          caption: null
+          title: The Things They Carried
+      thumbnail:
+        format: jpg
+        size: 2138263
+        width: 2648
+        height: 2360
+        title: null
+        alt: null
+        url: 'https://www.datocms-assets.com/2593/1504232754-thethingsthey-carried.jpg?'
+      tags:
+        - id: '92784'
+          itemType: tag
+          updatedAt: '2017-08-29T19:24:28.662Z'
+          seoMetaTags:
+            - tagName: title
+              content: art
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: art
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: art
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-08-29T19:24:28Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+          title: art
+      featured: false
+      author:
+        - id: '93380'
+          itemType: contributor
+          updatedAt: '2017-09-01T01:42:21.345Z'
+          seoMetaTags:
+            - tagName: title
+              content: Singha Hon
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Singha Hon
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Singha Hon
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T01:42:21Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504229569-singha-e-hon.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504229569-singha-e-hon.jpg?'
+          position: 8
+          socialMediaLinks: []
+          bio: 'Singha Hon is an artist and illustrator from New York City. Her work revolves around depicting women undergoing private metaphysical transformations, using techniques of classic figurative painting, and elements of magical realism to describe inner emotional states.'
+          title: Resident Artist
+          image:
+            format: jpg
+            size: 632076
+            width: 1000
+            height: 667
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504229569-singha-e-hon.jpg?'
+          name: Singha Hon
+        - id: '93357'
+          itemType: contributor
+          updatedAt: '2017-09-01T00:58:54.637Z'
+          seoMetaTags:
+            - tagName: title
+              content: Attia Taylor
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Attia Taylor
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Attia Taylor
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T00:58:54Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504227460-attia-taylor.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504227460-attia-taylor.jpg?'
+          position: 1
+          socialMediaLinks: []
+          bio: 'Attia Taylor is a musician and writer, living and working in Brooklyn, NY. She is dedicated to sharing the stories and highlighting the experiences of marginalized women around the world. Her work is dedicated to amplifying the voices of those who are most silenced and overlooked in society. '
+          title: Founder
+          image:
+            format: jpg
+            size: 7166436
+            width: 5032
+            height: 3355
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504227460-attia-taylor.jpg?'
+          name: Attia Taylor
+        - id: '85154'
+          itemType: contributor
+          updatedAt: '2017-09-01T03:16:52.043Z'
+          seoMetaTags:
+            - tagName: title
+              content: Aisha Khan
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Aisha Khan
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Aisha Khan
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T03:16:52Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504227010-aisha-khan-2.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504227010-aisha-khan-2.jpg?'
+          position: 4
+          socialMediaLinks:
+            - '93456'
+            - '93457'
+          bio: 'Aisha is a Pakistani-Latvian-American from Northern California, currently based in NYC. She has a passion for languages and a commitment to creating accessible medias and technologies. '
+          title: Digital Product Director
+          image:
+            format: jpg
+            size: 162599
+            width: 500
+            height: 333
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504227010-aisha-khan-2.jpg?'
+          name: Aisha Khan
+      slug: the-things-they-carried
+      title: The Things They Carried
+    - id: '93440'
+      itemType: article
+      updatedAt: '2017-09-01T02:37:59.972Z'
+      seoMetaTags:
+        - tagName: title
+          content: To Forget
+        - tagName: meta
+          attributes:
+            property: 'og:title'
+            content: To Forget
+        - tagName: meta
+          attributes:
+            name: 'twitter:title'
+            content: To Forget
+        - tagName: meta
+          attributes:
+            name: 'twitter:card'
+            content: summary
+        - tagName: meta
+          attributes:
+            property: 'article:modified_time'
+            content: '2017-09-01T02:37:59Z'
+        - tagName: meta
+          attributes:
+            property: 'og:locale'
+            content: en_EN
+        - tagName: meta
+          attributes:
+            property: 'og:type'
+            content: article
+        - tagName: meta
+          attributes:
+            property: 'og:image'
+            content: 'https://www.datocms-assets.com/2593/1504233469-to-forget-1_thumbail.JPG?'
+        - tagName: meta
+          attributes:
+            name: 'twitter:image'
+            content: 'https://www.datocms-assets.com/2593/1504233469-to-forget-1_thumbail.JPG?'
+      position: 21
+      textOnLeft: false
+      resources: []
+      text: |
+        Taryn O’Reilly
+        http://tarynoreillyfiber.wixsite.com/tarynoreilly
+
+        Biography
+        Taryn O’Reilly is a fiber installation artist living and working in the Philadelphia area. She received her B.F.A in Sculpture from Arcadia University in 2015. In the Fall of 2018, she will be attending Goldsmiths College in London, England to receive her M.F.A. in Sculpture. Taryn’s work has been exhibited locally at galleries in the Philadelphia area including the Spillway Collective. Her work has also been published in a book entitled Bound, for the Women’s Caucus for Art in New York City.Currently, Taryn is an exhibitions coordinator for the Icebox Project Space located in Philadelphia. She also works as a studio assistant where her skills in metalworking, woodworking and casting have been exhibited. During her time working at these studio spaces, Taryn has had the opportunity to work on projects for the Democratic National Convention, Republican National Convention, 2016 Olympics and various events around the city of Philadelphia.
+
+
+        Artist Statement
+        Through sewing and embroidery, a technique that has traditionally been a “feminine craft”, I attempt to marry my foundation in still lifes and figure studies with conceptual framework to question ideologies of femininity, sexuality, intimacy and identity.
+      audio: null
+      video: null
+      images:
+        - id: '93430'
+          itemType: image
+          updatedAt: '2017-09-01T02:32:36.694Z'
+          seoMetaTags:
+            - tagName: title
+              content: To Forget
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: To Forget
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: To Forget
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T02:32:36Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504233147-to-forget-1_thumbail.JPG?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504233147-to-forget-1_thumbail.JPG?'
+          position: 21
+          image:
+            format: jpg
+            size: 2829988
+            width: 3872
+            height: 2592
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504233147-to-forget-1_thumbail.JPG?'
+          caption: "\t\t"
+          title: To Forget
+        - id: '93431'
+          itemType: image
+          updatedAt: '2017-09-01T02:32:54.990Z'
+          seoMetaTags:
+            - tagName: title
+              content: To Forget 2
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: To Forget 2
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: To Forget 2
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T02:32:54Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504233165-to-forget-2.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504233165-to-forget-2.jpg?'
+          position: 22
+          image:
+            format: jpg
+            size: 2610366
+            width: 2592
+            height: 3872
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504233165-to-forget-2.jpg?'
+          caption: null
+          title: To Forget 2
+        - id: '93432'
+          itemType: image
+          updatedAt: '2017-09-01T02:33:08.628Z'
+          seoMetaTags:
+            - tagName: title
+              content: To Forget 3
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: To Forget 3
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: To Forget 3
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T02:33:08Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504233180-to-forget-3.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504233180-to-forget-3.jpg?'
+          position: 23
+          image:
+            format: jpg
+            size: 2668922
+            width: 3872
+            height: 2592
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504233180-to-forget-3.jpg?'
+          caption: null
+          title: To Forget 3
+        - id: '93433'
+          itemType: image
+          updatedAt: '2017-09-01T02:33:24.636Z'
+          seoMetaTags:
+            - tagName: title
+              content: To Forget 4
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: To Forget 4
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: To Forget 4
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T02:33:24Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504233195-to-forget-4.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504233195-to-forget-4.jpg?'
+          position: 24
+          image:
+            format: jpg
+            size: 3105135
+            width: 3872
+            height: 2592
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504233195-to-forget-4.jpg?'
+          caption: null
+          title: To Forget 4
+        - id: '93434'
+          itemType: image
+          updatedAt: '2017-09-01T02:33:50.776Z'
+          seoMetaTags:
+            - tagName: title
+              content: Get Stuffed
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Get Stuffed
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Get Stuffed
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T02:33:50Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504233212-get-stuffed-2.JPG?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504233212-get-stuffed-2.JPG?'
+          position: 25
+          image:
+            format: jpg
+            size: 2655237
+            width: 3872
+            height: 2592
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504233212-get-stuffed-2.JPG?'
+          caption: null
+          title: Get Stuffed
+        - id: '93435'
+          itemType: image
+          updatedAt: '2017-09-01T02:34:32.295Z'
+          seoMetaTags:
+            - tagName: title
+              content: Get Stuffed 2
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Get Stuffed 2
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Get Stuffed 2
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T02:34:32Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504233238-get-stuffed-4.JPG?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504233238-get-stuffed-4.JPG?'
+          position: 26
+          image:
+            format: jpg
+            size: 2612378
+            width: 3872
+            height: 2592
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504233238-get-stuffed-4.JPG?'
+          caption: null
+          title: Get Stuffed 2
+        - id: '93436'
+          itemType: image
+          updatedAt: '2017-09-01T02:35:35.625Z'
+          seoMetaTags:
+            - tagName: title
+              content: Nightstand
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Nightstand
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Nightstand
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T02:35:35Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504233284-nightstand-4.JPG?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504233284-nightstand-4.JPG?'
+          position: 27
+          image:
+            format: jpg
+            size: 2884868
+            width: 3872
+            height: 2592
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504233284-nightstand-4.JPG?'
+          caption: null
+          title: Nightstand
+        - id: '93437'
+          itemType: image
+          updatedAt: '2017-09-01T02:35:53.128Z'
+          seoMetaTags:
+            - tagName: title
+              content: Nightstand 2
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Nightstand 2
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Nightstand 2
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T02:35:53Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504233344-nightstand-6.JPG?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504233344-nightstand-6.JPG?'
+          position: 28
+          image:
+            format: jpg
+            size: 2633751
+            width: 3872
+            height: 2592
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504233344-nightstand-6.JPG?'
+          caption: null
+          title: Nightstand 2
+        - id: '93438'
+          itemType: image
+          updatedAt: '2017-09-01T02:36:14.348Z'
+          seoMetaTags:
+            - tagName: title
+              content: Nightstand 3
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Nightstand 3
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Nightstand 3
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T02:36:14Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504233359-nightstand-7.JPG?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504233359-nightstand-7.JPG?'
+          position: 29
+          image:
+            format: jpg
+            size: 2840201
+            width: 3872
+            height: 2592
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504233359-nightstand-7.JPG?'
+          caption: null
+          title: Nightstand 3
+        - id: '93439'
+          itemType: image
+          updatedAt: '2017-09-01T02:36:33.959Z'
+          seoMetaTags:
+            - tagName: title
+              content: Nightstand 4
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Nightstand 4
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Nightstand 4
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T02:36:33Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504233383-nightstand-8.JPG?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504233383-nightstand-8.JPG?'
+          position: 30
+          image:
+            format: jpg
+            size: 2758273
+            width: 3872
+            height: 2592
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504233383-nightstand-8.JPG?'
+          caption: null
+          title: Nightstand 4
+      thumbnail:
+        format: jpg
+        size: 2829988
+        width: 3872
+        height: 2592
+        title: null
+        alt: null
+        url: 'https://www.datocms-assets.com/2593/1504233469-to-forget-1_thumbail.JPG?'
+      tags:
+        - id: '92784'
+          itemType: tag
+          updatedAt: '2017-08-29T19:24:28.662Z'
+          seoMetaTags:
+            - tagName: title
+              content: art
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: art
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: art
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-08-29T19:24:28Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+          title: art
+        - id: '79593'
+          itemType: tag
+          updatedAt: '2017-07-08T16:26:39.462Z'
+          seoMetaTags:
+            - tagName: title
+              content: photography
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: photography
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: photography
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-07-08T16:26:39Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+          title: photography
+      featured: false
+      author:
+        - id: '93429'
+          itemType: contributor
+          updatedAt: '2017-09-01T02:31:25.475Z'
+          seoMetaTags:
+            - tagName: title
+              content: Taryn O'Reilly
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Taryn O'Reilly
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Taryn O'Reilly
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T02:31:25Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504233070-womanly-social-assets_circle_blk_crop2.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504233070-womanly-social-assets_circle_blk_crop2.jpg?'
+          position: 25
+          socialMediaLinks: []
+          bio: ~~
+          title: Contributor
+          image:
+            format: jpg
+            size: 31093
+            width: 1009
+            height: 1009
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504233070-womanly-social-assets_circle_blk_crop2.jpg?'
+          name: Taryn O'Reilly
+      slug: to-forget
+      title: To Forget
+    - id: '93458'
+      itemType: article
+      updatedAt: '2017-09-01T03:52:35.310Z'
+      seoMetaTags:
+        - tagName: title
+          content: Sex Education in Time
+        - tagName: meta
+          attributes:
+            property: 'og:title'
+            content: Sex Education in Time
+        - tagName: meta
+          attributes:
+            name: 'twitter:title'
+            content: Sex Education in Time
+        - tagName: meta
+          attributes:
+            name: 'twitter:card'
+            content: summary
+        - tagName: meta
+          attributes:
+            property: 'article:modified_time'
+            content: '2017-09-01T03:52:35Z'
+        - tagName: meta
+          attributes:
+            property: 'og:locale'
+            content: en_EN
+        - tagName: meta
+          attributes:
+            property: 'og:type'
+            content: article
+        - tagName: meta
+          attributes:
+            property: 'og:image'
+            content: 'https://www.datocms-assets.com/2593/1504237932-womanly-social-assets_circle_blk_crop2.jpg?'
+        - tagName: meta
+          attributes:
+            name: 'twitter:image'
+            content: 'https://www.datocms-assets.com/2593/1504237932-womanly-social-assets_circle_blk_crop2.jpg?'
+      position: 22
+      textOnLeft: false
+      resources: []
+      text: ~~
+      audio: null
+      video:
+        url: 'https://youtu.be/IXhFR3JXhmA'
+        title: IMG 6276
+        width: 480
+        height: 270
+        provider: youtube
+        providerUid: undefined
+        thumbnailUrl: 'https://i.ytimg.com/vi/IXhFR3JXhmA/hqdefault.jpg'
+      images: []
+      thumbnail:
+        format: jpg
+        size: 31093
+        width: 1009
+        height: 1009
+        title: null
+        alt: null
+        url: 'https://www.datocms-assets.com/2593/1504237932-womanly-social-assets_circle_blk_crop2.jpg?'
+      tags:
+        - id: '79592'
+          itemType: tag
+          updatedAt: '2017-07-08T16:26:34.138Z'
+          seoMetaTags:
+            - tagName: title
+              content: film
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: film
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: film
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-07-08T16:26:34Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+          title: film
+      featured: false
+      author:
+        - id: '93357'
+          itemType: contributor
+          updatedAt: '2017-09-01T00:58:54.637Z'
+          seoMetaTags:
+            - tagName: title
+              content: Attia Taylor
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Attia Taylor
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Attia Taylor
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T00:58:54Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504227460-attia-taylor.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504227460-attia-taylor.jpg?'
+          position: 1
+          socialMediaLinks: []
+          bio: 'Attia Taylor is a musician and writer, living and working in Brooklyn, NY. She is dedicated to sharing the stories and highlighting the experiences of marginalized women around the world. Her work is dedicated to amplifying the voices of those who are most silenced and overlooked in society. '
+          title: Founder
+          image:
+            format: jpg
+            size: 7166436
+            width: 5032
+            height: 3355
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504227460-attia-taylor.jpg?'
+          name: Attia Taylor
+      slug: sex-education-in-time
+      title: Sex Education in Time
   featured: true
   title: Issue No. 1 Staging
   number: 1

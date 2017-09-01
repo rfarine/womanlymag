@@ -112,7 +112,7 @@ contributors:
     name: Ailyn Robles
   - id: '85154'
     itemType: contributor
-    updatedAt: '2017-09-01T00:50:16.064Z'
+    updatedAt: '2017-09-01T03:16:52.043Z'
     seoMetaTags:
       - tagName: title
         content: Aisha Khan
@@ -131,7 +131,7 @@ contributors:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T00:50:16Z'
+          content: '2017-09-01T03:16:52Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -149,9 +149,55 @@ contributors:
           name: 'twitter:image'
           content: 'https://www.datocms-assets.com/2593/1504227010-aisha-khan-2.jpg?'
     position: 4
-    socialMediaLinks: []
-    bio: I am Aish Aish BB. I am hugging a dog.
-    title: Very Important Person
+    socialMediaLinks:
+      - id: '93456'
+        itemType: social_media_link
+        updatedAt: '2017-09-01T03:15:01.978Z'
+        seoMetaTags:
+          - tagName: meta
+            attributes:
+              name: 'twitter:card'
+              content: summary
+          - tagName: meta
+            attributes:
+              property: 'article:modified_time'
+              content: '2017-09-01T03:15:01Z'
+          - tagName: meta
+            attributes:
+              property: 'og:locale'
+              content: en_EN
+          - tagName: meta
+            attributes:
+              property: 'og:type'
+              content: article
+        position: 2
+        url: 'https://www.linkedin.com/in/aisha-khan-l10n'
+        service: LinkedIn
+      - id: '93457'
+        itemType: social_media_link
+        updatedAt: '2017-09-01T03:16:01.584Z'
+        seoMetaTags:
+          - tagName: meta
+            attributes:
+              name: 'twitter:card'
+              content: summary
+          - tagName: meta
+            attributes:
+              property: 'article:modified_time'
+              content: '2017-09-01T03:16:01Z'
+          - tagName: meta
+            attributes:
+              property: 'og:locale'
+              content: en_EN
+          - tagName: meta
+            attributes:
+              property: 'og:type'
+              content: article
+        position: 3
+        url: 'https://www.instagram.com/aish.aish.bb/'
+        service: Instagram
+    bio: 'Aisha is a Pakistani-Latvian-American from Northern California, currently based in NYC. She has a passion for languages and a commitment to creating accessible medias and technologies. '
+    title: Digital Product Director
     image:
       format: jpg
       size: 162599

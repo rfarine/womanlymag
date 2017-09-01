@@ -1,7 +1,58 @@
 ---
 type: article
 path: articles/birth-of-venus
-author: []
+author:
+  - id: '93362'
+    itemType: contributor
+    updatedAt: '2017-09-01T01:11:51.884Z'
+    seoMetaTags:
+      - tagName: title
+        content: Naledi Atari
+      - tagName: meta
+        attributes:
+          property: 'og:title'
+          content: Naledi Atari
+      - tagName: meta
+        attributes:
+          name: 'twitter:title'
+          content: Naledi Atari
+      - tagName: meta
+        attributes:
+          name: 'twitter:card'
+          content: summary
+      - tagName: meta
+        attributes:
+          property: 'article:modified_time'
+          content: '2017-09-01T01:11:51Z'
+      - tagName: meta
+        attributes:
+          property: 'og:locale'
+          content: en_EN
+      - tagName: meta
+        attributes:
+          property: 'og:type'
+          content: article
+      - tagName: meta
+        attributes:
+          property: 'og:image'
+          content: 'https://www.datocms-assets.com/2593/1504228300-womanly-social-assets_circle_blk_crop2.jpg?'
+      - tagName: meta
+        attributes:
+          name: 'twitter:image'
+          content: 'https://www.datocms-assets.com/2593/1504228300-womanly-social-assets_circle_blk_crop2.jpg?'
+    position: 13
+    socialMediaLinks: []
+    bio: ~~
+    title: Contributor
+    image:
+      format: jpg
+      size: 31093
+      width: 1009
+      height: 1009
+      title: null
+      alt: null
+      url: 'https://www.datocms-assets.com/2593/1504228300-womanly-social-assets_circle_blk_crop2.jpg?'
+    name: Naledi Atari
 slug: birth-of-venus
 title: Birth of Venus
 featured: false
@@ -38,7 +89,56 @@ tags:
           content: article
     title: art
 thumbnail: 'https://www.datocms-assets.com/2593/1504228322-bov.png?'
-images: []
+images:
+  - id: '93453'
+    itemType: image
+    updatedAt: '2017-09-01T02:56:31.641Z'
+    seoMetaTags:
+      - tagName: title
+        content: BOV
+      - tagName: meta
+        attributes:
+          property: 'og:title'
+          content: BOV
+      - tagName: meta
+        attributes:
+          name: 'twitter:title'
+          content: BOV
+      - tagName: meta
+        attributes:
+          name: 'twitter:card'
+          content: summary
+      - tagName: meta
+        attributes:
+          property: 'article:modified_time'
+          content: '2017-09-01T02:56:31Z'
+      - tagName: meta
+        attributes:
+          property: 'og:locale'
+          content: en_EN
+      - tagName: meta
+        attributes:
+          property: 'og:type'
+          content: article
+      - tagName: meta
+        attributes:
+          property: 'og:image'
+          content: 'https://www.datocms-assets.com/2593/1504234576-bov.png?'
+      - tagName: meta
+        attributes:
+          name: 'twitter:image'
+          content: 'https://www.datocms-assets.com/2593/1504234576-bov.png?'
+    position: 36
+    image:
+      format: png
+      size: 3446643
+      width: 4198
+      height: 6056
+      title: null
+      alt: null
+      url: 'https://www.datocms-assets.com/2593/1504234576-bov.png?'
+    caption: null
+    title: BOV
 video: null
 audio: null
 text: |-
