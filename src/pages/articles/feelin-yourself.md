@@ -1,58 +1,7 @@
 ---
 type: article
 path: articles/feelin-yourself
-author:
-  id: '85154'
-  itemType: contributor
-  updatedAt: '2017-09-01T00:50:16.064Z'
-  seoMetaTags:
-    - tagName: title
-      content: Aisha Khan
-    - tagName: meta
-      attributes:
-        property: 'og:title'
-        content: Aisha Khan
-    - tagName: meta
-      attributes:
-        name: 'twitter:title'
-        content: Aisha Khan
-    - tagName: meta
-      attributes:
-        name: 'twitter:card'
-        content: summary
-    - tagName: meta
-      attributes:
-        property: 'article:modified_time'
-        content: '2017-09-01T00:50:16Z'
-    - tagName: meta
-      attributes:
-        property: 'og:locale'
-        content: en_EN
-    - tagName: meta
-      attributes:
-        property: 'og:type'
-        content: article
-    - tagName: meta
-      attributes:
-        property: 'og:image'
-        content: 'https://www.datocms-assets.com/2593/1504227010-aisha-khan-2.jpg?'
-    - tagName: meta
-      attributes:
-        name: 'twitter:image'
-        content: 'https://www.datocms-assets.com/2593/1504227010-aisha-khan-2.jpg?'
-  position: 4
-  socialMediaLinks: []
-  bio: I am Aish Aish BB. I am hugging a dog.
-  title: Very Important Person
-  image:
-    format: jpg
-    size: 162599
-    width: 500
-    height: 333
-    title: null
-    alt: null
-    url: 'https://www.datocms-assets.com/2593/1504227010-aisha-khan-2.jpg?'
-  name: Aisha Khan
+author: []
 slug: feelin-yourself
 title: 'Feelin'' Yourself? '
 featured: false

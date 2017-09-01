@@ -1,60 +1,9 @@
 ---
 type: article
 path: articles/loving-at-arm-s-lenght
-author:
-  id: '93392'
-  itemType: contributor
-  updatedAt: '2017-09-01T02:01:36.769Z'
-  seoMetaTags:
-    - tagName: title
-      content: Jessica Milton
-    - tagName: meta
-      attributes:
-        property: 'og:title'
-        content: Jessica Milton
-    - tagName: meta
-      attributes:
-        name: 'twitter:title'
-        content: Jessica Milton
-    - tagName: meta
-      attributes:
-        name: 'twitter:card'
-        content: summary
-    - tagName: meta
-      attributes:
-        property: 'article:modified_time'
-        content: '2017-09-01T02:01:36Z'
-    - tagName: meta
-      attributes:
-        property: 'og:locale'
-        content: en_EN
-    - tagName: meta
-      attributes:
-        property: 'og:type'
-        content: article
-    - tagName: meta
-      attributes:
-        property: 'og:image'
-        content: 'https://www.datocms-assets.com/2593/1504231201-womanly-social-assets_circle_blk_crop2.jpg?'
-    - tagName: meta
-      attributes:
-        name: 'twitter:image'
-        content: 'https://www.datocms-assets.com/2593/1504231201-womanly-social-assets_circle_blk_crop2.jpg?'
-  position: 23
-  socialMediaLinks: []
-  bio: ~~
-  title: Contributor
-  image:
-    format: jpg
-    size: 31093
-    width: 1009
-    height: 1009
-    title: null
-    alt: null
-    url: 'https://www.datocms-assets.com/2593/1504231201-womanly-social-assets_circle_blk_crop2.jpg?'
-  name: Jessica Milton
+author: []
 slug: loving-at-arm-s-lenght
-title: Loving at Arm's Lenght
+title: Loving at Arm's Length
 featured: false
 tags:
   - id: '92784'

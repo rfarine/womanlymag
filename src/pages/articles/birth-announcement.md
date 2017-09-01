@@ -1,58 +1,7 @@
 ---
 type: article
 path: articles/birth-announcement
-author:
-  id: '92781'
-  itemType: contributor
-  updatedAt: '2017-09-01T01:02:57.010Z'
-  seoMetaTags:
-    - tagName: title
-      content: Emily Carris
-    - tagName: meta
-      attributes:
-        property: 'og:title'
-        content: Emily Carris
-    - tagName: meta
-      attributes:
-        name: 'twitter:title'
-        content: Emily Carris
-    - tagName: meta
-      attributes:
-        name: 'twitter:card'
-        content: summary
-    - tagName: meta
-      attributes:
-        property: 'article:modified_time'
-        content: '2017-09-01T01:02:57Z'
-    - tagName: meta
-      attributes:
-        property: 'og:locale'
-        content: en_EN
-    - tagName: meta
-      attributes:
-        property: 'og:type'
-        content: article
-    - tagName: meta
-      attributes:
-        property: 'og:image'
-        content: 'https://www.datocms-assets.com/2593/1504227754-emily-carris.jpg?'
-    - tagName: meta
-      attributes:
-        name: 'twitter:image'
-        content: 'https://www.datocms-assets.com/2593/1504227754-emily-carris.jpg?'
-  position: 3
-  socialMediaLinks: []
-  bio: 'Emily Carris is the Founding Director of The Art Dept, a collaborative gallery and workshop space. She has a Bachelor''s in Education and Photography from Eugene Lang College at The New School (NY). She also holds a Master''s degree in Photography from University for the Creative Arts (UK). Her work exploring the personal and cultural legacy of slavery, and the Black female body, has been exhibited nationally and internationally. Emily currently lives and works in Philadelphia.'
-  title: Business Partner
-  image:
-    format: jpg
-    size: 7191803
-    width: 4256
-    height: 2832
-    title: null
-    alt: null
-    url: 'https://www.datocms-assets.com/2593/1504227754-emily-carris.jpg?'
-  name: Emily Carris
+author: []
 slug: birth-announcement
 title: Birth Announcement For Those Who Will And Will Never Be
 featured: true

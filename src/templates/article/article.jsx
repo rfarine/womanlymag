@@ -168,6 +168,7 @@ export class Article extends Component {
   render() {
     const article = this.props.data.markdownRemark.frontmatter;
     const { images, photoIndex } = this.state;
+    const authors = article.author.map(author => author.name);
 
     const containerClasses = cn(style.container, {
       [style.textOnLeft]: article.textOnLeft,
@@ -193,7 +194,7 @@ export class Article extends Component {
               Issue 1: Sex Ed
             </div>
             <h1 className={style.title}>{article.title}</h1>
-            <h2>{article.author.name}</h2>
+            <h2>{authors.join(', ')}</h2>
             <p className={paragraphClasses}>
               {md.render(article.text)}
             </p>

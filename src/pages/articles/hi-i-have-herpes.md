@@ -1,58 +1,7 @@
 ---
 type: article
 path: articles/hi-i-have-herpes
-author:
-  id: '93381'
-  itemType: contributor
-  updatedAt: '2017-09-01T01:33:26.536Z'
-  seoMetaTags:
-    - tagName: title
-      content: Priscilla Hsu
-    - tagName: meta
-      attributes:
-        property: 'og:title'
-        content: Priscilla Hsu
-    - tagName: meta
-      attributes:
-        name: 'twitter:title'
-        content: Priscilla Hsu
-    - tagName: meta
-      attributes:
-        name: 'twitter:card'
-        content: summary
-    - tagName: meta
-      attributes:
-        property: 'article:modified_time'
-        content: '2017-09-01T01:33:26Z'
-    - tagName: meta
-      attributes:
-        property: 'og:locale'
-        content: en_EN
-    - tagName: meta
-      attributes:
-        property: 'og:type'
-        content: article
-    - tagName: meta
-      attributes:
-        property: 'og:image'
-        content: 'https://www.datocms-assets.com/2593/1504229598-womanly-social-assets_circle_blk_crop2.jpg?'
-    - tagName: meta
-      attributes:
-        name: 'twitter:image'
-        content: 'https://www.datocms-assets.com/2593/1504229598-womanly-social-assets_circle_blk_crop2.jpg?'
-  position: 20
-  socialMediaLinks: []
-  bio: ~~
-  title: Contributor
-  image:
-    format: jpg
-    size: 31093
-    width: 1009
-    height: 1009
-    title: null
-    alt: null
-    url: 'https://www.datocms-assets.com/2593/1504229598-womanly-social-assets_circle_blk_crop2.jpg?'
-  name: Priscilla Hsu
+author: []
 slug: hi-i-have-herpes
 title: 'Hi, I Have Herpes'
 featured: false

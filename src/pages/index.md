@@ -5,7 +5,7 @@ heroImage: 'https://www.datocms-assets.com/2593/1504033488-cover01_05_thegoat.jp
 issue:
   id: '79596'
   itemType: issue
-  updatedAt: '2017-09-01T02:06:12.836Z'
+  updatedAt: '2017-09-01T02:23:46.149Z'
   seoMetaTags:
     - tagName: title
       content: Issue No. 1 Staging
@@ -24,7 +24,7 @@ issue:
     - tagName: meta
       attributes:
         property: 'article:modified_time'
-        content: '2017-09-01T02:06:12Z'
+        content: '2017-09-01T02:23:46Z'
     - tagName: meta
       attributes:
         property: 'og:locale'
@@ -174,58 +174,7 @@ issue:
                 content: article
           title: art
       featured: true
-      author:
-        id: '92781'
-        itemType: contributor
-        updatedAt: '2017-09-01T01:02:57.010Z'
-        seoMetaTags:
-          - tagName: title
-            content: Emily Carris
-          - tagName: meta
-            attributes:
-              property: 'og:title'
-              content: Emily Carris
-          - tagName: meta
-            attributes:
-              name: 'twitter:title'
-              content: Emily Carris
-          - tagName: meta
-            attributes:
-              name: 'twitter:card'
-              content: summary
-          - tagName: meta
-            attributes:
-              property: 'article:modified_time'
-              content: '2017-09-01T01:02:57Z'
-          - tagName: meta
-            attributes:
-              property: 'og:locale'
-              content: en_EN
-          - tagName: meta
-            attributes:
-              property: 'og:type'
-              content: article
-          - tagName: meta
-            attributes:
-              property: 'og:image'
-              content: 'https://www.datocms-assets.com/2593/1504227754-emily-carris.jpg?'
-          - tagName: meta
-            attributes:
-              name: 'twitter:image'
-              content: 'https://www.datocms-assets.com/2593/1504227754-emily-carris.jpg?'
-        position: 3
-        socialMediaLinks: []
-        bio: 'Emily Carris is the Founding Director of The Art Dept, a collaborative gallery and workshop space. She has a Bachelor''s in Education and Photography from Eugene Lang College at The New School (NY). She also holds a Master''s degree in Photography from University for the Creative Arts (UK). Her work exploring the personal and cultural legacy of slavery, and the Black female body, has been exhibited nationally and internationally. Emily currently lives and works in Philadelphia.'
-        title: Business Partner
-        image:
-          format: jpg
-          size: 7191803
-          width: 4256
-          height: 2832
-          title: null
-          alt: null
-          url: 'https://www.datocms-assets.com/2593/1504227754-emily-carris.jpg?'
-        name: Emily Carris
+      author: []
       slug: birth-announcement
       title: Birth Announcement For Those Who Will And Will Never Be
     - id: '93363'
@@ -327,58 +276,7 @@ issue:
                 content: article
           title: art
       featured: false
-      author:
-        id: '93362'
-        itemType: contributor
-        updatedAt: '2017-09-01T01:11:51.884Z'
-        seoMetaTags:
-          - tagName: title
-            content: Naledi Atari
-          - tagName: meta
-            attributes:
-              property: 'og:title'
-              content: Naledi Atari
-          - tagName: meta
-            attributes:
-              name: 'twitter:title'
-              content: Naledi Atari
-          - tagName: meta
-            attributes:
-              name: 'twitter:card'
-              content: summary
-          - tagName: meta
-            attributes:
-              property: 'article:modified_time'
-              content: '2017-09-01T01:11:51Z'
-          - tagName: meta
-            attributes:
-              property: 'og:locale'
-              content: en_EN
-          - tagName: meta
-            attributes:
-              property: 'og:type'
-              content: article
-          - tagName: meta
-            attributes:
-              property: 'og:image'
-              content: 'https://www.datocms-assets.com/2593/1504228300-womanly-social-assets_circle_blk_crop2.jpg?'
-          - tagName: meta
-            attributes:
-              name: 'twitter:image'
-              content: 'https://www.datocms-assets.com/2593/1504228300-womanly-social-assets_circle_blk_crop2.jpg?'
-        position: 13
-        socialMediaLinks: []
-        bio: ~~
-        title: Contributor
-        image:
-          format: jpg
-          size: 31093
-          width: 1009
-          height: 1009
-          title: null
-          alt: null
-          url: 'https://www.datocms-assets.com/2593/1504228300-womanly-social-assets_circle_blk_crop2.jpg?'
-        name: Naledi Atari
+      author: []
       slug: birth-of-venus
       title: Birth of Venus
     - id: '93375'
@@ -467,343 +365,9 @@ issue:
                 content: article
           title: art
       featured: false
-      author:
-        id: '93358'
-        itemType: contributor
-        updatedAt: '2017-09-01T01:01:07.606Z'
-        seoMetaTags:
-          - tagName: title
-            content: Ailyn Robles
-          - tagName: meta
-            attributes:
-              property: 'og:title'
-              content: Ailyn Robles
-          - tagName: meta
-            attributes:
-              name: 'twitter:title'
-              content: Ailyn Robles
-          - tagName: meta
-            attributes:
-              name: 'twitter:card'
-              content: summary
-          - tagName: meta
-            attributes:
-              property: 'article:modified_time'
-              content: '2017-09-01T01:01:07Z'
-          - tagName: meta
-            attributes:
-              property: 'og:locale'
-              content: en_EN
-          - tagName: meta
-            attributes:
-              property: 'og:type'
-              content: article
-          - tagName: meta
-            attributes:
-              property: 'og:image'
-              content: 'https://www.datocms-assets.com/2593/1504227585-ailyn-robles.jpg?'
-          - tagName: meta
-            attributes:
-              name: 'twitter:image'
-              content: 'https://www.datocms-assets.com/2593/1504227585-ailyn-robles.jpg?'
-        position: 2
-        socialMediaLinks: []
-        bio: 'Ailyn is a Colombian writer and photographer based out of Brooklyn, who fuses her passion for the empowerment of women with everything she does. She works with young people during the day, and writes short stories at night.'
-        title: Co-Founder
-        image:
-          format: jpg
-          size: 9913731
-          width: 5398
-          height: 3599
-          title: null
-          alt: null
-          url: 'https://www.datocms-assets.com/2593/1504227585-ailyn-robles.jpg?'
-        name: Ailyn Robles
+      author: []
       slug: cuba-sex-ed
       title: 'Cuba Sex Ed '
-    - id: '93384'
-      itemType: article
-      updatedAt: '2017-09-01T01:36:43.087Z'
-      seoMetaTags:
-        - tagName: title
-          content: 'Hi, I Have Herpes'
-        - tagName: meta
-          attributes:
-            property: 'og:title'
-            content: 'Hi, I Have Herpes'
-        - tagName: meta
-          attributes:
-            name: 'twitter:title'
-            content: 'Hi, I Have Herpes'
-        - tagName: meta
-          attributes:
-            name: 'twitter:card'
-            content: summary
-        - tagName: meta
-          attributes:
-            property: 'article:modified_time'
-            content: '2017-09-01T01:36:43Z'
-        - tagName: meta
-          attributes:
-            property: 'og:locale'
-            content: en_EN
-        - tagName: meta
-          attributes:
-            property: 'og:type'
-            content: article
-        - tagName: meta
-          attributes:
-            property: 'og:image'
-            content: 'https://www.datocms-assets.com/2593/1504229788-womanly-social-assets_circle_blk_crop2.jpg?'
-        - tagName: meta
-          attributes:
-            name: 'twitter:image'
-            content: 'https://www.datocms-assets.com/2593/1504229788-womanly-social-assets_circle_blk_crop2.jpg?'
-      position: 13
-      textOnLeft: false
-      resources: []
-      text: |-
-        He takes another bite of his food. 
-
-        “So I...uh.. got an internship in New York.”
-
-        “Cool. Sounds a lot better than being stuck in fucking Claremont studying for the MCATs. You know what I’ll be doing all summer?”
-
-        We are 20 year-old college juniors in California, and we have been dating for a four-month semester. (I mean, we’ve been off-and-on with some study abroad time in-between, but this time it’s officially been a whole semester). 
-
-        “I guess we’re splitting for the summer, huh?” He didn’t believe in relationships before me, so I doubt he believes in long distance relationships. 
-
-        “I assumed we were staying together.”
-
-        “Really? You want to stay together over the summer?” I had already prepared for the worst.
-
-        “Yeah,” he shrugs nonchalantly. “Why wouldn’t we?”
-
-        Well, that was easy.
-
-        —
-
-        I see my boyfriend from the train window. He’s handsome and barefoot and skating towards the Metrolink station, holding a flower he definitely ripped out of the ground. It’s been 7 weeks since we’ve seen each other, an eternity in first-love time. 
-
-        We collapse in laughter, after sex. It couldn’t have lasted more than five minutes.
-
-        —
-
-        It has been two nights since we reunited, and I can’t sleep. I’ve had some terrible vaginal discomfort before, but this feels different. I’m not itchy, I’m tingly. But like so tingly, it’s itchy. Scratching my labia is futile, this itch feels like it goes three-inches deep, if that’s even possible. I can’t even exactly source the itch. It’s starting to feel like it’s spreading to my legs. This is so fucking uncomfortable. 
-
-        I squirm my way through a restless night.
-
-        —
-
-        Warning: what follows next is not cute, and more than a little graphic. 
-
-        My labia is sore, and I worry I’ve scratched too hard. I’ve had vaginal abrasions and yeast infections, and sometimes both at the same time, but this is so much more painful. I start noticing strange discharge every time I wipe. It’s clear, wet goo mingled with crusties. You know, kind of like the gunk you wipe off your eye when you have pink eye. I’m on my back with my legs open while my boyfriend inspects my vagina. He’s a future doctor. 
-
-        “Whoa, they’re like - festering scabs.” 
-
-        It hurts when I pee. It’s not the actual act of peeing that hurts, this isn’t a UTI. It hurts when urine hits any part of my labia - it stings like I’ve just poured rubbing alcohol on an open wound. I pat the area instead of wiping, because maybe they’re just cuts from rough sex. I cover the skin with petroleum jelly, because maybe I’m chafing. I wash my labia with soap and water whenever I can, because maybe it's a bacterial infection gone wrong, maybe it just needs to be cleaned. 
-
-        Let me repeat that in case you missed it. I would rather believe that I could have anything, including an out-of-control bacterial infection, before I believe that I have genital herpes. 
-
-        I start calling ex-lovers to try and track transmission of the virus, because that’s what you’re supposed to do with STDs, I guess. But the effort is futile. The patterns are too inconsistent, and not everyone who has herpes will show symptoms. My current partner shows no symptoms. 
-
-        —
-
-        In explanation, a brief run-down of my sexual education:
-
-        At 9 years-old, my mom - a registered nurse and first-defense responder - shut me in a room by myself to watch an hour-long educational VHS on reproduction.
-
-        At 10 years-old, the 5th grade teachers at my elementary school talked to us about sex and periods. We separated into major groups by gender, and they took us into classrooms to have open discussions about any remaining questions we had. I asked if a condom could ever come off and get stuck in your vagina during sex. My teacher laughed a little, then proceeded to answer the question as best as she could. 
-
-        At 11 years-old, someone crossed out the “ni” in organism in my science textbook. I asked my science teacher what an orgasm was in class. I remember that I really didn’t know at the time. She ignored my question.
-
-        At 12 or 13 years-old, I vaguely remember some sort of sex-ed. My friends remember having to watch a video of a live birth and some assembly about periods. 
-
-        At 14 years-old, I take a semester of “Health” - a class all Los Angeles Unified School District (the second largest public school district in the nation) high school students are required to take in order to graduate. I only remember having to carry around a baby doll for a week, and on occasion, stuffing it into my locker. 
-
-        At 18 years-old, my alma mater might have made us go to a sexual health assembly. 
-
-        My point? My upbringing was ripe with sexual education opportunities, yet it mostly only reinforced the mechanics of sex, childbirth, and the fact that I get periods. None of the icky, in-between stuff. Definitely not the icky, in-between stuff I was dealing with now. 
-
-        —
-
-        The Internet tells me I probably have genital herpes, so I visit an OB-GYN. She confirms the diagnosis in two seconds flat. 
-
-        I’m still in denial. I have herpes? I’ve heard what other people say about other people who have herpes. 
-
-        “Are you sure it’s herpes? How could this happen? I’ve had a stable boyfriend for 7 months.”
-
-        The gynecologist shrugs. “Maybe your boyfriend got a new girlfriend while you were away.”
-
-        I had never questioned his fidelity. How dare she make that assertion?
-
-        —
-
-        He’s at Planned Parenthood trying to get himself tested. They offer him the basic panel for chlamydia, gonorrhea, HIV, and syphilis.
-
-        “Does that include herpes?” he asks. 
-
-        “That’s a very specific test, and to be completely honest not really worth it,” they answer.
-
-        “What do you mean? I want to know if I have it.”
-
-        “Look, let’s say we test for it. You find out you have it. Then what? There’s no cure for it. So many people have it that, chances are, you probably do have it. If you want to pay for the test, go for it, but there isn’t really a point if you’re not showing any symptoms. If you’re having flare ups, then it might be worth getting tested to find the exact cause of your mucosal ulcers. Otherwise, you should be fine with a basic panel.” 
-
-        And that’s the end of the conversation.
-
-        *****
-
-        I fail to clearly communicate that I have herpes and active outbreaks to my next partner. At some point in our early relationship, I may mumble something to him about “a herpes thing” from my last relationship. I stumble through a very quick explanation of how I got tested, and found out that I have Type 1 herpes, but not to worry, that it’s the same virus for cold sores, and a bunch of people have it, so it’s not a big deal. I didn’t want him to judge me. I was scared. And next thing you know, I was having my second genital herpes outbreak, and he was having his first. 
-
-        “It’s okay,” he said to me. “I’m not a stranger to any of this. I know what it is.” He was very chill about the whole situation. But still, it’s not cool to transmit an outbreak to your partner.
-
-        *****
-
-        To this day I still struggle with herpes stigma, and how to have the conversations around it. It may seem obvious that the partner I experienced an outbreak with is the person who transmitted it to me, but as we’ve learned about asymptomatic carriers, I could have had the virus before him. Herpes isn’t a game of tag, it isn’t directly traceable. 
-
-        Since my initial outbreak five years ago, my herpes outbreaks have transitioned from genital to oral sores, with my last outbreak, a cold sore, occurring over two years ago. I usually mumble a warning to my partners to let them know that I am a virus carrier, but I truthfully don’t know how much to emphasize its severity, since it’s been years since my last outbreak. I don’t have all the answers to questions about herpes, but I’ve learned a whole lot of things that you should know too. For example:
-        - 1 in 6 people aged 14-49 have herpes
-        - Not everyone shows symptoms
-        - Condoms do not fully protect you from getting herpes (since outbreaks can occur in areas that are not covered by condoms). 
-        - Type 1 generally causes cold sores and Type 2 generally causes genital outbreaks, but the only difference between genital and oral herpes is the location of the outbreak (thanks, WebMD.)
-        - There are many, many types of herpes. Type 1 and Type 2 are talked about the most because they have a mucosal presentation, but Type 3 is a little thing called chickenpox, and - - Type 4 is known as mono. The list goes on and on. 
-
-        Want to know what the CDC says about prevention? “The only way to avoid STDs is to not have vaginal, anal, or oral sex.”
-
-        If you are a sexually active individual, you have a chance of getting herpes. Period. 
-
-        But we’re not going to stop having sex, so we need to start having real conversations about the things that afflict us, and our genitals. Don’t we want to have positive sexual experiences? 
-
-        Stay informed. Be a courteous human being, and inform your partners of your relevant sexual history, especially if you still experience active outbreaks.
-      audio: null
-      video: null
-      images: []
-      thumbnail:
-        format: jpg
-        size: 31093
-        width: 1009
-        height: 1009
-        title: null
-        alt: null
-        url: 'https://www.datocms-assets.com/2593/1504229788-womanly-social-assets_circle_blk_crop2.jpg?'
-      tags:
-        - id: '92784'
-          itemType: tag
-          updatedAt: '2017-08-29T19:24:28.662Z'
-          seoMetaTags:
-            - tagName: title
-              content: art
-            - tagName: meta
-              attributes:
-                property: 'og:title'
-                content: art
-            - tagName: meta
-              attributes:
-                name: 'twitter:title'
-                content: art
-            - tagName: meta
-              attributes:
-                name: 'twitter:card'
-                content: summary
-            - tagName: meta
-              attributes:
-                property: 'article:modified_time'
-                content: '2017-08-29T19:24:28Z'
-            - tagName: meta
-              attributes:
-                property: 'og:locale'
-                content: en_EN
-            - tagName: meta
-              attributes:
-                property: 'og:type'
-                content: article
-          title: art
-        - id: '79593'
-          itemType: tag
-          updatedAt: '2017-07-08T16:26:39.462Z'
-          seoMetaTags:
-            - tagName: title
-              content: photography
-            - tagName: meta
-              attributes:
-                property: 'og:title'
-                content: photography
-            - tagName: meta
-              attributes:
-                name: 'twitter:title'
-                content: photography
-            - tagName: meta
-              attributes:
-                name: 'twitter:card'
-                content: summary
-            - tagName: meta
-              attributes:
-                property: 'article:modified_time'
-                content: '2017-07-08T16:26:39Z'
-            - tagName: meta
-              attributes:
-                property: 'og:locale'
-                content: en_EN
-            - tagName: meta
-              attributes:
-                property: 'og:type'
-                content: article
-          title: photography
-      featured: false
-      author:
-        id: '93381'
-        itemType: contributor
-        updatedAt: '2017-09-01T01:33:26.536Z'
-        seoMetaTags:
-          - tagName: title
-            content: Priscilla Hsu
-          - tagName: meta
-            attributes:
-              property: 'og:title'
-              content: Priscilla Hsu
-          - tagName: meta
-            attributes:
-              name: 'twitter:title'
-              content: Priscilla Hsu
-          - tagName: meta
-            attributes:
-              name: 'twitter:card'
-              content: summary
-          - tagName: meta
-            attributes:
-              property: 'article:modified_time'
-              content: '2017-09-01T01:33:26Z'
-          - tagName: meta
-            attributes:
-              property: 'og:locale'
-              content: en_EN
-          - tagName: meta
-            attributes:
-              property: 'og:type'
-              content: article
-          - tagName: meta
-            attributes:
-              property: 'og:image'
-              content: 'https://www.datocms-assets.com/2593/1504229598-womanly-social-assets_circle_blk_crop2.jpg?'
-          - tagName: meta
-            attributes:
-              name: 'twitter:image'
-              content: 'https://www.datocms-assets.com/2593/1504229598-womanly-social-assets_circle_blk_crop2.jpg?'
-        position: 20
-        socialMediaLinks: []
-        bio: ~~
-        title: Contributor
-        image:
-          format: jpg
-          size: 31093
-          width: 1009
-          height: 1009
-          title: null
-          alt: null
-          url: 'https://www.datocms-assets.com/2593/1504229598-womanly-social-assets_circle_blk_crop2.jpg?'
-        name: Priscilla Hsu
-      slug: hi-i-have-herpes
-      title: 'Hi, I Have Herpes'
     - id: '93379'
       itemType: article
       updatedAt: '2017-09-01T01:31:52.332Z'
@@ -890,58 +454,7 @@ issue:
                 content: article
           title: art
       featured: false
-      author:
-        id: '85154'
-        itemType: contributor
-        updatedAt: '2017-09-01T00:50:16.064Z'
-        seoMetaTags:
-          - tagName: title
-            content: Aisha Khan
-          - tagName: meta
-            attributes:
-              property: 'og:title'
-              content: Aisha Khan
-          - tagName: meta
-            attributes:
-              name: 'twitter:title'
-              content: Aisha Khan
-          - tagName: meta
-            attributes:
-              name: 'twitter:card'
-              content: summary
-          - tagName: meta
-            attributes:
-              property: 'article:modified_time'
-              content: '2017-09-01T00:50:16Z'
-          - tagName: meta
-            attributes:
-              property: 'og:locale'
-              content: en_EN
-          - tagName: meta
-            attributes:
-              property: 'og:type'
-              content: article
-          - tagName: meta
-            attributes:
-              property: 'og:image'
-              content: 'https://www.datocms-assets.com/2593/1504227010-aisha-khan-2.jpg?'
-          - tagName: meta
-            attributes:
-              name: 'twitter:image'
-              content: 'https://www.datocms-assets.com/2593/1504227010-aisha-khan-2.jpg?'
-        position: 4
-        socialMediaLinks: []
-        bio: I am Aish Aish BB. I am hugging a dog.
-        title: Very Important Person
-        image:
-          format: jpg
-          size: 162599
-          width: 500
-          height: 333
-          title: null
-          alt: null
-          url: 'https://www.datocms-assets.com/2593/1504227010-aisha-khan-2.jpg?'
-        name: Aisha Khan
+      author: []
       slug: feelin-yourself
       title: 'Feelin'' Yourself? '
     - id: '93391'
@@ -1415,74 +928,23 @@ issue:
                 content: article
           title: photography
       featured: false
-      author:
-        id: '93358'
-        itemType: contributor
-        updatedAt: '2017-09-01T01:01:07.606Z'
-        seoMetaTags:
-          - tagName: title
-            content: Ailyn Robles
-          - tagName: meta
-            attributes:
-              property: 'og:title'
-              content: Ailyn Robles
-          - tagName: meta
-            attributes:
-              name: 'twitter:title'
-              content: Ailyn Robles
-          - tagName: meta
-            attributes:
-              name: 'twitter:card'
-              content: summary
-          - tagName: meta
-            attributes:
-              property: 'article:modified_time'
-              content: '2017-09-01T01:01:07Z'
-          - tagName: meta
-            attributes:
-              property: 'og:locale'
-              content: en_EN
-          - tagName: meta
-            attributes:
-              property: 'og:type'
-              content: article
-          - tagName: meta
-            attributes:
-              property: 'og:image'
-              content: 'https://www.datocms-assets.com/2593/1504227585-ailyn-robles.jpg?'
-          - tagName: meta
-            attributes:
-              name: 'twitter:image'
-              content: 'https://www.datocms-assets.com/2593/1504227585-ailyn-robles.jpg?'
-        position: 2
-        socialMediaLinks: []
-        bio: 'Ailyn is a Colombian writer and photographer based out of Brooklyn, who fuses her passion for the empowerment of women with everything she does. She works with young people during the day, and writes short stories at night.'
-        title: Co-Founder
-        image:
-          format: jpg
-          size: 9913731
-          width: 5398
-          height: 3599
-          title: null
-          alt: null
-          url: 'https://www.datocms-assets.com/2593/1504227585-ailyn-robles.jpg?'
-        name: Ailyn Robles
+      author: []
       slug: sexology
       title: Sexology
-    - id: '93397'
+    - id: '93384'
       itemType: article
-      updatedAt: '2017-09-01T02:04:52.072Z'
+      updatedAt: '2017-09-01T01:36:43.087Z'
       seoMetaTags:
         - tagName: title
-          content: Loving at Arm's Lenght
+          content: 'Hi, I Have Herpes'
         - tagName: meta
           attributes:
             property: 'og:title'
-            content: Loving at Arm's Lenght
+            content: 'Hi, I Have Herpes'
         - tagName: meta
           attributes:
             name: 'twitter:title'
-            content: Loving at Arm's Lenght
+            content: 'Hi, I Have Herpes'
         - tagName: meta
           attributes:
             name: 'twitter:card'
@@ -1490,7 +952,239 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-09-01T02:04:52Z'
+            content: '2017-09-01T01:36:43Z'
+        - tagName: meta
+          attributes:
+            property: 'og:locale'
+            content: en_EN
+        - tagName: meta
+          attributes:
+            property: 'og:type'
+            content: article
+        - tagName: meta
+          attributes:
+            property: 'og:image'
+            content: 'https://www.datocms-assets.com/2593/1504229788-womanly-social-assets_circle_blk_crop2.jpg?'
+        - tagName: meta
+          attributes:
+            name: 'twitter:image'
+            content: 'https://www.datocms-assets.com/2593/1504229788-womanly-social-assets_circle_blk_crop2.jpg?'
+      position: 13
+      textOnLeft: false
+      resources: []
+      text: |-
+        He takes another bite of his food. 
+
+        “So I...uh.. got an internship in New York.”
+
+        “Cool. Sounds a lot better than being stuck in fucking Claremont studying for the MCATs. You know what I’ll be doing all summer?”
+
+        We are 20 year-old college juniors in California, and we have been dating for a four-month semester. (I mean, we’ve been off-and-on with some study abroad time in-between, but this time it’s officially been a whole semester). 
+
+        “I guess we’re splitting for the summer, huh?” He didn’t believe in relationships before me, so I doubt he believes in long distance relationships. 
+
+        “I assumed we were staying together.”
+
+        “Really? You want to stay together over the summer?” I had already prepared for the worst.
+
+        “Yeah,” he shrugs nonchalantly. “Why wouldn’t we?”
+
+        Well, that was easy.
+
+        —
+
+        I see my boyfriend from the train window. He’s handsome and barefoot and skating towards the Metrolink station, holding a flower he definitely ripped out of the ground. It’s been 7 weeks since we’ve seen each other, an eternity in first-love time. 
+
+        We collapse in laughter, after sex. It couldn’t have lasted more than five minutes.
+
+        —
+
+        It has been two nights since we reunited, and I can’t sleep. I’ve had some terrible vaginal discomfort before, but this feels different. I’m not itchy, I’m tingly. But like so tingly, it’s itchy. Scratching my labia is futile, this itch feels like it goes three-inches deep, if that’s even possible. I can’t even exactly source the itch. It’s starting to feel like it’s spreading to my legs. This is so fucking uncomfortable. 
+
+        I squirm my way through a restless night.
+
+        —
+
+        Warning: what follows next is not cute, and more than a little graphic. 
+
+        My labia is sore, and I worry I’ve scratched too hard. I’ve had vaginal abrasions and yeast infections, and sometimes both at the same time, but this is so much more painful. I start noticing strange discharge every time I wipe. It’s clear, wet goo mingled with crusties. You know, kind of like the gunk you wipe off your eye when you have pink eye. I’m on my back with my legs open while my boyfriend inspects my vagina. He’s a future doctor. 
+
+        “Whoa, they’re like - festering scabs.” 
+
+        It hurts when I pee. It’s not the actual act of peeing that hurts, this isn’t a UTI. It hurts when urine hits any part of my labia - it stings like I’ve just poured rubbing alcohol on an open wound. I pat the area instead of wiping, because maybe they’re just cuts from rough sex. I cover the skin with petroleum jelly, because maybe I’m chafing. I wash my labia with soap and water whenever I can, because maybe it's a bacterial infection gone wrong, maybe it just needs to be cleaned. 
+
+        Let me repeat that in case you missed it. I would rather believe that I could have anything, including an out-of-control bacterial infection, before I believe that I have genital herpes. 
+
+        I start calling ex-lovers to try and track transmission of the virus, because that’s what you’re supposed to do with STDs, I guess. But the effort is futile. The patterns are too inconsistent, and not everyone who has herpes will show symptoms. My current partner shows no symptoms. 
+
+        —
+
+        In explanation, a brief run-down of my sexual education:
+
+        At 9 years-old, my mom - a registered nurse and first-defense responder - shut me in a room by myself to watch an hour-long educational VHS on reproduction.
+
+        At 10 years-old, the 5th grade teachers at my elementary school talked to us about sex and periods. We separated into major groups by gender, and they took us into classrooms to have open discussions about any remaining questions we had. I asked if a condom could ever come off and get stuck in your vagina during sex. My teacher laughed a little, then proceeded to answer the question as best as she could. 
+
+        At 11 years-old, someone crossed out the “ni” in organism in my science textbook. I asked my science teacher what an orgasm was in class. I remember that I really didn’t know at the time. She ignored my question.
+
+        At 12 or 13 years-old, I vaguely remember some sort of sex-ed. My friends remember having to watch a video of a live birth and some assembly about periods. 
+
+        At 14 years-old, I take a semester of “Health” - a class all Los Angeles Unified School District (the second largest public school district in the nation) high school students are required to take in order to graduate. I only remember having to carry around a baby doll for a week, and on occasion, stuffing it into my locker. 
+
+        At 18 years-old, my alma mater might have made us go to a sexual health assembly. 
+
+        My point? My upbringing was ripe with sexual education opportunities, yet it mostly only reinforced the mechanics of sex, childbirth, and the fact that I get periods. None of the icky, in-between stuff. Definitely not the icky, in-between stuff I was dealing with now. 
+
+        —
+
+        The Internet tells me I probably have genital herpes, so I visit an OB-GYN. She confirms the diagnosis in two seconds flat. 
+
+        I’m still in denial. I have herpes? I’ve heard what other people say about other people who have herpes. 
+
+        “Are you sure it’s herpes? How could this happen? I’ve had a stable boyfriend for 7 months.”
+
+        The gynecologist shrugs. “Maybe your boyfriend got a new girlfriend while you were away.”
+
+        I had never questioned his fidelity. How dare she make that assertion?
+
+        —
+
+        He’s at Planned Parenthood trying to get himself tested. They offer him the basic panel for chlamydia, gonorrhea, HIV, and syphilis.
+
+        “Does that include herpes?” he asks. 
+
+        “That’s a very specific test, and to be completely honest not really worth it,” they answer.
+
+        “What do you mean? I want to know if I have it.”
+
+        “Look, let’s say we test for it. You find out you have it. Then what? There’s no cure for it. So many people have it that, chances are, you probably do have it. If you want to pay for the test, go for it, but there isn’t really a point if you’re not showing any symptoms. If you’re having flare ups, then it might be worth getting tested to find the exact cause of your mucosal ulcers. Otherwise, you should be fine with a basic panel.” 
+
+        And that’s the end of the conversation.
+
+        *****
+
+        I fail to clearly communicate that I have herpes and active outbreaks to my next partner. At some point in our early relationship, I may mumble something to him about “a herpes thing” from my last relationship. I stumble through a very quick explanation of how I got tested, and found out that I have Type 1 herpes, but not to worry, that it’s the same virus for cold sores, and a bunch of people have it, so it’s not a big deal. I didn’t want him to judge me. I was scared. And next thing you know, I was having my second genital herpes outbreak, and he was having his first. 
+
+        “It’s okay,” he said to me. “I’m not a stranger to any of this. I know what it is.” He was very chill about the whole situation. But still, it’s not cool to transmit an outbreak to your partner.
+
+        *****
+
+        To this day I still struggle with herpes stigma, and how to have the conversations around it. It may seem obvious that the partner I experienced an outbreak with is the person who transmitted it to me, but as we’ve learned about asymptomatic carriers, I could have had the virus before him. Herpes isn’t a game of tag, it isn’t directly traceable. 
+
+        Since my initial outbreak five years ago, my herpes outbreaks have transitioned from genital to oral sores, with my last outbreak, a cold sore, occurring over two years ago. I usually mumble a warning to my partners to let them know that I am a virus carrier, but I truthfully don’t know how much to emphasize its severity, since it’s been years since my last outbreak. I don’t have all the answers to questions about herpes, but I’ve learned a whole lot of things that you should know too. For example:
+        - 1 in 6 people aged 14-49 have herpes
+        - Not everyone shows symptoms
+        - Condoms do not fully protect you from getting herpes (since outbreaks can occur in areas that are not covered by condoms). 
+        - Type 1 generally causes cold sores and Type 2 generally causes genital outbreaks, but the only difference between genital and oral herpes is the location of the outbreak (thanks, WebMD.)
+        - There are many, many types of herpes. Type 1 and Type 2 are talked about the most because they have a mucosal presentation, but Type 3 is a little thing called chickenpox, and - - Type 4 is known as mono. The list goes on and on. 
+
+        Want to know what the CDC says about prevention? “The only way to avoid STDs is to not have vaginal, anal, or oral sex.”
+
+        If you are a sexually active individual, you have a chance of getting herpes. Period. 
+
+        But we’re not going to stop having sex, so we need to start having real conversations about the things that afflict us, and our genitals. Don’t we want to have positive sexual experiences? 
+
+        Stay informed. Be a courteous human being, and inform your partners of your relevant sexual history, especially if you still experience active outbreaks.
+      audio: null
+      video: null
+      images: []
+      thumbnail:
+        format: jpg
+        size: 31093
+        width: 1009
+        height: 1009
+        title: null
+        alt: null
+        url: 'https://www.datocms-assets.com/2593/1504229788-womanly-social-assets_circle_blk_crop2.jpg?'
+      tags:
+        - id: '92784'
+          itemType: tag
+          updatedAt: '2017-08-29T19:24:28.662Z'
+          seoMetaTags:
+            - tagName: title
+              content: art
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: art
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: art
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-08-29T19:24:28Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+          title: art
+        - id: '79593'
+          itemType: tag
+          updatedAt: '2017-07-08T16:26:39.462Z'
+          seoMetaTags:
+            - tagName: title
+              content: photography
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: photography
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: photography
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-07-08T16:26:39Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+          title: photography
+      featured: false
+      author: []
+      slug: hi-i-have-herpes
+      title: 'Hi, I Have Herpes'
+    - id: '93397'
+      itemType: article
+      updatedAt: '2017-09-01T02:16:15.373Z'
+      seoMetaTags:
+        - tagName: title
+          content: Loving at Arm's Length
+        - tagName: meta
+          attributes:
+            property: 'og:title'
+            content: Loving at Arm's Length
+        - tagName: meta
+          attributes:
+            name: 'twitter:title'
+            content: Loving at Arm's Length
+        - tagName: meta
+          attributes:
+            name: 'twitter:card'
+            content: summary
+        - tagName: meta
+          attributes:
+            property: 'article:modified_time'
+            content: '2017-09-01T02:16:15Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -1702,60 +1396,729 @@ issue:
                 content: article
           title: art
       featured: false
-      author:
-        id: '93392'
-        itemType: contributor
-        updatedAt: '2017-09-01T02:01:36.769Z'
-        seoMetaTags:
-          - tagName: title
-            content: Jessica Milton
-          - tagName: meta
-            attributes:
-              property: 'og:title'
-              content: Jessica Milton
-          - tagName: meta
-            attributes:
-              name: 'twitter:title'
-              content: Jessica Milton
-          - tagName: meta
-            attributes:
-              name: 'twitter:card'
-              content: summary
-          - tagName: meta
-            attributes:
-              property: 'article:modified_time'
-              content: '2017-09-01T02:01:36Z'
-          - tagName: meta
-            attributes:
-              property: 'og:locale'
-              content: en_EN
-          - tagName: meta
-            attributes:
-              property: 'og:type'
-              content: article
-          - tagName: meta
-            attributes:
-              property: 'og:image'
-              content: 'https://www.datocms-assets.com/2593/1504231201-womanly-social-assets_circle_blk_crop2.jpg?'
-          - tagName: meta
-            attributes:
-              name: 'twitter:image'
-              content: 'https://www.datocms-assets.com/2593/1504231201-womanly-social-assets_circle_blk_crop2.jpg?'
-        position: 23
-        socialMediaLinks: []
-        bio: ~~
-        title: Contributor
-        image:
-          format: jpg
-          size: 31093
-          width: 1009
-          height: 1009
-          title: null
-          alt: null
-          url: 'https://www.datocms-assets.com/2593/1504231201-womanly-social-assets_circle_blk_crop2.jpg?'
-        name: Jessica Milton
+      author: []
       slug: loving-at-arm-s-lenght
-      title: Loving at Arm's Lenght
+      title: Loving at Arm's Length
+    - id: '93399'
+      itemType: article
+      updatedAt: '2017-09-01T02:08:15.661Z'
+      seoMetaTags:
+        - tagName: title
+          content: Origin
+        - tagName: meta
+          attributes:
+            property: 'og:title'
+            content: Origin
+        - tagName: meta
+          attributes:
+            name: 'twitter:title'
+            content: Origin
+        - tagName: meta
+          attributes:
+            name: 'twitter:card'
+            content: summary
+        - tagName: meta
+          attributes:
+            property: 'article:modified_time'
+            content: '2017-09-01T02:08:15Z'
+        - tagName: meta
+          attributes:
+            property: 'og:locale'
+            content: en_EN
+        - tagName: meta
+          attributes:
+            property: 'og:type'
+            content: article
+        - tagName: meta
+          attributes:
+            property: 'og:image'
+            content: 'https://www.datocms-assets.com/2593/1504231628-womanlycover-copy-1.jpg?'
+        - tagName: meta
+          attributes:
+            name: 'twitter:image'
+            content: 'https://www.datocms-assets.com/2593/1504231628-womanlycover-copy-1.jpg?'
+      position: 16
+      textOnLeft: false
+      resources: []
+      text: ~~
+      audio: null
+      video: null
+      images:
+        - id: '93398'
+          itemType: image
+          updatedAt: '2017-09-01T02:08:11.519Z'
+          seoMetaTags:
+            - tagName: title
+              content: Origin
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Origin
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Origin
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T02:08:11Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504231678-womanlycover-copy-1.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504231678-womanlycover-copy-1.jpg?'
+          position: 15
+          image:
+            format: jpg
+            size: 7218816
+            width: 3910
+            height: 2970
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504231678-womanlycover-copy-1.jpg?'
+          caption: null
+          title: Origin
+      thumbnail:
+        format: jpg
+        size: 7218816
+        width: 3910
+        height: 2970
+        title: null
+        alt: null
+        url: 'https://www.datocms-assets.com/2593/1504231628-womanlycover-copy-1.jpg?'
+      tags:
+        - id: '92784'
+          itemType: tag
+          updatedAt: '2017-08-29T19:24:28.662Z'
+          seoMetaTags:
+            - tagName: title
+              content: art
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: art
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: art
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-08-29T19:24:28Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+          title: art
+      featured: true
+      author: []
+      slug: origin
+      title: Origin
+    - id: '93401'
+      itemType: article
+      updatedAt: '2017-09-01T02:12:43.300Z'
+      seoMetaTags:
+        - tagName: title
+          content: Sex Ed From My Girlfriends
+        - tagName: meta
+          attributes:
+            property: 'og:title'
+            content: Sex Ed From My Girlfriends
+        - tagName: meta
+          attributes:
+            name: 'twitter:title'
+            content: Sex Ed From My Girlfriends
+        - tagName: meta
+          attributes:
+            name: 'twitter:card'
+            content: summary
+        - tagName: meta
+          attributes:
+            property: 'article:modified_time'
+            content: '2017-09-01T02:12:43Z'
+        - tagName: meta
+          attributes:
+            property: 'og:locale'
+            content: en_EN
+        - tagName: meta
+          attributes:
+            property: 'og:type'
+            content: article
+        - tagName: meta
+          attributes:
+            property: 'og:image'
+            content: 'https://www.datocms-assets.com/2593/1504231817-sexedfrommygirlfriends.gif?'
+        - tagName: meta
+          attributes:
+            name: 'twitter:image'
+            content: 'https://www.datocms-assets.com/2593/1504231817-sexedfrommygirlfriends.gif?'
+      position: 17
+      textOnLeft: false
+      resources: []
+      text: ~~
+      audio: null
+      video: null
+      images:
+        - id: '93400'
+          itemType: image
+          updatedAt: '2017-09-01T02:12:02.973Z'
+          seoMetaTags:
+            - tagName: title
+              content: Sex Ed From My Girlfriends
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Sex Ed From My Girlfriends
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Sex Ed From My Girlfriends
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T02:12:02Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504231908-sexedfrommygirlfriends.gif?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504231908-sexedfrommygirlfriends.gif?'
+          position: 16
+          image:
+            format: gif
+            size: 348309
+            width: 350
+            height: 350
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504231908-sexedfrommygirlfriends.gif?'
+          caption: null
+          title: Sex Ed From My Girlfriends
+      thumbnail:
+        format: gif
+        size: 348309
+        width: 350
+        height: 350
+        title: null
+        alt: null
+        url: 'https://www.datocms-assets.com/2593/1504231817-sexedfrommygirlfriends.gif?'
+      tags:
+        - id: '92784'
+          itemType: tag
+          updatedAt: '2017-08-29T19:24:28.662Z'
+          seoMetaTags:
+            - tagName: title
+              content: art
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: art
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: art
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-08-29T19:24:28Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+          title: art
+      featured: false
+      author: []
+      slug: sex-ed-from-my-girlfriends
+      title: Sex Ed From My Girlfriends
+    - id: '93425'
+      itemType: article
+      updatedAt: '2017-09-01T02:22:56.176Z'
+      seoMetaTags:
+        - tagName: title
+          content: Tampon Diaries
+        - tagName: meta
+          attributes:
+            property: 'og:title'
+            content: Tampon Diaries
+        - tagName: meta
+          attributes:
+            name: 'twitter:title'
+            content: Tampon Diaries
+        - tagName: meta
+          attributes:
+            name: 'twitter:card'
+            content: summary
+        - tagName: meta
+          attributes:
+            property: 'article:modified_time'
+            content: '2017-09-01T02:22:56Z'
+        - tagName: meta
+          attributes:
+            property: 'og:locale'
+            content: en_EN
+        - tagName: meta
+          attributes:
+            property: 'og:type'
+            content: article
+        - tagName: meta
+          attributes:
+            property: 'og:image'
+            content: 'https://www.datocms-assets.com/2593/1504232524-tampondiariesfinal.jpg?'
+        - tagName: meta
+          attributes:
+            name: 'twitter:image'
+            content: 'https://www.datocms-assets.com/2593/1504232524-tampondiariesfinal.jpg?'
+      position: 19
+      textOnLeft: false
+      resources: []
+      text: |-
+        Christina is a heavy-set Mexican girl, who mostly communicates by smiling and nodding in agreement. Her hair is dark and greasy, but always nicely combed to the back in a tamed pony tail, with a butterfly clip put delicately above the hair tie. She is new to Parkway North High’s freshman class. As a high school with a class system according to year rank, the white suburban kids from West County make it clear that she is an outsider, and call her cruel names behind her back. Her parents just moved from Corpus Christi, Texas in the middle of the school year, and she has no friends. I understand her struggle, being surrounded by people who naturally considered themselves to be “above you.” Here I am, a freshman city kid getting bussed from the Southside, because I was one of the lucky ones chosen for the desegregation program of Saint Louis. I refuse to participate on the sports teams, because it is made clear the only reason they wanted us city kids is to boost their teams. I was never the type to be a token, even if the opportunity presented itself. 
+         
+        In my Rocawear backpack purse, I keep my tampons hidden behind my walkman in a purple plastic container. It perfectly fits two tampons at a time. The container came in the box of Tampax my Mom purchased from Shunucks, the grocery store. Being on your period is such a disgrace. For seven days, I’m bound to feel dirty, and go out of my way to conceal my scarlet letter. I swear one day I’m gonna have the courage to raise my hand, get a bathroom pass, and walk to the bathroom with my tampons in hand loud and proud. I wear a maxipad just in case I have an accident, and can’t get to the bathroom fast enough. 
+         
+        It happens in my history class, when Christina starts her period and bleeds all over the seat. It happens right after lunch, when I come into class and sit in the seat to the left of her, as I always do. She passes me a note, asking if I have a maxipad. I only have tampons and I tell her to ask the teacher for a pass to see the nurse. Poor girl was red in the face. I'm confused and wonder to myself, ‘how could she not know she was gonna start?’ My boobs always hurt right before mine starts. Isn’t every woman's period the same? Every 27 days right? After she leaves with her sweatshirt tied around her waist, I pass a note to my best friend telling her all about Christina’s mishap, and by the time the bell rings, ending history class, I have told everyone. On the way out the door, I glance at the seat to see the blood. Word gets out about Christina’s situation, and she has to continue the rest of the day like that. Some of the girls called her Bloody Mary, which isn't very original. The next few days Christina doesn't come back to school. Rumors circle around that she tried to commit suicide, but I don’t really know her like that to know whether or not it’s true. 
+         
+        In the days that follow, I have this lingering feeling of sadness that I can’t shake. I did her dirty, and I feel awful. I a,m convinced that if I never said anything, no one would’ve noticed her bloodied khaki straight leg jeans. When she returns to school, I can't look her in the face, yet she is still nice to me. I know it’s only because she has no clue that I was the one who told, and for whatever reason, she now considers me to be her friend. She keeps asking me questions about history homework, and I distance myself from her by rolling my eyes -  ignoring her. When will this day end? 
+         
+        I get home just in time to watch Total Request Live on MTV. My best friend comes over and we talk about all of the gossip from the day. This boy likes her, but she likes another boy, blah blah. My mom arrives home from work and starts dinner. Ashley and I continue gossiping. I wasn’t worried about my mom over hearing all the dirty details, because she never listens, but on this particular day she is. A fight at school between two girls is the hot topic, until Ashley brings up Christina. I do everything to avoid talking about it, I feel sick to my stomach. My mom overhears the story, gives me a look, and asks Ashley to go home. I knew then that not only did I shame Christina, I had shamed myself, my mom, and all women. My mom tells me about myself that night. She says that I was cruel and no better than the white girls that talked about my afro puff hairstyle, knock off Tommy Hilfiger bag, and full lips. I need to make it right with Christina.
+         
+        Twenty seven days pass. My period always seems to start off very unlucky, I have cramps. OMG! I wish I didn’t have to go to gym 4th period. And why do they call them that anyway? Periods. Each class being called a  period was a cruel reminder. I am very careful to pack all of my stuff in my gym bag. The teacher lets girls sit out if they were on their rag, because we're swimming. (Why do old people call it a rag? Gross, right?) I participate anyway, because my flow isn't heavy. The girls in my class say that when you’re in the swimming pool, the water stops your period from bleeding, but I think that’s a myth. I insert a fresh tampon, and tuck the string in my coochie, heaven forbid if it falls out while in a co-ed swimming class. In the shower, after gym, I don't see blood, so I leave the tampon in and continue getting dressed, since half of the school day is over.
+         
+        It's a Friday, so we don't do much class work in history. We mostly watch movies and take notes. I'm leaving the locker room, heading to lunch when the craziest idea enters my mind. After lunch I go into the bathroom, take out my tampon, and don't replace it. I feel so naked, and feel unusually wet in my panties. I walk the long halls to history class quietly, and not feeling like socializing. I take my seat on the left of Christina, as I always do, and bleed all over the seat next to her. 
+         
+        After the movie, I raise my hand and ask,” Ms. Schwartz, can I go to the nurse’s office?”  
+      audio: null
+      video: null
+      images:
+        - id: '93424'
+          itemType: image
+          updatedAt: '2017-09-01T02:22:47.274Z'
+          seoMetaTags:
+            - tagName: title
+              content: 'Tampon Diaries '
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: 'Tampon Diaries '
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: 'Tampon Diaries '
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T02:22:47Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504232541-tampondiariesfinal.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504232541-tampondiariesfinal.jpg?'
+          position: 18
+          image:
+            format: jpg
+            size: 3392219
+            width: 2338
+            height: 2650
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504232541-tampondiariesfinal.jpg?'
+          caption: null
+          title: 'Tampon Diaries '
+      thumbnail:
+        format: jpg
+        size: 3392219
+        width: 2338
+        height: 2650
+        title: null
+        alt: null
+        url: 'https://www.datocms-assets.com/2593/1504232524-tampondiariesfinal.jpg?'
+      tags:
+        - id: '92784'
+          itemType: tag
+          updatedAt: '2017-08-29T19:24:28.662Z'
+          seoMetaTags:
+            - tagName: title
+              content: art
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: art
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: art
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-08-29T19:24:28Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+          title: art
+      featured: false
+      author:
+        - id: '93382'
+          itemType: contributor
+          updatedAt: '2017-09-01T01:35:01.344Z'
+          seoMetaTags:
+            - tagName: title
+              content: Carmel Brown
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Carmel Brown
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Carmel Brown
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T01:35:01Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504229678-carmel-brown.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504229678-carmel-brown.jpg?'
+          position: 21
+          socialMediaLinks: []
+          bio: 'Carmel Brown is a visual artist and the owner of Colored Vintage, and has been curating and collecting vintage for over a decade. She currently resides in Philadelphia, PA by way of St. Louis, MO. '
+          title: Fashion Editor
+          image:
+            format: jpg
+            size: 2289966
+            width: 3951
+            height: 2832
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504229678-carmel-brown.jpg?'
+          name: Carmel Brown
+      slug: tampon-diaries
+      title: Tampon Diaries
+    - id: '93422'
+      itemType: article
+      updatedAt: '2017-09-01T02:26:26.238Z'
+      seoMetaTags:
+        - tagName: title
+          content: Vaginal Dryness
+        - tagName: meta
+          attributes:
+            property: 'og:title'
+            content: Vaginal Dryness
+        - tagName: meta
+          attributes:
+            name: 'twitter:title'
+            content: Vaginal Dryness
+        - tagName: meta
+          attributes:
+            name: 'twitter:card'
+            content: summary
+        - tagName: meta
+          attributes:
+            property: 'article:modified_time'
+            content: '2017-09-01T02:26:26Z'
+        - tagName: meta
+          attributes:
+            property: 'og:locale'
+            content: en_EN
+        - tagName: meta
+          attributes:
+            property: 'og:type'
+            content: article
+        - tagName: meta
+          attributes:
+            property: 'og:image'
+            content: 'https://www.datocms-assets.com/2593/1504232137-vaginal-dryness-diana-mcdonnell-khadija-ariana.jpg?'
+        - tagName: meta
+          attributes:
+            name: 'twitter:image'
+            content: 'https://www.datocms-assets.com/2593/1504232137-vaginal-dryness-diana-mcdonnell-khadija-ariana.jpg?'
+      position: 18
+      textOnLeft: false
+      resources: []
+      text: ~~
+      audio: null
+      video: null
+      images:
+        - id: '93427'
+          itemType: image
+          updatedAt: '2017-09-01T02:26:23.213Z'
+          seoMetaTags:
+            - tagName: title
+              content: Vaginal Dryness
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Vaginal Dryness
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Vaginal Dryness
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T02:26:23Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504232776-vaginal-dryness-diana-mcdonnell-khadija-ariana.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504232776-vaginal-dryness-diana-mcdonnell-khadija-ariana.jpg?'
+          position: 20
+          image:
+            format: jpg
+            size: 791035
+            width: 1628
+            height: 2346
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504232776-vaginal-dryness-diana-mcdonnell-khadija-ariana.jpg?'
+          caption: ''
+          title: Vaginal Dryness
+      thumbnail:
+        format: jpg
+        size: 791035
+        width: 1628
+        height: 2346
+        title: null
+        alt: null
+        url: 'https://www.datocms-assets.com/2593/1504232137-vaginal-dryness-diana-mcdonnell-khadija-ariana.jpg?'
+      tags:
+        - id: '92784'
+          itemType: tag
+          updatedAt: '2017-08-29T19:24:28.662Z'
+          seoMetaTags:
+            - tagName: title
+              content: art
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: art
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: art
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-08-29T19:24:28Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+          title: art
+      featured: false
+      author:
+        - id: '93368'
+          itemType: contributor
+          updatedAt: '2017-09-01T01:16:54.819Z'
+          seoMetaTags:
+            - tagName: title
+              content: Diana McDonnell
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Diana McDonnell
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Diana McDonnell
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T01:16:54Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504228555-diana-mcdonnell.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504228555-diana-mcdonnell.jpg?'
+          position: 14
+          socialMediaLinks: []
+          bio: 'Diana is working on her Master''s in Nursing in New York. She is passionate about making healthcare more accessible. She is honored to be a part of Womanly Mag, and to collaborate with such compassionate and creative people.'
+          title: Health & Wellness Director
+          image:
+            format: jpg
+            size: 582163
+            width: 1000
+            height: 667
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504228555-diana-mcdonnell.jpg?'
+          name: Diana McDonnell
+        - id: '93378'
+          itemType: contributor
+          updatedAt: '2017-09-01T02:22:21.663Z'
+          seoMetaTags:
+            - tagName: title
+              content: Khadija Ariana
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Khadija Ariana
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Khadija Ariana
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-01T02:22:21Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504229480-khadija-ariana.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504229480-khadija-ariana.jpg?'
+          position: 19
+          socialMediaLinks: []
+          bio: Khadija Horton is an illustration major studying at Pratt Institute in Brooklyn.
+          title: Resident Artist
+          image:
+            format: jpg
+            size: 65348
+            width: 632
+            height: 356
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504229480-khadija-ariana.jpg?'
+          name: Khadija Ariana
+      slug: vaginal-dryness
+      title: Vaginal Dryness
   featured: true
   title: Issue No. 1 Staging
   number: 1

@@ -441,18 +441,18 @@ contributors:
     name: Ariana Mygatt
   - id: '93378'
     itemType: contributor
-    updatedAt: '2017-09-01T01:31:39.847Z'
+    updatedAt: '2017-09-01T02:22:21.663Z'
     seoMetaTags:
       - tagName: title
-        content: Khadija Horton
+        content: Khadija Ariana
       - tagName: meta
         attributes:
           property: 'og:title'
-          content: Khadija Horton
+          content: Khadija Ariana
       - tagName: meta
         attributes:
           name: 'twitter:title'
-          content: Khadija Horton
+          content: Khadija Ariana
       - tagName: meta
         attributes:
           name: 'twitter:card'
@@ -460,7 +460,7 @@ contributors:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T01:31:39Z'
+          content: '2017-09-01T02:22:21Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -489,7 +489,7 @@ contributors:
       title: null
       alt: null
       url: 'https://www.datocms-assets.com/2593/1504229480-khadija-ariana.jpg?'
-    name: Khadija Horton
+    name: Khadija Ariana
   - id: '93374'
     itemType: contributor
     updatedAt: '2017-09-01T01:26:25.901Z'
