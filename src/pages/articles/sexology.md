@@ -4,7 +4,7 @@ path: articles/sexology
 author:
   - id: '93358'
     itemType: contributor
-    updatedAt: '2017-09-01T01:01:07.606Z'
+    updatedAt: '2017-09-20T14:07:35.605Z'
     seoMetaTags:
       - tagName: title
         content: Ailyn Robles
@@ -23,7 +23,7 @@ author:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T01:01:07Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -123,7 +123,7 @@ thumbnail: 'https://www.datocms-assets.com/2593/1504230323-janell_thumbnail.JPG?
 images:
   - id: '93385'
     itemType: image
-    updatedAt: '2017-09-01T01:45:56.239Z'
+    updatedAt: '2017-09-20T14:07:34.533Z'
     seoMetaTags:
       - tagName: title
         content: Butt Plug
@@ -142,7 +142,7 @@ images:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T01:45:56Z'
+          content: '2017-09-20T14:07:34Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -172,7 +172,7 @@ images:
     title: Butt Plug
   - id: '93390'
     itemType: image
-    updatedAt: '2017-09-01T01:47:42.506Z'
+    updatedAt: '2017-09-20T14:07:34.582Z'
     seoMetaTags:
       - tagName: title
         content: Vibrator II
@@ -191,7 +191,7 @@ images:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T01:47:42Z'
+          content: '2017-09-20T14:07:34Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -221,7 +221,7 @@ images:
     title: Vibrator II
   - id: '93387'
     itemType: image
-    updatedAt: '2017-09-01T01:46:42.053Z'
+    updatedAt: '2017-09-20T14:07:34.552Z'
     seoMetaTags:
       - tagName: title
         content: Dildo
@@ -240,7 +240,7 @@ images:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T01:46:42Z'
+          content: '2017-09-20T14:07:34Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -270,7 +270,7 @@ images:
     title: Dildo
   - id: '93388'
     itemType: image
-    updatedAt: '2017-09-01T01:46:59.917Z'
+    updatedAt: '2017-09-20T14:07:34.561Z'
     seoMetaTags:
       - tagName: title
         content: Janell
@@ -289,7 +289,7 @@ images:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T01:46:59Z'
+          content: '2017-09-20T14:07:34Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -319,7 +319,7 @@ images:
     title: Janell
   - id: '93389'
     itemType: image
-    updatedAt: '2017-09-01T01:47:26.667Z'
+    updatedAt: '2017-09-20T14:07:34.570Z'
     seoMetaTags:
       - tagName: title
         content: Vibrator
@@ -338,7 +338,7 @@ images:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T01:47:26Z'
+          content: '2017-09-20T14:07:34Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -368,7 +368,7 @@ images:
     title: Vibrator
   - id: '93716'
     itemType: image
-    updatedAt: '2017-09-01T17:35:11.600Z'
+    updatedAt: '2017-09-20T14:07:34.892Z'
     seoMetaTags:
       - tagName: title
         content: Thumbnail
@@ -387,7 +387,7 @@ images:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T17:35:11Z'
+          content: '2017-09-20T14:07:34Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -430,7 +430,7 @@ text: |-
 
   **WM:** What advice do you give women who want to get into sex studies?
 
-  **JY:** I encourage everyone to get into the field. It is so important for us to change the way we educate ourselves, and our children, about sex. Start with Google, so much information is at the tip of your fingers. You can get certifications to be a sex educator, or you can start by getting your Bachelor's degree in sexuality, or gender studies. People don't realize how much education goes into sexology. We are responsible for studying anthropology, sociology, psychology, anatomy, and so many more fields of study. 
+  **JY:** I encourage *everyone* to get into the field. It is so important for us to change the way we educate ourselves, and our children, about sex. Start with Google, so much information is at the tip of your fingers. You can get certifications to be a sex educator, or you can start by getting your Bachelor's degree in sexuality, or gender studies. People don't realize how much education goes into sexology. We are responsible for studying anthropology, sociology, psychology, anatomy, and so many more fields of study. 
 
   **WM:** How is feminism a part of sexology?
 
@@ -454,39 +454,39 @@ text: |-
 
   **JY:** Toys for cis men include prostate massagers (internal), [fleshlights](http://www.babeland.com/Fleshlight-Vulva/d/1567) (masturbators), [cock rings](http://adult.babeland.com/search?asug=&w=cock%20rings), [tenga eggs](http://www.babeland.com/tenga-eggs-masturbation-sleeve/d/1593) - massagers (cheap, easy, & fun), and [anal beads](http://www.babeland.com/Babeland-Anal-Beads/d/4566) (for all genders). For trans men there is actually a new toy called [buck off](http://www.huffingtonpost.com/entry/buck-off-trans-sex-toy_us_57eea14be4b024a52d2ebb88), which serves almost as a suction cup for the vagina. This way, when masturbating trans men don't have to physically come into contact with genitals they don't feel connected to, and instead can stroke the way they would with a penis. Remember: not all men have penises.
 
-  toys for cis women that are included in the short promo video are
+  **Toys for cis women that are included in the short promo video are:**
 
-  steel butt plug
+  Steel butt plug
 
-  nipple and clit clamps. 
+  Nipple and clit clamps
 
-  the [lily](https://www.goodvibes.com/s/sex-toys/p/12AJ62/lelo/lily-vibrator) (the lavender one) external massager
+  The [lily](https://www.goodvibes.com/s/sex-toys/p/12AJ62/lelo/lily-vibrator) (the lavender one) external massager
 
-  the [moka](http://adult.babeland.com/babeland/Moka) (the blue one) g-spot vibrator with a head designed specifically to reach it.
+  The [moka](http://adult.babeland.com/babeland/Moka) (the blue one) g-spot vibrator with a head designed specifically to reach it.
 
-  the [tiani](https://www.lelo.com/tiani-3) (the pink one for couples)- remote controlled couple's massager, vibrates internally and externally at the same time. fun in public & with light sub/dom play!
+  The [tiani](https://www.lelo.com/tiani-3) (the pink one for couples)- remote controlled couple's massager, vibrates internally and externally at the same time. fun in public & with light sub/dom play!
 
-  and the [ina wave](https://www.lelo.com/blog/lelo-ina-wave-mona-wave-head-head/) (the purple one) internal and external vibrator with "come hither" movements mimicking a lovers fingers
+  The [ina wave](https://www.lelo.com/blog/lelo-ina-wave-mona-wave-head-head/) (the purple one) internal and external vibrator with "come hither" movements mimicking a lovers fingers
 
-  the glass ones are staple favorites because they are hard, durable, and so easy to clean. (ive included a link to toys for trans women but found out quickly that there aren't many options). 
+  The glass ones are staple favorites because they are hard, durable, and so easy to clean. (ive included a link to toys for trans women but found out quickly that there aren't many options). 
 
-  ina wave, waves hello. :)
+  Ina wave, waves hello. :)
 
-  **q:** do's & dont's with toys
-  **a:** silicone: dont use silicone lubes with silicone toys. use water based or hybrid which is water and silicone based.
+  **Do's & Dont's with Toys**
+  Silicone: Don't use silicone lubes with silicone toys. use water based or hybrid which is water and silicone based.
 
-  **online:** if you're going to order toys online i would recommend buying glass or steel because you can clean them easily and well. also, when you order silicone or rubber online it may be difficult to see whether or not the toy is actually made of that material which makes it harder to clean.
+  Online: If you're going to order toys online i would recommend buying glass or steel because you can clean them easily and well. also, when you order silicone or rubber online it may be difficult to see whether or not the toy is actually made of that material which makes it harder to clean.
 
-  don't use vibrators as anal toys. keep vibrators as vibrators and anal toys for anal play. if you want to use your dildo as an anal toy, that may work because you can boil it if it is silicone. its better to keep things separate though. 
+  Don't use vibrators as anal toys. keep vibrators as vibrators and anal toys for anal play. if you want to use your dildo as an anal toy, that may work because you can boil it if it is silicone. its better to keep things separate though. 
 
-  put a condom over your toys when you use them.
+  Put a condom over your toys when you use them.
 
-  i only buy glass, steel, or silicone.
+  I only buy glass, steel, or silicone.
 
-  glass will help you squirt faster and don't sleep on that curve. 
+  Glass will help you squirt faster and don't sleep on that curve. 
   (rubber can breakdown and is porous which can trap bacteria).
 
-  boil your toys to clean them unless they are rubber or battery operated. that is the best way to clean them. washing is simply washing the surface of the toys. 
+  Boil your toys to clean them unless they are rubber or battery operated. that is the best way to clean them. washing is simply washing the surface of the toys. 
 
   **SEX SHOPS!**
   [PLEASURECHEST](http://thepleasurechest.com/)

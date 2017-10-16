@@ -4,7 +4,7 @@ path: articles/origin
 author:
   - id: '93380'
     itemType: contributor
-    updatedAt: '2017-09-01T01:42:21.345Z'
+    updatedAt: '2017-09-20T14:07:35.718Z'
     seoMetaTags:
       - tagName: title
         content: Singha Hon
@@ -23,7 +23,7 @@ author:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T01:42:21Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -92,7 +92,7 @@ thumbnail: 'https://www.datocms-assets.com/2593/1504231628-womanlycover-copy-1.j
 images:
   - id: '93398'
     itemType: image
-    updatedAt: '2017-09-01T02:08:11.519Z'
+    updatedAt: '2017-09-20T14:07:34.619Z'
     seoMetaTags:
       - tagName: title
         content: Origin
@@ -111,7 +111,7 @@ images:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T02:08:11Z'
+          content: '2017-09-20T14:07:34Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -141,9 +141,7 @@ images:
     title: Origin
 video: null
 audio: null
-text: |-
-  **Artist's Statement: **
-  There is something magical about the female form that is constantly inspiring to me. As an artist, I love to paint women because they are a source of power, myth, and creation. This piece was inspired in part by Courbet's L'Origine du monde (1866), a standard of art history, that portrays a naked woman from the waist down. While the subject is very exposed, her identity, personality, and emotions remain concealed. I wanted to create my own origin piece-- but rather than create an image for the pleasure of the viewer, focus instead someone enraptured in an examination of their own body. I hope that this piece inspires others to celebrate self discovery, to learn about our bodies, which carry the story of our world.
+text: 'There is something magical about the female form that is constantly inspiring to me. As an artist, I love to paint women because they are a source of power, myth, and creation. This piece was inspired in part by Courbet''s L''Origine du monde (1866), a standard of art history, that portrays a naked woman from the waist down. While the subject is very exposed, her identity, personality, and emotions remain concealed. I wanted to create my own origin piece-- but rather than create an image for the pleasure of the viewer, focus instead on someone enraptured in an examination of their own body. I hope that this piece inspires others to celebrate self discovery, to learn about our bodies, which carry the story of our world.'
 resources: []
 textOnLeft: false
 ---

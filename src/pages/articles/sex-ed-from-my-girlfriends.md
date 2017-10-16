@@ -4,7 +4,7 @@ path: articles/sex-ed-from-my-girlfriends
 author:
   - id: '93376'
     itemType: contributor
-    updatedAt: '2017-09-01T01:42:05.339Z'
+    updatedAt: '2017-09-20T14:07:35.686Z'
     seoMetaTags:
       - tagName: title
         content: Ariana Mygatt
@@ -23,7 +23,7 @@ author:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T01:42:05Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -42,7 +42,7 @@ author:
           content: 'https://www.datocms-assets.com/2593/1504229268-ariana-mygatt.jpg?'
     position: 10
     socialMediaLinks: []
-    bio: 'Ariana is a Baltimore-based, artist educator, photographer, and designer. She enjoys periodically redecorating her apartment, talking to teens, "getting out of town", and the years 2000-2009.'
+    bio: 'Ariana is a Baltimore-based artist educator, photographer, and designer. She enjoys periodically redecorating her apartment, talking to teens, "getting out of town", and the years 2000-2009.'
     title: Art Director
     image:
       format: jpg
@@ -90,9 +90,58 @@ tags:
     title: art
 thumbnail: 'https://www.datocms-assets.com/2593/1504287545-sexedfrommygirlfriends1.jpg?'
 images:
+  - id: '93724'
+    itemType: image
+    updatedAt: '2017-09-20T14:07:34.969Z'
+    seoMetaTags:
+      - tagName: title
+        content: '8'
+      - tagName: meta
+        attributes:
+          property: 'og:title'
+          content: '8'
+      - tagName: meta
+        attributes:
+          name: 'twitter:title'
+          content: '8'
+      - tagName: meta
+        attributes:
+          name: 'twitter:card'
+          content: summary
+      - tagName: meta
+        attributes:
+          property: 'article:modified_time'
+          content: '2017-09-20T14:07:34Z'
+      - tagName: meta
+        attributes:
+          property: 'og:locale'
+          content: en_EN
+      - tagName: meta
+        attributes:
+          property: 'og:type'
+          content: article
+      - tagName: meta
+        attributes:
+          property: 'og:image'
+          content: 'https://www.datocms-assets.com/2593/1504287658-sexedfrommygirlfriends1.jpg?'
+      - tagName: meta
+        attributes:
+          name: 'twitter:image'
+          content: 'https://www.datocms-assets.com/2593/1504287658-sexedfrommygirlfriends1.jpg?'
+    position: 49
+    image:
+      format: jpg
+      size: 43976
+      width: 350
+      height: 350
+      title: null
+      alt: null
+      url: 'https://www.datocms-assets.com/2593/1504287658-sexedfrommygirlfriends1.jpg?'
+    caption: null
+    title: '8'
   - id: '93717'
     itemType: image
-    updatedAt: '2017-09-01T17:39:22.054Z'
+    updatedAt: '2017-09-20T14:07:34.902Z'
     seoMetaTags:
       - tagName: title
         content: '1'
@@ -111,7 +160,7 @@ images:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T17:39:22Z'
+          content: '2017-09-20T14:07:34Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -141,7 +190,7 @@ images:
     title: '1'
   - id: '93718'
     itemType: image
-    updatedAt: '2017-09-01T17:39:33.867Z'
+    updatedAt: '2017-09-20T14:07:34.911Z'
     seoMetaTags:
       - tagName: title
         content: '2'
@@ -160,7 +209,7 @@ images:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T17:39:33Z'
+          content: '2017-09-20T14:07:34Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -190,7 +239,7 @@ images:
     title: '2'
   - id: '93719'
     itemType: image
-    updatedAt: '2017-09-01T17:39:53.415Z'
+    updatedAt: '2017-09-20T14:07:34.919Z'
     seoMetaTags:
       - tagName: title
         content: '3'
@@ -209,7 +258,7 @@ images:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T17:39:53Z'
+          content: '2017-09-20T14:07:34Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -239,7 +288,7 @@ images:
     title: '3'
   - id: '93720'
     itemType: image
-    updatedAt: '2017-09-01T17:40:02.516Z'
+    updatedAt: '2017-09-20T14:07:34.928Z'
     seoMetaTags:
       - tagName: title
         content: '4'
@@ -258,7 +307,7 @@ images:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T17:40:02Z'
+          content: '2017-09-20T14:07:34Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -288,7 +337,7 @@ images:
     title: '4'
   - id: '93721'
     itemType: image
-    updatedAt: '2017-09-01T17:40:22.041Z'
+    updatedAt: '2017-09-20T14:07:34.937Z'
     seoMetaTags:
       - tagName: title
         content: '5'
@@ -307,7 +356,7 @@ images:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T17:40:22Z'
+          content: '2017-09-20T14:07:34Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -337,7 +386,7 @@ images:
     title: '5'
   - id: '93722'
     itemType: image
-    updatedAt: '2017-09-01T17:40:37.143Z'
+    updatedAt: '2017-09-20T14:07:34.947Z'
     seoMetaTags:
       - tagName: title
         content: '6'
@@ -356,7 +405,7 @@ images:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T17:40:37Z'
+          content: '2017-09-20T14:07:34Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -386,7 +435,7 @@ images:
     title: '6'
   - id: '93723'
     itemType: image
-    updatedAt: '2017-09-01T17:40:48.259Z'
+    updatedAt: '2017-09-20T14:07:34.959Z'
     seoMetaTags:
       - tagName: title
         content: '7'
@@ -405,7 +454,7 @@ images:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T17:40:48Z'
+          content: '2017-09-20T14:07:34Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -433,58 +482,9 @@ images:
       url: 'https://www.datocms-assets.com/2593/1504287644-sexedfrommygirlfriends2.jpg?'
     caption: null
     title: '7'
-  - id: '93724'
-    itemType: image
-    updatedAt: '2017-09-01T17:41:05.209Z'
-    seoMetaTags:
-      - tagName: title
-        content: '8'
-      - tagName: meta
-        attributes:
-          property: 'og:title'
-          content: '8'
-      - tagName: meta
-        attributes:
-          name: 'twitter:title'
-          content: '8'
-      - tagName: meta
-        attributes:
-          name: 'twitter:card'
-          content: summary
-      - tagName: meta
-        attributes:
-          property: 'article:modified_time'
-          content: '2017-09-01T17:41:05Z'
-      - tagName: meta
-        attributes:
-          property: 'og:locale'
-          content: en_EN
-      - tagName: meta
-        attributes:
-          property: 'og:type'
-          content: article
-      - tagName: meta
-        attributes:
-          property: 'og:image'
-          content: 'https://www.datocms-assets.com/2593/1504287658-sexedfrommygirlfriends1.jpg?'
-      - tagName: meta
-        attributes:
-          name: 'twitter:image'
-          content: 'https://www.datocms-assets.com/2593/1504287658-sexedfrommygirlfriends1.jpg?'
-    position: 49
-    image:
-      format: jpg
-      size: 43976
-      width: 350
-      height: 350
-      title: null
-      alt: null
-      url: 'https://www.datocms-assets.com/2593/1504287658-sexedfrommygirlfriends1.jpg?'
-    caption: null
-    title: '8'
 video: null
 audio: null
-text: ~~
+text: 'Some sex ed you learn in health class. Most sex ed you learn in girls rooms and at slumber parties. This is dedicated to all my girlfriends, we were and remain to be each other''s best teachers.'
 resources: []
 textOnLeft: true
 ---

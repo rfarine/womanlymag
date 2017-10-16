@@ -4,7 +4,7 @@ path: articles/feelin-yourself
 author:
   - id: '85154'
     itemType: contributor
-    updatedAt: '2017-09-01T04:05:59.306Z'
+    updatedAt: '2017-09-20T14:07:35.568Z'
     seoMetaTags:
       - tagName: title
         content: Aisha Khan
@@ -23,7 +23,7 @@ author:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T04:05:59Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -42,29 +42,6 @@ author:
           content: 'https://www.datocms-assets.com/2593/1504227010-aisha-khan-2.jpg?'
     position: 4
     socialMediaLinks:
-      - id: '93456'
-        itemType: social_media_link
-        updatedAt: '2017-09-01T03:15:01.978Z'
-        seoMetaTags:
-          - tagName: meta
-            attributes:
-              name: 'twitter:card'
-              content: summary
-          - tagName: meta
-            attributes:
-              property: 'article:modified_time'
-              content: '2017-09-01T03:15:01Z'
-          - tagName: meta
-            attributes:
-              property: 'og:locale'
-              content: en_EN
-          - tagName: meta
-            attributes:
-              property: 'og:type'
-              content: article
-        position: 2
-        url: 'https://www.linkedin.com/in/aisha-khan-l10n'
-        service: LinkedIn
       - id: '93457'
         itemType: social_media_link
         updatedAt: '2017-09-01T03:16:01.584Z'
@@ -88,7 +65,30 @@ author:
         position: 3
         url: 'https://www.instagram.com/aish.aish.bb/'
         service: Instagram
-    bio: 'Aisha is a Pakistani-Latvian-American from Northern California, currently based in NYC. She has a passion for languages and a commitment to creating accessible medias and technologies. Voted Best Comedy Show Audience Member.'
+      - id: '93456'
+        itemType: social_media_link
+        updatedAt: '2017-09-01T03:15:01.978Z'
+        seoMetaTags:
+          - tagName: meta
+            attributes:
+              name: 'twitter:card'
+              content: summary
+          - tagName: meta
+            attributes:
+              property: 'article:modified_time'
+              content: '2017-09-01T03:15:01Z'
+          - tagName: meta
+            attributes:
+              property: 'og:locale'
+              content: en_EN
+          - tagName: meta
+            attributes:
+              property: 'og:type'
+              content: article
+        position: 2
+        url: 'https://www.linkedin.com/in/aisha-khan-l10n'
+        service: LinkedIn
+    bio: 'Aisha is a Pakistani-Latvian-American from Northern California, currently based in NYC. She has a passion for languages and a commitment to creating accessible medias and technologies. '
     title: Digital Product Director
     image:
       format: jpg
@@ -101,7 +101,7 @@ author:
     name: Aisha Khan
   - id: '93378'
     itemType: contributor
-    updatedAt: '2017-09-01T02:22:21.663Z'
+    updatedAt: '2017-09-20T14:07:35.706Z'
     seoMetaTags:
       - tagName: title
         content: Khadija Ariana
@@ -120,7 +120,7 @@ author:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T02:22:21Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -189,7 +189,7 @@ thumbnail: 'https://www.datocms-assets.com/2593/1504234670-masturbation-survey-1
 images:
   - id: '93454'
     itemType: image
-    updatedAt: '2017-09-01T02:58:33.002Z'
+    updatedAt: '2017-09-20T14:07:34.852Z'
     seoMetaTags:
       - tagName: title
         content: 'Feelin'' Yourself? '
@@ -208,7 +208,7 @@ images:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T02:58:33Z'
+          content: '2017-09-20T14:07:34Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -239,8 +239,8 @@ images:
 video: null
 audio: null
 text: |-
-  **Survey and Writing by: Aisha Khan**
-  **Atwork by: Khadija Ariana**
+  **Survey and Writing: Aisha Khan**
+  **Artwork: Khadija Ariana**
 resources: []
 textOnLeft: false
 ---
