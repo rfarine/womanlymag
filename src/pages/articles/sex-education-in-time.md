@@ -4,7 +4,7 @@ path: articles/sex-education-in-time
 author:
   - id: '93357'
     itemType: contributor
-    updatedAt: '2017-09-01T00:58:54.637Z'
+    updatedAt: '2017-09-20T14:07:35.592Z'
     seoMetaTags:
       - tagName: title
         content: Attia Taylor
@@ -23,7 +23,7 @@ author:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T00:58:54Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -55,7 +55,7 @@ author:
     name: Attia Taylor
   - id: '93725'
     itemType: contributor
-    updatedAt: '2017-09-01T19:11:56.939Z'
+    updatedAt: '2017-09-20T14:07:35.817Z'
     seoMetaTags:
       - tagName: title
         content: Patrick Ellis
@@ -74,7 +74,7 @@ author:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T19:11:56Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -142,19 +142,19 @@ tags:
 thumbnail: 'https://www.datocms-assets.com/2593/1504289656-womanly-social-assets_circle_blk_crop2.jpg?'
 images: []
 video:
-  url: 'https://youtu.be/IXhFR3JXhmA'
-  title: IMG 6276
+  url: 'https://www.youtube.com/watch?v=UU0B1XHaDXI'
+  title: Sex Education in Time - Womanly Magazine
   width: 480
   height: 270
   provider: youtube
-  providerUid: undefined
-  thumbnailUrl: 'https://i.ytimg.com/vi/IXhFR3JXhmA/hqdefault.jpg'
+  providerUid: UU0B1XHaDXI
+  thumbnailUrl: 'https://i.ytimg.com/vi/UU0B1XHaDXI/hqdefault.jpg'
 audio: null
 text: |-
   A sound and film collage exploring the nostalgia, lack of diversity, and inaccuracy of 21st century sex education in America. 
 
-  **Film edited by: Attia Taylor
-  Music by: Patrick Ellis **
+  **Film editing: Attia Taylor
+  Music: Patrick Ellis**
 
   Film selection courtesy of Internet Archive
 resources: []

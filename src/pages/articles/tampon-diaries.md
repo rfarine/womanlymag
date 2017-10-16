@@ -4,7 +4,7 @@ path: articles/tampon-diaries
 author:
   - id: '93382'
     itemType: contributor
-    updatedAt: '2017-09-01T01:35:01.344Z'
+    updatedAt: '2017-09-20T14:07:35.737Z'
     seoMetaTags:
       - tagName: title
         content: Carmel Brown
@@ -23,7 +23,7 @@ author:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T01:35:01Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -53,6 +53,57 @@ author:
       alt: null
       url: 'https://www.datocms-assets.com/2593/1504229678-carmel-brown.jpg?'
     name: Carmel Brown
+  - id: '93380'
+    itemType: contributor
+    updatedAt: '2017-09-20T14:07:35.718Z'
+    seoMetaTags:
+      - tagName: title
+        content: Singha Hon
+      - tagName: meta
+        attributes:
+          property: 'og:title'
+          content: Singha Hon
+      - tagName: meta
+        attributes:
+          name: 'twitter:title'
+          content: Singha Hon
+      - tagName: meta
+        attributes:
+          name: 'twitter:card'
+          content: summary
+      - tagName: meta
+        attributes:
+          property: 'article:modified_time'
+          content: '2017-09-20T14:07:35Z'
+      - tagName: meta
+        attributes:
+          property: 'og:locale'
+          content: en_EN
+      - tagName: meta
+        attributes:
+          property: 'og:type'
+          content: article
+      - tagName: meta
+        attributes:
+          property: 'og:image'
+          content: 'https://www.datocms-assets.com/2593/1504229569-singha-e-hon.jpg?'
+      - tagName: meta
+        attributes:
+          name: 'twitter:image'
+          content: 'https://www.datocms-assets.com/2593/1504229569-singha-e-hon.jpg?'
+    position: 8
+    socialMediaLinks: []
+    bio: 'Singha Hon is an artist and illustrator from New York City. Her work revolves around depicting women undergoing private metaphysical transformations, using techniques of classic figurative painting, and elements of magical realism to describe inner emotional states.'
+    title: Resident Artist
+    image:
+      format: jpg
+      size: 632076
+      width: 1000
+      height: 667
+      title: null
+      alt: null
+      url: 'https://www.datocms-assets.com/2593/1504229569-singha-e-hon.jpg?'
+    name: Singha Hon
 slug: tampon-diaries
 title: Tampon Diaries
 featured: false
@@ -92,7 +143,7 @@ thumbnail: 'https://www.datocms-assets.com/2593/1504232524-tampondiariesfinal.jp
 images:
   - id: '93424'
     itemType: image
-    updatedAt: '2017-09-01T02:22:47.274Z'
+    updatedAt: '2017-09-20T14:07:34.653Z'
     seoMetaTags:
       - tagName: title
         content: 'Tampon Diaries '
@@ -111,7 +162,7 @@ images:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T02:22:47Z'
+          content: '2017-09-20T14:07:34Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -148,9 +199,9 @@ text: |-
    
   It happens in my history class, when Christina starts her period and bleeds all over the seat. It happens right after lunch, when I come into class and sit in the seat to the left of her, as I always do. She passes me a note, asking if I have a maxipad. I only have tampons and I tell her to ask the teacher for a pass to see the nurse. Poor girl was red in the face. I'm confused and wonder to myself, ‘how could she not know she was gonna start?’ My boobs always hurt right before mine starts. Isn’t every woman's period the same? Every 27 days right? After she leaves with her sweatshirt tied around her waist, I pass a note to my best friend telling her all about Christina’s mishap, and by the time the bell rings, ending history class, I have told everyone. On the way out the door, I glance at the seat to see the blood. Word gets out about Christina’s situation, and she has to continue the rest of the day like that. Some of the girls called her Bloody Mary, which isn't very original. The next few days Christina doesn't come back to school. Rumors circle around that she tried to commit suicide, but I don’t really know her like that to know whether or not it’s true. 
    
-  In the days that follow, I have this lingering feeling of sadness that I can’t shake. I did her dirty, and I feel awful. I a,m convinced that if I never said anything, no one would’ve noticed her bloodied khaki straight leg jeans. When she returns to school, I can't look her in the face, yet she is still nice to me. I know it’s only because she has no clue that I was the one who told, and for whatever reason, she now considers me to be her friend. She keeps asking me questions about history homework, and I distance myself from her by rolling my eyes -  ignoring her. When will this day end? 
+  In the days that follow, I have this lingering feeling of sadness that I can’t shake. I did her dirty, and I feel awful. I am convinced that if I never said anything, no one would’ve noticed her bloodied khaki straight leg jeans. When she returns to school, I can't look her in the face, yet she is still nice to me. I know it’s only because she has no clue that I was the one who told, and for whatever reason, she now considers me to be her friend. She keeps asking me questions about history homework, and I distance myself from her by rolling my eyes -  ignoring her. When will this day end? 
    
-  I get home just in time to watch Total Request Live on MTV. My best friend comes over and we talk about all of the gossip from the day. This boy likes her, but she likes another boy, blah blah. My mom arrives home from work and starts dinner. Ashley and I continue gossiping. I wasn’t worried about my mom over hearing all the dirty details, because she never listens, but on this particular day she is. A fight at school between two girls is the hot topic, until Ashley brings up Christina. I do everything to avoid talking about it, I feel sick to my stomach. My mom overhears the story, gives me a look, and asks Ashley to go home. I knew then that not only did I shame Christina, I had shamed myself, my mom, and all women. My mom tells me about myself that night. She says that I was cruel and no better than the white girls that talked about my afro puff hairstyle, knock off Tommy Hilfiger bag, and full lips. I need to make it right with Christina.
+  I get home just in time to watch Total Request Live on MTV. My best friend comes over and we talk about all of the gossip from the day. This boy likes her, but she likes another boy, blah blah. My mom arrives home from work and starts dinner. Ashley and I continue gossiping. I wasn’t worried about my mom over-hearing all the dirty details, because she never listens, but on this particular day she is. A fight at school between two girls is the hot topic, until Ashley brings up Christina. I do everything to avoid talking about it, I feel sick to my stomach. My mom overhears the story, gives me a look, and asks Ashley to go home. I knew then that not only did I shame Christina, I had shamed myself, my mom, and all women. My mom tells me about myself that night. She says that I was cruel and no better than the white girls that talked about my afro puff hairstyle, knock off Tommy Hilfiger bag, and full lips. I need to make it right with Christina.
    
   Twenty seven days pass. My period always seems to start off very unlucky, I have cramps. OMG! I wish I didn’t have to go to gym 4th period. And why do they call them that anyway? Periods. Each class being called a  period was a cruel reminder. I am very careful to pack all of my stuff in my gym bag. The teacher lets girls sit out if they were on their rag, because we're swimming. (Why do old people call it a rag? Gross, right?) I participate anyway, because my flow isn't heavy. The girls in my class say that when you’re in the swimming pool, the water stops your period from bleeding, but I think that’s a myth. I insert a fresh tampon, and tuck the string in my coochie, heaven forbid if it falls out while in a co-ed swimming class. In the shower, after gym, I don't see blood, so I leave the tampon in and continue getting dressed, since half of the school day is over.
    
@@ -158,7 +209,8 @@ text: |-
    
   After the movie, I raise my hand and ask,” Ms. Schwartz, can I go to the nurse’s office?”  
 
-  Artwork by: Singha Hon
+  **Writing: Carmel Brown**
+  **Artwork: Singha Hon**
 resources: []
 textOnLeft: false
 ---

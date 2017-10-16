@@ -132,6 +132,7 @@ export class Article extends Component {
           url={article.video.url}
           width="100%"
           height="auto"
+          controls
         />
       );
     }

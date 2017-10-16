@@ -3,14 +3,11 @@ type: about
 path: about
 slug: about
 title: About
-text: |-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer id gravida sapien. Maecenas porta tristique mauris ut vehicula. Nulla imperdiet neque non est vestibulum, sit amet pretium velit interdum. Duis in hendrerit nisi, et aliquet nunc. Sed ut nibh vel justo eleifend venenatis. Nulla sed urna quam. Quisque arcu enim, semper viverra risus nec, facilisis porta risus. Mauris est nisi, luctus eget sollicitudin vitae, fermentum non purus. Duis vitae neque lectus. In interdum nec neque eu blandit.
-
-  Duis in hendrerit nisi, et aliquet nunc. Sed ut nibh vel justo eleifend venenatis. Nulla sed urna quam. Quisque arcu enim, semper viverra risus nec, facilisis porta risus. Mauris est nisi, luctus eget sollicitudin vitae, fermentum non purus. Duis vitae neque lectus. In interdum nec neque eu blandit.
+text: 'Womanly Magazine is a publication and platform that circulates updated health information to women around the world through the lens of art. The project began as an idea in 2012 and has since developed into an operation with twenty plus women working in various roles to build the online platform. Womanly Magazine’s mission is to bridge the gaps between generations, cultures, economic statuses, borders, and any barrier that society tells us should set us apart.'
 contributors:
   - id: '93357'
     itemType: contributor
-    updatedAt: '2017-09-01T00:58:54.637Z'
+    updatedAt: '2017-09-20T14:07:35.592Z'
     seoMetaTags:
       - tagName: title
         content: Attia Taylor
@@ -29,7 +26,7 @@ contributors:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T00:58:54Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -61,7 +58,7 @@ contributors:
     name: Attia Taylor
   - id: '93358'
     itemType: contributor
-    updatedAt: '2017-09-01T01:01:07.606Z'
+    updatedAt: '2017-09-20T14:07:35.605Z'
     seoMetaTags:
       - tagName: title
         content: Ailyn Robles
@@ -80,7 +77,7 @@ contributors:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T01:01:07Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -112,7 +109,7 @@ contributors:
     name: Ailyn Robles
   - id: '85154'
     itemType: contributor
-    updatedAt: '2017-09-01T04:05:59.306Z'
+    updatedAt: '2017-09-20T14:07:35.568Z'
     seoMetaTags:
       - tagName: title
         content: Aisha Khan
@@ -131,7 +128,7 @@ contributors:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T04:05:59Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -150,29 +147,6 @@ contributors:
           content: 'https://www.datocms-assets.com/2593/1504227010-aisha-khan-2.jpg?'
     position: 4
     socialMediaLinks:
-      - id: '93456'
-        itemType: social_media_link
-        updatedAt: '2017-09-01T03:15:01.978Z'
-        seoMetaTags:
-          - tagName: meta
-            attributes:
-              name: 'twitter:card'
-              content: summary
-          - tagName: meta
-            attributes:
-              property: 'article:modified_time'
-              content: '2017-09-01T03:15:01Z'
-          - tagName: meta
-            attributes:
-              property: 'og:locale'
-              content: en_EN
-          - tagName: meta
-            attributes:
-              property: 'og:type'
-              content: article
-        position: 2
-        url: 'https://www.linkedin.com/in/aisha-khan-l10n'
-        service: LinkedIn
       - id: '93457'
         itemType: social_media_link
         updatedAt: '2017-09-01T03:16:01.584Z'
@@ -196,7 +170,30 @@ contributors:
         position: 3
         url: 'https://www.instagram.com/aish.aish.bb/'
         service: Instagram
-    bio: 'Aisha is a Pakistani-Latvian-American from Northern California, currently based in NYC. She has a passion for languages and a commitment to creating accessible medias and technologies. Voted Best Comedy Show Audience Member.'
+      - id: '93456'
+        itemType: social_media_link
+        updatedAt: '2017-09-01T03:15:01.978Z'
+        seoMetaTags:
+          - tagName: meta
+            attributes:
+              name: 'twitter:card'
+              content: summary
+          - tagName: meta
+            attributes:
+              property: 'article:modified_time'
+              content: '2017-09-01T03:15:01Z'
+          - tagName: meta
+            attributes:
+              property: 'og:locale'
+              content: en_EN
+          - tagName: meta
+            attributes:
+              property: 'og:type'
+              content: article
+        position: 2
+        url: 'https://www.linkedin.com/in/aisha-khan-l10n'
+        service: LinkedIn
+    bio: 'Aisha is a Pakistani-Latvian-American from Northern California, currently based in NYC. She has a passion for languages and a commitment to creating accessible medias and technologies. '
     title: Digital Product Director
     image:
       format: jpg
@@ -209,7 +206,7 @@ contributors:
     name: Aisha Khan
   - id: '82012'
     itemType: contributor
-    updatedAt: '2017-09-01T01:41:37.924Z'
+    updatedAt: '2017-09-20T14:07:35.556Z'
     seoMetaTags:
       - tagName: title
         content: Rae Farine
@@ -228,7 +225,7 @@ contributors:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T01:41:37Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -283,7 +280,7 @@ contributors:
     name: Rae Farine
   - id: '93380'
     itemType: contributor
-    updatedAt: '2017-09-01T01:42:21.345Z'
+    updatedAt: '2017-09-20T14:07:35.718Z'
     seoMetaTags:
       - tagName: title
         content: Singha Hon
@@ -302,7 +299,7 @@ contributors:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T01:42:21Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -334,7 +331,7 @@ contributors:
     name: Singha Hon
   - id: '93372'
     itemType: contributor
-    updatedAt: '2017-09-01T01:41:54.600Z'
+    updatedAt: '2017-09-20T14:07:35.666Z'
     seoMetaTags:
       - tagName: title
         content: Lauren Rogers
@@ -353,7 +350,7 @@ contributors:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T01:41:54Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -385,7 +382,7 @@ contributors:
     name: Lauren Rogers
   - id: '93393'
     itemType: contributor
-    updatedAt: '2017-09-01T02:02:14.316Z'
+    updatedAt: '2017-09-20T14:07:35.769Z'
     seoMetaTags:
       - tagName: title
         content: Kandace Fuller
@@ -404,7 +401,7 @@ contributors:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T02:02:14Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -436,7 +433,7 @@ contributors:
     name: Kandace Fuller
   - id: '93376'
     itemType: contributor
-    updatedAt: '2017-09-01T01:42:05.339Z'
+    updatedAt: '2017-09-20T14:07:35.686Z'
     seoMetaTags:
       - tagName: title
         content: Ariana Mygatt
@@ -455,7 +452,7 @@ contributors:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T01:42:05Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -474,7 +471,7 @@ contributors:
           content: 'https://www.datocms-assets.com/2593/1504229268-ariana-mygatt.jpg?'
     position: 10
     socialMediaLinks: []
-    bio: 'Ariana is a Baltimore-based, artist educator, photographer, and designer. She enjoys periodically redecorating her apartment, talking to teens, "getting out of town", and the years 2000-2009.'
+    bio: 'Ariana is a Baltimore-based artist educator, photographer, and designer. She enjoys periodically redecorating her apartment, talking to teens, "getting out of town", and the years 2000-2009.'
     title: Art Director
     image:
       format: jpg
@@ -487,7 +484,7 @@ contributors:
     name: Ariana Mygatt
   - id: '93378'
     itemType: contributor
-    updatedAt: '2017-09-01T02:22:21.663Z'
+    updatedAt: '2017-09-20T14:07:35.706Z'
     seoMetaTags:
       - tagName: title
         content: Khadija Ariana
@@ -506,7 +503,7 @@ contributors:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T02:22:21Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -538,7 +535,7 @@ contributors:
     name: Khadija Ariana
   - id: '93374'
     itemType: contributor
-    updatedAt: '2017-09-01T01:26:25.901Z'
+    updatedAt: '2017-09-20T14:07:35.676Z'
     seoMetaTags:
       - tagName: title
         content: Dani Monous
@@ -557,7 +554,7 @@ contributors:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T01:26:25Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -589,7 +586,7 @@ contributors:
     name: Dani Monous
   - id: '93361'
     itemType: contributor
-    updatedAt: '2017-09-01T01:10:32.411Z'
+    updatedAt: '2017-09-20T14:07:35.618Z'
     seoMetaTags:
       - tagName: title
         content: Anne Jaconette
@@ -608,7 +605,7 @@ contributors:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T01:10:32Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -640,7 +637,7 @@ contributors:
     name: Anne Jaconette
   - id: '93377'
     itemType: contributor
-    updatedAt: '2017-09-01T01:30:33.601Z'
+    updatedAt: '2017-09-20T14:07:35.697Z'
     seoMetaTags:
       - tagName: title
         content: Kati Driscoll
@@ -659,7 +656,7 @@ contributors:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T01:30:33Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -691,7 +688,7 @@ contributors:
     name: Kati Driscoll
   - id: '93368'
     itemType: contributor
-    updatedAt: '2017-09-01T01:16:54.819Z'
+    updatedAt: '2017-09-20T14:07:35.647Z'
     seoMetaTags:
       - tagName: title
         content: Diana McDonnell
@@ -710,7 +707,7 @@ contributors:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T01:16:54Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -742,7 +739,7 @@ contributors:
     name: Diana McDonnell
   - id: '93370'
     itemType: contributor
-    updatedAt: '2017-09-01T01:17:40.431Z'
+    updatedAt: '2017-09-20T14:07:35.657Z'
     seoMetaTags:
       - tagName: title
         content: Betty Fermin
@@ -761,7 +758,7 @@ contributors:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T01:17:40Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -793,7 +790,7 @@ contributors:
     name: Betty Fermin
   - id: '92781'
     itemType: contributor
-    updatedAt: '2017-09-01T01:02:57.010Z'
+    updatedAt: '2017-09-20T14:07:35.582Z'
     seoMetaTags:
       - tagName: title
         content: Emily Carris
@@ -812,7 +809,7 @@ contributors:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T01:02:57Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -844,7 +841,7 @@ contributors:
     name: Emily Carris
   - id: '93382'
     itemType: contributor
-    updatedAt: '2017-09-01T01:35:01.344Z'
+    updatedAt: '2017-09-20T14:07:35.737Z'
     seoMetaTags:
       - tagName: title
         content: Carmel Brown
@@ -863,7 +860,7 @@ contributors:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T01:35:01Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -895,7 +892,7 @@ contributors:
     name: Carmel Brown
   - id: '93364'
     itemType: contributor
-    updatedAt: '2017-09-01T01:15:08.440Z'
+    updatedAt: '2017-09-20T14:07:35.638Z'
     seoMetaTags:
       - tagName: title
         content: Edwina Horton
@@ -914,7 +911,7 @@ contributors:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T01:15:08Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -933,7 +930,7 @@ contributors:
           content: 'https://www.datocms-assets.com/2593/1504228480-edwina-horton.jpg?'
     position: 15
     socialMediaLinks: []
-    bio: 'Edwina is a Registered Nurse in Houston, Texas, specializing in Cardiovascular Disease and Diabetes Education. She is a passionate about preventive healthcare, especially in women.'
+    bio: 'Edwina is a Registered Nurse in Houston, Texas, specializing in Cardiovascular Disease and Diabetes Education. She is passionate about preventive healthcare, especially in women.'
     title: Health & Wellness Contributor
     image:
       format: jpg
@@ -946,7 +943,7 @@ contributors:
     name: Edwina Horton
   - id: '93383'
     itemType: contributor
-    updatedAt: '2017-09-01T01:36:41.333Z'
+    updatedAt: '2017-09-20T14:07:35.750Z'
     seoMetaTags:
       - tagName: title
         content: Maria Teresa Alzuru
@@ -965,7 +962,7 @@ contributors:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T01:36:41Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
