@@ -4,7 +4,7 @@ path: articles/vaginal-dryness
 author:
   - id: '93368'
     itemType: contributor
-    updatedAt: '2017-09-01T01:16:54.819Z'
+    updatedAt: '2017-09-20T14:07:35.647Z'
     seoMetaTags:
       - tagName: title
         content: Diana McDonnell
@@ -23,7 +23,7 @@ author:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T01:16:54Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -55,7 +55,7 @@ author:
     name: Diana McDonnell
   - id: '93378'
     itemType: contributor
-    updatedAt: '2017-09-01T02:22:21.663Z'
+    updatedAt: '2017-09-20T14:07:35.706Z'
     seoMetaTags:
       - tagName: title
         content: Khadija Ariana
@@ -74,7 +74,7 @@ author:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T02:22:21Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -143,7 +143,7 @@ thumbnail: 'https://www.datocms-assets.com/2593/1504232137-vaginal-dryness-diana
 images:
   - id: '93427'
     itemType: image
-    updatedAt: '2017-09-01T02:26:23.213Z'
+    updatedAt: '2017-09-20T14:07:34.673Z'
     seoMetaTags:
       - tagName: title
         content: Vaginal Dryness
@@ -162,7 +162,7 @@ images:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T02:26:23Z'
+          content: '2017-09-20T14:07:34Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -192,8 +192,37 @@ images:
     title: Vaginal Dryness
 video: null
 audio: null
-text: "**Symptoms: **\n* Pain with Sex\n* Discomfort\n* Discharge\n* Burning\n* Itching\n* Dryness\n* Bleeding\n\n**Causes: **\n* Less Estrogen Being Produced i.e. - \n\t* Menopause\n\t* Post-Partum \n\t* Surgical Removal of Ovaries\n\t* Medications\n\n**Treatments:**\n* Lubricants (Apply at the time of sex)\n* Moisturizers (Apply 3x weekly)\n* Vaginal Estrogen (Cream, Tablet, or Ring can be prescribed by a healthcare provider)\n* Sex (Continue to masturbate and have sex if it is comfortable)\n\n**Sources: **\nNorth American Menopause Society https://www.menopause.org/for-women\nObstetrics & Gynecology  http://journals.lww.com/greenjournal/pages/default.aspx\nJournal of Endocrinology and Metabolism http://www.jofem.org/index.php/jofem\n\n**Research by: Diana McDonnell**\n**Artwork by: Khadija Ariana**"
+text: |-
+  **Symptoms:**
+  * Pain with Sex
+  * Discomfort
+  * Discharge
+  * Burning
+  * Itching
+  * Dryness
+  * Bleeding
+
+  **Causes:**
+  * Less Estrogen Being Produced i.e. 
+  * Menopause
+  * Post-Partum
+  * Surgical Removal of Ovaries 
+  * Medications
+
+  **Treatments:**
+  * Lubricants (Apply at the time of sex)
+  * Moisturizers (Apply 3x weekly)
+  * Vaginal Estrogen (Cream, Tablet, or Ring can be prescribed by a healthcare provider)
+  * Sex (Continue to masturbate and have sex if it is comfortable)
+
+  **Sources:**
+  [North American Menopause Society](https://www.menopause.org/for-women)
+  [Obstetrics & Gynecology](http://journals.lww.com/greenjournal/pages/default.aspx)
+  [Journal of Endocrinology and Metabolism](http://www.jofem.org/index.php/jofem)
+
+  **Research: Diana McDonnell**
+  **Artwork: Khadija Ariana**
 resources: []
-textOnLeft: true
+textOnLeft: false
 ---
 

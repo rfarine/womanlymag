@@ -4,7 +4,7 @@ path: articles/hi-i-have-herpes
 author:
   - id: '93381'
     itemType: contributor
-    updatedAt: '2017-09-01T01:33:26.536Z'
+    updatedAt: '2017-09-20T14:07:35.729Z'
     seoMetaTags:
       - tagName: title
         content: Priscilla Hsu
@@ -23,7 +23,7 @@ author:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T01:33:26Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -55,7 +55,7 @@ author:
     name: Priscilla Hsu
   - id: '93358'
     itemType: contributor
-    updatedAt: '2017-09-01T01:01:07.606Z'
+    updatedAt: '2017-09-20T14:07:35.605Z'
     seoMetaTags:
       - tagName: title
         content: Ailyn Robles
@@ -74,7 +74,7 @@ author:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T01:01:07Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -174,7 +174,7 @@ thumbnail: 'https://www.datocms-assets.com/2593/1504273307-herpes.jpg?'
 images:
   - id: '93704'
     itemType: image
-    updatedAt: '2017-09-01T16:04:11.334Z'
+    updatedAt: '2017-09-20T14:07:34.872Z'
     seoMetaTags:
       - tagName: title
         content: Herpes
@@ -193,7 +193,7 @@ images:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T16:04:11Z'
+          content: '2017-09-20T14:07:34Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -323,6 +323,7 @@ text: |-
   To this day I still struggle with herpes stigma, and how to have the conversations around it. It may seem obvious that the partner I experienced an outbreak with is the person who transmitted it to me, but as we’ve learned about asymptomatic carriers, I could have had the virus before him. Herpes isn’t a game of tag, it isn’t directly traceable. 
 
   Since my initial outbreak five years ago, my herpes outbreaks have transitioned from genital to oral sores, with my last outbreak, a cold sore, occurring over two years ago. I usually mumble a warning to my partners to let them know that I am a virus carrier, but I truthfully don’t know how much to emphasize its severity, since it’s been years since my last outbreak. I don’t have all the answers to questions about herpes, but I’ve learned a whole lot of things that you should know too. For example:
+
   * 1 in 6 people aged 14-49 have herpes
   * Not everyone shows symptoms
   * Condoms do not fully protect you from getting herpes (since outbreaks can occur in areas that are not covered by condoms). 
@@ -331,14 +332,14 @@ text: |-
 
   Want to know what the CDC says about prevention? “The only way to avoid STDs is to not have vaginal, anal, or oral sex.”
 
-  **If you are a sexually active individual, you have a chance of getting herpes. Period. **
+  **If you are a sexually active individual, you have a chance of getting herpes. Period.**
 
   But we’re not going to stop having sex, so we need to start having real conversations about the things that afflict us, and our genitals. Don’t we want to have positive sexual experiences? 
 
   Stay informed. Be a courteous human being, and inform your partners of your relevant sexual history, especially if you still experience active outbreaks.
 
-  **Writing by: Priscilla Hsu**
-  **Photograph by: Ailyn Robles**
+  **Writing: Priscilla Hsu**
+  **Photograph: Ailyn Robles**
 resources: []
 textOnLeft: false
 ---

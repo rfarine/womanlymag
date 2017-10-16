@@ -1,10 +1,10 @@
 ---
 type: article
-path: articles/cuba-sex-ed
+path: articles/a-cuban-womans-perspective
 author:
   - id: '93358'
     itemType: contributor
-    updatedAt: '2017-09-01T01:01:07.606Z'
+    updatedAt: '2017-09-20T14:07:35.605Z'
     seoMetaTags:
       - tagName: title
         content: Ailyn Robles
@@ -23,7 +23,7 @@ author:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T01:01:07Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -55,7 +55,7 @@ author:
     name: Ailyn Robles
   - id: '93357'
     itemType: contributor
-    updatedAt: '2017-09-01T00:58:54.637Z'
+    updatedAt: '2017-09-20T14:07:35.592Z'
     seoMetaTags:
       - tagName: title
         content: Attia Taylor
@@ -74,7 +74,7 @@ author:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T00:58:54Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -106,7 +106,7 @@ author:
     name: Attia Taylor
   - id: '93711'
     itemType: contributor
-    updatedAt: '2017-09-01T17:08:44.938Z'
+    updatedAt: '2017-09-20T14:07:35.787Z'
     seoMetaTags:
       - tagName: title
         content: Mario Carrion
@@ -125,7 +125,7 @@ author:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T17:08:44Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -157,7 +157,7 @@ author:
     name: Mario Carrion
   - id: '93712'
     itemType: contributor
-    updatedAt: '2017-09-01T17:09:16.021Z'
+    updatedAt: '2017-09-20T14:07:35.798Z'
     seoMetaTags:
       - tagName: title
         content: Jorge Salinas
@@ -176,7 +176,7 @@ author:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T17:09:16Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -208,7 +208,7 @@ author:
     name: Jorge Salinas
   - id: '93713'
     itemType: contributor
-    updatedAt: '2017-09-01T17:09:44.914Z'
+    updatedAt: '2017-09-20T14:07:35.807Z'
     seoMetaTags:
       - tagName: title
         content: Redens Desrosiers
@@ -227,7 +227,7 @@ author:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T17:09:44Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -257,8 +257,8 @@ author:
       alt: null
       url: 'https://www.datocms-assets.com/2593/1504285776-womanly-social-assets_circle_blk_crop2.jpg?'
     name: Redens Desrosiers
-slug: cuba-sex-ed
-title: 'Cuba Sex Ed '
+slug: a-cuban-womans-perspective
+title: A Cuban Woman's Perspective
 featured: false
 tags:
   - id: '92783'
@@ -326,8 +326,8 @@ tags:
 thumbnail: 'https://www.datocms-assets.com/2593/1504286124-screen-shot-2017-09-01-at-1-13-52-pm.png?'
 images: []
 video:
-  url: 'https://www.youtube.com/watch?v=3QKSMrIFPpk&feature=youtu.be'
-  title: Vinales
+  url: 'https://www.youtube.com/watch?time_continue=29&v=3QKSMrIFPpk'
+  title: Una Mujer Cubana - Womanly Magazine
   width: 480
   height: 270
   provider: youtube
@@ -339,7 +339,7 @@ text: |-
 
   We asked her questions about sexuality and women in Cuba. Growing up without seeing myself represented has fueled my need to document and redefine the way women of color are portrayed on screen and in media. 
 
-  -Ailyn Robles
+  - Ailyn Robles
 resources: []
 textOnLeft: false
 ---

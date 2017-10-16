@@ -5,18 +5,18 @@ heroImage: 'https://www.datocms-assets.com/2593/1504033488-cover01_05_thegoat.jp
 issue:
   id: '79596'
   itemType: issue
-  updatedAt: '2017-09-01T17:56:09.659Z'
+  updatedAt: '2017-09-01T23:43:32.026Z'
   seoMetaTags:
     - tagName: title
-      content: Issue No. 1 Staging
+      content: issue one - sex ed
     - tagName: meta
       attributes:
         property: 'og:title'
-        content: Issue No. 1 Staging
+        content: issue one - sex ed
     - tagName: meta
       attributes:
         name: 'twitter:title'
-        content: Issue No. 1 Staging
+        content: issue one - sex ed
     - tagName: meta
       attributes:
         name: 'twitter:card'
@@ -24,7 +24,7 @@ issue:
     - tagName: meta
       attributes:
         property: 'article:modified_time'
-        content: '2017-09-01T17:56:09Z'
+        content: '2017-09-01T23:43:32Z'
     - tagName: meta
       attributes:
         property: 'og:locale'
@@ -37,7 +37,7 @@ issue:
   articles:
     - id: '92785'
       itemType: article
-      updatedAt: '2017-09-01T19:06:12.471Z'
+      updatedAt: '2017-09-20T14:07:34.213Z'
       seoMetaTags:
         - tagName: title
           content: Birth Announcement For Those Who Will And Will Never Be
@@ -56,7 +56,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-09-01T19:06:12Z'
+            content: '2017-09-20T14:07:34Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -77,9 +77,7 @@ issue:
       textOnLeft: false
       resources: []
       text: |-
-        **Artist Statement**
-
-        **Birth Announcement For Those Who Will And Will Never Be**, 2017 Naturally Dyed Silk, Antique Cotton batting, Cotton/Polyester Thread
+        Birth Announcement For Those Who Will And Will Never Be, 2017 Naturally Dyed Silk, Antique Cotton batting, Cotton/Polyester Thread
 
         **Dye Materials**
         Catnip
@@ -90,37 +88,24 @@ issue:
         Safflower
         Tansy
 
-        Birth Announcement…draws on the historic tradition of improvisational protection quilts created by those in bondage during the transatlantic slave trade. The piece
-        makes use of cotton batting from the mid 1800’s and incorporates botanical dyes
-        made from naturally occurring abortifacients or plants historically used to induce
-        miscarriage. My goal with this work is to explore the social, historical, and political
-        significance of the female body, procreation, choice and all the emotional complexities therein.
+        Birth Announcement…draws on the historic tradition of improvisational protection quilts created by those in bondage during the transatlantic slave trade. The piece makes use of cotton batting from the mid 1800’s and incorporates botanical dyes made from naturally occurring abortifacients or plants historically used to induce miscarriage. My goal with this work is to explore the social, historical, and political significance of the female body, procreation, choice and all the emotional complexities therein.
 
-        There are many contributing factors to this piece, being a 34 yr. old cis-gendered
-        Black female whose ovaries are on the wane, I’ve been told a lot about myself and my body. Particularly in the current political climate, all women’s needs continue to be usurped by a system designed to discount and destroy us. I was prompted to begin relearning some of my radical wombynist teachings post election. I’ve been reminded viscerally by bell hook, Alice Walker, Monica Sjöö, Barbara Mor, and Anne Hibner Koblitz, among others, that we gave birth to the world nobody has landed on this earth who hasn’t passed through a womb. The creator is named as a man but creation lays solely in the hands wombyn.
+        There are many contributing factors to this piece, being a 34 yr. old cis-gendered Black female whose ovaries are on the wane, I’ve been told a lot about myself and my body. Particularly in the current political climate, all women’s needs continue to be usurped by a system designed to discount and destroy us. I was prompted to begin relearning some of my radical wombynist teachings post election. I’ve been reminded viscerally by bell hook, Alice Walker, Monica Sjöö, Barbara Mor, and Anne Hibner Koblitz, among others, that we gave birth to the world nobody has landed on this earth who hasn’t passed through a womb. The creator is named as a man but creation lays solely in the hands wombyn.
 
-        As all of these writers point out that Wombyn has been silenced through out history,
-        her/their voice and story stifled in favor of purity and religious fidelity that governs us in free or bonded societies. Abortion and contraception have been in a wombyn’s
-        control for thousands of years. As Anne Hibner Koblitz discusses in *Sex and Herb
-        and Birth Control: Women Fertility Regulation Through the Ages* early agrarian
-        wombyn learned from their animal counterparts about which plants induced
-        miscarriage. Over time our ancestors developed a very keen sense of the wombyn’s body in relation to the natural world, using herbs, teas, and tinctures to control the flow of the world’s population. Patriarchy has responded by mentally, physically, and spiritually controlling The Wombyn. Our path out of bondage is learning all we can about our bodies, our stories, and our ancestral knowledge.
+        As all of these writers point out that Wombyn has been silenced through out history, her/their voice and story stifled in favor of purity and religious fidelity that governs us in free or bonded societies. Abortion and contraception have been in a wombyn’s control for thousands of years. As Anne Hibner Koblitz discusses in *Sex and Herb and Birth Control: Women Fertility Regulation Through the Ages* early agrarian wombyn learned from their animal counterparts about which plants induced miscarriage. Over time our ancestors developed a very keen sense of the wombyn’s body in relation to the natural world, using herbs, teas, and tinctures to control the flow of the world’s population. Patriarchy has responded by mentally, physically, and spiritually controlling The Wombyn. Our path out of bondage is learning all we can about our bodies, our stories, and our ancestral knowledge.
 
         **Readings:**
-        *sent by earth: a message from the grandmother spirit*, Alice Walker; Seven Stories
-        Press, 2001.
-        *Teaching Community,* bell hooks; Routledge, 2003.
-        *The Great Cosmic Mother,* Monica Sjöö and Barbara Mor: Harper One, 1991
-        *Sex and Herb and Birth Control: Women Fertility Regulation Through the Ages,*
-        Anne Hibner Koblitz; Kovalevskaia Fund 2014
-        *Eve’s Herbs: A History of Contraception and Abortion in the West*, John M. Riddle:
-        Harvard University Press, 1997
+        * sent by earth: a message from the grandmother spirit*, Alice Walker; Seven Stories Press, 2001.
+        * Teaching Community,* bell hooks; Routledge, 2003.
+        * The Great Cosmic Mother,* Monica Sjöö and Barbara Mor: Harper One, 1991
+        * Sex and Herb and Birth Control: Women Fertility Regulation Through the Ages,* Anne Hibner Koblitz; Kovalevskaia Fund 2014
+        * Eve’s Herbs: A History of Contraception and Abortion in the West*, John M. Riddle: Harvard University Press, 1997
       audio: null
       video: null
       images:
         - id: '93448'
           itemType: image
-          updatedAt: '2017-09-01T02:50:37.010Z'
+          updatedAt: '2017-09-20T14:07:34.789Z'
           seoMetaTags:
             - tagName: title
               content: 'Birth Color Guide '
@@ -139,7 +124,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T02:50:37Z'
+                content: '2017-09-20T14:07:34Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -169,7 +154,7 @@ issue:
           title: 'Birth Color Guide '
         - id: '93452'
           itemType: image
-          updatedAt: '2017-09-01T02:55:08.412Z'
+          updatedAt: '2017-09-20T14:07:34.832Z'
           seoMetaTags:
             - tagName: title
               content: Blue
@@ -188,7 +173,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T02:55:08Z'
+                content: '2017-09-20T14:07:34Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -218,7 +203,7 @@ issue:
           title: Blue
         - id: '93449'
           itemType: image
-          updatedAt: '2017-09-01T02:50:56.325Z'
+          updatedAt: '2017-09-20T14:07:34.800Z'
           seoMetaTags:
             - tagName: title
               content: Full Image
@@ -237,7 +222,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T02:50:56Z'
+                content: '2017-09-20T14:07:34Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -267,7 +252,7 @@ issue:
           title: Full Image
         - id: '93451'
           itemType: image
-          updatedAt: '2017-09-01T02:54:41.697Z'
+          updatedAt: '2017-09-20T14:07:34.821Z'
           seoMetaTags:
             - tagName: title
               content: Partial 2
@@ -286,7 +271,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T02:54:41Z'
+                content: '2017-09-20T14:07:34Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -316,7 +301,7 @@ issue:
           title: Partial 2
         - id: '93450'
           itemType: image
-          updatedAt: '2017-09-01T02:51:10.359Z'
+          updatedAt: '2017-09-20T14:07:34.810Z'
           seoMetaTags:
             - tagName: title
               content: Partial 1
@@ -335,7 +320,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T02:51:10Z'
+                content: '2017-09-20T14:07:34Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -407,7 +392,7 @@ issue:
       author:
         - id: '92781'
           itemType: contributor
-          updatedAt: '2017-09-01T01:02:57.010Z'
+          updatedAt: '2017-09-20T14:07:35.582Z'
           seoMetaTags:
             - tagName: title
               content: Emily Carris
@@ -426,7 +411,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T01:02:57Z'
+                content: '2017-09-20T14:07:35Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -460,18 +445,18 @@ issue:
       title: Birth Announcement For Those Who Will And Will Never Be
     - id: '93375'
       itemType: article
-      updatedAt: '2017-09-01T18:58:45.858Z'
+      updatedAt: '2017-09-20T14:07:34.250Z'
       seoMetaTags:
         - tagName: title
-          content: 'Cuba Sex Ed '
+          content: A Cuban Woman's Perspective
         - tagName: meta
           attributes:
             property: 'og:title'
-            content: 'Cuba Sex Ed '
+            content: A Cuban Woman's Perspective
         - tagName: meta
           attributes:
             name: 'twitter:title'
-            content: 'Cuba Sex Ed '
+            content: A Cuban Woman's Perspective
         - tagName: meta
           attributes:
             name: 'twitter:card'
@@ -479,7 +464,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-09-01T18:58:45Z'
+            content: '2017-09-20T14:07:34Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -504,11 +489,11 @@ issue:
 
         We asked her questions about sexuality and women in Cuba. Growing up without seeing myself represented has fueled my need to document and redefine the way women of color are portrayed on screen and in media. 
 
-        -Ailyn Robles
+        - Ailyn Robles
       audio: null
       video:
-        url: 'https://www.youtube.com/watch?v=3QKSMrIFPpk&feature=youtu.be'
-        title: Vinales
+        url: 'https://www.youtube.com/watch?time_continue=29&v=3QKSMrIFPpk'
+        title: Una Mujer Cubana - Womanly Magazine
         width: 480
         height: 270
         provider: youtube
@@ -590,7 +575,7 @@ issue:
       author:
         - id: '93358'
           itemType: contributor
-          updatedAt: '2017-09-01T01:01:07.606Z'
+          updatedAt: '2017-09-20T14:07:35.605Z'
           seoMetaTags:
             - tagName: title
               content: Ailyn Robles
@@ -609,7 +594,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T01:01:07Z'
+                content: '2017-09-20T14:07:35Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -641,7 +626,7 @@ issue:
           name: Ailyn Robles
         - id: '93357'
           itemType: contributor
-          updatedAt: '2017-09-01T00:58:54.637Z'
+          updatedAt: '2017-09-20T14:07:35.592Z'
           seoMetaTags:
             - tagName: title
               content: Attia Taylor
@@ -660,7 +645,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T00:58:54Z'
+                content: '2017-09-20T14:07:35Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -692,7 +677,7 @@ issue:
           name: Attia Taylor
         - id: '93711'
           itemType: contributor
-          updatedAt: '2017-09-01T17:08:44.938Z'
+          updatedAt: '2017-09-20T14:07:35.787Z'
           seoMetaTags:
             - tagName: title
               content: Mario Carrion
@@ -711,7 +696,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T17:08:44Z'
+                content: '2017-09-20T14:07:35Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -743,7 +728,7 @@ issue:
           name: Mario Carrion
         - id: '93712'
           itemType: contributor
-          updatedAt: '2017-09-01T17:09:16.021Z'
+          updatedAt: '2017-09-20T14:07:35.798Z'
           seoMetaTags:
             - tagName: title
               content: Jorge Salinas
@@ -762,7 +747,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T17:09:16Z'
+                content: '2017-09-20T14:07:35Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -794,7 +779,7 @@ issue:
           name: Jorge Salinas
         - id: '93713'
           itemType: contributor
-          updatedAt: '2017-09-01T17:09:44.914Z'
+          updatedAt: '2017-09-20T14:07:35.807Z'
           seoMetaTags:
             - tagName: title
               content: Redens Desrosiers
@@ -813,7 +798,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T17:09:44Z'
+                content: '2017-09-20T14:07:35Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -843,11 +828,11 @@ issue:
             alt: null
             url: 'https://www.datocms-assets.com/2593/1504285776-womanly-social-assets_circle_blk_crop2.jpg?'
           name: Redens Desrosiers
-      slug: cuba-sex-ed
-      title: 'Cuba Sex Ed '
+      slug: a-cuban-womans-perspective
+      title: A Cuban Woman's Perspective
     - id: '93440'
       itemType: article
-      updatedAt: '2017-09-01T19:05:52.711Z'
+      updatedAt: '2017-09-20T14:07:34.464Z'
       seoMetaTags:
         - tagName: title
           content: To Forget
@@ -866,7 +851,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-09-01T19:05:52Z'
+            content: '2017-09-20T14:07:34Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -890,7 +875,7 @@ issue:
         [http://tarynoreillyfiber.wixsite.com/tarynoreilly](http://tarynoreillyfiber.wixsite.com/tarynoreilly)
 
         **Biography**
-        Taryn O’Reilly is a fiber installation artist living and working in the Philadelphia area. She received her B.F.A in Sculpture from Arcadia University in 2015. In the Fall of 2018, she will be attending Goldsmiths College in London, England to receive her M.F.A. in Sculpture. Taryn’s work has been exhibited locally at galleries in the Philadelphia area including the Spillway Collective. Her work has also been published in a book entitled Bound, for the Women’s Caucus for Art in New York City.Currently, Taryn is an exhibitions coordinator for the Icebox Project Space located in Philadelphia. She also works as a studio assistant where her skills in metalworking, woodworking and casting have been exhibited. During her time working at these studio spaces, Taryn has had the opportunity to work on projects for the Democratic National Convention, Republican National Convention, 2016 Olympics and various events around the city of Philadelphia.
+        Taryn O’Reilly is a fiber installation artist living and working in the Philadelphia area. She received her B.F.A in Sculpture from Arcadia University in 2015. In the Fall of 2018, she will be attending Goldsmiths College in London, England to receive her M.F.A. in Sculpture. Taryn’s work has been exhibited locally at galleries in the Philadelphia area including the Spillway Collective. Her work has also been published in a book entitled Bound, for the Women’s Caucus for Art in New York City. Currently, Taryn is an exhibitions coordinator for the Icebox Project Space located in Philadelphia. She also works as a studio assistant where her skills in metalworking, woodworking and casting have been exhibited. During her time working at these studio spaces, Taryn has had the opportunity to work on projects for the Democratic National Convention, Republican National Convention, 2016 Olympics and various events around the city of Philadelphia.
 
         **Artist Statement**
         Through sewing and embroidery, a technique that has traditionally been a “feminine craft”, I attempt to marry my foundation in still lifes and figure studies with conceptual framework to question ideologies of femininity, sexuality, intimacy and identity.
@@ -899,7 +884,7 @@ issue:
       images:
         - id: '93431'
           itemType: image
-          updatedAt: '2017-09-01T02:32:54.990Z'
+          updatedAt: '2017-09-20T14:07:34.693Z'
           seoMetaTags:
             - tagName: title
               content: To Forget 2
@@ -918,7 +903,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T02:32:54Z'
+                content: '2017-09-20T14:07:34Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -948,7 +933,7 @@ issue:
           title: To Forget 2
         - id: '93432'
           itemType: image
-          updatedAt: '2017-09-01T02:33:08.628Z'
+          updatedAt: '2017-09-20T14:07:34.703Z'
           seoMetaTags:
             - tagName: title
               content: To Forget 3
@@ -967,7 +952,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T02:33:08Z'
+                content: '2017-09-20T14:07:34Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -997,7 +982,7 @@ issue:
           title: To Forget 3
         - id: '93433'
           itemType: image
-          updatedAt: '2017-09-01T02:33:24.636Z'
+          updatedAt: '2017-09-20T14:07:34.713Z'
           seoMetaTags:
             - tagName: title
               content: To Forget 4
@@ -1016,7 +1001,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T02:33:24Z'
+                content: '2017-09-20T14:07:34Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -1046,7 +1031,7 @@ issue:
           title: To Forget 4
         - id: '93435'
           itemType: image
-          updatedAt: '2017-09-01T02:34:32.295Z'
+          updatedAt: '2017-09-20T14:07:34.736Z'
           seoMetaTags:
             - tagName: title
               content: Get Stuffed 2
@@ -1065,7 +1050,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T02:34:32Z'
+                content: '2017-09-20T14:07:34Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -1095,7 +1080,7 @@ issue:
           title: Get Stuffed 2
         - id: '93436'
           itemType: image
-          updatedAt: '2017-09-01T02:35:35.625Z'
+          updatedAt: '2017-09-20T14:07:34.748Z'
           seoMetaTags:
             - tagName: title
               content: Nightstand
@@ -1114,7 +1099,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T02:35:35Z'
+                content: '2017-09-20T14:07:34Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -1144,7 +1129,7 @@ issue:
           title: Nightstand
         - id: '93437'
           itemType: image
-          updatedAt: '2017-09-01T02:35:53.128Z'
+          updatedAt: '2017-09-20T14:07:34.758Z'
           seoMetaTags:
             - tagName: title
               content: Nightstand 2
@@ -1163,7 +1148,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T02:35:53Z'
+                content: '2017-09-20T14:07:34Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -1193,7 +1178,7 @@ issue:
           title: Nightstand 2
         - id: '93439'
           itemType: image
-          updatedAt: '2017-09-01T02:36:33.959Z'
+          updatedAt: '2017-09-20T14:07:34.779Z'
           seoMetaTags:
             - tagName: title
               content: Nightstand 4
@@ -1212,7 +1197,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T02:36:33Z'
+                content: '2017-09-20T14:07:34Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -1315,7 +1300,7 @@ issue:
       author:
         - id: '93429'
           itemType: contributor
-          updatedAt: '2017-09-01T02:31:25.475Z'
+          updatedAt: '2017-09-20T14:07:35.778Z'
           seoMetaTags:
             - tagName: title
               content: Taryn O'Reilly
@@ -1334,7 +1319,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T02:31:25Z'
+                content: '2017-09-20T14:07:35Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -1368,7 +1353,7 @@ issue:
       title: To Forget
     - id: '93363'
       itemType: article
-      updatedAt: '2017-09-01T19:07:16.142Z'
+      updatedAt: '2017-09-20T14:07:34.230Z'
       seoMetaTags:
         - tagName: title
           content: Birth of Venus
@@ -1387,7 +1372,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-09-01T19:07:16Z'
+            content: '2017-09-20T14:07:34Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -1412,22 +1397,22 @@ issue:
 
         One of my close friends traveled abroad last summer, her partner asked me if I could stand in for her during her departure. I am unsure what compelled me to model in her absence, but I am thankful I did. While I had a lot of anxieties at first, I trusted my friend, who led me through the whole process. She showed me versions of herself crafted by the local artist and seemed like a goddess in those incarnations. I envisioned myself as a fat, black Venus emerging from the sea. With that thought, I booked my first gig a few days later. I knew that my relationship with my body wasn’t the best, and I wanted to change that.
 
-        Growing up in a predominantly black neighborhood, the subject of sex was taboo. Talking about sex or anything sexually related was strictly reserved for “grown folks”.  Any interest in sex or sexuality resulted in a hush, or a change of the subject. While we did have sex-ed in school, the only other place sex was talked about was in church. Sex was always something  evil, never in the context of love. There were so many questions that I had about sexuality, but I didn’t want to be shunned. So, when I was sexually assaulted the first time at the age of 19, I became a vessel for my inadequacies. My shame became a silencing mechanism. I carried this pain for many years, because I didn't have the language to articulate it. Sexual  coercion wasn’t talked about in my neighborhood, and it made me speechless.
+        Growing up in a predominantly black neighborhood, the subject of sex was taboo. Talking about sex or anything sexually related was strictly reserved for “grown folks.”  Any interest in sex or sexuality resulted in a hush, or a change of the subject. While we did have sex-ed in school, the only other place sex was talked about was in church. Sex was always something  evil, never in the context of love. There were so many questions that I had about sexuality, but I didn’t want to be shunned. So, when I was sexually assaulted the first time at the age of 19, I became a vessel for my inadequacies. My shame became a silencing mechanism. I carried this pain for many years, because I didn't have the language to articulate it. Sexual  coercion wasn’t talked about in my neighborhood, and it made me speechless.
 
         I never would've thought it would happen to me, but I knew it didn’t feel right. I didn’t know that other people went through sexual assault. I didn’t know the importance of having a dialogue about it. Years later, I would learn that it wasn’t my fault, was happy to learn that I was not alone, but I still didn't feel okay in my body. One thing that hurts sexual assault survivors is not knowing who is on their side, and who is not - not having an understanding community to support them. 
 
         In so many ways, I wonder how girls and boys are harmed by abstinence-only teaching, and the notion of shame. I wonder if shame is something our mothers taught us to protect us. Sex was never talked about in a healthy way, so it was a damned if you do or damned if you don’t type of deal. I didn’t understand the fixation on purity, and was thankful my mom didn’t make me go to the purity ball with purity rings. In many ways because of this thought, I felt like I was damaged. I felt like I was broken because I had been sexually assaulted.
 
-        After years of carrying the burden of hating my body, I think I have overcome it. Sexual assault makes you feel like being ransacked from your home. I am gaining confidence in my body again. Learning to love yourself is like learning to trust yourself after self-loathing. Owning it and making sure that you forgive yourself for the blame, and that your shame is not yours to carry. Some people choose to heal one way. I choose to heal by figure modeling. Figure modeling forces me to be there, completely. I can't hide parts of me that have been abused. When I get on my platform, I feel powerful. I feel vulnerable. I am in the company of people who care about me. I can envision myself as a goddess being admired, I give myself permission to be visible. After each session, I am reimagined by the vision of several artists. I’ve been depicted in oil paints, pastels, and even charcoal . All the parts of me I taught myself to hate become visible  again, beautiful again. If there’s one thing I want to tell survivors, it is that they can learn to love themselves at their own pace.
+        After years of carrying the burden of hating my body, I think I have overcome it. Sexual assault makes you feel like being ransacked from your home. I am gaining confidence in my body again. Learning to love yourself is like learning to trust yourself after self-loathing. Owning it and making sure that you forgive yourself for the blame, and that your shame is not yours to carry. Some people choose to heal one way. I choose to heal by figure modeling. Figure modeling forces me to be there, completely. I can't hide parts of me that have been abused. When I get on my platform, I feel powerful. I feel vulnerable. I am in the company of people who care about me. I can envision myself as a goddess being admired, I give myself permission to be visible. After each session, I am reimagined by the vision of several artists. I’ve been depicted in oil paints, pastels, and even charcoal. All the parts of me I taught myself to hate become visible  again, beautiful again. If there’s one thing I want to tell survivors, it is that they can learn to love themselves at their own pace.
 
-        **Writing by: Naledi Atari**
-        **Artwork by: Katie Driscoll**
+        **Writing: Naledi Atari**
+        **Artwork: Katie Driscoll**
       audio: null
       video: null
       images:
         - id: '93453'
           itemType: image
-          updatedAt: '2017-09-01T02:56:31.641Z'
+          updatedAt: '2017-09-20T14:07:34.842Z'
           seoMetaTags:
             - tagName: title
               content: BOV
@@ -1446,7 +1431,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T02:56:31Z'
+                content: '2017-09-20T14:07:34Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -1518,7 +1503,7 @@ issue:
       author:
         - id: '93362'
           itemType: contributor
-          updatedAt: '2017-09-01T01:11:51.884Z'
+          updatedAt: '2017-09-20T14:07:35.629Z'
           seoMetaTags:
             - tagName: title
               content: Naledi Atari
@@ -1537,7 +1522,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T01:11:51Z'
+                content: '2017-09-20T14:07:35Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -1569,7 +1554,7 @@ issue:
           name: Naledi Atari
         - id: '93377'
           itemType: contributor
-          updatedAt: '2017-09-01T01:30:33.601Z'
+          updatedAt: '2017-09-20T14:07:35.697Z'
           seoMetaTags:
             - tagName: title
               content: Kati Driscoll
@@ -1588,7 +1573,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T01:30:33Z'
+                content: '2017-09-20T14:07:35Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -1622,7 +1607,7 @@ issue:
       title: Birth of Venus
     - id: '93399'
       itemType: article
-      updatedAt: '2017-09-01T19:07:58.252Z'
+      updatedAt: '2017-09-20T14:07:34.388Z'
       seoMetaTags:
         - tagName: title
           content: Origin
@@ -1641,7 +1626,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-09-01T19:07:58Z'
+            content: '2017-09-20T14:07:34Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -1661,15 +1646,13 @@ issue:
       position: 13
       textOnLeft: false
       resources: []
-      text: |-
-        **Artist's Statement: **
-        There is something magical about the female form that is constantly inspiring to me. As an artist, I love to paint women because they are a source of power, myth, and creation. This piece was inspired in part by Courbet's L'Origine du monde (1866), a standard of art history, that portrays a naked woman from the waist down. While the subject is very exposed, her identity, personality, and emotions remain concealed. I wanted to create my own origin piece-- but rather than create an image for the pleasure of the viewer, focus instead someone enraptured in an examination of their own body. I hope that this piece inspires others to celebrate self discovery, to learn about our bodies, which carry the story of our world.
+      text: 'There is something magical about the female form that is constantly inspiring to me. As an artist, I love to paint women because they are a source of power, myth, and creation. This piece was inspired in part by Courbet''s L''Origine du monde (1866), a standard of art history, that portrays a naked woman from the waist down. While the subject is very exposed, her identity, personality, and emotions remain concealed. I wanted to create my own origin piece-- but rather than create an image for the pleasure of the viewer, focus instead on someone enraptured in an examination of their own body. I hope that this piece inspires others to celebrate self discovery, to learn about our bodies, which carry the story of our world.'
       audio: null
       video: null
       images:
         - id: '93398'
           itemType: image
-          updatedAt: '2017-09-01T02:08:11.519Z'
+          updatedAt: '2017-09-20T14:07:34.619Z'
           seoMetaTags:
             - tagName: title
               content: Origin
@@ -1688,7 +1671,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T02:08:11Z'
+                content: '2017-09-20T14:07:34Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -1760,7 +1743,7 @@ issue:
       author:
         - id: '93380'
           itemType: contributor
-          updatedAt: '2017-09-01T01:42:21.345Z'
+          updatedAt: '2017-09-20T14:07:35.718Z'
           seoMetaTags:
             - tagName: title
               content: Singha Hon
@@ -1779,7 +1762,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T01:42:21Z'
+                content: '2017-09-20T14:07:35Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -1811,9 +1794,550 @@ issue:
           name: Singha Hon
       slug: origin
       title: Origin
+    - id: '93391'
+      itemType: article
+      updatedAt: '2017-09-20T14:07:34.327Z'
+      seoMetaTags:
+        - tagName: title
+          content: Sexology
+        - tagName: meta
+          attributes:
+            property: 'og:title'
+            content: Sexology
+        - tagName: meta
+          attributes:
+            name: 'twitter:title'
+            content: Sexology
+        - tagName: meta
+          attributes:
+            name: 'twitter:card'
+            content: summary
+        - tagName: meta
+          attributes:
+            property: 'article:modified_time'
+            content: '2017-09-20T14:07:34Z'
+        - tagName: meta
+          attributes:
+            property: 'og:locale'
+            content: en_EN
+        - tagName: meta
+          attributes:
+            property: 'og:type'
+            content: article
+        - tagName: meta
+          attributes:
+            property: 'og:image'
+            content: 'https://www.datocms-assets.com/2593/1504230323-janell_thumbnail.JPG?'
+        - tagName: meta
+          attributes:
+            name: 'twitter:image'
+            content: 'https://www.datocms-assets.com/2593/1504230323-janell_thumbnail.JPG?'
+      position: 17
+      textOnLeft: false
+      resources: []
+      text: |-
+        **Meet Janell Yik:** Staten Island native, Chinese, Puerto Rican, and Panamanian student of Women's Studies and Gender and Sexuality at the College of Staten Island. She is the Sexology Workshop Coordinator at Please NYC, and is fun, fierce, and unapologetic. 
+
+        **Womanly Mag:** What two words that you associate with your sexology journey?
+
+        **Janell Yik:** Liberation and frustration. I've gotten to enjoy so much more of myself, and my career helps me teach other people how to reach that, too. It is a very gratifying, liberating experience. However, sexuality is still very taboo. It is both stifled and devalued, and constantly under attack by both political and religious conservatives, and even those who have never experienced sexual satisfaction. Experiencing people's resistance to something which I have found so freeing has been frustrating. There have been times I've doubted my career choice, but then I remember orgasms [laughter], and the responsibility I feel to help people have better experiences with sex education. I help them learn not only how to adequately protect themselves, but how to see outside of the societal boundaries surrounding relationships and sexuality. 
+
+        **WM:** How many women of color do you see in your field?
+
+        **JY:** Not many, to be honest. Intersectionality is something that is relatively new. We've been excluded in so many fields of study, and I constantly see the proof in my textbooks - I am almost never represented. Thankfully, I've become more exposed to women of color in my field. One of them being Bianca [Laureano], who wrote [an article](http://https://rewire.news/article/2012/04/13/an-open-letter-to-white-people-in-sexualitysexology-field/) about the need for more WoC in the sex field.
+
+        **WM:** What advice do you give women who want to get into sex studies?
+
+        **JY:** I encourage *everyone* to get into the field. It is so important for us to change the way we educate ourselves, and our children, about sex. Start with Google, so much information is at the tip of your fingers. You can get certifications to be a sex educator, or you can start by getting your Bachelor's degree in sexuality, or gender studies. People don't realize how much education goes into sexology. We are responsible for studying anthropology, sociology, psychology, anatomy, and so many more fields of study. 
+
+        **WM:** How is feminism a part of sexology?
+
+        **JY:** I think feminism is different for everybody. The biggest lesson I've learned is I don't need someone else's approval to feel sexy, that I don't have to feel guilty for enjoying my sexiness. Women already have to deal with so many insignificant dilemmas on a daily basis: "Should I wear this? What will people think if I do? Will people's reaction to me on the street get worse?" The reality is that other people's opinions shouldn't affect us, and that the danger we face on the street is going to exist regardless of what we wear. So for me, in the context of sexuality, to be comfortable with your sexual autonomy, and that of others is to be feminist. 
+
+        **WM:** The maternal figures in our lives tend to hold a huge influence on how we see sexuality. How did your mother react to your career choice?
+
+        **JY:** I grew up with a Chinese and Puerto Rican mother, who was often conflicted with her own upbringing: battling between her more conservative side and her Caribbean openness. Growing up she was the "cool mom" to my friends, but the strict one to me, and this continued throughout my life. At first she did not understand my decision to pursue a degree in Gender and Sexuality. But as soon as I said the word "doctorate," her perspective changed. It went from my daughter wants to be a sexologist, to my daughter is going to be a doctor. I corrected her and said "sex doctor," but we all end up holding on to what makes sense to us. Growing up, I didn't have a lot of women around to speak with about sex, which is why I find it so necessary to speak about it now.
+
+        **WM:** Okay, then let's talk about the fun stuff! What advice would you give someone trying to incorporate sex toys into their relationship(s)?
+
+        **JY:** Obviously, communication is key. Play around with the idea before you actually start playing with the toy. If they are hesitant, ask why. Talk about it thoroughly. I encourage going shopping for the toys together. Intimidation has a way of getting in the way of a lot of beautiful experiences. If they feel intimidated by the toy, give your partner lots of reassurance. Just be open, honest, and patient. Once you start playing again, with curiosity and an open mind, you'll be surprised what your partner may say yes to. Safe spaces aren't always guaranteed in intimacy, even with consent, so first and foremost, make sure you both feel comfortable and safe. 
+
+        **WM:** What tricks do you recommend to engage a cis male in more sex play? 
+
+        **JY:** It's hard to get past ingrained ideas of what should be pleasurable to men. I always recommend starting with ball play. Then to keep going lower, inch by inch. (This can be scary to hetero men who guard their balls, and anything below that with their lives.) Consent is important on all ends, so if you want to start exploring new sensations, it's important that you do it at a pace that is comfortable for both of you. After some ball play, preferably with your mouth, keep licking further down. When you get to the area between the balls and the anus, the perineum, stay there for a while and alternate where you lick. 
+
+        The next thing I would learn is prostate massages. Start with external massages on the perineum with two fingers, mix it up a little. Then slowly make your way to the anus. Remember to use a lot of lube, and to be gentle. I recommend you watch videos that demonstrate these massages, as well as describe what the prostate should feel like to you. Prostate stimulation allows men to experience multiple types of orgasms, so it's a shame that some men can be so adamant about staying away from anal play. 
+
+        **WM:** Any recommended toys? 
+
+        **JY:** Toys for cis men include prostate massagers (internal), [fleshlights](http://www.babeland.com/Fleshlight-Vulva/d/1567) (masturbators), [cock rings](http://adult.babeland.com/search?asug=&w=cock%20rings), [tenga eggs](http://www.babeland.com/tenga-eggs-masturbation-sleeve/d/1593) - massagers (cheap, easy, & fun), and [anal beads](http://www.babeland.com/Babeland-Anal-Beads/d/4566) (for all genders). For trans men there is actually a new toy called [buck off](http://www.huffingtonpost.com/entry/buck-off-trans-sex-toy_us_57eea14be4b024a52d2ebb88), which serves almost as a suction cup for the vagina. This way, when masturbating trans men don't have to physically come into contact with genitals they don't feel connected to, and instead can stroke the way they would with a penis. Remember: not all men have penises.
+
+        **Toys for cis women that are included in the short promo video are:**
+
+        Steel butt plug
+
+        Nipple and clit clamps
+
+        The [lily](https://www.goodvibes.com/s/sex-toys/p/12AJ62/lelo/lily-vibrator) (the lavender one) external massager
+
+        The [moka](http://adult.babeland.com/babeland/Moka) (the blue one) g-spot vibrator with a head designed specifically to reach it.
+
+        The [tiani](https://www.lelo.com/tiani-3) (the pink one for couples)- remote controlled couple's massager, vibrates internally and externally at the same time. fun in public & with light sub/dom play!
+
+        The [ina wave](https://www.lelo.com/blog/lelo-ina-wave-mona-wave-head-head/) (the purple one) internal and external vibrator with "come hither" movements mimicking a lovers fingers
+
+        The glass ones are staple favorites because they are hard, durable, and so easy to clean. (ive included a link to toys for trans women but found out quickly that there aren't many options). 
+
+        Ina wave, waves hello. :)
+
+        **Do's & Dont's with Toys**
+        Silicone: Don't use silicone lubes with silicone toys. use water based or hybrid which is water and silicone based.
+
+        Online: If you're going to order toys online i would recommend buying glass or steel because you can clean them easily and well. also, when you order silicone or rubber online it may be difficult to see whether or not the toy is actually made of that material which makes it harder to clean.
+
+        Don't use vibrators as anal toys. keep vibrators as vibrators and anal toys for anal play. if you want to use your dildo as an anal toy, that may work because you can boil it if it is silicone. its better to keep things separate though. 
+
+        Put a condom over your toys when you use them.
+
+        I only buy glass, steel, or silicone.
+
+        Glass will help you squirt faster and don't sleep on that curve. 
+        (rubber can breakdown and is porous which can trap bacteria).
+
+        Boil your toys to clean them unless they are rubber or battery operated. that is the best way to clean them. washing is simply washing the surface of the toys. 
+
+        **SEX SHOPS!**
+        [PLEASURECHEST](http://thepleasurechest.com/)
+        [BABELAND](http://www.babeland.com/about/whyshop)
+        [PLEASE NYC](http://www.pleasenewyork.com/)
+         
+        Have fun, be safe, explore and have conversations with each other. No, this does not mean you are obligated to teach anyone anything, people have google and you have discernment BUT intergenerational conversations are necessary, especially in these areas where so many of our mothers didn't get a chance to explore. You will be surprised with how much you learn from one another. 
+      audio: null
+      video: null
+      images:
+        - id: '93385'
+          itemType: image
+          updatedAt: '2017-09-20T14:07:34.533Z'
+          seoMetaTags:
+            - tagName: title
+              content: Butt Plug
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Butt Plug
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Butt Plug
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-20T14:07:34Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504230346-but-plug.JPG?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504230346-but-plug.JPG?'
+          position: 6
+          image:
+            format: jpg
+            size: 98152
+            width: 720
+            height: 480
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504230346-but-plug.JPG?'
+          caption: ''
+          title: Butt Plug
+        - id: '93390'
+          itemType: image
+          updatedAt: '2017-09-20T14:07:34.582Z'
+          seoMetaTags:
+            - tagName: title
+              content: Vibrator II
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Vibrator II
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Vibrator II
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-20T14:07:34Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504230455-janell3.jpeg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504230455-janell3.jpeg?'
+          position: 11
+          image:
+            format: jpeg
+            size: 122987
+            width: 480
+            height: 720
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504230455-janell3.jpeg?'
+          caption: ''
+          title: Vibrator II
+        - id: '93387'
+          itemType: image
+          updatedAt: '2017-09-20T14:07:34.552Z'
+          seoMetaTags:
+            - tagName: title
+              content: Dildo
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Dildo
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Dildo
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-20T14:07:34Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504230394-img_9010.JPG?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504230394-img_9010.JPG?'
+          position: 8
+          image:
+            format: jpg
+            size: 87972
+            width: 720
+            height: 480
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504230394-img_9010.JPG?'
+          caption: null
+          title: Dildo
+        - id: '93388'
+          itemType: image
+          updatedAt: '2017-09-20T14:07:34.561Z'
+          seoMetaTags:
+            - tagName: title
+              content: Janell
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Janell
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Janell
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-20T14:07:34Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504230415-janell.jpeg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504230415-janell.jpeg?'
+          position: 9
+          image:
+            format: jpeg
+            size: 140208
+            width: 720
+            height: 480
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504230415-janell.jpeg?'
+          caption: null
+          title: Janell
+        - id: '93389'
+          itemType: image
+          updatedAt: '2017-09-20T14:07:34.570Z'
+          seoMetaTags:
+            - tagName: title
+              content: Vibrator
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Vibrator
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Vibrator
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-20T14:07:34Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504230435-janell2.jpeg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504230435-janell2.jpeg?'
+          position: 10
+          image:
+            format: jpeg
+            size: 98694
+            width: 480
+            height: 720
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504230435-janell2.jpeg?'
+          caption: null
+          title: Vibrator
+        - id: '93716'
+          itemType: image
+          updatedAt: '2017-09-20T14:07:34.892Z'
+          seoMetaTags:
+            - tagName: title
+              content: Thumbnail
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Thumbnail
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Thumbnail
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-20T14:07:34Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504287302-janell_thumbnail.JPG?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504287302-janell_thumbnail.JPG?'
+          position: 41
+          image:
+            format: jpg
+            size: 209244
+            width: 720
+            height: 480
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504287302-janell_thumbnail.JPG?'
+          caption: ''
+          title: Thumbnail
+      thumbnail:
+        format: jpg
+        size: 209244
+        width: 720
+        height: 480
+        title: null
+        alt: null
+        url: 'https://www.datocms-assets.com/2593/1504230323-janell_thumbnail.JPG?'
+      tags:
+        - id: '92784'
+          itemType: tag
+          updatedAt: '2017-08-29T19:24:28.662Z'
+          seoMetaTags:
+            - tagName: title
+              content: art
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: art
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: art
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-08-29T19:24:28Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+          title: art
+        - id: '79593'
+          itemType: tag
+          updatedAt: '2017-07-08T16:26:39.462Z'
+          seoMetaTags:
+            - tagName: title
+              content: photography
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: photography
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: photography
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-07-08T16:26:39Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+          title: photography
+      featured: false
+      author:
+        - id: '93358'
+          itemType: contributor
+          updatedAt: '2017-09-20T14:07:35.605Z'
+          seoMetaTags:
+            - tagName: title
+              content: Ailyn Robles
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Ailyn Robles
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Ailyn Robles
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-20T14:07:35Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504227585-ailyn-robles.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504227585-ailyn-robles.jpg?'
+          position: 2
+          socialMediaLinks: []
+          bio: 'Ailyn is a Colombian writer and photographer based out of Brooklyn, who fuses her passion for the empowerment of women with everything she does. She works with young people during the day, and writes short stories at night.'
+          title: Co-Founder
+          image:
+            format: jpg
+            size: 9913731
+            width: 5398
+            height: 3599
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504227585-ailyn-robles.jpg?'
+          name: Ailyn Robles
+      slug: sexology
+      title: Sexology
     - id: '93384'
       itemType: article
-      updatedAt: '2017-09-01T19:10:51.042Z'
+      updatedAt: '2017-09-20T14:07:34.285Z'
       seoMetaTags:
         - tagName: title
           content: 'Hi, I Have Herpes'
@@ -1832,7 +2356,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-09-01T19:10:51Z'
+            content: '2017-09-20T14:07:34Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -1952,6 +2476,7 @@ issue:
         To this day I still struggle with herpes stigma, and how to have the conversations around it. It may seem obvious that the partner I experienced an outbreak with is the person who transmitted it to me, but as we’ve learned about asymptomatic carriers, I could have had the virus before him. Herpes isn’t a game of tag, it isn’t directly traceable. 
 
         Since my initial outbreak five years ago, my herpes outbreaks have transitioned from genital to oral sores, with my last outbreak, a cold sore, occurring over two years ago. I usually mumble a warning to my partners to let them know that I am a virus carrier, but I truthfully don’t know how much to emphasize its severity, since it’s been years since my last outbreak. I don’t have all the answers to questions about herpes, but I’ve learned a whole lot of things that you should know too. For example:
+
         * 1 in 6 people aged 14-49 have herpes
         * Not everyone shows symptoms
         * Condoms do not fully protect you from getting herpes (since outbreaks can occur in areas that are not covered by condoms). 
@@ -1960,20 +2485,20 @@ issue:
 
         Want to know what the CDC says about prevention? “The only way to avoid STDs is to not have vaginal, anal, or oral sex.”
 
-        **If you are a sexually active individual, you have a chance of getting herpes. Period. **
+        **If you are a sexually active individual, you have a chance of getting herpes. Period.**
 
         But we’re not going to stop having sex, so we need to start having real conversations about the things that afflict us, and our genitals. Don’t we want to have positive sexual experiences? 
 
         Stay informed. Be a courteous human being, and inform your partners of your relevant sexual history, especially if you still experience active outbreaks.
 
-        **Writing by: Priscilla Hsu**
-        **Photograph by: Ailyn Robles**
+        **Writing: Priscilla Hsu**
+        **Photograph: Ailyn Robles**
       audio: null
       video: null
       images:
         - id: '93704'
           itemType: image
-          updatedAt: '2017-09-01T16:04:11.334Z'
+          updatedAt: '2017-09-20T14:07:34.872Z'
           seoMetaTags:
             - tagName: title
               content: Herpes
@@ -1992,7 +2517,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T16:04:11Z'
+                content: '2017-09-20T14:07:34Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -2095,7 +2620,7 @@ issue:
       author:
         - id: '93381'
           itemType: contributor
-          updatedAt: '2017-09-01T01:33:26.536Z'
+          updatedAt: '2017-09-20T14:07:35.729Z'
           seoMetaTags:
             - tagName: title
               content: Priscilla Hsu
@@ -2114,7 +2639,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T01:33:26Z'
+                content: '2017-09-20T14:07:35Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -2146,7 +2671,7 @@ issue:
           name: Priscilla Hsu
         - id: '93358'
           itemType: contributor
-          updatedAt: '2017-09-01T01:01:07.606Z'
+          updatedAt: '2017-09-20T14:07:35.605Z'
           seoMetaTags:
             - tagName: title
               content: Ailyn Robles
@@ -2165,7 +2690,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T01:01:07Z'
+                content: '2017-09-20T14:07:35Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -2197,9 +2722,213 @@ issue:
           name: Ailyn Robles
       slug: hi-i-have-herpes
       title: 'Hi, I Have Herpes'
+    - id: '93458'
+      itemType: article
+      updatedAt: '2017-09-20T14:07:34.477Z'
+      seoMetaTags:
+        - tagName: title
+          content: Sex Education in Time
+        - tagName: meta
+          attributes:
+            property: 'og:title'
+            content: Sex Education in Time
+        - tagName: meta
+          attributes:
+            name: 'twitter:title'
+            content: Sex Education in Time
+        - tagName: meta
+          attributes:
+            name: 'twitter:card'
+            content: summary
+        - tagName: meta
+          attributes:
+            property: 'article:modified_time'
+            content: '2017-09-20T14:07:34Z'
+        - tagName: meta
+          attributes:
+            property: 'og:locale'
+            content: en_EN
+        - tagName: meta
+          attributes:
+            property: 'og:type'
+            content: article
+        - tagName: meta
+          attributes:
+            property: 'og:image'
+            content: 'https://www.datocms-assets.com/2593/1504289656-womanly-social-assets_circle_blk_crop2.jpg?'
+        - tagName: meta
+          attributes:
+            name: 'twitter:image'
+            content: 'https://www.datocms-assets.com/2593/1504289656-womanly-social-assets_circle_blk_crop2.jpg?'
+      position: 16
+      textOnLeft: false
+      resources: []
+      text: |-
+        A sound and film collage exploring the nostalgia, lack of diversity, and inaccuracy of 21st century sex education in America. 
+
+        **Film editing: Attia Taylor
+        Music: Patrick Ellis**
+
+        Film selection courtesy of Internet Archive
+      audio: null
+      video:
+        url: 'https://www.youtube.com/watch?v=UU0B1XHaDXI'
+        title: Sex Education in Time - Womanly Magazine
+        width: 480
+        height: 270
+        provider: youtube
+        providerUid: UU0B1XHaDXI
+        thumbnailUrl: 'https://i.ytimg.com/vi/UU0B1XHaDXI/hqdefault.jpg'
+      images: []
+      thumbnail:
+        format: jpg
+        size: 31093
+        width: 1009
+        height: 1009
+        title: null
+        alt: null
+        url: 'https://www.datocms-assets.com/2593/1504289656-womanly-social-assets_circle_blk_crop2.jpg?'
+      tags:
+        - id: '79592'
+          itemType: tag
+          updatedAt: '2017-07-08T16:26:34.138Z'
+          seoMetaTags:
+            - tagName: title
+              content: film
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: film
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: film
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-07-08T16:26:34Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+          title: film
+      featured: false
+      author:
+        - id: '93357'
+          itemType: contributor
+          updatedAt: '2017-09-20T14:07:35.592Z'
+          seoMetaTags:
+            - tagName: title
+              content: Attia Taylor
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Attia Taylor
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Attia Taylor
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-20T14:07:35Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504227460-attia-taylor.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504227460-attia-taylor.jpg?'
+          position: 1
+          socialMediaLinks: []
+          bio: 'Attia Taylor is a musician and writer, living and working in Brooklyn, NY. She is dedicated to sharing the stories and highlighting the experiences of marginalized women around the world. Her work is dedicated to amplifying the voices of those who are most silenced and overlooked in society. '
+          title: Founder
+          image:
+            format: jpg
+            size: 7166436
+            width: 5032
+            height: 3355
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504227460-attia-taylor.jpg?'
+          name: Attia Taylor
+        - id: '93725'
+          itemType: contributor
+          updatedAt: '2017-09-20T14:07:35.817Z'
+          seoMetaTags:
+            - tagName: title
+              content: Patrick Ellis
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Patrick Ellis
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Patrick Ellis
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-20T14:07:35Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504293107-womanly-social-assets_circle_blk_crop2.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504293107-womanly-social-assets_circle_blk_crop2.jpg?'
+          position: 29
+          socialMediaLinks: []
+          bio: ~~
+          title: Contributor
+          image:
+            format: jpg
+            size: 31093
+            width: 1009
+            height: 1009
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504293107-womanly-social-assets_circle_blk_crop2.jpg?'
+          name: Patrick Ellis
+      slug: sex-education-in-time
+      title: Sex Education in Time
     - id: '93425'
       itemType: article
-      updatedAt: '2017-09-01T17:49:56.446Z'
+      updatedAt: '2017-09-20T14:07:34.427Z'
       seoMetaTags:
         - tagName: title
           content: Tampon Diaries
@@ -2218,7 +2947,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-09-01T17:49:56Z'
+            content: '2017-09-20T14:07:34Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -2245,9 +2974,9 @@ issue:
          
         It happens in my history class, when Christina starts her period and bleeds all over the seat. It happens right after lunch, when I come into class and sit in the seat to the left of her, as I always do. She passes me a note, asking if I have a maxipad. I only have tampons and I tell her to ask the teacher for a pass to see the nurse. Poor girl was red in the face. I'm confused and wonder to myself, ‘how could she not know she was gonna start?’ My boobs always hurt right before mine starts. Isn’t every woman's period the same? Every 27 days right? After she leaves with her sweatshirt tied around her waist, I pass a note to my best friend telling her all about Christina’s mishap, and by the time the bell rings, ending history class, I have told everyone. On the way out the door, I glance at the seat to see the blood. Word gets out about Christina’s situation, and she has to continue the rest of the day like that. Some of the girls called her Bloody Mary, which isn't very original. The next few days Christina doesn't come back to school. Rumors circle around that she tried to commit suicide, but I don’t really know her like that to know whether or not it’s true. 
          
-        In the days that follow, I have this lingering feeling of sadness that I can’t shake. I did her dirty, and I feel awful. I a,m convinced that if I never said anything, no one would’ve noticed her bloodied khaki straight leg jeans. When she returns to school, I can't look her in the face, yet she is still nice to me. I know it’s only because she has no clue that I was the one who told, and for whatever reason, she now considers me to be her friend. She keeps asking me questions about history homework, and I distance myself from her by rolling my eyes -  ignoring her. When will this day end? 
+        In the days that follow, I have this lingering feeling of sadness that I can’t shake. I did her dirty, and I feel awful. I am convinced that if I never said anything, no one would’ve noticed her bloodied khaki straight leg jeans. When she returns to school, I can't look her in the face, yet she is still nice to me. I know it’s only because she has no clue that I was the one who told, and for whatever reason, she now considers me to be her friend. She keeps asking me questions about history homework, and I distance myself from her by rolling my eyes -  ignoring her. When will this day end? 
          
-        I get home just in time to watch Total Request Live on MTV. My best friend comes over and we talk about all of the gossip from the day. This boy likes her, but she likes another boy, blah blah. My mom arrives home from work and starts dinner. Ashley and I continue gossiping. I wasn’t worried about my mom over hearing all the dirty details, because she never listens, but on this particular day she is. A fight at school between two girls is the hot topic, until Ashley brings up Christina. I do everything to avoid talking about it, I feel sick to my stomach. My mom overhears the story, gives me a look, and asks Ashley to go home. I knew then that not only did I shame Christina, I had shamed myself, my mom, and all women. My mom tells me about myself that night. She says that I was cruel and no better than the white girls that talked about my afro puff hairstyle, knock off Tommy Hilfiger bag, and full lips. I need to make it right with Christina.
+        I get home just in time to watch Total Request Live on MTV. My best friend comes over and we talk about all of the gossip from the day. This boy likes her, but she likes another boy, blah blah. My mom arrives home from work and starts dinner. Ashley and I continue gossiping. I wasn’t worried about my mom over-hearing all the dirty details, because she never listens, but on this particular day she is. A fight at school between two girls is the hot topic, until Ashley brings up Christina. I do everything to avoid talking about it, I feel sick to my stomach. My mom overhears the story, gives me a look, and asks Ashley to go home. I knew then that not only did I shame Christina, I had shamed myself, my mom, and all women. My mom tells me about myself that night. She says that I was cruel and no better than the white girls that talked about my afro puff hairstyle, knock off Tommy Hilfiger bag, and full lips. I need to make it right with Christina.
          
         Twenty seven days pass. My period always seems to start off very unlucky, I have cramps. OMG! I wish I didn’t have to go to gym 4th period. And why do they call them that anyway? Periods. Each class being called a  period was a cruel reminder. I am very careful to pack all of my stuff in my gym bag. The teacher lets girls sit out if they were on their rag, because we're swimming. (Why do old people call it a rag? Gross, right?) I participate anyway, because my flow isn't heavy. The girls in my class say that when you’re in the swimming pool, the water stops your period from bleeding, but I think that’s a myth. I insert a fresh tampon, and tuck the string in my coochie, heaven forbid if it falls out while in a co-ed swimming class. In the shower, after gym, I don't see blood, so I leave the tampon in and continue getting dressed, since half of the school day is over.
          
@@ -2255,13 +2984,14 @@ issue:
          
         After the movie, I raise my hand and ask,” Ms. Schwartz, can I go to the nurse’s office?”  
 
-        Artwork by: Singha Hon
+        **Writing: Carmel Brown**
+        **Artwork: Singha Hon**
       audio: null
       video: null
       images:
         - id: '93424'
           itemType: image
-          updatedAt: '2017-09-01T02:22:47.274Z'
+          updatedAt: '2017-09-20T14:07:34.653Z'
           seoMetaTags:
             - tagName: title
               content: 'Tampon Diaries '
@@ -2280,7 +3010,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T02:22:47Z'
+                content: '2017-09-20T14:07:34Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -2352,7 +3082,7 @@ issue:
       author:
         - id: '93382'
           itemType: contributor
-          updatedAt: '2017-09-01T01:35:01.344Z'
+          updatedAt: '2017-09-20T14:07:35.737Z'
           seoMetaTags:
             - tagName: title
               content: Carmel Brown
@@ -2371,7 +3101,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T01:35:01Z'
+                content: '2017-09-20T14:07:35Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -2401,122 +3131,20 @@ issue:
             alt: null
             url: 'https://www.datocms-assets.com/2593/1504229678-carmel-brown.jpg?'
           name: Carmel Brown
-      slug: tampon-diaries
-      title: Tampon Diaries
-    - id: '93458'
-      itemType: article
-      updatedAt: '2017-09-01T19:12:02.965Z'
-      seoMetaTags:
-        - tagName: title
-          content: Sex Education in Time
-        - tagName: meta
-          attributes:
-            property: 'og:title'
-            content: Sex Education in Time
-        - tagName: meta
-          attributes:
-            name: 'twitter:title'
-            content: Sex Education in Time
-        - tagName: meta
-          attributes:
-            name: 'twitter:card'
-            content: summary
-        - tagName: meta
-          attributes:
-            property: 'article:modified_time'
-            content: '2017-09-01T19:12:02Z'
-        - tagName: meta
-          attributes:
-            property: 'og:locale'
-            content: en_EN
-        - tagName: meta
-          attributes:
-            property: 'og:type'
-            content: article
-        - tagName: meta
-          attributes:
-            property: 'og:image'
-            content: 'https://www.datocms-assets.com/2593/1504289656-womanly-social-assets_circle_blk_crop2.jpg?'
-        - tagName: meta
-          attributes:
-            name: 'twitter:image'
-            content: 'https://www.datocms-assets.com/2593/1504289656-womanly-social-assets_circle_blk_crop2.jpg?'
-      position: 16
-      textOnLeft: false
-      resources: []
-      text: |-
-        A sound and film collage exploring the nostalgia, lack of diversity, and inaccuracy of 21st century sex education in America. 
-
-        **Film edited by: Attia Taylor
-        Music by: Patrick Ellis **
-
-        Film selection courtesy of Internet Archive
-      audio: null
-      video:
-        url: 'https://youtu.be/IXhFR3JXhmA'
-        title: IMG 6276
-        width: 480
-        height: 270
-        provider: youtube
-        providerUid: undefined
-        thumbnailUrl: 'https://i.ytimg.com/vi/IXhFR3JXhmA/hqdefault.jpg'
-      images: []
-      thumbnail:
-        format: jpg
-        size: 31093
-        width: 1009
-        height: 1009
-        title: null
-        alt: null
-        url: 'https://www.datocms-assets.com/2593/1504289656-womanly-social-assets_circle_blk_crop2.jpg?'
-      tags:
-        - id: '79592'
-          itemType: tag
-          updatedAt: '2017-07-08T16:26:34.138Z'
-          seoMetaTags:
-            - tagName: title
-              content: film
-            - tagName: meta
-              attributes:
-                property: 'og:title'
-                content: film
-            - tagName: meta
-              attributes:
-                name: 'twitter:title'
-                content: film
-            - tagName: meta
-              attributes:
-                name: 'twitter:card'
-                content: summary
-            - tagName: meta
-              attributes:
-                property: 'article:modified_time'
-                content: '2017-07-08T16:26:34Z'
-            - tagName: meta
-              attributes:
-                property: 'og:locale'
-                content: en_EN
-            - tagName: meta
-              attributes:
-                property: 'og:type'
-                content: article
-          title: film
-      featured: false
-      author:
-        - id: '93357'
+        - id: '93380'
           itemType: contributor
-          updatedAt: '2017-09-01T00:58:54.637Z'
+          updatedAt: '2017-09-20T14:07:35.718Z'
           seoMetaTags:
             - tagName: title
-              content: Attia Taylor
+              content: Singha Hon
             - tagName: meta
               attributes:
                 property: 'og:title'
-                content: Attia Taylor
+                content: Singha Hon
             - tagName: meta
               attributes:
                 name: 'twitter:title'
-                content: Attia Taylor
+                content: Singha Hon
             - tagName: meta
               attributes:
                 name: 'twitter:card'
@@ -2524,7 +3152,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T00:58:54Z'
+                content: '2017-09-20T14:07:35Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -2536,865 +3164,29 @@ issue:
             - tagName: meta
               attributes:
                 property: 'og:image'
-                content: 'https://www.datocms-assets.com/2593/1504227460-attia-taylor.jpg?'
+                content: 'https://www.datocms-assets.com/2593/1504229569-singha-e-hon.jpg?'
             - tagName: meta
               attributes:
                 name: 'twitter:image'
-                content: 'https://www.datocms-assets.com/2593/1504227460-attia-taylor.jpg?'
-          position: 1
-          socialMediaLinks: []
-          bio: 'Attia Taylor is a musician and writer, living and working in Brooklyn, NY. She is dedicated to sharing the stories and highlighting the experiences of marginalized women around the world. Her work is dedicated to amplifying the voices of those who are most silenced and overlooked in society. '
-          title: Founder
-          image:
-            format: jpg
-            size: 7166436
-            width: 5032
-            height: 3355
-            title: null
-            alt: null
-            url: 'https://www.datocms-assets.com/2593/1504227460-attia-taylor.jpg?'
-          name: Attia Taylor
-        - id: '93725'
-          itemType: contributor
-          updatedAt: '2017-09-01T19:11:56.939Z'
-          seoMetaTags:
-            - tagName: title
-              content: Patrick Ellis
-            - tagName: meta
-              attributes:
-                property: 'og:title'
-                content: Patrick Ellis
-            - tagName: meta
-              attributes:
-                name: 'twitter:title'
-                content: Patrick Ellis
-            - tagName: meta
-              attributes:
-                name: 'twitter:card'
-                content: summary
-            - tagName: meta
-              attributes:
-                property: 'article:modified_time'
-                content: '2017-09-01T19:11:56Z'
-            - tagName: meta
-              attributes:
-                property: 'og:locale'
-                content: en_EN
-            - tagName: meta
-              attributes:
-                property: 'og:type'
-                content: article
-            - tagName: meta
-              attributes:
-                property: 'og:image'
-                content: 'https://www.datocms-assets.com/2593/1504293107-womanly-social-assets_circle_blk_crop2.jpg?'
-            - tagName: meta
-              attributes:
-                name: 'twitter:image'
-                content: 'https://www.datocms-assets.com/2593/1504293107-womanly-social-assets_circle_blk_crop2.jpg?'
-          position: 29
-          socialMediaLinks: []
-          bio: ~~
-          title: Contributor
-          image:
-            format: jpg
-            size: 31093
-            width: 1009
-            height: 1009
-            title: null
-            alt: null
-            url: 'https://www.datocms-assets.com/2593/1504293107-womanly-social-assets_circle_blk_crop2.jpg?'
-          name: Patrick Ellis
-      slug: sex-education-in-time
-      title: Sex Education in Time
-    - id: '93391'
-      itemType: article
-      updatedAt: '2017-09-01T19:24:41.333Z'
-      seoMetaTags:
-        - tagName: title
-          content: Sexology
-        - tagName: meta
-          attributes:
-            property: 'og:title'
-            content: Sexology
-        - tagName: meta
-          attributes:
-            name: 'twitter:title'
-            content: Sexology
-        - tagName: meta
-          attributes:
-            name: 'twitter:card'
-            content: summary
-        - tagName: meta
-          attributes:
-            property: 'article:modified_time'
-            content: '2017-09-01T19:24:41Z'
-        - tagName: meta
-          attributes:
-            property: 'og:locale'
-            content: en_EN
-        - tagName: meta
-          attributes:
-            property: 'og:type'
-            content: article
-        - tagName: meta
-          attributes:
-            property: 'og:image'
-            content: 'https://www.datocms-assets.com/2593/1504230323-janell_thumbnail.JPG?'
-        - tagName: meta
-          attributes:
-            name: 'twitter:image'
-            content: 'https://www.datocms-assets.com/2593/1504230323-janell_thumbnail.JPG?'
-      position: 17
-      textOnLeft: false
-      resources: []
-      text: |-
-        **Meet Janell Yik:** Staten Island native, Chinese, Puerto Rican, and Panamanian student of Women's Studies and Gender and Sexuality at the College of Staten Island. She is the Sexology Workshop Coordinator at Please NYC, and is fun, fierce, and unapologetic. 
-
-        **Womanly Mag:** What two words that you associate with your sexology journey?
-
-        **Janell Yik:** Liberation and frustration. I've gotten to enjoy so much more of myself, and my career helps me teach other people how to reach that, too. It is a very gratifying, liberating experience. However, sexuality is still very taboo. It is both stifled and devalued, and constantly under attack by both political and religious conservatives, and even those who have never experienced sexual satisfaction. Experiencing people's resistance to something which I have found so freeing has been frustrating. There have been times I've doubted my career choice, but then I remember orgasms [laughter], and the responsibility I feel to help people have better experiences with sex education. I help them learn not only how to adequately protect themselves, but how to see outside of the societal boundaries surrounding relationships and sexuality. 
-
-        **WM:** How many women of color do you see in your field?
-
-        **JY:** Not many, to be honest. Intersectionality is something that is relatively new. We've been excluded in so many fields of study, and I constantly see the proof in my textbooks - I am almost never represented. Thankfully, I've become more exposed to women of color in my field. One of them being Bianca [Laureano], who wrote [an article](http://https://rewire.news/article/2012/04/13/an-open-letter-to-white-people-in-sexualitysexology-field/) about the need for more WoC in the sex field.
-
-        **WM:** What advice do you give women who want to get into sex studies?
-
-        **JY:** I encourage everyone to get into the field. It is so important for us to change the way we educate ourselves, and our children, about sex. Start with Google, so much information is at the tip of your fingers. You can get certifications to be a sex educator, or you can start by getting your Bachelor's degree in sexuality, or gender studies. People don't realize how much education goes into sexology. We are responsible for studying anthropology, sociology, psychology, anatomy, and so many more fields of study. 
-
-        **WM:** How is feminism a part of sexology?
-
-        **JY:** I think feminism is different for everybody. The biggest lesson I've learned is I don't need someone else's approval to feel sexy, that I don't have to feel guilty for enjoying my sexiness. Women already have to deal with so many insignificant dilemmas on a daily basis: "Should I wear this? What will people think if I do? Will people's reaction to me on the street get worse?" The reality is that other people's opinions shouldn't affect us, and that the danger we face on the street is going to exist regardless of what we wear. So for me, in the context of sexuality, to be comfortable with your sexual autonomy, and that of others is to be feminist. 
-
-        **WM:** The maternal figures in our lives tend to hold a huge influence on how we see sexuality. How did your mother react to your career choice?
-
-        **JY:** I grew up with a Chinese and Puerto Rican mother, who was often conflicted with her own upbringing: battling between her more conservative side and her Caribbean openness. Growing up she was the "cool mom" to my friends, but the strict one to me, and this continued throughout my life. At first she did not understand my decision to pursue a degree in Gender and Sexuality. But as soon as I said the word "doctorate," her perspective changed. It went from my daughter wants to be a sexologist, to my daughter is going to be a doctor. I corrected her and said "sex doctor," but we all end up holding on to what makes sense to us. Growing up, I didn't have a lot of women around to speak with about sex, which is why I find it so necessary to speak about it now.
-
-        **WM:** Okay, then let's talk about the fun stuff! What advice would you give someone trying to incorporate sex toys into their relationship(s)?
-
-        **JY:** Obviously, communication is key. Play around with the idea before you actually start playing with the toy. If they are hesitant, ask why. Talk about it thoroughly. I encourage going shopping for the toys together. Intimidation has a way of getting in the way of a lot of beautiful experiences. If they feel intimidated by the toy, give your partner lots of reassurance. Just be open, honest, and patient. Once you start playing again, with curiosity and an open mind, you'll be surprised what your partner may say yes to. Safe spaces aren't always guaranteed in intimacy, even with consent, so first and foremost, make sure you both feel comfortable and safe. 
-
-        **WM:** What tricks do you recommend to engage a cis male in more sex play? 
-
-        **JY:** It's hard to get past ingrained ideas of what should be pleasurable to men. I always recommend starting with ball play. Then to keep going lower, inch by inch. (This can be scary to hetero men who guard their balls, and anything below that with their lives.) Consent is important on all ends, so if you want to start exploring new sensations, it's important that you do it at a pace that is comfortable for both of you. After some ball play, preferably with your mouth, keep licking further down. When you get to the area between the balls and the anus, the perineum, stay there for a while and alternate where you lick. 
-
-        The next thing I would learn is prostate massages. Start with external massages on the perineum with two fingers, mix it up a little. Then slowly make your way to the anus. Remember to use a lot of lube, and to be gentle. I recommend you watch videos that demonstrate these massages, as well as describe what the prostate should feel like to you. Prostate stimulation allows men to experience multiple types of orgasms, so it's a shame that some men can be so adamant about staying away from anal play. 
-
-        **WM:** Any recommended toys? 
-
-        **JY:** Toys for cis men include prostate massagers (internal), [fleshlights](http://www.babeland.com/Fleshlight-Vulva/d/1567) (masturbators), [cock rings](http://adult.babeland.com/search?asug=&w=cock%20rings), [tenga eggs](http://www.babeland.com/tenga-eggs-masturbation-sleeve/d/1593) - massagers (cheap, easy, & fun), and [anal beads](http://www.babeland.com/Babeland-Anal-Beads/d/4566) (for all genders). For trans men there is actually a new toy called [buck off](http://www.huffingtonpost.com/entry/buck-off-trans-sex-toy_us_57eea14be4b024a52d2ebb88), which serves almost as a suction cup for the vagina. This way, when masturbating trans men don't have to physically come into contact with genitals they don't feel connected to, and instead can stroke the way they would with a penis. Remember: not all men have penises.
-
-        toys for cis women that are included in the short promo video are
-
-        steel butt plug
-
-        nipple and clit clamps. 
-
-        the [lily](https://www.goodvibes.com/s/sex-toys/p/12AJ62/lelo/lily-vibrator) (the lavender one) external massager
-
-        the [moka](http://adult.babeland.com/babeland/Moka) (the blue one) g-spot vibrator with a head designed specifically to reach it.
-
-        the [tiani](https://www.lelo.com/tiani-3) (the pink one for couples)- remote controlled couple's massager, vibrates internally and externally at the same time. fun in public & with light sub/dom play!
-
-        and the [ina wave](https://www.lelo.com/blog/lelo-ina-wave-mona-wave-head-head/) (the purple one) internal and external vibrator with "come hither" movements mimicking a lovers fingers
-
-        the glass ones are staple favorites because they are hard, durable, and so easy to clean. (ive included a link to toys for trans women but found out quickly that there aren't many options). 
-
-        ina wave, waves hello. :)
-
-        **q:** do's & dont's with toys
-        **a:** silicone: dont use silicone lubes with silicone toys. use water based or hybrid which is water and silicone based.
-
-        **online:** if you're going to order toys online i would recommend buying glass or steel because you can clean them easily and well. also, when you order silicone or rubber online it may be difficult to see whether or not the toy is actually made of that material which makes it harder to clean.
-
-        don't use vibrators as anal toys. keep vibrators as vibrators and anal toys for anal play. if you want to use your dildo as an anal toy, that may work because you can boil it if it is silicone. its better to keep things separate though. 
-
-        put a condom over your toys when you use them.
-
-        i only buy glass, steel, or silicone.
-
-        glass will help you squirt faster and don't sleep on that curve. 
-        (rubber can breakdown and is porous which can trap bacteria).
-
-        boil your toys to clean them unless they are rubber or battery operated. that is the best way to clean them. washing is simply washing the surface of the toys. 
-
-        **SEX SHOPS!**
-        [PLEASURECHEST](http://thepleasurechest.com/)
-        [BABELAND](http://www.babeland.com/about/whyshop)
-        [PLEASE NYC](http://www.pleasenewyork.com/)
-         
-        Have fun, be safe, explore and have conversations with each other. No, this does not mean you are obligated to teach anyone anything, people have google and you have discernment BUT intergenerational conversations are necessary, especially in these areas where so many of our mothers didn't get a chance to explore. You will be surprised with how much you learn from one another. 
-      audio: null
-      video: null
-      images:
-        - id: '93385'
-          itemType: image
-          updatedAt: '2017-09-01T01:45:56.239Z'
-          seoMetaTags:
-            - tagName: title
-              content: Butt Plug
-            - tagName: meta
-              attributes:
-                property: 'og:title'
-                content: Butt Plug
-            - tagName: meta
-              attributes:
-                name: 'twitter:title'
-                content: Butt Plug
-            - tagName: meta
-              attributes:
-                name: 'twitter:card'
-                content: summary
-            - tagName: meta
-              attributes:
-                property: 'article:modified_time'
-                content: '2017-09-01T01:45:56Z'
-            - tagName: meta
-              attributes:
-                property: 'og:locale'
-                content: en_EN
-            - tagName: meta
-              attributes:
-                property: 'og:type'
-                content: article
-            - tagName: meta
-              attributes:
-                property: 'og:image'
-                content: 'https://www.datocms-assets.com/2593/1504230346-but-plug.JPG?'
-            - tagName: meta
-              attributes:
-                name: 'twitter:image'
-                content: 'https://www.datocms-assets.com/2593/1504230346-but-plug.JPG?'
-          position: 6
-          image:
-            format: jpg
-            size: 98152
-            width: 720
-            height: 480
-            title: null
-            alt: null
-            url: 'https://www.datocms-assets.com/2593/1504230346-but-plug.JPG?'
-          caption: ''
-          title: Butt Plug
-        - id: '93390'
-          itemType: image
-          updatedAt: '2017-09-01T01:47:42.506Z'
-          seoMetaTags:
-            - tagName: title
-              content: Vibrator II
-            - tagName: meta
-              attributes:
-                property: 'og:title'
-                content: Vibrator II
-            - tagName: meta
-              attributes:
-                name: 'twitter:title'
-                content: Vibrator II
-            - tagName: meta
-              attributes:
-                name: 'twitter:card'
-                content: summary
-            - tagName: meta
-              attributes:
-                property: 'article:modified_time'
-                content: '2017-09-01T01:47:42Z'
-            - tagName: meta
-              attributes:
-                property: 'og:locale'
-                content: en_EN
-            - tagName: meta
-              attributes:
-                property: 'og:type'
-                content: article
-            - tagName: meta
-              attributes:
-                property: 'og:image'
-                content: 'https://www.datocms-assets.com/2593/1504230455-janell3.jpeg?'
-            - tagName: meta
-              attributes:
-                name: 'twitter:image'
-                content: 'https://www.datocms-assets.com/2593/1504230455-janell3.jpeg?'
-          position: 11
-          image:
-            format: jpeg
-            size: 122987
-            width: 480
-            height: 720
-            title: null
-            alt: null
-            url: 'https://www.datocms-assets.com/2593/1504230455-janell3.jpeg?'
-          caption: ''
-          title: Vibrator II
-        - id: '93387'
-          itemType: image
-          updatedAt: '2017-09-01T01:46:42.053Z'
-          seoMetaTags:
-            - tagName: title
-              content: Dildo
-            - tagName: meta
-              attributes:
-                property: 'og:title'
-                content: Dildo
-            - tagName: meta
-              attributes:
-                name: 'twitter:title'
-                content: Dildo
-            - tagName: meta
-              attributes:
-                name: 'twitter:card'
-                content: summary
-            - tagName: meta
-              attributes:
-                property: 'article:modified_time'
-                content: '2017-09-01T01:46:42Z'
-            - tagName: meta
-              attributes:
-                property: 'og:locale'
-                content: en_EN
-            - tagName: meta
-              attributes:
-                property: 'og:type'
-                content: article
-            - tagName: meta
-              attributes:
-                property: 'og:image'
-                content: 'https://www.datocms-assets.com/2593/1504230394-img_9010.JPG?'
-            - tagName: meta
-              attributes:
-                name: 'twitter:image'
-                content: 'https://www.datocms-assets.com/2593/1504230394-img_9010.JPG?'
+                content: 'https://www.datocms-assets.com/2593/1504229569-singha-e-hon.jpg?'
           position: 8
-          image:
-            format: jpg
-            size: 87972
-            width: 720
-            height: 480
-            title: null
-            alt: null
-            url: 'https://www.datocms-assets.com/2593/1504230394-img_9010.JPG?'
-          caption: null
-          title: Dildo
-        - id: '93388'
-          itemType: image
-          updatedAt: '2017-09-01T01:46:59.917Z'
-          seoMetaTags:
-            - tagName: title
-              content: Janell
-            - tagName: meta
-              attributes:
-                property: 'og:title'
-                content: Janell
-            - tagName: meta
-              attributes:
-                name: 'twitter:title'
-                content: Janell
-            - tagName: meta
-              attributes:
-                name: 'twitter:card'
-                content: summary
-            - tagName: meta
-              attributes:
-                property: 'article:modified_time'
-                content: '2017-09-01T01:46:59Z'
-            - tagName: meta
-              attributes:
-                property: 'og:locale'
-                content: en_EN
-            - tagName: meta
-              attributes:
-                property: 'og:type'
-                content: article
-            - tagName: meta
-              attributes:
-                property: 'og:image'
-                content: 'https://www.datocms-assets.com/2593/1504230415-janell.jpeg?'
-            - tagName: meta
-              attributes:
-                name: 'twitter:image'
-                content: 'https://www.datocms-assets.com/2593/1504230415-janell.jpeg?'
-          position: 9
-          image:
-            format: jpeg
-            size: 140208
-            width: 720
-            height: 480
-            title: null
-            alt: null
-            url: 'https://www.datocms-assets.com/2593/1504230415-janell.jpeg?'
-          caption: null
-          title: Janell
-        - id: '93389'
-          itemType: image
-          updatedAt: '2017-09-01T01:47:26.667Z'
-          seoMetaTags:
-            - tagName: title
-              content: Vibrator
-            - tagName: meta
-              attributes:
-                property: 'og:title'
-                content: Vibrator
-            - tagName: meta
-              attributes:
-                name: 'twitter:title'
-                content: Vibrator
-            - tagName: meta
-              attributes:
-                name: 'twitter:card'
-                content: summary
-            - tagName: meta
-              attributes:
-                property: 'article:modified_time'
-                content: '2017-09-01T01:47:26Z'
-            - tagName: meta
-              attributes:
-                property: 'og:locale'
-                content: en_EN
-            - tagName: meta
-              attributes:
-                property: 'og:type'
-                content: article
-            - tagName: meta
-              attributes:
-                property: 'og:image'
-                content: 'https://www.datocms-assets.com/2593/1504230435-janell2.jpeg?'
-            - tagName: meta
-              attributes:
-                name: 'twitter:image'
-                content: 'https://www.datocms-assets.com/2593/1504230435-janell2.jpeg?'
-          position: 10
-          image:
-            format: jpeg
-            size: 98694
-            width: 480
-            height: 720
-            title: null
-            alt: null
-            url: 'https://www.datocms-assets.com/2593/1504230435-janell2.jpeg?'
-          caption: null
-          title: Vibrator
-        - id: '93716'
-          itemType: image
-          updatedAt: '2017-09-01T17:35:11.600Z'
-          seoMetaTags:
-            - tagName: title
-              content: Thumbnail
-            - tagName: meta
-              attributes:
-                property: 'og:title'
-                content: Thumbnail
-            - tagName: meta
-              attributes:
-                name: 'twitter:title'
-                content: Thumbnail
-            - tagName: meta
-              attributes:
-                name: 'twitter:card'
-                content: summary
-            - tagName: meta
-              attributes:
-                property: 'article:modified_time'
-                content: '2017-09-01T17:35:11Z'
-            - tagName: meta
-              attributes:
-                property: 'og:locale'
-                content: en_EN
-            - tagName: meta
-              attributes:
-                property: 'og:type'
-                content: article
-            - tagName: meta
-              attributes:
-                property: 'og:image'
-                content: 'https://www.datocms-assets.com/2593/1504287302-janell_thumbnail.JPG?'
-            - tagName: meta
-              attributes:
-                name: 'twitter:image'
-                content: 'https://www.datocms-assets.com/2593/1504287302-janell_thumbnail.JPG?'
-          position: 41
-          image:
-            format: jpg
-            size: 209244
-            width: 720
-            height: 480
-            title: null
-            alt: null
-            url: 'https://www.datocms-assets.com/2593/1504287302-janell_thumbnail.JPG?'
-          caption: ''
-          title: Thumbnail
-      thumbnail:
-        format: jpg
-        size: 209244
-        width: 720
-        height: 480
-        title: null
-        alt: null
-        url: 'https://www.datocms-assets.com/2593/1504230323-janell_thumbnail.JPG?'
-      tags:
-        - id: '92784'
-          itemType: tag
-          updatedAt: '2017-08-29T19:24:28.662Z'
-          seoMetaTags:
-            - tagName: title
-              content: art
-            - tagName: meta
-              attributes:
-                property: 'og:title'
-                content: art
-            - tagName: meta
-              attributes:
-                name: 'twitter:title'
-                content: art
-            - tagName: meta
-              attributes:
-                name: 'twitter:card'
-                content: summary
-            - tagName: meta
-              attributes:
-                property: 'article:modified_time'
-                content: '2017-08-29T19:24:28Z'
-            - tagName: meta
-              attributes:
-                property: 'og:locale'
-                content: en_EN
-            - tagName: meta
-              attributes:
-                property: 'og:type'
-                content: article
-          title: art
-        - id: '79593'
-          itemType: tag
-          updatedAt: '2017-07-08T16:26:39.462Z'
-          seoMetaTags:
-            - tagName: title
-              content: photography
-            - tagName: meta
-              attributes:
-                property: 'og:title'
-                content: photography
-            - tagName: meta
-              attributes:
-                name: 'twitter:title'
-                content: photography
-            - tagName: meta
-              attributes:
-                name: 'twitter:card'
-                content: summary
-            - tagName: meta
-              attributes:
-                property: 'article:modified_time'
-                content: '2017-07-08T16:26:39Z'
-            - tagName: meta
-              attributes:
-                property: 'og:locale'
-                content: en_EN
-            - tagName: meta
-              attributes:
-                property: 'og:type'
-                content: article
-          title: photography
-      featured: false
-      author:
-        - id: '93358'
-          itemType: contributor
-          updatedAt: '2017-09-01T01:01:07.606Z'
-          seoMetaTags:
-            - tagName: title
-              content: Ailyn Robles
-            - tagName: meta
-              attributes:
-                property: 'og:title'
-                content: Ailyn Robles
-            - tagName: meta
-              attributes:
-                name: 'twitter:title'
-                content: Ailyn Robles
-            - tagName: meta
-              attributes:
-                name: 'twitter:card'
-                content: summary
-            - tagName: meta
-              attributes:
-                property: 'article:modified_time'
-                content: '2017-09-01T01:01:07Z'
-            - tagName: meta
-              attributes:
-                property: 'og:locale'
-                content: en_EN
-            - tagName: meta
-              attributes:
-                property: 'og:type'
-                content: article
-            - tagName: meta
-              attributes:
-                property: 'og:image'
-                content: 'https://www.datocms-assets.com/2593/1504227585-ailyn-robles.jpg?'
-            - tagName: meta
-              attributes:
-                name: 'twitter:image'
-                content: 'https://www.datocms-assets.com/2593/1504227585-ailyn-robles.jpg?'
-          position: 2
           socialMediaLinks: []
-          bio: 'Ailyn is a Colombian writer and photographer based out of Brooklyn, who fuses her passion for the empowerment of women with everything she does. She works with young people during the day, and writes short stories at night.'
-          title: Co-Founder
-          image:
-            format: jpg
-            size: 9913731
-            width: 5398
-            height: 3599
-            title: null
-            alt: null
-            url: 'https://www.datocms-assets.com/2593/1504227585-ailyn-robles.jpg?'
-          name: Ailyn Robles
-      slug: sexology
-      title: Sexology
-    - id: '93379'
-      itemType: article
-      updatedAt: '2017-09-01T19:08:33.854Z'
-      seoMetaTags:
-        - tagName: title
-          content: 'Feelin'' Yourself? '
-        - tagName: meta
-          attributes:
-            property: 'og:title'
-            content: 'Feelin'' Yourself? '
-        - tagName: meta
-          attributes:
-            name: 'twitter:title'
-            content: 'Feelin'' Yourself? '
-        - tagName: meta
-          attributes:
-            name: 'twitter:card'
-            content: summary
-        - tagName: meta
-          attributes:
-            property: 'article:modified_time'
-            content: '2017-09-01T19:08:33Z'
-        - tagName: meta
-          attributes:
-            property: 'og:locale'
-            content: en_EN
-        - tagName: meta
-          attributes:
-            property: 'og:type'
-            content: article
-        - tagName: meta
-          attributes:
-            property: 'og:image'
-            content: 'https://www.datocms-assets.com/2593/1504234670-masturbation-survey-1.png?'
-        - tagName: meta
-          attributes:
-            name: 'twitter:image'
-            content: 'https://www.datocms-assets.com/2593/1504234670-masturbation-survey-1.png?'
-      position: 14
-      textOnLeft: false
-      resources: []
-      text: |-
-        **Survey and Writing by: Aisha Khan**
-        **Atwork by: Khadija Ariana**
-      audio: null
-      video: null
-      images:
-        - id: '93454'
-          itemType: image
-          updatedAt: '2017-09-01T02:58:33.002Z'
-          seoMetaTags:
-            - tagName: title
-              content: 'Feelin'' Yourself? '
-            - tagName: meta
-              attributes:
-                property: 'og:title'
-                content: 'Feelin'' Yourself? '
-            - tagName: meta
-              attributes:
-                name: 'twitter:title'
-                content: 'Feelin'' Yourself? '
-            - tagName: meta
-              attributes:
-                name: 'twitter:card'
-                content: summary
-            - tagName: meta
-              attributes:
-                property: 'article:modified_time'
-                content: '2017-09-01T02:58:33Z'
-            - tagName: meta
-              attributes:
-                property: 'og:locale'
-                content: en_EN
-            - tagName: meta
-              attributes:
-                property: 'og:type'
-                content: article
-            - tagName: meta
-              attributes:
-                property: 'og:image'
-                content: 'https://www.datocms-assets.com/2593/1504234705-masturbation-survey-1.png?'
-            - tagName: meta
-              attributes:
-                name: 'twitter:image'
-                content: 'https://www.datocms-assets.com/2593/1504234705-masturbation-survey-1.png?'
-          position: 37
-          image:
-            format: png
-            size: 725975
-            width: 962
-            height: 1282
-            title: null
-            alt: null
-            url: 'https://www.datocms-assets.com/2593/1504234705-masturbation-survey-1.png?'
-          caption: null
-          title: 'Feelin'' Yourself? '
-      thumbnail:
-        format: png
-        size: 725975
-        width: 962
-        height: 1282
-        title: null
-        alt: null
-        url: 'https://www.datocms-assets.com/2593/1504234670-masturbation-survey-1.png?'
-      tags:
-        - id: '92784'
-          itemType: tag
-          updatedAt: '2017-08-29T19:24:28.662Z'
-          seoMetaTags:
-            - tagName: title
-              content: art
-            - tagName: meta
-              attributes:
-                property: 'og:title'
-                content: art
-            - tagName: meta
-              attributes:
-                name: 'twitter:title'
-                content: art
-            - tagName: meta
-              attributes:
-                name: 'twitter:card'
-                content: summary
-            - tagName: meta
-              attributes:
-                property: 'article:modified_time'
-                content: '2017-08-29T19:24:28Z'
-            - tagName: meta
-              attributes:
-                property: 'og:locale'
-                content: en_EN
-            - tagName: meta
-              attributes:
-                property: 'og:type'
-                content: article
-          title: art
-      featured: false
-      author:
-        - id: '85154'
-          itemType: contributor
-          updatedAt: '2017-09-01T04:05:59.306Z'
-          seoMetaTags:
-            - tagName: title
-              content: Aisha Khan
-            - tagName: meta
-              attributes:
-                property: 'og:title'
-                content: Aisha Khan
-            - tagName: meta
-              attributes:
-                name: 'twitter:title'
-                content: Aisha Khan
-            - tagName: meta
-              attributes:
-                name: 'twitter:card'
-                content: summary
-            - tagName: meta
-              attributes:
-                property: 'article:modified_time'
-                content: '2017-09-01T04:05:59Z'
-            - tagName: meta
-              attributes:
-                property: 'og:locale'
-                content: en_EN
-            - tagName: meta
-              attributes:
-                property: 'og:type'
-                content: article
-            - tagName: meta
-              attributes:
-                property: 'og:image'
-                content: 'https://www.datocms-assets.com/2593/1504227010-aisha-khan-2.jpg?'
-            - tagName: meta
-              attributes:
-                name: 'twitter:image'
-                content: 'https://www.datocms-assets.com/2593/1504227010-aisha-khan-2.jpg?'
-          position: 4
-          socialMediaLinks:
-            - '93456'
-            - '93457'
-          bio: 'Aisha is a Pakistani-Latvian-American from Northern California, currently based in NYC. She has a passion for languages and a commitment to creating accessible medias and technologies. Voted Best Comedy Show Audience Member.'
-          title: Digital Product Director
-          image:
-            format: jpg
-            size: 162599
-            width: 500
-            height: 333
-            title: null
-            alt: null
-            url: 'https://www.datocms-assets.com/2593/1504227010-aisha-khan-2.jpg?'
-          name: Aisha Khan
-        - id: '93378'
-          itemType: contributor
-          updatedAt: '2017-09-01T02:22:21.663Z'
-          seoMetaTags:
-            - tagName: title
-              content: Khadija Ariana
-            - tagName: meta
-              attributes:
-                property: 'og:title'
-                content: Khadija Ariana
-            - tagName: meta
-              attributes:
-                name: 'twitter:title'
-                content: Khadija Ariana
-            - tagName: meta
-              attributes:
-                name: 'twitter:card'
-                content: summary
-            - tagName: meta
-              attributes:
-                property: 'article:modified_time'
-                content: '2017-09-01T02:22:21Z'
-            - tagName: meta
-              attributes:
-                property: 'og:locale'
-                content: en_EN
-            - tagName: meta
-              attributes:
-                property: 'og:type'
-                content: article
-            - tagName: meta
-              attributes:
-                property: 'og:image'
-                content: 'https://www.datocms-assets.com/2593/1504229480-khadija-ariana.jpg?'
-            - tagName: meta
-              attributes:
-                name: 'twitter:image'
-                content: 'https://www.datocms-assets.com/2593/1504229480-khadija-ariana.jpg?'
-          position: 19
-          socialMediaLinks: []
-          bio: Khadija Horton is an illustration major studying at Pratt Institute in Brooklyn.
+          bio: 'Singha Hon is an artist and illustrator from New York City. Her work revolves around depicting women undergoing private metaphysical transformations, using techniques of classic figurative painting, and elements of magical realism to describe inner emotional states.'
           title: Resident Artist
           image:
             format: jpg
-            size: 65348
-            width: 632
-            height: 356
+            size: 632076
+            width: 1000
+            height: 667
             title: null
             alt: null
-            url: 'https://www.datocms-assets.com/2593/1504229480-khadija-ariana.jpg?'
-          name: Khadija Ariana
-      slug: feelin-yourself
-      title: 'Feelin'' Yourself? '
+            url: 'https://www.datocms-assets.com/2593/1504229569-singha-e-hon.jpg?'
+          name: Singha Hon
+      slug: tampon-diaries
+      title: Tampon Diaries
     - id: '93428'
       itemType: article
-      updatedAt: '2017-09-01T17:50:23.930Z'
+      updatedAt: '2017-09-20T14:07:34.447Z'
       seoMetaTags:
         - tagName: title
           content: The Things They Carried
@@ -3413,7 +3205,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-09-01T17:50:23Z'
+            content: '2017-09-20T14:07:34Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -3433,13 +3225,29 @@ issue:
       position: 21
       textOnLeft: false
       resources: []
-      text: 'Artwork by: Singha Hon'
+      text: |-
+        1. IUD
+
+        2. Baby
+
+        3. Condom
+
+        4. Genitalia
+
+        5. Tampon
+
+        6. The World
+
+
+
+        **Concept: Attia Taylor & Aisha Khan**
+        **Art: Singha Hon**
       audio: null
       video: null
       images:
         - id: '93426'
           itemType: image
-          updatedAt: '2017-09-01T02:26:26.602Z'
+          updatedAt: '2017-09-20T14:07:34.664Z'
           seoMetaTags:
             - tagName: title
               content: The Things They Carried
@@ -3458,7 +3266,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T02:26:26Z'
+                content: '2017-09-20T14:07:34Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -3530,7 +3338,7 @@ issue:
       author:
         - id: '93380'
           itemType: contributor
-          updatedAt: '2017-09-01T01:42:21.345Z'
+          updatedAt: '2017-09-20T14:07:35.718Z'
           seoMetaTags:
             - tagName: title
               content: Singha Hon
@@ -3549,7 +3357,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T01:42:21Z'
+                content: '2017-09-20T14:07:35Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -3581,7 +3389,7 @@ issue:
           name: Singha Hon
         - id: '93357'
           itemType: contributor
-          updatedAt: '2017-09-01T00:58:54.637Z'
+          updatedAt: '2017-09-20T14:07:35.592Z'
           seoMetaTags:
             - tagName: title
               content: Attia Taylor
@@ -3600,7 +3408,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T00:58:54Z'
+                content: '2017-09-20T14:07:35Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -3632,7 +3440,7 @@ issue:
           name: Attia Taylor
         - id: '85154'
           itemType: contributor
-          updatedAt: '2017-09-01T04:05:59.306Z'
+          updatedAt: '2017-09-20T14:07:35.568Z'
           seoMetaTags:
             - tagName: title
               content: Aisha Khan
@@ -3651,7 +3459,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T04:05:59Z'
+                content: '2017-09-20T14:07:35Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -3670,9 +3478,9 @@ issue:
                 content: 'https://www.datocms-assets.com/2593/1504227010-aisha-khan-2.jpg?'
           position: 4
           socialMediaLinks:
-            - '93456'
             - '93457'
-          bio: 'Aisha is a Pakistani-Latvian-American from Northern California, currently based in NYC. She has a passion for languages and a commitment to creating accessible medias and technologies. Voted Best Comedy Show Audience Member.'
+            - '93456'
+          bio: 'Aisha is a Pakistani-Latvian-American from Northern California, currently based in NYC. She has a passion for languages and a commitment to creating accessible medias and technologies. '
           title: Digital Product Director
           image:
             format: jpg
@@ -3687,7 +3495,7 @@ issue:
       title: The Things They Carried
     - id: '93401'
       itemType: article
-      updatedAt: '2017-09-01T18:00:03.396Z'
+      updatedAt: '2017-09-20T14:07:34.400Z'
       seoMetaTags:
         - tagName: title
           content: Sex Ed From My Girlfriends
@@ -3706,7 +3514,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-09-01T18:00:03Z'
+            content: '2017-09-20T14:07:34Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -3726,13 +3534,62 @@ issue:
       position: 20
       textOnLeft: true
       resources: []
-      text: ~~
+      text: 'Some sex ed you learn in health class. Most sex ed you learn in girls rooms and at slumber parties. This is dedicated to all my girlfriends, we were and remain to be each other''s best teachers.'
       audio: null
       video: null
       images:
+        - id: '93724'
+          itemType: image
+          updatedAt: '2017-09-20T14:07:34.969Z'
+          seoMetaTags:
+            - tagName: title
+              content: '8'
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: '8'
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: '8'
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-20T14:07:34Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504287658-sexedfrommygirlfriends1.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504287658-sexedfrommygirlfriends1.jpg?'
+          position: 49
+          image:
+            format: jpg
+            size: 43976
+            width: 350
+            height: 350
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504287658-sexedfrommygirlfriends1.jpg?'
+          caption: null
+          title: '8'
         - id: '93717'
           itemType: image
-          updatedAt: '2017-09-01T17:39:22.054Z'
+          updatedAt: '2017-09-20T14:07:34.902Z'
           seoMetaTags:
             - tagName: title
               content: '1'
@@ -3751,7 +3608,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T17:39:22Z'
+                content: '2017-09-20T14:07:34Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -3781,7 +3638,7 @@ issue:
           title: '1'
         - id: '93718'
           itemType: image
-          updatedAt: '2017-09-01T17:39:33.867Z'
+          updatedAt: '2017-09-20T14:07:34.911Z'
           seoMetaTags:
             - tagName: title
               content: '2'
@@ -3800,7 +3657,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T17:39:33Z'
+                content: '2017-09-20T14:07:34Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -3830,7 +3687,7 @@ issue:
           title: '2'
         - id: '93719'
           itemType: image
-          updatedAt: '2017-09-01T17:39:53.415Z'
+          updatedAt: '2017-09-20T14:07:34.919Z'
           seoMetaTags:
             - tagName: title
               content: '3'
@@ -3849,7 +3706,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T17:39:53Z'
+                content: '2017-09-20T14:07:34Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -3879,7 +3736,7 @@ issue:
           title: '3'
         - id: '93720'
           itemType: image
-          updatedAt: '2017-09-01T17:40:02.516Z'
+          updatedAt: '2017-09-20T14:07:34.928Z'
           seoMetaTags:
             - tagName: title
               content: '4'
@@ -3898,7 +3755,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T17:40:02Z'
+                content: '2017-09-20T14:07:34Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -3928,7 +3785,7 @@ issue:
           title: '4'
         - id: '93721'
           itemType: image
-          updatedAt: '2017-09-01T17:40:22.041Z'
+          updatedAt: '2017-09-20T14:07:34.937Z'
           seoMetaTags:
             - tagName: title
               content: '5'
@@ -3947,7 +3804,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T17:40:22Z'
+                content: '2017-09-20T14:07:34Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -3977,7 +3834,7 @@ issue:
           title: '5'
         - id: '93722'
           itemType: image
-          updatedAt: '2017-09-01T17:40:37.143Z'
+          updatedAt: '2017-09-20T14:07:34.947Z'
           seoMetaTags:
             - tagName: title
               content: '6'
@@ -3996,7 +3853,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T17:40:37Z'
+                content: '2017-09-20T14:07:34Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -4026,7 +3883,7 @@ issue:
           title: '6'
         - id: '93723'
           itemType: image
-          updatedAt: '2017-09-01T17:40:48.259Z'
+          updatedAt: '2017-09-20T14:07:34.959Z'
           seoMetaTags:
             - tagName: title
               content: '7'
@@ -4045,7 +3902,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T17:40:48Z'
+                content: '2017-09-20T14:07:34Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -4073,55 +3930,6 @@ issue:
             url: 'https://www.datocms-assets.com/2593/1504287644-sexedfrommygirlfriends2.jpg?'
           caption: null
           title: '7'
-        - id: '93724'
-          itemType: image
-          updatedAt: '2017-09-01T17:41:05.209Z'
-          seoMetaTags:
-            - tagName: title
-              content: '8'
-            - tagName: meta
-              attributes:
-                property: 'og:title'
-                content: '8'
-            - tagName: meta
-              attributes:
-                name: 'twitter:title'
-                content: '8'
-            - tagName: meta
-              attributes:
-                name: 'twitter:card'
-                content: summary
-            - tagName: meta
-              attributes:
-                property: 'article:modified_time'
-                content: '2017-09-01T17:41:05Z'
-            - tagName: meta
-              attributes:
-                property: 'og:locale'
-                content: en_EN
-            - tagName: meta
-              attributes:
-                property: 'og:type'
-                content: article
-            - tagName: meta
-              attributes:
-                property: 'og:image'
-                content: 'https://www.datocms-assets.com/2593/1504287658-sexedfrommygirlfriends1.jpg?'
-            - tagName: meta
-              attributes:
-                name: 'twitter:image'
-                content: 'https://www.datocms-assets.com/2593/1504287658-sexedfrommygirlfriends1.jpg?'
-          position: 49
-          image:
-            format: jpg
-            size: 43976
-            width: 350
-            height: 350
-            title: null
-            alt: null
-            url: 'https://www.datocms-assets.com/2593/1504287658-sexedfrommygirlfriends1.jpg?'
-          caption: null
-          title: '8'
       thumbnail:
         format: jpg
         size: 43976
@@ -4166,7 +3974,7 @@ issue:
       author:
         - id: '93376'
           itemType: contributor
-          updatedAt: '2017-09-01T01:42:05.339Z'
+          updatedAt: '2017-09-20T14:07:35.686Z'
           seoMetaTags:
             - tagName: title
               content: Ariana Mygatt
@@ -4185,7 +3993,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T01:42:05Z'
+                content: '2017-09-20T14:07:35Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -4204,7 +4012,7 @@ issue:
                 content: 'https://www.datocms-assets.com/2593/1504229268-ariana-mygatt.jpg?'
           position: 10
           socialMediaLinks: []
-          bio: 'Ariana is a Baltimore-based, artist educator, photographer, and designer. She enjoys periodically redecorating her apartment, talking to teens, "getting out of town", and the years 2000-2009.'
+          bio: 'Ariana is a Baltimore-based artist educator, photographer, and designer. She enjoys periodically redecorating her apartment, talking to teens, "getting out of town", and the years 2000-2009.'
           title: Art Director
           image:
             format: jpg
@@ -4219,7 +4027,7 @@ issue:
       title: Sex Ed From My Girlfriends
     - id: '93397'
       itemType: article
-      updatedAt: '2017-09-01T17:37:34.300Z'
+      updatedAt: '2017-09-20T14:07:34.354Z'
       seoMetaTags:
         - tagName: title
           content: Loving at Arm's Length
@@ -4238,7 +4046,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-09-01T17:37:34Z'
+            content: '2017-09-20T14:07:34Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -4258,13 +4066,13 @@ issue:
       position: 19
       textOnLeft: false
       resources: []
-      text: "Loving at Arm’s Length:\na memoir about living in a sexless relationship.\n\n\tAs a woman it can be difficult to imagine an instance where a man would not want to have sex with you. With all the misogyny, societal expectations, and disadvantages to being a woman today, one of the times sexism seemingly benefits us is when it comes to sparing us this rejection. Yet somehow I found myself there, in a situation where I slept next to a man who, night after night, didn’t lay a finger on me. To say I was lonely would be an understatement. I was more than lonely: I was embarrassed, I was angry, and I was being extremely selfish.\n\tThis man and I, let’s call him Christian, had been in a committed relationship for quite some time. We had fun together, rarely fought, loved each other, and were truly best friends. People loved to spend time with us for that reason. We gave each other space, while also being a part of each other's world. It was the perfect balance.\n\tBalance, however, is delicate, and ours was soon disrupted. As is common with couples who spend their youth together, we eventually both wanted to break free. We went our separate ways. I moved into an apartment in an exciting new city, with my best friends. I began working on my career, and started dating for the first time in three years. A year had gone by since the break up, and I was just beginning to strike a new balance, when Christian and I decided to give the relationship another shot. In hindsight, we both should have known it was a premature move. But hindsight is a presumptuous bitch who only knows to say “told ya so.” And so, we tried. But modern dating is complicated. To make a long story short, I was caught chatting up another guy via iMessage, on my MacBook. We seemingly resolved the issue, and made a solid re-commitment to our relationship, but this was the beginning of the end.\n\tWe always had what I would call an “above average” sex life. After this incident occurred, his drive nearly vanished. Christian’s view of me had changed for having betrayed his trust. Sex was still happening, but much less frequently. At this point in time, the universe conspired in such a way that my lease was going to be up, and we had the opportunity to move in together. Neither of us was ready, we both knew that, so we didn’t make any immediate formal decisions. But on move-out day, Christian drove that U-Haul straight to our new place, no discussions. It was almost as if we were too scared to say it out loud. Our inner-selves must have known then, what we would learn later by moving in together.\nFor nine months we lived in the same house, slept in the same room, and shared the same bed. And for nine months, we did not once have sex. We tried in the beginning, but it quickly became clear that that part of our bond had died. I was too ashamed to talk to my friends about it, so I kept this to myself. I knew that people would think Christian was cheating, but I knew he wasn’t. The tears in his eyes, and the pain in his face, made that impossible to doubt. Our sex struggles were probably harder for him to bear than they were for me. The amount of mutual crying, and late night conversations that went into soothing a living, breathing wound is unimaginable. I blamed myself for what I had done, for not being as attractive as I was before, for being a nag. Christian insisted it had nothing to do with me, and blamed himself for gaining weight, for low self-confidence due to hair loss, for undiagnosed depression. Regardless of where the blame lay, we still had a problem, and we had no idea how to fix it. So, we both stopped trying. I became a recluse, turning to booze and TV as distractions, and Christian escaped by hanging with his friends or at the gym, as often as possible. Everyday, we kissed, said “I love you,” shared meals, and held each other, until we fell asleep. There was still so much love and intimacy between us, but nothing was enough to fill the void of a physical, sexual connection for us, no matter how much we tried to convince ourselves otherwise.\n\tWhen we did muster up the courage to try, the sex was forced, and uncomfortable. Like having sex with a stranger, but sober. We agreed, once again, that it would be best for us to end the relationship. At that point, I thought I would never have a healthy sexual relationship again. I was so terrified of my body not working, of it not doing what I needed and wanted it to do, that I avoided sexual contact for months afterward. When I did finally have sex again, it was with a man who I spent months getting to know intimately before taking that step, and even then I was afraid. Learning that my body was not broken was more painful than I could have expected. Our relationship is what was broken, and my sexuality was only a casualty of that. I moved out, and began the process of healing what I would learn to call sexual trauma. Christian moved on too, eventually saw a doctor to regulate his low libido, and, with time, we became great friends. \n\tLooking back, one of my regrets is not sharing this experience with people around me as it was happening. I’ve since met various women who have been in similar situations, and I feel honored to have contributed to their healing. Back then, I would’ve given anything to talk to someone in the same position as me; to feel less alone and less humiliated. I also regret expecting Christian to have all the answers for me. I neglected to acknowledge that he was hurting, too. He was experiencing physical and mental pain, in addition to bearing my emotional weight. He never tried to pass it off on me, though. I, however, never hesitated to point the finger at him for not wanting me, not telling me what I needed to do to to make it better, and for running around with his friends instead of staying with me. Ultimately, the way I interacted with him during our hardship was unfair, and is what I’ve had the hardest time forgiving myself for.\nIf this story reflects your (or a loved one’s) experience, my only plea is that you remember that sexuality is not “one size fits all.” Intimacy, sex, and love are all important parts of a relationship, but can mean different things to different people. Christian being a man does not exempt him from sickness, mental illness, and other ailments that contribute to sexual health and readiness. In these moments, we have the opportunity to examine how ideas of masculinity can also hurt men deeply. I advise anyone in a sexless relationship to check their ego at the door because, more often than not, when sexual problems arise they are from within, and not a reflection of their partner. I would urge them to lovingly support their partner, whether from inside the relationship or out of it. Read the book “Come as You Are,” by Emily Nagoski, maybe even as a couple. Educate yourselves, act from love instead of fear, and remember that one day, you will have your desires fulfilled.\n\nPhotography by: Ariana Mygatt"
+      text: "Loving at Arm’s Length: a memoir about living in a sexless relationship.\n\nAs a woman it can be difficult to imagine an instance where a man would not want to have sex with you. With all the misogyny, societal expectations, and disadvantages to being a woman today, one of the times sexism *seemingly* benefits us is when it comes to sparing us this rejection. Yet somehow I found myself there, in a situation where I slept next to a man who, night after night, didn’t lay a finger on me. To say I was lonely would be an understatement. I was more than lonely: I was embarrassed, I was angry, and I was being extremely selfish.\n\nThis man and I, let’s call him Christian, had been in a committed relationship for quite some time. We had fun together, rarely fought, loved each other, and were truly best friends. People loved to spend time with us for that reason. We gave each other space, while also being a part of each other's world. It was the perfect balance.\n\t\nBalance, however, is delicate, and ours was soon disrupted. As is common with couples who spend their youth together, we eventually both wanted to break free. We went our separate ways. I moved into an apartment in an exciting new city, with my best friends. I began working on my career, and started dating for the first time in three years. A year had gone by since the break up, and I was just beginning to strike a new balance, when Christian and I decided to give the relationship another shot. In hindsight, we both should have known it was a premature move. But hindsight is a presumptuous bitch who only knows to say “told ya so.” And so, we tried. But modern dating is complicated. To make a long story short, I was caught chatting up another guy via iMessage, on my MacBook. We seemingly resolved the issue, and made a solid re-commitment to our relationship, but this was the beginning of the end.\n\t\nWe always had what I would call an “above average” sex life. After this incident occurred, his drive nearly vanished. Christian’s view of me had changed for having betrayed his trust. Sex was still happening, but much less frequently. At this point in time, the universe conspired in such a way that my lease was going to be up, and we had the opportunity to move in together. Neither of us was ready, we both knew that, so we didn’t make any immediate formal decisions. But on move-out day, Christian drove that U-Haul straight to our new place, no discussions. It was almost as if we were too scared to say it out loud. Our inner-selves must have known then, what we would learn later by moving in together.\n\t\nFor nine months we lived in the same house, slept in the same room, and shared the same bed. And for nine months, we did not once have sex. We tried in the beginning, but it quickly became clear that that part of our bond had died. I was too ashamed to talk to my friends about it, so I kept this to myself. I knew that people would think Christian was cheating, but I knew he wasn’t. The tears in his eyes, and the pain in his face, made that impossible to doubt. Our sex struggles were probably harder for him to bear than they were for me. The amount of mutual crying, and late night conversations that went into soothing a living, breathing wound is unimaginable. I blamed myself for what I had done, for not being as attractive as I was before, for being a nag. Christian insisted it had nothing to do with me, and blamed himself for gaining weight, for low self-confidence due to hair loss, for undiagnosed depression. Regardless of where the blame lay, we still had a problem, and we had no idea how to fix it. So, we both stopped trying. I became a recluse, turning to booze and TV as distractions, and Christian escaped by hanging with his friends or at the gym, as often as possible. Everyday, we kissed, said “I love you,” shared meals, and held each other, until we fell asleep. There was still so much love and intimacy between us, but nothing was enough to fill the void of a physical, sexual connection for us, no matter how much we tried to convince ourselves otherwise.\n\nWhen we did muster up the courage to try, the sex was forced, and uncomfortable. Like having sex with a stranger, but sober. We agreed, once again, that it would be best for us to end the relationship. At that point, I thought I would never have a healthy sexual relationship again. I was so terrified of my body not working, of it not doing what I needed and wanted it to do, that I avoided sexual contact for months afterward. When I did finally have sex again, it was with a man who I spent months getting to know intimately before taking that step, and even then I was afraid. Learning that my body was not broken was more painful than I could have expected. Our relationship is what was broken, and my sexuality was only a casualty of that. I moved out, and began the process of healing what I would learn to call sexual trauma. Christian moved on too, eventually saw a doctor to regulate his low libido, and, with time, we became great friends. \n\t\nLooking back, one of my regrets is not sharing this experience with people around me as it was happening. I’ve since met various women who have been in similar situations, and I feel honored to have contributed to their healing. Back then, I would’ve given anything to talk to someone in the same position as me; to feel less alone and less humiliated. I also regret expecting Christian to have all the answers for me. I neglected to acknowledge that he was hurting, too. He was experiencing physical and mental pain, in addition to bearing my emotional weight. He never tried to pass it off on me, though. I, however, never hesitated to point the finger at him for not wanting me, not telling me what I needed to do to to make it better, and for running around with his friends instead of staying with me. Ultimately, the way I interacted with him during our hardship was unfair, and is what I’ve had the hardest time forgiving myself for.\n\t\nIf this story reflects your (or a loved one’s) experience, my only plea is that you remember that sexuality is not “one size fits all.” Intimacy, sex, and love are all important parts of a relationship, but can mean different things to different people. Christian being a man does not exempt him from sickness, mental illness, and other ailments that contribute to sexual health and readiness. In these moments, we have the opportunity to examine how ideas of masculinity can also hurt men deeply. I advise anyone in a sexless relationship to check their ego at the door because, more often than not, when sexual problems arise they are from within, and not a reflection of their partner. I would urge them to lovingly support their partner, whether from inside the relationship or out of it. Read the book “Come as You Are,” by Emily Nagoski, maybe even as a couple. Educate yourselves, act from love instead of fear, and remember that one day, you will have your desires fulfilled.\n\n\n\n**Writing: Jessica Milton**\n**Photography: Ariana Mygatt**"
       audio: null
       video: null
       images:
         - id: '93394'
           itemType: image
-          updatedAt: '2017-09-01T02:02:58.210Z'
+          updatedAt: '2017-09-20T14:07:34.591Z'
           seoMetaTags:
             - tagName: title
               content: Room 1
@@ -4283,7 +4091,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T02:02:58Z'
+                content: '2017-09-20T14:07:34Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -4313,7 +4121,7 @@ issue:
           title: Room 1
         - id: '93395'
           itemType: image
-          updatedAt: '2017-09-01T02:03:15.367Z'
+          updatedAt: '2017-09-20T14:07:34.601Z'
           seoMetaTags:
             - tagName: title
               content: Room 2
@@ -4332,7 +4140,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T02:03:15Z'
+                content: '2017-09-20T14:07:34Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -4362,7 +4170,7 @@ issue:
           title: Room 2
         - id: '93396'
           itemType: image
-          updatedAt: '2017-09-01T02:03:35.225Z'
+          updatedAt: '2017-09-20T14:07:34.610Z'
           seoMetaTags:
             - tagName: title
               content: Room 3
@@ -4381,7 +4189,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T02:03:35Z'
+                content: '2017-09-20T14:07:34Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -4453,7 +4261,7 @@ issue:
       author:
         - id: '93392'
           itemType: contributor
-          updatedAt: '2017-09-01T02:01:36.769Z'
+          updatedAt: '2017-09-20T14:07:35.758Z'
           seoMetaTags:
             - tagName: title
               content: Jessica Milton
@@ -4472,7 +4280,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T02:01:36Z'
+                content: '2017-09-20T14:07:35Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -4502,11 +4310,62 @@ issue:
             alt: null
             url: 'https://www.datocms-assets.com/2593/1504231201-womanly-social-assets_circle_blk_crop2.jpg?'
           name: Jessica Milton
-      slug: loving-at-arm-s-lenght
+        - id: '93376'
+          itemType: contributor
+          updatedAt: '2017-09-20T14:07:35.686Z'
+          seoMetaTags:
+            - tagName: title
+              content: Ariana Mygatt
+            - tagName: meta
+              attributes:
+                property: 'og:title'
+                content: Ariana Mygatt
+            - tagName: meta
+              attributes:
+                name: 'twitter:title'
+                content: Ariana Mygatt
+            - tagName: meta
+              attributes:
+                name: 'twitter:card'
+                content: summary
+            - tagName: meta
+              attributes:
+                property: 'article:modified_time'
+                content: '2017-09-20T14:07:35Z'
+            - tagName: meta
+              attributes:
+                property: 'og:locale'
+                content: en_EN
+            - tagName: meta
+              attributes:
+                property: 'og:type'
+                content: article
+            - tagName: meta
+              attributes:
+                property: 'og:image'
+                content: 'https://www.datocms-assets.com/2593/1504229268-ariana-mygatt.jpg?'
+            - tagName: meta
+              attributes:
+                name: 'twitter:image'
+                content: 'https://www.datocms-assets.com/2593/1504229268-ariana-mygatt.jpg?'
+          position: 10
+          socialMediaLinks: []
+          bio: 'Ariana is a Baltimore-based artist educator, photographer, and designer. She enjoys periodically redecorating her apartment, talking to teens, "getting out of town", and the years 2000-2009.'
+          title: Art Director
+          image:
+            format: jpg
+            size: 345382
+            width: 1000
+            height: 667
+            title: null
+            alt: null
+            url: 'https://www.datocms-assets.com/2593/1504229268-ariana-mygatt.jpg?'
+          name: Ariana Mygatt
+      slug: loving-at-arms-length
       title: Loving at Arm's Length
     - id: '93422'
       itemType: article
-      updatedAt: '2017-09-01T18:02:48.170Z'
+      updatedAt: '2017-09-20T14:07:34.412Z'
       seoMetaTags:
         - tagName: title
           content: Vaginal Dryness
@@ -4525,7 +4384,7 @@ issue:
         - tagName: meta
           attributes:
             property: 'article:modified_time'
-            content: '2017-09-01T18:02:48Z'
+            content: '2017-09-20T14:07:34Z'
         - tagName: meta
           attributes:
             property: 'og:locale'
@@ -4543,15 +4402,44 @@ issue:
             name: 'twitter:image'
             content: 'https://www.datocms-assets.com/2593/1504232137-vaginal-dryness-diana-mcdonnell-khadija-ariana.jpg?'
       position: 22
-      textOnLeft: true
+      textOnLeft: false
       resources: []
-      text: "**Symptoms: **\n* Pain with Sex\n* Discomfort\n* Discharge\n* Burning\n* Itching\n* Dryness\n* Bleeding\n\n**Causes: **\n* Less Estrogen Being Produced i.e. - \n\t* Menopause\n\t* Post-Partum \n\t* Surgical Removal of Ovaries\n\t* Medications\n\n**Treatments:**\n* Lubricants (Apply at the time of sex)\n* Moisturizers (Apply 3x weekly)\n* Vaginal Estrogen (Cream, Tablet, or Ring can be prescribed by a healthcare provider)\n* Sex (Continue to masturbate and have sex if it is comfortable)\n\n**Sources: **\nNorth American Menopause Society https://www.menopause.org/for-women\nObstetrics & Gynecology  http://journals.lww.com/greenjournal/pages/default.aspx\nJournal of Endocrinology and Metabolism http://www.jofem.org/index.php/jofem\n\n**Research by: Diana McDonnell**\n**Artwork by: Khadija Ariana**"
+      text: |-
+        **Symptoms:**
+        * Pain with Sex
+        * Discomfort
+        * Discharge
+        * Burning
+        * Itching
+        * Dryness
+        * Bleeding
+
+        **Causes:**
+        * Less Estrogen Being Produced i.e. 
+        * Menopause
+        * Post-Partum
+        * Surgical Removal of Ovaries 
+        * Medications
+
+        **Treatments:**
+        * Lubricants (Apply at the time of sex)
+        * Moisturizers (Apply 3x weekly)
+        * Vaginal Estrogen (Cream, Tablet, or Ring can be prescribed by a healthcare provider)
+        * Sex (Continue to masturbate and have sex if it is comfortable)
+
+        **Sources:**
+        [North American Menopause Society](https://www.menopause.org/for-women)
+        [Obstetrics & Gynecology](http://journals.lww.com/greenjournal/pages/default.aspx)
+        [Journal of Endocrinology and Metabolism](http://www.jofem.org/index.php/jofem)
+
+        **Research: Diana McDonnell**
+        **Artwork: Khadija Ariana**
       audio: null
       video: null
       images:
         - id: '93427'
           itemType: image
-          updatedAt: '2017-09-01T02:26:23.213Z'
+          updatedAt: '2017-09-20T14:07:34.673Z'
           seoMetaTags:
             - tagName: title
               content: Vaginal Dryness
@@ -4570,7 +4458,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T02:26:23Z'
+                content: '2017-09-20T14:07:34Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -4642,7 +4530,7 @@ issue:
       author:
         - id: '93368'
           itemType: contributor
-          updatedAt: '2017-09-01T01:16:54.819Z'
+          updatedAt: '2017-09-20T14:07:35.647Z'
           seoMetaTags:
             - tagName: title
               content: Diana McDonnell
@@ -4661,7 +4549,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T01:16:54Z'
+                content: '2017-09-20T14:07:35Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -4693,7 +4581,7 @@ issue:
           name: Diana McDonnell
         - id: '93378'
           itemType: contributor
-          updatedAt: '2017-09-01T02:22:21.663Z'
+          updatedAt: '2017-09-20T14:07:35.706Z'
           seoMetaTags:
             - tagName: title
               content: Khadija Ariana
@@ -4712,7 +4600,7 @@ issue:
             - tagName: meta
               attributes:
                 property: 'article:modified_time'
-                content: '2017-09-01T02:22:21Z'
+                content: '2017-09-20T14:07:35Z'
             - tagName: meta
               attributes:
                 property: 'og:locale'
@@ -4745,7 +4633,7 @@ issue:
       slug: vaginal-dryness
       title: Vaginal Dryness
   featured: true
-  title: Issue No. 1 Staging
+  title: issue one - sex ed
   number: 1
 ---
 

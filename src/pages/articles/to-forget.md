@@ -4,7 +4,7 @@ path: articles/to-forget
 author:
   - id: '93429'
     itemType: contributor
-    updatedAt: '2017-09-01T02:31:25.475Z'
+    updatedAt: '2017-09-20T14:07:35.778Z'
     seoMetaTags:
       - tagName: title
         content: Taryn O'Reilly
@@ -23,7 +23,7 @@ author:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T02:31:25Z'
+          content: '2017-09-20T14:07:35Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -123,7 +123,7 @@ thumbnail: 'https://www.datocms-assets.com/2593/1504286999-nightstand-6.JPG?'
 images:
   - id: '93431'
     itemType: image
-    updatedAt: '2017-09-01T02:32:54.990Z'
+    updatedAt: '2017-09-20T14:07:34.693Z'
     seoMetaTags:
       - tagName: title
         content: To Forget 2
@@ -142,7 +142,7 @@ images:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T02:32:54Z'
+          content: '2017-09-20T14:07:34Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -172,7 +172,7 @@ images:
     title: To Forget 2
   - id: '93432'
     itemType: image
-    updatedAt: '2017-09-01T02:33:08.628Z'
+    updatedAt: '2017-09-20T14:07:34.703Z'
     seoMetaTags:
       - tagName: title
         content: To Forget 3
@@ -191,7 +191,7 @@ images:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T02:33:08Z'
+          content: '2017-09-20T14:07:34Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -221,7 +221,7 @@ images:
     title: To Forget 3
   - id: '93433'
     itemType: image
-    updatedAt: '2017-09-01T02:33:24.636Z'
+    updatedAt: '2017-09-20T14:07:34.713Z'
     seoMetaTags:
       - tagName: title
         content: To Forget 4
@@ -240,7 +240,7 @@ images:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T02:33:24Z'
+          content: '2017-09-20T14:07:34Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -270,7 +270,7 @@ images:
     title: To Forget 4
   - id: '93435'
     itemType: image
-    updatedAt: '2017-09-01T02:34:32.295Z'
+    updatedAt: '2017-09-20T14:07:34.736Z'
     seoMetaTags:
       - tagName: title
         content: Get Stuffed 2
@@ -289,7 +289,7 @@ images:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T02:34:32Z'
+          content: '2017-09-20T14:07:34Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -319,7 +319,7 @@ images:
     title: Get Stuffed 2
   - id: '93436'
     itemType: image
-    updatedAt: '2017-09-01T02:35:35.625Z'
+    updatedAt: '2017-09-20T14:07:34.748Z'
     seoMetaTags:
       - tagName: title
         content: Nightstand
@@ -338,7 +338,7 @@ images:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T02:35:35Z'
+          content: '2017-09-20T14:07:34Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -368,7 +368,7 @@ images:
     title: Nightstand
   - id: '93437'
     itemType: image
-    updatedAt: '2017-09-01T02:35:53.128Z'
+    updatedAt: '2017-09-20T14:07:34.758Z'
     seoMetaTags:
       - tagName: title
         content: Nightstand 2
@@ -387,7 +387,7 @@ images:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T02:35:53Z'
+          content: '2017-09-20T14:07:34Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -417,7 +417,7 @@ images:
     title: Nightstand 2
   - id: '93439'
     itemType: image
-    updatedAt: '2017-09-01T02:36:33.959Z'
+    updatedAt: '2017-09-20T14:07:34.779Z'
     seoMetaTags:
       - tagName: title
         content: Nightstand 4
@@ -436,7 +436,7 @@ images:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-09-01T02:36:33Z'
+          content: '2017-09-20T14:07:34Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -470,7 +470,7 @@ text: |-
   [http://tarynoreillyfiber.wixsite.com/tarynoreilly](http://tarynoreillyfiber.wixsite.com/tarynoreilly)
 
   **Biography**
-  Taryn O’Reilly is a fiber installation artist living and working in the Philadelphia area. She received her B.F.A in Sculpture from Arcadia University in 2015. In the Fall of 2018, she will be attending Goldsmiths College in London, England to receive her M.F.A. in Sculpture. Taryn’s work has been exhibited locally at galleries in the Philadelphia area including the Spillway Collective. Her work has also been published in a book entitled Bound, for the Women’s Caucus for Art in New York City.Currently, Taryn is an exhibitions coordinator for the Icebox Project Space located in Philadelphia. She also works as a studio assistant where her skills in metalworking, woodworking and casting have been exhibited. During her time working at these studio spaces, Taryn has had the opportunity to work on projects for the Democratic National Convention, Republican National Convention, 2016 Olympics and various events around the city of Philadelphia.
+  Taryn O’Reilly is a fiber installation artist living and working in the Philadelphia area. She received her B.F.A in Sculpture from Arcadia University in 2015. In the Fall of 2018, she will be attending Goldsmiths College in London, England to receive her M.F.A. in Sculpture. Taryn’s work has been exhibited locally at galleries in the Philadelphia area including the Spillway Collective. Her work has also been published in a book entitled Bound, for the Women’s Caucus for Art in New York City. Currently, Taryn is an exhibitions coordinator for the Icebox Project Space located in Philadelphia. She also works as a studio assistant where her skills in metalworking, woodworking and casting have been exhibited. During her time working at these studio spaces, Taryn has had the opportunity to work on projects for the Democratic National Convention, Republican National Convention, 2016 Olympics and various events around the city of Philadelphia.
 
   **Artist Statement**
   Through sewing and embroidery, a technique that has traditionally been a “feminine craft”, I attempt to marry my foundation in still lifes and figure studies with conceptual framework to question ideologies of femininity, sexuality, intimacy and identity.
