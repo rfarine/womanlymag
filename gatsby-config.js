@@ -1,3 +1,5 @@
+import env from '.env';
+
 module.exports = {
   siteMetadata: {
     title: `Womanly Mag | Art & Health on the Global Woman and Non-Binary`,
@@ -5,10 +7,10 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: `gatsby-source-filesystem`,
+      resolve: `gatsby-source-contentful`,
       options: {
-        path: `${__dirname}/src/pages`,
-        name: `pages`,
+        spaceId: process.env.CONTENTFUL_SPACE_ID,
+        accessToken: process.env.CONTENTFUL_ACCESS_TOKEN,
       },
     },
     {
@@ -36,7 +38,7 @@ module.exports = {
     {
     resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: 'UA-105571821-1',
+        trackingId: process.env.GA_TRACKING_ID,
       },
     },
     `gatsby-transformer-yaml`,
